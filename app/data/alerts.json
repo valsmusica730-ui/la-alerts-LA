@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T01:01:51.993829+00:00",
-  "total": 489,
+  "generated_at": "2026-09-08T01:17:18.548340+00:00",
+  "total": 494,
   "alerts": [
     {
       "id": "92da29c40dad4ec4",
@@ -983,6 +983,26 @@
       "category": "construction"
     },
     {
+      "id": "65ddb0190c995eaf",
+      "title": "LA Council Unanimously Approves Motion for More Affordable Family -Sized Apartments - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWxabUlFeEdWNTQyM3hBckpFU252RHVtY1Fydm9LMDYzendtWkN5eWZjckpwRzRLX0ZaSjdiOGRTYTd4YjNHOXJuNjZLcnc3Z0RnQzd5UV9xVlNvTkhlMzBUX0xORktZT2IxZHR1R09yNVR1UE1RX09SNTNmNTdjdTRGT181ZWc1N04xQUtacGp0QTA3dThoekoyenk1TkNNRHZMOUZVM3VvSWdEQlE?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Wed, 02 Apr 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWxabUlFeEdWNTQyM3hBckpFU252RHVtY1Fydm9LMDYzendtWkN5eWZjckpwRzRLX0ZaSjdiOGRTYTd4YjNHOXJuNjZLcnc3Z0RnQzd5UV9xVlNvTkhlMzBUX0xORktZT2IxZHR1R09yNVR1UE1RX09SNTNmNTdjdTRGT181ZWc1N04xQUtacGp0QTA3dThoekoyenk1TkNNRHZMOUZVM3VvSWdEQlE?oc=5\" target=\"_blank\">LA Council Unanimously Approves Motion for More Affordable Family -Sized Apartments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
+      "category": "other"
+    },
+    {
+      "id": "ca180d41ca1258ff",
+      "title": "Burke Public Law Update: Trial Court Holds That SB 9 Does Not Apply To Charter Cities - californiacitynews.org",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUdqLXlfMDk1ZFFiMGs5ZEVqQ1RodkZ0eWlhX2JlQmxocmR5RTIzT19zNGcxaEZ3TDdDMi1hV3RNWWdlNzIwV21fRFlUVldXS2dkVUxfSEF4d1E0T3I0SWRfVHFHTTlDQV9BYVY2N1NON1VYRTlSSDBJd1JTczNaR29salFkR3R2ZVlsbE5fWkowbXo3NFhfU19wX29BUUI3VzRTdXA2Ymd2RFREMXpxbzVuY3h4VlhDOURadVUxWTFsZw?oc=5",
+      "source": "californiacitynews.org",
+      "published": "Wed, 01 May 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUdqLXlfMDk1ZFFiMGs5ZEVqQ1RodkZ0eWlhX2JlQmxocmR5RTIzT19zNGcxaEZ3TDdDMi1hV3RNWWdlNzIwV21fRFlUVldXS2dkVUxfSEF4d1E0T3I0SWRfVHFHTTlDQV9BYVY2N1NON1VYRTlSSDBJd1JTczNaR29salFkR3R2ZVlsbE5fWkowbXo3NFhfU19wX29BUUI3VzRTdXA2Ymd2RFREMXpxbzVuY3h4VlhDOURadVUxWTFsZw?oc=5\" target=\"_blank\">Burke Public Law Update: Trial Court Holds That SB 9 Does Not Apply To Charter Cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">californiacitynews.org</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "legal"
+    },
+    {
       "id": "d344624804870ab9",
       "title": "Landlords take self-defense classes as LA's eviction moratorium nears end - spectrumlocalnews.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ3lLZFJieHhmbzdISnhucFc4R2hEZE1ESUpHREhvSFpEa1NMSGt4V2Z4LU9tcnU3MXRnRS1FNWJKOEZlaTlpcEpfYlZyZEF6VkdfM0hTY1VUUXptVFU5c05vdVgwOXEzelJkMldmSUwwcjNjZmJwQjZwNXNvb3pFR0kzbXBZYVdzR2lLX01sRzFJSFZOX1phRmU1ejJTenJEdDNackxYdXpHVzFTZGpkYWRoTGRaS2FPZXU1VVNJN2lpb1hLODh5QzBSREwxazNHWkxBMA?oc=5",
@@ -1913,6 +1933,16 @@
       "category": "policy"
     },
     {
+      "id": "829e57ce694f1b5d",
+      "title": "4 Cities Sue to Stop New California Law Permitting More Homes in Single-Family Neighborhoods - Times of San Diego",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWRlRGNWXzB1WVJkZTF3bDd2NzFoemNwZy1jd094bEs2djU0S0hJLU1UNnZJZXFFVkhieHNleHNUcnlvSkRsUXBES3BxSWctVHFHU3JINEQzSnhmandTOEpqWmN1VVc5TVl0ZmNzZWdCSlA2ZVBfZTY1bTdQZjZPdEsxWmtIa0RQUWtrMHk3MS1iOURRRmJ1bGFXcnUxb1dQNWFZNTA1dEVkaWJFZ0tqaTdsN3NnVnhXYk5HMWVHY2JPZGw1Qk5LUHhqZ3NsOTlzbXM4RmNhdXE?oc=5",
+      "source": "Times of San Diego",
+      "published": "Thu, 31 Mar 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWRlRGNWXzB1WVJkZTF3bDd2NzFoemNwZy1jd094bEs2djU0S0hJLU1UNnZJZXFFVkhieHNleHNUcnlvSkRsUXBES3BxSWctVHFHU3JINEQzSnhmandTOEpqWmN1VVc5TVl0ZmNzZWdCSlA2ZVBfZTY1bTdQZjZPdEsxWmtIa0RQUWtrMHk3MS1iOURRRmJ1bGFXcnUxb1dQNWFZNTA1dEVkaWJFZ0tqaTdsN3NnVnhXYk5HMWVHY2JPZGw1Qk5LUHhqZ3NsOTlzbXM4RmNhdXE?oc=5\" target=\"_blank\">4 Cities Sue to Stop New California Law Permitting More Homes in Single-Family Neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of San Diego</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "other"
+    },
+    {
       "id": "d956a5e364850fc5",
       "title": "Bend approves rule change to allow 2 ADUs per property - Central Oregon Daily",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSW1qS1ZKMS16MDBtb1pqcTZoNVNHMV95bDFzeXlVMkxHMnUyVy04cmNUQnFGZ0xPWDJqaHRPcHF0UWlZcVNRdUhlbnVaRnRWOHRQYkU0My1sNkpWSzU3RXRxelR1VVJoUFBPRlVSLUxDTlIyQlRRSEJsdzNLRktUeEhqY3kzaTRzeWtON3laZ194S2NVUUxuLVlIVnZ3OXF5M3RJb3BVZXR1aWVUenZYcE9NMlZXbi1OeU5yMVFURXB2UmZMWXlyTA?oc=5",
@@ -1989,6 +2019,16 @@
       "source": "Secret Los Angeles",
       "published": "Thu, 30 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONGhSdElqdDkxNmkzT0ZXVnptQUNDQzFfeWNmb2xtaUszdmpUQUkzTk1YVmc1VnpncU1rWXlYYThhc3Jfakpsb2NsRmJNSDZtZkMzM0JQWEdTRGFZT0dUZFZqcVozdVBINHdZa3RMd2NWYlFVWHRhYTZIYmJMV29RMkdzNi1RVGlxVW1ZcQ?oc=5\" target=\"_blank\">L.A. Could Lift Its Strict Airbnb Ban For Second Home Short-Term Rentals To Prepare For The 2028 Olympics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Secret Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
+      "id": "25bc8c78bd993a30",
+      "title": "Short-Term Rental Compliance: NYC vs CA & EU Regs in 2026 - RSU by PriceLabs",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWk5kN0hXa3ZJOWVvLUQ4U0x4UTNVdEI1VkxwMXVrMnZTaHV0bDdpZVU1S0dNbTh3X0Z5YktubWhlQ0FzcmFyVldPdm0xTExjNTJUSWZhdUIwaHBNdGdTV0NSMnF6NG1Wb2hEZUc5N3lqR1A5alIxWGRnQUk2RlI3TmtoNA?oc=5",
+      "source": "RSU by PriceLabs",
+      "published": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWk5kN0hXa3ZJOWVvLUQ4U0x4UTNVdEI1VkxwMXVrMnZTaHV0bDdpZVU1S0dNbTh3X0Z5YktubWhlQ0FzcmFyVldPdm0xTExjNTJUSWZhdUIwaHBNdGdTV0NSMnF6NG1Wb2hEZUc5N3lqR1A5alIxWGRnQUk2RlI3TmtoNA?oc=5\" target=\"_blank\">Short-Term Rental Compliance: NYC vs CA & EU Regs in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RSU by PriceLabs</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
     },
@@ -4081,6 +4121,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2hGNHY2VnM2YzFnUGdaMG5aTVMwUUh4NEtQQWV2aTVkT095LXE1VWVvdGMtaXBuZEM4TVFkU1dEN1RSZ1RFVk4yUmdUMDlKT0ZsbFZWQi14ZktHS25mdXpZdUdEX21Tb2l6cTlJdWdSdDFYaUhtRFJ5WUNHZTNkaktBYTNrVzloa1RmQjBIclhuRlZwcjdwOA?oc=5\" target=\"_blank\">Court tears down housing law that densified single family neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "legal"
+    },
+    {
+      "id": "20cca4b992e115d6",
+      "title": "LA judge strikes down California lot-splitting law - Marin Independent Journal",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUklMeEdYWlU2WWQxcDZRR2NDMUNWRDZQT1ZVVk1HMkR1d0I5NXZabnhZaUZUMG5LVnd6ZUZkUnVNV0IxWl9kZ3hVWjBDZ2lrdktuU0VDakI2TWN4blFMT1ZLZlRoem9oZDlfZldJOTJjQl85RU5UdGhqMlNyWHVQdWUydkZEVDczNUw0M1NjOXlNcjFyNGZQeWNhN0hSM3Fpa2FRcEtiOGJ1RzFPVkVFTDRnOVZoTmN3TGfSAb8BQVVfeXFMT3hhOHlZZGc0eWtjd0JjT05HZXdUMlJtbXJMcnNoMnRBSkdHQ3JhX2JuWkdVWTdVOVVUYU1wSlMzQlY5SFBlWE9uR2hjVXk4SUlyaDJxS3RraW9ieW85WHpDS3NQaFlUa00zMWh6eFJESHgwNkUzMUpwN1I2UzRrU1dRcUJLV0FiS0pXcmpNZl9UaFZtSlNISThXazJuYWxjZXB1X2VacmlpQkJBRF9QcVRqWU5OeEhHYWo4NldKS0E?oc=5",
+      "source": "Marin Independent Journal",
+      "published": "Fri, 26 Apr 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOUklMeEdYWlU2WWQxcDZRR2NDMUNWRDZQT1ZVVk1HMkR1d0I5NXZabnhZaUZUMG5LVnd6ZUZkUnVNV0IxWl9kZ3hVWjBDZ2lrdktuU0VDakI2TWN4blFMT1ZLZlRoem9oZDlfZldJOTJjQl85RU5UdGhqMlNyWHVQdWUydkZEVDczNUw0M1NjOXlNcjFyNGZQeWNhN0hSM3Fpa2FRcEtiOGJ1RzFPVkVFTDRnOVZoTmN3TGfSAb8BQVVfeXFMT3hhOHlZZGc0eWtjd0JjT05HZXdUMlJtbXJMcnNoMnRBSkdHQ3JhX2JuWkdVWTdVOVVUYU1wSlMzQlY5SFBlWE9uR2hjVXk4SUlyaDJxS3RraW9ieW85WHpDS3NQaFlUa00zMWh6eFJESHgwNkUzMUpwN1I2UzRrU1dRcUJLV0FiS0pXcmpNZl9UaFZtSlNISThXazJuYWxjZXB1X2VacmlpQkJBRF9QcVRqWU5OeEhHYWo4NldKS0E?oc=5\" target=\"_blank\">LA judge strikes down California lot-splitting law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marin Independent Journal</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "other"
     },
     {
       "id": "4851f9b95c1363c1",
