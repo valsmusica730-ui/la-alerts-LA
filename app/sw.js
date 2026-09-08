@@ -3,7 +3,7 @@
  * Caches assets for offline support and handles push notifications.
  */
 
-const CACHE_NAME = 'la-alerts-v1';
+const CACHE_NAME = 'la-alerts-v2';
 const STATIC_ASSETS = [
   './',
   './index.html',
