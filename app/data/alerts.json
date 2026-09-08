@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:10:27.085066+00:00",
+  "generated_at": "2026-09-08T21:30:25.473751+00:00",
   "total": 500,
   "alerts": [
     {
@@ -71,6 +71,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZzlLZ0x1LVRGYnpaXzNiTEVpZVkwQ2lNeEZOWnRReS1saHY3dDRQSmFBSEVRQ2tPZzFoWWs3NXRsSEVqbVFocklqRkxKbnZTdllGOXNRVkZXdGc2VlFPRHZVVTFWNmhqOVQ5YzNiakZYOFN3U1h5bldUdXIwTXVITndzaUlWZTlRdUcwOEV4Y0xMNnJieUswSHc0N2Y0WVJ3NWVBVElZSTRFR3hjSGlycFljQ1JHLVJXRjZYVTBGbmEyeDRJUzdDZjZJUDhsangycUlCLXZ0Nnk3Z3JDd2xER1BORWpnY1k2c0VNbWZ2MzNSeG4xNjZTcklB?oc=5\" target=\"_blank\">Santa Clarita Finalizes ADU Updates, Approves Future Council Pay Increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hometownstation.com</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
+    },
+    {
+      "id": "021a349b2063c215",
+      "title": "A Year Into New Los Angeles Law to Protect Renters, City Has Taken Zero Landlords to Court - capitalandmain.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1JkQ25TY2pPMjVqRURBRkNxdFdTcmZJd1BkMFRhX0RvOFVqWW9RMXJIakRIczNVbUpOTml6Y2Q1TmllSElNc21GM1R3bElMb3YtOUU5M0xEdW5EVWdJaTgwdTAtN1RNWjZreHpYNENhQnh0MWRUV2RpSXJTdlhWYlhUM08yWnRneWRLQXBwa2twMjlkQ1FiZEtlMHFiS29zeEEta01PT0lXdk05WTlhNUR5dTBZOVE?oc=5",
+      "source": "capitalandmain.com",
+      "published": "Wed, 28 Sep 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1JkQ25TY2pPMjVqRURBRkNxdFdTcmZJd1BkMFRhX0RvOFVqWW9RMXJIakRIczNVbUpOTml6Y2Q1TmllSElNc21GM1R3bElMb3YtOUU5M0xEdW5EVWdJaTgwdTAtN1RNWjZreHpYNENhQnh0MWRUV2RpSXJTdlhWYlhUM08yWnRneWRLQXBwa2twMjlkQ1FiZEtlMHFiS29zeEEta01PT0lXdk05WTlhNUR5dTBZOVE?oc=5\" target=\"_blank\">A Year Into New Los Angeles Law to Protect Renters, City Has Taken Zero Landlords to Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">capitalandmain.com</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "legal"
     },
     {
       "id": "d0ea9dbdde25fbdf",
@@ -301,6 +311,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ1AyME1rUlBjSUZNSUY3WlRVOEZFSUFzNGpNbTlOZ3dGMFJFM1phSkFLY01nRmoxZEhuMUxCa2lLQUJEU005YVVid1NJQ1RNS1k4VjRvSDZ5bk1mdTJPWENRMzFIRm5DRXM2ZGFIdWlVMURScFlNT1p2eHdNVERheE5Ycm9ucW9wYlFaRFRWZXJsTGxUb1BnUi1DdUVqYlZrOEdFOVFHVFlBUFNqbk1WQWdZcUNZYmVhRlV0WWREaTYzNXdCam1qRENrTVBaSXZkRk5GQmo0c1QtVXl0SmlMYnhmWWRHVkFfUmloQ0pKRm1mSzkzRWJFeXZKYmpmQQ?oc=5\" target=\"_blank\">Inside the Policy Shifts Accelerating Downtown LA's Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "other"
+    },
+    {
+      "id": "20052071862ea70a",
+      "title": "California Rent Control Bill Dies in Assembly Judiciary Committee - Los Angeles Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNm50V0JqS3NpejJXWEhaUUtxczVpY04yZmgxYVlxUWFnWm9kXzZwWGxNQm9HZW9VYTIzVWh0SDlFMWRpQ29lZDR6cUhsXzFVRnp2c3FhVkptRGp3T0RJYzFaRG4zMkpFQy00RGlYNFFybXJSWlh6aDl0S050Z28wXzFqZFhaS2U4SlozaERKTE0xVk40bXA5aw?oc=5",
+      "source": "Los Angeles Sentinel",
+      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNm50V0JqS3NpejJXWEhaUUtxczVpY04yZmgxYVlxUWFnWm9kXzZwWGxNQm9HZW9VYTIzVWh0SDlFMWRpQ29lZDR6cUhsXzFVRnp2c3FhVkptRGp3T0RJYzFaRG4zMkpFQy00RGlYNFFybXJSWlh6aDl0S050Z28wXzFqZFhaS2U4SlozaERKTE0xVk40bXA5aw?oc=5\" target=\"_blank\">California Rent Control Bill Dies in Assembly Judiciary Committee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Sentinel</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "rent"
     },
     {
       "id": "ebc0670e03cc845f",
@@ -1223,6 +1243,16 @@
       "category": "rent"
     },
     {
+      "id": "82604f924863bbf7",
+      "title": "Airbnb makes its ban on house parties permanent - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUdfN29qbGJmOWs2TEdDdVVWbkdvdWhyeGgyU3djVF9zUFBZNEJEWWRaOEZ0YmRsNmprLUNWT1llZm91NmxYSDFSX0JPOWo5WktTQXdac1FzX2w5RlhtMW5ydlVpNEJ2SHF0SDVDTFJ1aEJnUW9yNTJVRWFjMTVmV9IBhgFBVV95cUxNWF8xQTd4SklaRlctaXZsZTgwUUdXWHBqMklfYUhYdkRYVHpReTh1VE5IYlRYWjJDQV83cGtQTHFCdVhfdlBuTDRjZFdMbDM2dy1tdXhJZFRkNTZENEs2NmV6MjhQUVVLdzFDaDlNNVRnenE0OGVlQXVveFB1Wm5ZWXBOUDdCdw?oc=5",
+      "source": "CBS News",
+      "published": "Tue, 28 Jun 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUdfN29qbGJmOWs2TEdDdVVWbkdvdWhyeGgyU3djVF9zUFBZNEJEWWRaOEZ0YmRsNmprLUNWT1llZm91NmxYSDFSX0JPOWo5WktTQXdac1FzX2w5RlhtMW5ydlVpNEJ2SHF0SDVDTFJ1aEJnUW9yNTJVRWFjMTVmV9IBhgFBVV95cUxNWF8xQTd4SklaRlctaXZsZTgwUUdXWHBqMklfYUhYdkRYVHpReTh1VE5IYlRYWjJDQV83cGtQTHFCdVhfdlBuTDRjZFdMbDM2dy1tdXhJZFRkNTZENEs2NmV6MjhQUVVLdzFDaDlNNVRnenE0OGVlQXVveFB1Wm5ZWXBOUDdCdw?oc=5\" target=\"_blank\">Airbnb makes its ban on house parties permanent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "e1b145883c313f25",
       "title": "Beverly Hills continues builder’s remedy streak as Planning Commission approves another high-rise project - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkxxMkJreDktRzZBMWJiLTZGYmluU1N2a0MtcmJtejNTbm1TM0NhdUs1VnJDQ09Vc1UwTlBKNWZFaEdzd3dVYVNSYjFDY0VEdXF0Um1FbmppdWFQMWJacXhzRlJSN3QyOXdUMVo0LWo3RllmRnJjZ1hrLXloMmlETnZNc1lKYXVpQzNKdTNTM1NSZjVXM1FB?oc=5",
@@ -1943,6 +1973,16 @@
       "category": "other"
     },
     {
+      "id": "c58a5df358268314",
+      "title": "LA Council Seeks to Support Hotel Development at Oceanwide Plaza - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN3lrbEFLcGd4RHpjYUNYRWtyRkNYM2lXWFpfYk16bVBMckM4NGUtaDUtbkZVWTlhU21oem1XOUlndkN2SlpXUUJ0cHRTMEh5d3ZlYlBGejR6cW9oVG45enBncG9Yc0hoUUpvX1F3MWhpQ1NrV05mQmZOYUl5Y3Uwem5xNWQwdGVmRDlKclF1NkluVlBFdlFYYU5HcVhRTUQ3Nkdtd2kwQkFmZw?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 08 Sep 2026 19:42:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN3lrbEFLcGd4RHpjYUNYRWtyRkNYM2lXWFpfYk16bVBMckM4NGUtaDUtbkZVWTlhU21oem1XOUlndkN2SlpXUUJ0cHRTMEh5d3ZlYlBGejR6cW9oVG45enBncG9Yc0hoUUpvX1F3MWhpQ1NrV05mQmZOYUl5Y3Uwem5xNWQwdGVmRDlKclF1NkluVlBFdlFYYU5HcVhRTUQ3Nkdtd2kwQkFmZw?oc=5\" target=\"_blank\">LA Council Seeks to Support Hotel Development at Oceanwide Plaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "adu"
+    },
+    {
       "id": "6a0be72947e9f6dd",
       "title": "Construction by Maya Urges Los Angeles Homeowners to Understand California ADU Rules Before Starting Fall 2026 Backyard Builds - WBOC TV",
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOSjg2Ykl1M1h6Z08wajVMR3Q1Njh0cDdPamJBd0lZS2tPc18tWHpod2pKUzdmSkRIZlNiQWxSNkdMcEtEemdRUkVTQ2ppMTQ2Z3YxMGVEeDVvLWQ2TkU1LVBNSDBFTWthbHdzQkRrRU5MY3llN0NiLVE5dUdhMVFKaEZSSjNOTDhmMWx0ZFRwTFZIc3hxd3ZEbjRCRFBKZmk1WGFVVmlGaVdteWpIS0VYWHlQcklQVFJITnRGdlVHNU13YlQxV3VfenMyRnpweDl6d2VUMlZQN212LWtmdEJ1VHE2bDNlUGttd3l5dmZhWXBwT2tyYkw2YktnSnlkdVBtSXVtcUNTVjdydExETzJyZ01rWmJYZy1nc1VPSWdkTm5UM1UzSndNOTM5TEJPMWQ5?oc=5",
@@ -2041,6 +2081,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTzNwMzM2Z2o3LWU2ejRwdTBvbW9QY2p2Y1N3eW45dW5tZjlEcnJHbmpJdFJaMmc2aHVvRUg4bEFxXzNHZFVDaWs1RmUwZFliaHNVQXIxUENIM2lfMzlfRnF0S3JxeFpOcUZCd1NSNC1zQTFYX3RaUVFvcFc5cUY4c1VnM3lVQWt4ekhpdEtIVy1peFJXbWN3Q0RDcDdTU3pzdVZRQlFzRGVPdw?oc=5\" target=\"_blank\">L.A. County Indoor Temperature Law Explained Before 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "4572b9ef2ac42510",
+      "title": "LA Voters to Decide Measure Exempting Pacific Palisades from Measure ULA - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjZMa1Y2YlV6OWRTSk1UNGxtVjRZZEYzd3FjcmNMM3lDMnRlMEtJazNFbXphNE1haDRlNWlOSzVaeFByYm05bjUwa2YxdVRlamtFeTRneWtWSFY0T3VkNEo0VzcxSHFEcW03dU1MSFBPWDhfaVFFeHAzVGROdzV3UWtlM1k1bFVMTjJ3RnhXV05tc05ndkVVZzd0QVZab3A0dGF2dVE1TjlCdk5meVh5anNJS2tjcXM?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjZMa1Y2YlV6OWRTSk1UNGxtVjRZZEYzd3FjcmNMM3lDMnRlMEtJazNFbXphNE1haDRlNWlOSzVaeFByYm05bjUwa2YxdVRlamtFeTRneWtWSFY0T3VkNEo0VzcxSHFEcW03dU1MSFBPWDhfaVFFeHAzVGROdzV3UWtlM1k1bFVMTjJ3RnhXV05tc05ndkVVZzd0QVZab3A0dGF2dVE1TjlCdk5meVh5anNJS2tjcXM?oc=5\" target=\"_blank\">LA Voters to Decide Measure Exempting Pacific Palisades from Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
     },
     {
       "id": "c1ddb2d0200f5a01",
@@ -2149,6 +2199,16 @@
       "source": "Urbanize LA",
       "published": "Thu, 30 Sep 2021 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDQ2YzBuUm85REdpeHpXQ3JEamktSVVPNXpBSVpzZ0w3RFBKOV9Mb1BRbEtjR1ZZQTFacTNodGt1WXJsNGNBNE51MDZwUDZ0QWRsdTI3NVBvamRlMml0SWgwdjNabEY5NGhXbHFIZE5VZThpUGVNODBJM1lnX0pHRWNEYVJRY3BZbkZKUXBoRVQ0YWhnMUR0aGEzLUU?oc=5\" target=\"_blank\">City Planning Commission approves Downtown Women's Center expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
+      "id": "70e94ebf7c829ef0",
+      "title": "Huntington Beach Planning Commission green-lights Edinger townhome development - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVpncXM2c0ZkM2lXcGR1QkdqNmRZMFdjUjRkNktObGdjMVVIOFJFcHh5MHo2M2pmNW16emRCUXZIR1BpTFktb2VsVGpiZGN6T2NtVnFKeTdlclZBSFFYdkhFZ2JVc0dFRlYwb0M2RVZ1TEtldXRYNlJ3dDlZcVF3b29qOVRyaHFzSng2SXYtX24wb1FhQlJOZnBCdFB4LVNscW9FWWd6X1g0Sm0yOFZ3MXRKdTQ1Yk9XWEVHcEFlOFg2TFdxWFBlbUZ0T2czU1BSZlNQVw?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Thu, 30 Mar 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVpncXM2c0ZkM2lXcGR1QkdqNmRZMFdjUjRkNktObGdjMVVIOFJFcHh5MHo2M2pmNW16emRCUXZIR1BpTFktb2VsVGpiZGN6T2NtVnFKeTdlclZBSFFYdkhFZ2JVc0dFRlYwb0M2RVZ1TEtldXRYNlJ3dDlZcVF3b29qOVRyaHFzSng2SXYtX24wb1FhQlJOZnBCdFB4LVNscW9FWWd6X1g0Sm0yOFZ3MXRKdTQ1Yk9XWEVHcEFlOFg2TFdxWFBlbUZ0T2czU1BSZlNQVw?oc=5\" target=\"_blank\">Huntington Beach Planning Commission green-lights Edinger townhome development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     },
@@ -2663,6 +2723,16 @@
       "category": "tax"
     },
     {
+      "id": "e1d51521a41371a8",
+      "title": "Former LAX commissioner tapped for LA harbor board, pending council approval - Daily Breeze",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkpPMFNyUTZQSml0ZmlXNV9KcmhwV19VMDgyTDVQZDFqYkpBM2VKTm1VWldlTEJQbDFPNzk3RmIyRlNVLUVYLUJfMUgtUGJWX0pfVy11QlBwTC10ekRnQWhnd0pEU3hjbGVVR1BvSWFEQkgtQzFJZ1JvZXppQ28yNjVaSFFSaWxjUHQ4RVZZRTNzR004R3duSmdaQl9LTjA3UjhGSXRyTU1EX0N1aVN6Y0lTOGFUZw?oc=5",
+      "source": "Daily Breeze",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkpPMFNyUTZQSml0ZmlXNV9KcmhwV19VMDgyTDVQZDFqYkpBM2VKTm1VWldlTEJQbDFPNzk3RmIyRlNVLUVYLUJfMUgtUGJWX0pfVy11QlBwTC10ekRnQWhnd0pEU3hjbGVVR1BvSWFEQkgtQzFJZ1JvZXppQ28yNjVaSFFSaWxjUHQ4RVZZRTNzR004R3duSmdaQl9LTjA3UjhGSXRyTU1EX0N1aVN6Y0lTOGFUZw?oc=5\" target=\"_blank\">Former LAX commissioner tapped for LA harbor board, pending council approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Breeze</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
       "id": "62dd70769ddd1cd1",
       "title": "City Planning Commission signs off on Lankershim Boulevard hotel - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGlydFZpMzM1TFdMMzdPa1poc19nREJrWUdIU0lfV1FhTndsNmdIT2tMMUU5VmVhYWxHU2lXd1VkeTNYY3FBa3ppT0lqUWVLSzBXeGM0WWxWWm1aOGt3dVNtYmRXRnV5eVhFSTExbHYzX0UyMmJWd3RRNVBua1lGYzI4SDNQdEJWWVBTajFkZV8?oc=5",
@@ -2719,6 +2789,16 @@
       "source": "Urbanize LA",
       "published": "Thu, 13 Feb 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFdhWDNQODJUUWpFS3FQVE9fSVZ0MWRGZnVyc3JhejNuakNuT3lSNndTMjlnb3M3OU1NYzB4NE5yeDNqZzlqdTM2RkpkaHdaSF95QUtmV3FUa1JuZHNYck9fRVBTeVpyV3Z1ekIwWnloYUk0dUFkYV93UmNsbWx3MEIwcjV3WEpRdnZ2SWNXbVBVNnA4QS13YTFjcmg0azQ?oc=5\" target=\"_blank\">City Planning Commission approves high-rise at 1105 S. Olive Street in DTLA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
+      "id": "1d5f02f6dcd7b1a3",
+      "title": "L.A. City Planning Commission Approves Affordable Housing in Westlake and Hollywood - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXBaeEpCMDJrZ0lFcTEwV1lzbXQtZGw1TC16X1hZZ3EtcnpqRmdncnBXb0hpRFlkc3hoNWZkVm5qSk9uV2RPNjZneFN3NzVETURjekdGN2F4WnUwazRLZVotSHo0OWNidE1keERnbXRGZDQxVzFfZ1Zyc0pua3JDWFV2RHotdEJLeGZiUDM2WkFFUnllT3dpLURXMlNaQjBtMkFvbmxTblE5NG9E?oc=5",
+      "source": "Urbanize LA",
+      "published": "Thu, 13 Feb 2020 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXBaeEpCMDJrZ0lFcTEwV1lzbXQtZGw1TC16X1hZZ3EtcnpqRmdncnBXb0hpRFlkc3hoNWZkVm5qSk9uV2RPNjZneFN3NzVETURjekdGN2F4WnUwazRLZVotSHo0OWNidE1keERnbXRGZDQxVzFfZ1Zyc0pua3JDWFV2RHotdEJLeGZiUDM2WkFFUnllT3dpLURXMlNaQjBtMkFvbmxTblE5NG9E?oc=5\" target=\"_blank\">L.A. City Planning Commission Approves Affordable Housing in Westlake and Hollywood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     },
@@ -3371,6 +3451,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjYtVmtSbmZSS3ZjQ1Y0b3NxaXhhVUluLTJPd3hQc2tyYUIzal85SGVPWkdnWGZNS1RhMERDenFLZmdoZjJoUGIyaVZ0clA3bG9XbWltX2hSUE5nd1dxQmpiOC1zcmxVU2duMUdNTnN5aENfMzZFdThFc2ExWTROOHB6OUViWGRqOS1MZnExYXFUQkVQQ3JTSjl5ZTl5Xy1sN0E?oc=5\" target=\"_blank\">Geoff Palmer’s lawsuit over tenant protections tossed by judge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
+    },
+    {
+      "id": "5d2afd2199a60381",
+      "title": "Woodland Hills Country Club Faces LA Council Roadblock to Build 400 Homes - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2lCb2hiXzVmcW8yWUZ0U3VJb0pER3A2VUxNbzlBZmdmRjI0b0MwOGwxd28zVG14RVo4aUQ1SXlUc3VPcXZ5MW56UDBVajVGcGxGanYzTGxfX1dYT2NLcVBMRFVTTlhvZEhKNXVoQ3pOVmN6cGoxQm9pb0FQTDFFdEZsa3ZWYlRJVnBqNnoxY1BmcWw5ZHhHR0F1WmVOa3RzR1JXOHliaTF3Z1JrN01rTWNKMml5SkFQUkY0?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Sat, 22 Aug 2026 03:42:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2lCb2hiXzVmcW8yWUZ0U3VJb0pER3A2VUxNbzlBZmdmRjI0b0MwOGwxd28zVG14RVo4aUQ1SXlUc3VPcXZ5MW56UDBVajVGcGxGanYzTGxfX1dYT2NLcVBMRFVTTlhvZEhKNXVoQ3pOVmN6cGoxQm9pb0FQTDFFdEZsa3ZWYlRJVnBqNnoxY1BmcWw5ZHhHR0F1WmVOa3RzR1JXOHliaTF3Z1JrN01rTWNKMml5SkFQUkY0?oc=5\" target=\"_blank\">Woodland Hills Country Club Faces LA Council Roadblock to Build 400 Homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
     },
     {
       "id": "6b8be6b1400bbb85",
@@ -4909,96 +4999,6 @@
       "source": "The Real Deal",
       "published": "Fri, 10 Dec 2021 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFkwODNyYVBVUmRERkV2UjR4ajRxQ3ZoU0VWN1Jsbzc3Z2RFUmVXYkVpNTAxWkwzYmwzamhPb1dxUFFNWWItQVFKZ1I1MXVOQjRjdm9BSDRSRW5NTThndmxxcTRSYXBvZ3l4MUowSXMzWnlSVm41OFZyeEFFT0JLUUQ0Tno2WGtLUkFoMmFfRHQ4eTlRRGpoZ0NXMWhMVFhqbnFkTld3MGRTSTN5X0NZaQ?oc=5\" target=\"_blank\">Frost/Chaddock’s Silver Lake apartment project clears planning commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "55829473bf318d3d",
-      "title": "Measure ULA Raises $1B for Tenant Protections and Housing - Los Angeles Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2trODhSQ0RCOV83ZkdwVFNxWm80dHBWakp1VnVmVlpicURhdFpGaGQxVl9jVlpnZGtuVEU2X2VHMmZkdVpaZF9xZ1J2c1p4YlpsRVFVUnZyN3RZUGs2MU8wVnNjLW96QmlYdlJ6SzZNNFlJY3cybTE3Z2E3amJKQ0pQeWg3eVRtVndCOQ?oc=5",
-      "source": "Los Angeles Sentinel",
-      "published": "Fri, 09 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2trODhSQ0RCOV83ZkdwVFNxWm80dHBWakp1VnVmVlpicURhdFpGaGQxVl9jVlpnZGtuVEU2X2VHMmZkdVpaZF9xZ1J2c1p4YlpsRVFVUnZyN3RZUGs2MU8wVnNjLW96QmlYdlJ6SzZNNFlJY3cybTE3Z2E3amJKQ0pQeWg3eVRtVndCOQ?oc=5\" target=\"_blank\">Measure ULA Raises $1B for Tenant Protections and Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Sentinel</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "tax"
-    },
-    {
-      "id": "9edf22145b454d0c",
-      "title": "Sebastopol City Council approves ADU condo conversions, but that's just the beginning - Sebastopol Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Pb1d1Qi11aWxlZURvM09QV0REcG0xaFZ6dVc0eEMybWRidzhPVlpfbnZWVnJNcmVlTHhqNTBJN2hERjBMV1NraWtCOHB0YkZkWEpVdU1KcWRYOHF1dXByRllpcUM1d3BFb05iWGVBYjZQa2dt?oc=5",
-      "source": "Sebastopol Times",
-      "published": "Fri, 09 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5Pb1d1Qi11aWxlZURvM09QV0REcG0xaFZ6dVc0eEMybWRidzhPVlpfbnZWVnJNcmVlTHhqNTBJN2hERjBMV1NraWtCOHB0YkZkWEpVdU1KcWRYOHF1dXByRllpcUM1d3BFb05iWGVBYjZQa2dt?oc=5\" target=\"_blank\">Sebastopol City Council approves ADU condo conversions, but that's just the beginning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sebastopol Times</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "adu"
-    },
-    {
-      "id": "1ddcee54d328ea14",
-      "title": "LA's Coming Cooling Mandate: What the 82-Degree Rule Means for Rental Properties - CityWatch LA",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEc5MjZxdjhkX3F0ZF8tMEZlaE5tenZOTThCLXpuSU5FQ2dSdG1IMkZqT2xHT3RWcE1icncyVXR5V0R1NkE1QUgxaXpkY3dFUDBDejhYWWVUX2dZMWQ1MmJhN2R1TVhRX3loc1FjaHk2djNKbDdBRW10azRzQzRvTHR4ZkN0OGd2OU81OWVnODBxWEU4WGFoVW01WUptNWxyT0RvYVJqajVZbDZKcTlFVUlxeG1VR0t4TGVhUA?oc=5",
-      "source": "CityWatch LA",
-      "published": "Fri, 09 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEc5MjZxdjhkX3F0ZF8tMEZlaE5tenZOTThCLXpuSU5FQ2dSdG1IMkZqT2xHT3RWcE1icncyVXR5V0R1NkE1QUgxaXpkY3dFUDBDejhYWWVUX2dZMWQ1MmJhN2R1TVhRX3loc1FjaHk2djNKbDdBRW10azRzQzRvTHR4ZkN0OGd2OU81OWVnODBxWEU4WGFoVW01WUptNWxyT0RvYVJqajVZbDZKcTlFVUlxeG1VR0t4TGVhUA?oc=5\" target=\"_blank\">LA's Coming Cooling Mandate: What the 82-Degree Rule Means for Rental Properties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityWatch LA</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "other"
-    },
-    {
-      "id": "ffe3024cde6ac529",
-      "title": "California’s New Housing Laws: Here’s What to Know (Published 2021) - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rMmF4SU5kRVM4OWpXTHFrVHltNElKdXhWVEhpWmMzSzlpUWk5RXdmQV9VWElSMnhzaDRjSC01MVdMcVZrblVTNUZRODQ3SWRzc09jSEViUFZKMEZhdlR3MjdKYnFaN3k2SS1TbUpFTHhYVVVx?oc=5",
-      "source": "The New York Times",
-      "published": "Fri, 08 Oct 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9rMmF4SU5kRVM4OWpXTHFrVHltNElKdXhWVEhpWmMzSzlpUWk5RXdmQV9VWElSMnhzaDRjSC01MVdMcVZrblVTNUZRODQ3SWRzc09jSEViUFZKMEZhdlR3MjdKYnFaN3k2SS1TbUpFTHhYVVVx?oc=5\" target=\"_blank\">California’s New Housing Laws: Here’s What to Know (Published 2021)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
-    },
-    {
-      "id": "a2bd1fca66285a10",
-      "title": "Newport Beach’s vacation rental ban up for renewal - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa19GZ0hiaGR0c3NCM1BPZnBJUmJBOGNDdVJEcm5rVkY5OFhUeTIyZE94UTBfMllFcVl5b0hOOFJiVmtEVzE3aWtzOWRwbWxMMkNfOUZ6OEZvUGxrQkQ4YTRQYmx5WWhXT3ZRMDBHMGtpUEN3UnVRcnRHbERJYnFsVE1yZ2Y2YTFVMUJoUkxaSlJtOFZrZk5uTTM2S2d2bnhab2FVc2JlTURlZ2lwWEVyQTV5bw?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Fri, 08 May 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQa19GZ0hiaGR0c3NCM1BPZnBJUmJBOGNDdVJEcm5rVkY5OFhUeTIyZE94UTBfMllFcVl5b0hOOFJiVmtEVzE3aWtzOWRwbWxMMkNfOUZ6OEZvUGxrQkQ4YTRQYmx5WWhXT3ZRMDBHMGtpUEN3UnVRcnRHbERJYnFsVE1yZ2Y2YTFVMUJoUkxaSlJtOFZrZk5uTTM2S2d2bnhab2FVc2JlTURlZ2lwWEVyQTV5bw?oc=5\" target=\"_blank\">Newport Beach’s vacation rental ban up for renewal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "other"
-    },
-    {
-      "id": "84a372da106a74dc",
-      "title": "Los Angeles City Council committee backs a 3% rent cap on rent stabilized units - dailynews.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1VKWmxZa2ZMQVBjd3BhWVhTMUhfZVdkSnI1a29QQTZmR0JncVNKUzRhTUpsWjd2ck1zMnVCb3ptdFFzaXRCNnJfcWdwZ2E1U0puYkNfRzRqMGx4cldOTDg0OHFha0dfMlNIN3hmVFAxZ2JUWG5IUmFqN0Y0bWR0WmhZbFVkeUlDZzRSMVFCZFFEUDJBeVh4bWV1ZGp1YXpYaEhzczJITGkzakxreVhBeFlpWG9SYms?oc=5",
-      "source": "dailynews.com",
-      "published": "Fri, 07 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1VKWmxZa2ZMQVBjd3BhWVhTMUhfZVdkSnI1a29QQTZmR0JncVNKUzRhTUpsWjd2ck1zMnVCb3ptdFFzaXRCNnJfcWdwZ2E1U0puYkNfRzRqMGx4cldOTDg0OHFha0dfMlNIN3hmVFAxZ2JUWG5IUmFqN0Y0bWR0WmhZbFVkeUlDZzRSMVFCZFFEUDJBeVh4bWV1ZGp1YXpYaEhzczJITGkzakxreVhBeFlpWG9SYms?oc=5\" target=\"_blank\">Los Angeles City Council committee backs a 3% rent cap on rent stabilized units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
-    },
-    {
-      "id": "8b165426d81f587a",
-      "title": "Pomona Approves Rent Control - Streetsblog Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IMkVlUl83V0VTWU1lREN1UjZrV25rWGJzYnBFekQ4elVkbEZRT3BzVkhVVTR1bW1vd251QkxCeGh3MWRsci1DSnZlUF9PU0NnYkdiOGxzRU82NElVR3pLN0FtVGo4RC1uOTN5QXpqdXpIejUw?oc=5",
-      "source": "Streetsblog Los Angeles",
-      "published": "Fri, 07 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9IMkVlUl83V0VTWU1lREN1UjZrV25rWGJzYnBFekQ4elVkbEZRT3BzVkhVVTR1bW1vd251QkxCeGh3MWRsci1DSnZlUF9PU0NnYkdiOGxzRU82NElVR3pLN0FtVGo4RC1uOTN5QXpqdXpIejUw?oc=5\" target=\"_blank\">Pomona Approves Rent Control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Streetsblog Los Angeles</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
-    },
-    {
-      "id": "148dd7d6f763e853",
-      "title": "City Planning Commission approves Toyota of Hollywood redevelopment - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObjhzaEctQ05FMlZOellwZWs4TXQtTm44aXFrU2xEX0tWaXNoZmd6V0FUSFVBbVF3MElYM2QtNUV0M212QmJvdm1xTEl3cGQzTHcyRzZBWEFaLXlWSUlCZXNuTzdPUG9yYmFGVW5jdlU0d3RpbkJNN3RXX29lR2d5RUVYQVRscjhiTUNRRUp3RVRURnZPR2I1NFRn?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 07 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObjhzaEctQ05FMlZOellwZWs4TXQtTm44aXFrU2xEX0tWaXNoZmd6V0FUSFVBbVF3MElYM2QtNUV0M212QmJvdm1xTEl3cGQzTHcyRzZBWEFaLXlWSUlCZXNuTzdPUG9yYmFGVW5jdlU0d3RpbkJNN3RXX29lR2d5RUVYQVRscjhiTUNRRUp3RVRURnZPR2I1NFRn?oc=5\" target=\"_blank\">City Planning Commission approves Toyota of Hollywood redevelopment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "b7787c96167d4d76",
-      "title": "Planning Commission OKs self-storage site despite environmental objections - Long Beach Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbzk3YWFzTUh2M0tQVE1WbzdQMTFwZVlGNE5kY3NMZE9YVnRaRnZjQk1ZUVpONkszbDIzRzFpY3VDbC1sTlF2YkpzUk5ScGpjYnNVX3NKWW1ZcjJ6WVE3cUtJdzl3aEtqRWltb0xuVDJITFVxSmFnUktOZHNIelFySGhHWGQ4V19PLWpwZ0Jueno5RWpqcFNxS0FrYVNONXY0QjhJZnkzaG50bEtjNDVUckIzQmNfdXN4d09sYg?oc=5",
-      "source": "Long Beach Post",
-      "published": "Fri, 06 Jun 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPbzk3YWFzTUh2M0tQVE1WbzdQMTFwZVlGNE5kY3NMZE9YVnRaRnZjQk1ZUVpONkszbDIzRzFpY3VDbC1sTlF2YkpzUk5ScGpjYnNVX3NKWW1ZcjJ6WVE3cUtJdzl3aEtqRWltb0xuVDJITFVxSmFnUktOZHNIelFySGhHWGQ4V19PLWpwZ0Jueno5RWpqcFNxS0FrYVNONXY0QjhJZnkzaG50bEtjNDVUckIzQmNfdXN4d09sYg?oc=5\" target=\"_blank\">Planning Commission OKs self-storage site despite environmental objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Long Beach Post</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     }
