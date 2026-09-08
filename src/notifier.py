@@ -23,7 +23,7 @@ CATEGORY_EMOJI = {
 
 
 class TelegramNotifier:
-    def __init__(self, token: str, chat_ids: list[str]):
+    def __init__(self, token: str, chat_ids: List[str]):
         self.token = token
         self.chat_ids = chat_ids
 
@@ -39,17 +39,17 @@ class TelegramNotifier:
         url = TELEGRAM_API.format(token=self.token)
         try:
             resp = requests.post(url, json={
-                \"chat_id\": cid,
+                "chat_id": cid,
                 "text": text,
                 "parse_mode": "HTML",
                 "disable_web_page_preview": True,
             }, timeout=TIMEOUT)
             if not resp.ok:
-                print(f"Telegram HTTP {resp.status_code}: {resp.text}", file=sys.stderr)
+                print(f"Telegram HTTP {resp.status_code} para {cid}: {resp.text}", file=sys.stderr)
                 return False
             return True
         except requests.RequestException as e:
-            print(f"Telegram request error: {e}", file=sys.stderr)
+            print(f"Telegram request error para {cid}: {e}", file=sys.stderr)
             return False
 
     def send_batch(self, items: List[dict]) -> bool:
@@ -60,7 +60,8 @@ class TelegramNotifier:
             header = (f"🏛️ <b>Alertas normativa LA — Real Estate</b>\n"
                       f"<i>{len(chunk)} novedades</i>\n\n")
             body = "\n\n".join(self._format_item(it) for it in chunk)
-            for cid in self.chat_ids:`n                if not self._send(header + body, cid):
-                all_ok = False
+            
+            for cid in self.chat_ids:
+                if not self._send(header + body, cid):
+                    all_ok = False
         return all_ok
-
