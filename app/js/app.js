@@ -28,6 +28,7 @@ let allAlerts = [];
 let filteredAlerts = [];
 let favorites = new Set(JSON.parse(localStorage.getItem(FAVORITES_KEY) || '[]'));
 let activeFilter = 'all';
+let activeDateFilter = 'all';
 let searchQuery = '';
 let currentView = 'alerts';
 
@@ -40,6 +41,7 @@ const $emptyState = document.getElementById('empty-state');
 const $favoritesEmpty = document.getElementById('favorites-empty');
 const $searchInput = document.getElementById('search-input');
 const $filtersBar = document.getElementById('filters-bar');
+const $dateFilter = document.getElementById('date-filter');
 const $modalBackdrop = document.getElementById('modal-backdrop');
 const $modal = document.getElementById('alert-modal');
 const $toastContainer = document.getElementById('toast-container');
@@ -150,6 +152,24 @@ function applyFilters() {
   // Category filter
   if (activeFilter !== 'all') {
     results = results.filter(a => a.category === activeFilter);
+  }
+
+  // Date filter
+  if (activeDateFilter !== 'all') {
+    if (activeDateFilter === 'today') {
+      results = results.filter(a => isToday(a.published));
+    } else if (activeDateFilter === 'week') {
+      results = results.filter(a => isThisWeek(a.published));
+    } else if (activeDateFilter === 'month') {
+      results = results.filter(a => {
+        if (!a.published) return false;
+        const d = new Date(a.published);
+        const now = new Date();
+        const monthAgo = new Date(now);
+        monthAgo.setMonth(monthAgo.getMonth() - 1);
+        return d >= monthAgo;
+      });
+    }
   }
 
   // Search
@@ -395,6 +415,14 @@ function setupEventListeners() {
     activeFilter = chip.dataset.filter;
     applyFilters();
   });
+
+  // Date filter
+  if ($dateFilter) {
+    $dateFilter.addEventListener('change', (e) => {
+      activeDateFilter = e.target.value;
+      applyFilters();
+    });
+  }
 
   // Nav tabs (desktop)
   document.getElementById('nav-tabs').addEventListener('click', (e) => {

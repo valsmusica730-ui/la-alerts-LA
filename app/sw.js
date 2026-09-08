@@ -3,7 +3,7 @@
  * Caches assets for offline support and handles push notifications.
  */
 
-const CACHE_NAME = 'la-alerts-v2';
+const CACHE_NAME = 'la-alerts-v4';
 const STATIC_ASSETS = [
   './',
   './index.html',
@@ -18,7 +18,16 @@ const STATIC_ASSETS = [
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(STATIC_ASSETS);
+      // Use cache: 'reload' or append a timestamp to ensure fresh fetch
+      return Promise.all(
+        STATIC_ASSETS.map(url => {
+          return fetch(url + '?v=' + new Date().getTime(), { cache: 'reload' })
+            .then(response => {
+              if (!response.ok) throw new Error('Fetch failed');
+              return cache.put(url, response);
+            });
+        })
+      );
     })
   );
   self.skipWaiting();
