@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:30:25.473751+00:00",
+  "generated_at": "2026-09-08T23:44:21.709430+00:00",
   "total": 500,
   "alerts": [
     {
@@ -629,6 +629,16 @@
       "source": "Commercial Observer",
       "published": "Wed, 12 Nov 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzZfbl9nSGZVa1dTeHR0SjhPaEQ2WEUwSEY1dzczYTNkVVVlRGsxV0ZIdkJFbUgtazhXQVRVMHVsZlJ6d2gyRVdJcmFuYjI0anFBWHFKY2p4dUNyWUxUclhma2VxVmJYTzE4N3hrNHlvZ1p2MmtQcXR1eXlTaUZMUE9tVFJiQQ?oc=5\" target=\"_blank\">L.A. City Council Approves 4% Rent Cap on All Rent-Stabilized Units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial Observer</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "rent"
+    },
+    {
+      "id": "98998406acfc6153",
+      "title": "L.A. City Council lowers rent cap on RSO units - 2UrbanGirls",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzZqWlNJRzEtbzRVbWxPdU9YbTh1ZnZIb2VGTzdnR19sNUx0cjBqM0FnVklvUlV2eWhQYlBoVXFlQmMxd0tWOEV4dTNiRndFeDdSLXhZLXpaUjdTNkJ0UldGd2xqamRXbjRpSEJ6T0JMbDh2NUw4aFBsODRIaVhraHJ3Z0xVQlR6Y3R5WGZHOGNnR2ttSVB2azB0Tm4?oc=5",
+      "source": "2UrbanGirls",
+      "published": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzZqWlNJRzEtbzRVbWxPdU9YbTh1ZnZIb2VGTzdnR19sNUx0cjBqM0FnVklvUlV2eWhQYlBoVXFlQmMxd0tWOEV4dTNiRndFeDdSLXhZLXpaUjdTNkJ0UldGd2xqamRXbjRpSEJ6T0JMbDh2NUw4aFBsODRIaVhraHJ3Z0xVQlR6Y3R5WGZHOGNnR2ttSVB2azB0Tm4?oc=5\" target=\"_blank\">L.A. City Council lowers rent cap on RSO units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">2UrbanGirls</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "rent"
     },
@@ -1823,6 +1833,16 @@
       "category": "other"
     },
     {
+      "id": "4e1f6df58952aa21",
+      "title": "Proposed Modular Housing Complex in Hollywood to Face City Planning Commission - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFR1VUVKQVN3QVhlMnRzYWU2OERYazZEX08zcW9DcVZUZGloajVNR1E0Mm83cHg3X3pHU0FFbDI4T2lyMmh3RnR5UlgwRWJGOS1kdUlHS2o4OUZLaEp3ZmhTdE1iaExlelU3dlJvYWFKSG12TVA4SnZObndyZzcwNHNSMFB3S2VCR1Z4ZTZnczNUdWlHSlJRSU56cllnTl9kZkQ0YQ?oc=5",
+      "source": "Urbanize LA",
+      "published": "Tue, 12 May 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFR1VUVKQVN3QVhlMnRzYWU2OERYazZEX08zcW9DcVZUZGloajVNR1E0Mm83cHg3X3pHU0FFbDI4T2lyMmh3RnR5UlgwRWJGOS1kdUlHS2o4OUZLaEp3ZmhTdE1iaExlelU3dlJvYWFKSG12TVA4SnZObndyZzcwNHNSMFB3S2VCR1Z4ZTZnczNUdWlHSlJRSU56cllnTl9kZkQ0YQ?oc=5\" target=\"_blank\">Proposed Modular Housing Complex in Hollywood to Face City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "27cdf88232fe51a9",
       "title": "Despite Airbnb opposition, Santa Monica poised to pass tough short-term rental law - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW5pZk9paDJMSm02U2ZEODNCZzVNYTJPSzhWY3Y4aDM4R1dDdDBrZXg1dHNCS2FjSDg4cEYyUVRGemY0aUJRbUtEd3JGWGpKVVFhb19iQjIxYTc2dndNOFl5TWFNZ3FUczRtNkZGRXFqYzNodVpTX2pULTFuOXhUVGlJTTE?oc=5",
@@ -2343,6 +2363,16 @@
       "category": "rent"
     },
     {
+      "id": "21bd96ef51964402",
+      "title": "Planning Commission approves TVC 2050, with modifications - Larchmont Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHQxWUFaRWxvZDdzVTF1UjEwaXQ5S0ZPNVhxS1VpamNOTG5yTVdLeE1qUDVzSnlTSEhNRkd2QWxkYVQ2dlRqdGk2cVdUVWNDQUJjVHlmUWoxc2VvdV9kaWlUeENrcW0wOG42aE1SM096U2ZrTDRGOXhNSk1EQkpIcTlJV243NWlxb25LeW11RzNKZw?oc=5",
+      "source": "Larchmont Chronicle",
+      "published": "Thu, 26 Sep 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHQxWUFaRWxvZDdzVTF1UjEwaXQ5S0ZPNVhxS1VpamNOTG5yTVdLeE1qUDVzSnlTSEhNRkd2QWxkYVQ2dlRqdGk2cVdUVWNDQUJjVHlmUWoxc2VvdV9kaWlUeENrcW0wOG42aE1SM096U2ZrTDRGOXhNSk1EQkpIcTlJV243NWlxb25LeW11RzNKZw?oc=5\" target=\"_blank\">Planning Commission approves TVC 2050, with modifications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Chronicle</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "ad8ab06ef28bc0f8",
       "title": "City Planning Commission upholds approval of mixed-use project at 7115 Van Nuys Boulevard - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnMyOUNuQlR3RkZldWhPbG9qOF9aZGlvQWszUmZUMEJhZFNDb3J1eXQ5cWdCV3Zra3V0NWxVYnFCU1RoWXV6MmQ5Y1lNWnJfM0pPYnNsUHptWEhfX19DRGNiZVB3cnRXREQ3d0pPM2E4eG4wWk9ZVTJvUHZIVkYwanhyX3JrOVpKeHcybUYxejg3TjhSMXdOYXkxdXJkSElZVnhiX2FjRUktUFVMaVVqbDlFSQ?oc=5",
@@ -2569,6 +2599,16 @@
       "source": "ABC7 Los Angeles",
       "published": "Thu, 19 Jan 2023 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHBvYnEyZWFWQ1BFTTU1bTVrNVNsR2R5NnB1aS16bFlYWmhidUhqX3dxQ0wwZXg0c2FaLUFWTVZhREM4ZmxwTFYtaEZLYmJYSnBsWXJhSkI2UjRGNVNEeDVrWW5ZWDdjaEFWTDV6ejU0by1CRVNuTkZZVVpUVXNIVzAtMjRSOTIyWnZWTlhqSEVqcTEtTnc?oc=5\" target=\"_blank\">LA council committee recommends slate of permanent tenant protections, full council to vote Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
+      "id": "9fb420b3429bc469",
+      "title": "LA council committee recommends slate of permanent tenant protections, full council to vote Friday - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHBvYnEyZWFWQ1BFTTU1bTVrNVNsR2R5NnB1aS16bFlYWmhidUhqX3dxQ0wwZXg0c2FaLUFWTVZhREM4ZmxwTFYtaEZLYmJYSnBsWXJhSkI2UjRGNVNEeDVrWW5ZWDdjaEFWTDV6ejU0by1CRVNuTkZZVVpUVXNIVzAtMjRSOTIyWnZWTlhqSEVqcTEtTnfSAZsBQVVfeXFMT0Yxc2pYYk5JLXpKOXVlcHNZckpzVk5uUDVRZU13U2w5ak9ub0ZjY0x3dHBmbHZIOW9iaWs0MlZSa0VqVGlHbnNOX29XdjhsaHJrMlB0ZU1PXzk2cGRkN0p2Q1Zld0NQMzVwZ2tUTkJQY0l4eGFIOVRYOHdWeDM2T2FSeFExM2FtckV3LXcxTEtrU2hCSkJmYUNFWXc?oc=5",
+      "source": "ABC7 Los Angeles",
+      "published": "Thu, 19 Jan 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHBvYnEyZWFWQ1BFTTU1bTVrNVNsR2R5NnB1aS16bFlYWmhidUhqX3dxQ0wwZXg0c2FaLUFWTVZhREM4ZmxwTFYtaEZLYmJYSnBsWXJhSkI2UjRGNVNEeDVrWW5ZWDdjaEFWTDV6ejU0by1CRVNuTkZZVVpUVXNIVzAtMjRSOTIyWnZWTlhqSEVqcTEtTnfSAZsBQVVfeXFMT0Yxc2pYYk5JLXpKOXVlcHNZckpzVk5uUDVRZU13U2w5ak9ub0ZjY0x3dHBmbHZIOW9iaWs0MlZSa0VqVGlHbnNOX29XdjhsaHJrMlB0ZU1PXzk2cGRkN0p2Q1Zld0NQMzVwZ2tUTkJQY0l4eGFIOVRYOHdWeDM2T2FSeFExM2FtckV3LXcxTEtrU2hCSkJmYUNFWXc?oc=5\" target=\"_blank\">LA council committee recommends slate of permanent tenant protections, full council to vote Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     },
@@ -2981,6 +3021,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUE42eTY1N0RoUnp4S0Vnc0dVZlhVbUV6ZUJjSzVKVWxsTk9rMzdLTmt6NzR1Q2IxaS1XWVEtaENpQnBybGRpRW9iWi1KaTFlVktlc1lJVlllNUhOYXdYVzNNb3R3ZlVfNUEyU0RKemtqVU9QOGRXSGJQZVFKYTZXQnFaLUNJTXRmT0FLREViU0lfZU96eEE?oc=5\" target=\"_blank\">L.A. Council committee advances proposal to tighten rent control formula</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "rent"
+    },
+    {
+      "id": "e1640920d5afc01d",
+      "title": "LA Mayor Karen Bass signs law that streamlines building of affordable housing to confront homeless crisis - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnVOeFVrWE1YeEdrTDNwempTcWlzVU9UTXRZNHk1T280WE5uNmZkQ3IzZDhxdE1nNDV4VWpoOFVZUzI5endGTGVYYkdudlBmejNkTFFLQzNDYS1JN2U1Vkd5UFB4X1l1QWZhQUxPSk0tMEFDRUNER1hUYjdWbFhzOGlOdzY1cWtNQmV3dkhtNm42YWRlU0E3Z0hHZmVucFRrbGfSAacBQVVfeXFMTTBSZTZINXpWVzlodTRvdDdULXYySVplVWkzcXBHdjVpWnlVcm9OQUd3bV8tWkZfMFRyTUY4NUJFaHBJZTlKVG5zcTFldWg4bTFNMEdTQVNoMmx3YkVDSm9DNUpJc0FPY1NZdWFtQW16UlRJTW1nYXd0ZnJ4Tms4UjVCWUd1V1JkTEpLVTNyWURVNlpES3VpZExPWi1OQW9YbmM1OFBHdzQ?oc=5",
+      "source": "ABC7 Los Angeles",
+      "published": "Thu, 06 Jul 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnVOeFVrWE1YeEdrTDNwempTcWlzVU9UTXRZNHk1T280WE5uNmZkQ3IzZDhxdE1nNDV4VWpoOFVZUzI5endGTGVYYkdudlBmejNkTFFLQzNDYS1JN2U1Vkd5UFB4X1l1QWZhQUxPSk0tMEFDRUNER1hUYjdWbFhzOGlOdzY1cWtNQmV3dkhtNm42YWRlU0E3Z0hHZmVucFRrbGfSAacBQVVfeXFMTTBSZTZINXpWVzlodTRvdDdULXYySVplVWkzcXBHdjVpWnlVcm9OQUd3bV8tWkZfMFRyTUY4NUJFaHBJZTlKVG5zcTFldWg4bTFNMEdTQVNoMmx3YkVDSm9DNUpJc0FPY1NZdWFtQW16UlRJTW1nYXd0ZnJ4Tms4UjVCWUd1V1JkTEpLVTNyWURVNlpES3VpZExPWi1OQW9YbmM1OFBHdzQ?oc=5\" target=\"_blank\">LA Mayor Karen Bass signs law that streamlines building of affordable housing to confront homeless crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
     },
     {
       "id": "6f8254b88e436fca",
@@ -3573,6 +3623,16 @@
       "category": "tax"
     },
     {
+      "id": "aeccea3922c540b6",
+      "title": "Airbnb touts good talks with New York City mayor candidates on rental ban - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDdyUmI1eEJLOEdOV2lycUlwb28tZUN6dEF6eHBNSVNrVXFxMVRRQkg4RmxpdDl4MWJQR01qTHZiN0NUM2p0QmpuY1NUSDV3VFV1RFA2OVFCTXplU3NfekwyWjR0M25zWjVVTzI5LXRCNHVkeEN0Z3VaZjNoNW5GMTNkeTljX1dPQ1hXc0FRam5ndWRtSnRlTDdpQXkxV19qR3NBRUdKVzNPSjA?oc=5",
+      "source": "The Business Times",
+      "published": "Sat, 02 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDdyUmI1eEJLOEdOV2lycUlwb28tZUN6dEF6eHBNSVNrVXFxMVRRQkg4RmxpdDl4MWJQR01qTHZiN0NUM2p0QmpuY1NUSDV3VFV1RFA2OVFCTXplU3NfekwyWjR0M25zWjVVTzI5LXRCNHVkeEN0Z3VaZjNoNW5GMTNkeTljX1dPQ1hXc0FRam5ndWRtSnRlTDdpQXkxV19qR3NBRUdKVzNPSjA?oc=5\" target=\"_blank\">Airbnb touts good talks with New York City mayor candidates on rental ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "d41ff78f71bb2065",
       "title": "Landlords: Ordinance Killing Us - labusinessjournal.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MdWxydE00aUdPM01pal9QeG1MaFpVRGVFUkVwRkI2Z2laV0s4ZGhCRF84QmRTaHhpZE9NNnpBTHg4cFFQekltY3REYW9ucmp5ZEppSWFJVzg?oc=5",
@@ -3809,6 +3869,16 @@
       "source": "Travel and Leisure Asia",
       "published": "Mon, 21 Aug 2023 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBGeWlqczltUTg0UjRGWXJhX0dsZXZ0ZW01ZE10QnB2ckJsNVhOQWtXRWxueVR0aEdfS0xvTDlSOWc4bDZwNVFmTk44elp6M0lqM1RRRTVmMGpLTjRCU0hzMENYdWREQlBWQ1hMX2lnaTVYbUlDOEZIcURxaEdoZ9IBgwFBVV95cUxOamNfdG9WUE5hbFdWSlczRjVRVVQxeDFfMkdjdmRBNXAzV0gwSnFJV0g3X2oyNThQYjZsUDVGNFlGdEQ5bjUyXzNKQVJmSTdvR1BJZUVzNWhFVHZ3Z0cwa3hFR0k4b1F6QkhLZ2ZkNTJSNUhGSkFqQm9vQ1hwQnRCa2kzaw?oc=5\" target=\"_blank\">Penang Imposes Ban On Airbnb Across Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel and Leisure Asia</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
+      "id": "c971885af2d33eba",
+      "title": "Penang Imposes Ban On Airbnb Across Island - Travel and Leisure Asia",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbkNSVk5yNDNpbnJKWVZrN0xFQlA0LTdvNDNqN3BvMjNwSk9qZ0Jwb1lVempjaDVJLWN3NUdDNTlENl84S0JNa0lnc3VKbDB6SjVUalhkT1dGbnVTMEhvd3N1VDh4bkpZd0Fzb0dheWhqQndnYUNUakpkbHdrNzJBSWhkY2N6dTFZQnVxZHd3SdIBlAFBVV95cUxPME4yV2U1OEx1RDFqX0hFZUIzVk0xMTZyQU81SWpkZ3ExeTBuQXk3T0NzTzJiVWdFMldGeS10TU84M0J5UFlNOU5Ha2hGZkNHZnRSSnIyQS05Zm9DMm9GSkVMVl9JQ2FoeFdxczhBcWkwSXRuZU8zMS1PVURpazZWS21xdUxId0dsU1dFb3k1X2FZLXZo?oc=5",
+      "source": "Travel and Leisure Asia",
+      "published": "Mon, 21 Aug 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQbkNSVk5yNDNpbnJKWVZrN0xFQlA0LTdvNDNqN3BvMjNwSk9qZ0Jwb1lVempjaDVJLWN3NUdDNTlENl84S0JNa0lnc3VKbDB6SjVUalhkT1dGbnVTMEhvd3N1VDh4bkpZd0Fzb0dheWhqQndnYUNUakpkbHdrNzJBSWhkY2N6dTFZQnVxZHd3SdIBlAFBVV95cUxPME4yV2U1OEx1RDFqX0hFZUIzVk0xMTZyQU81SWpkZ3ExeTBuQXk3T0NzTzJiVWdFMldGeS10TU84M0J5UFlNOU5Ha2hGZkNHZnRSSnIyQS05Zm9DMm9GSkVMVl9JQ2FoeFdxczhBcWkwSXRuZU8zMS1PVURpazZWS21xdUxId0dsU1dFb3k1X2FZLXZo?oc=5\" target=\"_blank\">Penang Imposes Ban On Airbnb Across Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel and Leisure Asia</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
     },
@@ -4929,76 +4999,6 @@
       "source": "Urbanize LA",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHNFSnNSaWhrVzFSUmRyR3ZxR3VsVC1BU1BvUGN5UFBSMWpzMlhWTWNTVW9Md0g1YU5mc05MaUhvcUFqU3V6RFlFV0RtMFNSeWZia1BIMXpueWRiVmF2a1Exa2NVZ1BsTGZnWnVBcXhZcjc0MFJEV18wRzhCWFJ3cUE3ejRldTRSY1BpYWZXQkQ3eG5sUHRtNFBqdnI?oc=5\" target=\"_blank\">Big mixed-use project clears a hurdle at 12555 Ventura Blvd. in Studio City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "d1096f58631be7b5",
-      "title": "Five-Story, 68-Unit Development Approved by City Planning Commission - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMXdCdkRVR0dNYnJSNGhHYWxMQlFpUzl5Vk5LeG1aZy00ZW11Unp6ZGVjcmtYOHRUZFQ4ZVZQYlpDc081XzR1R05ycG13eVl0YVQ0S2F5enRZdExBMkNaaU9fNFFna1A1WW1JTnhFZnBpLXZNWFJ6ZFR5M3F2cGRPSW9OU3JkTnB6RlFvcEcwUHhnTXhVeXRNT21B?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 11 Oct 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQMXdCdkRVR0dNYnJSNGhHYWxMQlFpUzl5Vk5LeG1aZy00ZW11Unp6ZGVjcmtYOHRUZFQ4ZVZQYlpDc081XzR1R05ycG13eVl0YVQ0S2F5enRZdExBMkNaaU9fNFFna1A1WW1JTnhFZnBpLXZNWFJ6ZFR5M3F2cGRPSW9OU3JkTnB6RlFvcEcwUHhnTXhVeXRNT21B?oc=5\" target=\"_blank\">Five-Story, 68-Unit Development Approved by City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "9265f0a7e0ea8c6c",
-      "title": "City Planning Commission approves DTLA hotel-residential towers at 1600 S. Flower St. - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVBDQkJ6R25TZmUtWkNOR0JMb0FTNkV5NEMxM0NwYzdHRDhaYXc5QWpCRENvelo2c2pIaFB0Nk1QMk1aTG1XeWtKRWZBcXhFX0NPNFFib0tLeTVxa0VrXzdMVHFjdDNXd1h1bHd5MS1VWm52QnF4ZTEzUXBTNGhodkozdzhEUUdFRENtbUdYVE14aGxhcDlZSmtXZXp0ZGNEcndzbFZSNENublpZbG5n?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 11 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVBDQkJ6R25TZmUtWkNOR0JMb0FTNkV5NEMxM0NwYzdHRDhaYXc5QWpCRENvelo2c2pIaFB0Nk1QMk1aTG1XeWtKRWZBcXhFX0NPNFFib0tLeTVxa0VrXzdMVHFjdDNXd1h1bHd5MS1VWm52QnF4ZTEzUXBTNGhodkozdzhEUUdFRENtbUdYVE14aGxhcDlZSmtXZXp0ZGNEcndzbFZSNENublpZbG5n?oc=5\" target=\"_blank\">City Planning Commission approves DTLA hotel-residential towers at 1600 S. Flower St.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "8892de6de406f6b4",
-      "title": "Gavin Newsom signs law overhauling local zoning to build more housing - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUDJCUWx4LWVjU1NhVXZtSDhnU2ZPSEFHcU9SaUNIdGltSjhBWWVKNE5aN0Z3SUN3WVpVRUlTSTgteEdmNzU4WVRMd2hkWWV2aEQ1Q3cxS2tUdlRCbHJBeUw4ZnZoTGNzTExRclZSUmowclhISE8yUDM0NkctMjBJMDBpc0pJQkpWVGQ5SmxDdlU3UQ?oc=5",
-      "source": "CalMatters",
-      "published": "Fri, 10 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUDJCUWx4LWVjU1NhVXZtSDhnU2ZPSEFHcU9SaUNIdGltSjhBWWVKNE5aN0Z3SUN3WVpVRUlTSTgteEdmNzU4WVRMd2hkWWV2aEQ1Q3cxS2tUdlRCbHJBeUw4ZnZoTGNzTExRclZSUmowclhISE8yUDM0NkctMjBJMDBpc0pJQkpWVGQ5SmxDdlU3UQ?oc=5\" target=\"_blank\">Gavin Newsom signs law overhauling local zoning to build more housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
-    },
-    {
-      "id": "0974b2bc6e1725f0",
-      "title": "Fourth & Central development clears a hurdle in DTLA - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOREpCTTllOWhzT3RjSnc4eU5pN1RIMjVsT0NaYjdfUWNBdFVxeGNJRDJ1N0tMbzhqV1J0RlpEMkRCVml4M1oyZ0EwMktFSUNDVU8tMDRPTmNUUWRBOHFkTEVtQVd2UlctLXJNTm1QQjhYMWRYZkdlMlRHbF9xU05uWQ?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 10 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOREpCTTllOWhzT3RjSnc4eU5pN1RIMjVsT0NaYjdfUWNBdFVxeGNJRDJ1N0tMbzhqV1J0RlpEMkRCVml4M1oyZ0EwMktFSUNDVU8tMDRPTmNUUWRBOHFkTEVtQVd2UlctLXJNTm1QQjhYMWRYZkdlMlRHbF9xU05uWQ?oc=5\" target=\"_blank\">Fourth & Central development clears a hurdle in DTLA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "other"
-    },
-    {
-      "id": "4e9286c18ef39448",
-      "title": "Los Angeles Zoning Laws Pushed People and Homes Toward Fire-Prone Areas - Reason Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdS1aalB1dUZZekprbzRCVGxtM3RWRmJyblAxTk96bWZrclA3VUVaUGRaTzRPZGRTeDlKVTVnN2pzZ2VoUVRfZ3ktQ1BkQ0J0TmtBaWgzVFhaMDJHbEctVFVLVWEydUlBQVEyZjlQeWFRTk5pWHI0MjYzS3g0NWRfbk5udU1GN1VtNGtUNG1pZWl0cmZWNm9FYXJ0SW5BZVVIQ3o1Uw?oc=5",
-      "source": "Reason Magazine",
-      "published": "Fri, 10 Jan 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdS1aalB1dUZZekprbzRCVGxtM3RWRmJyblAxTk96bWZrclA3VUVaUGRaTzRPZGRTeDlKVTVnN2pzZ2VoUVRfZ3ktQ1BkQ0J0TmtBaWgzVFhaMDJHbEctVFVLVWEydUlBQVEyZjlQeWFRTk5pWHI0MjYzS3g0NWRfbk5udU1GN1VtNGtUNG1pZWl0cmZWNm9FYXJ0SW5BZVVIQ3o1Uw?oc=5\" target=\"_blank\">Los Angeles Zoning Laws Pushed People and Homes Toward Fire-Prone Areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
-    },
-    {
-      "id": "f1f8ec3a83163010",
-      "title": "Senate Bill 9's Underwhelming First Year Shouldn't Be a Surprise; It Was by Design - RAND",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVzE2RDFmY2M0RGFWWDlaZzV1LUw5bndGU2MtZ2g3V2lxbXZQRDh5NTdqbzZaUEFXNVRzZGlzWGVickR3ZlhGQmlHMVFod2YwT1IwMlFGNGtkY3dqNG5PbHZTcmRzQnRZd1BPaTF4TENTMnpuZndsZ1F4Q0dldlFKUkxuckI3NlpfWnRsN1h4NVNWVGg3NlZqQk4zYkZoZWo2c0hN?oc=5",
-      "source": "RAND",
-      "published": "Fri, 10 Feb 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVzE2RDFmY2M0RGFWWDlaZzV1LUw5bndGU2MtZ2g3V2lxbXZQRDh5NTdqbzZaUEFXNVRzZGlzWGVickR3ZlhGQmlHMVFod2YwT1IwMlFGNGtkY3dqNG5PbHZTcmRzQnRZd1BPaTF4TENTMnpuZndsZ1F4Q0dldlFKUkxuckI3NlpfWnRsN1h4NVNWVGg3NlZqQk4zYkZoZWo2c0hN?oc=5\" target=\"_blank\">Senate Bill 9's Underwhelming First Year Shouldn't Be a Surprise; It Was by Design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RAND</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
-    },
-    {
-      "id": "6705bc9a6b2d87a3",
-      "title": "Frost/Chaddock’s Silver Lake apartment project clears planning commission - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFkwODNyYVBVUmRERkV2UjR4ajRxQ3ZoU0VWN1Jsbzc3Z2RFUmVXYkVpNTAxWkwzYmwzamhPb1dxUFFNWWItQVFKZ1I1MXVOQjRjdm9BSDRSRW5NTThndmxxcTRSYXBvZ3l4MUowSXMzWnlSVm41OFZyeEFFT0JLUUQ0Tno2WGtLUkFoMmFfRHQ4eTlRRGpoZ0NXMWhMVFhqbnFkTld3MGRTSTN5X0NZaQ?oc=5",
-      "source": "The Real Deal",
-      "published": "Fri, 10 Dec 2021 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFkwODNyYVBVUmRERkV2UjR4ajRxQ3ZoU0VWN1Jsbzc3Z2RFUmVXYkVpNTAxWkwzYmwzamhPb1dxUFFNWWItQVFKZ1I1MXVOQjRjdm9BSDRSRW5NTThndmxxcTRSYXBvZ3l4MUowSXMzWnlSVm41OFZyeEFFT0JLUUQ0Tno2WGtLUkFoMmFfRHQ4eTlRRGpoZ0NXMWhMVFhqbnFkTld3MGRTSTN5X0NZaQ?oc=5\" target=\"_blank\">Frost/Chaddock’s Silver Lake apartment project clears planning commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     }
