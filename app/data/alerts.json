@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:49:06.763508+00:00",
+  "generated_at": "2026-09-08T18:10:27.085066+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1443,6 +1443,16 @@
       "category": "other"
     },
     {
+      "id": "311e7ff3441c99d0",
+      "title": "LA Council votes to place sales-tax hike on ballot to fund LAFD - Los Angeles Daily News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFcyQ05nMkVOUk9Kdzd3YWltZHM1Vk1Fa2lzX28yNmptS0otX3dSaWJqMjN5MWQzUFZ6c0h1dU1INlc1bk5sam1XNF9PdDh0Sy10QUdBWVpDTmQzM3d2WklGYmhiZUtSX3NzbnY0eGFXVG5hYXEwdVo5ZWhOUDNWdUJkdko2N0pVeHFFeGwzUVBkcDlGOVBUVTlDOEY3Q3c?oc=5",
+      "source": "Los Angeles Daily News",
+      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFcyQ05nMkVOUk9Kdzd3YWltZHM1Vk1Fa2lzX28yNmptS0otX3dSaWJqMjN5MWQzUFZ6c0h1dU1INlc1bk5sam1XNF9PdDh0Sy10QUdBWVpDTmQzM3d2WklGYmhiZUtSX3NzbnY0eGFXVG5hYXEwdVo5ZWhOUDNWdUJkdko2N0pVeHFFeGwzUVBkcDlGOVBUVTlDOEY3Q3c?oc=5\" target=\"_blank\">LA Council votes to place sales-tax hike on ballot to fund LAFD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
       "id": "1a9fd7b67e426a82",
       "title": "Glendale could implement Airbnb rules this fall - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUc1OFI4Vzk3Y2hDRFc5bUdqMmJMRHpGenlJMzhQckoxaUVxTENieTBVdGR3eXpScjhQZ3RrMS1wdHMxMzUwTjZ2UTVaX1FNeXpiaEh6ajVSUmxtMDhCNXp6Yi1GMk1kdm9jSGdwV0d5ZjVQUmpDX1BBdjcyV3E0RGwtQk9HYXFfbm5hYVBjZUVKTVBsalVrbw?oc=5",
@@ -1641,6 +1651,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUt4akVnWFFmY285a1pyM3hxRk0xaWhqX0diM0t1ZEJKS08wTmJFMWdVYjBFS0VkR0g4NW5DZXF6OXJqUjU0bmE5N2FNUVVNY3pXakdYWjhUN2xqX0lIM292MGZ3VWtQMENyQ3hrX09NNkxmbWRSamRnZnR2eFVNVEIxOGthenlzblRlT0lVbWJ6U0hOWXNRckJfdjQ?oc=5\" target=\"_blank\">City Council Continues Measure ULA Exemption Proposals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "tax"
+    },
+    {
+      "id": "357e085d09f113dd",
+      "title": "L.A. County Considers By-Right Housing Ordinance for Unincorporated Communities - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkRjb3RXWE16MXhJOHFhTlpPbVk5VVdySnhFZ1pJTUVlSEI5Y1VxSDZ1OElRMUNjQXFuZ0ZQOTVTT2lJWFJ2SHVzaDRWb3pwYWxGUTA2M0VTMjYwZzVTblFxY2ZoeHA1X2stYm5jZG1za2psbC12OTFPbzFBUEZ3TGJCQVZVYjBra1Rxb2JaakZlSFhWYVNHSWh6NUh2bkFWTnc?oc=5",
+      "source": "Urbanize LA",
+      "published": "Tue, 16 Jun 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkRjb3RXWE16MXhJOHFhTlpPbVk5VVdySnhFZ1pJTUVlSEI5Y1VxSDZ1OElRMUNjQXFuZ0ZQOTVTT2lJWFJ2SHVzaDRWb3pwYWxGUTA2M0VTMjYwZzVTblFxY2ZoeHA1X2stYm5jZG1za2psbC12OTFPbzFBUEZ3TGJCQVZVYjBra1Rxb2JaakZlSFhWYVNHSWh6NUh2bkFWTnc?oc=5\" target=\"_blank\">L.A. County Considers By-Right Housing Ordinance for Unincorporated Communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
     },
     {
       "id": "072768f5f3367216",
@@ -1923,6 +1943,16 @@
       "category": "other"
     },
     {
+      "id": "6a0be72947e9f6dd",
+      "title": "Construction by Maya Urges Los Angeles Homeowners to Understand California ADU Rules Before Starting Fall 2026 Backyard Builds - WBOC TV",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOSjg2Ykl1M1h6Z08wajVMR3Q1Njh0cDdPamJBd0lZS2tPc18tWHpod2pKUzdmSkRIZlNiQWxSNkdMcEtEemdRUkVTQ2ppMTQ2Z3YxMGVEeDVvLWQ2TkU1LVBNSDBFTWthbHdzQkRrRU5MY3llN0NiLVE5dUdhMVFKaEZSSjNOTDhmMWx0ZFRwTFZIc3hxd3ZEbjRCRFBKZmk1WGFVVmlGaVdteWpIS0VYWHlQcklQVFJITnRGdlVHNU13YlQxV3VfenMyRnpweDl6d2VUMlZQN212LWtmdEJ1VHE2bDNlUGttd3l5dmZhWXBwT2tyYkw2YktnSnlkdVBtSXVtcUNTVjdydExETzJyZ01rWmJYZy1nc1VPSWdkTm5UM1UzSndNOTM5TEJPMWQ5?oc=5",
+      "source": "WBOC TV",
+      "published": "Tue, 08 Sep 2026 16:15:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxOSjg2Ykl1M1h6Z08wajVMR3Q1Njh0cDdPamJBd0lZS2tPc18tWHpod2pKUzdmSkRIZlNiQWxSNkdMcEtEemdRUkVTQ2ppMTQ2Z3YxMGVEeDVvLWQ2TkU1LVBNSDBFTWthbHdzQkRrRU5MY3llN0NiLVE5dUdhMVFKaEZSSjNOTDhmMWx0ZFRwTFZIc3hxd3ZEbjRCRFBKZmk1WGFVVmlGaVdteWpIS0VYWHlQcklQVFJITnRGdlVHNU13YlQxV3VfenMyRnpweDl6d2VUMlZQN212LWtmdEJ1VHE2bDNlUGttd3l5dmZhWXBwT2tyYkw2YktnSnlkdVBtSXVtcUNTVjdydExETzJyZ01rWmJYZy1nc1VPSWdkTm5UM1UzSndNOTM5TEJPMWQ5?oc=5\" target=\"_blank\">Construction by Maya Urges Los Angeles Homeowners to Understand California ADU Rules Before Starting Fall 2026 Backyard Builds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBOC TV</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
+    },
+    {
       "id": "0cf6e71f00bddad2",
       "title": "California will limit rent increases under bill signed by Gov. Gavin Newsom - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUJuU2IwRlBqYUQ4VUNqNlAwZ1ljeXRQUkdYZ2FqSXhDY0hLUjZ2WGdMMThYUWRaM2tnX3FiMnlzZHUxOGtyQ2diRDBNdERmaEdvalNKbjFXZXF2VWRtWllaLWFWY0E3dTZLSzNyWTF3Z19YazFwYWtWOC1QOGk1Z0c4YXNMTUpSbkQ5YTFCdTQtck1mbFJHcjJpcTNPQQ?oc=5",
@@ -1941,6 +1971,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd28wem1wRjFmUE5TRE9BV2p0WDBfSUNsY2ZUM3VVMWw5M3I3bWxMMWM4d2V1S19WdVllRHp1dXhrQkpmTVVKc1JhaFRSblI2ZFlvVFB3LUVsLWFrNV81a2hoNjFLWHhsYTJnSFM4bE5ZWF9YS0poUTFRS25CY210MnZ6cmtkYlJiUC16dURRWnJsamNwYWN4cTNwQ1dKTnNZMGxnQ1Q0elNoMk02Z0xmcC1qSGRWdXo1TWxBMzQ0dEJZaTZkd1FlSDBIX1RRMmJET24zWjZhdS1nRmdfX0E?oc=5\" target=\"_blank\">Landlord Groups File Lawsuit Against Los Angeles County Over Illegal Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
+    },
+    {
+      "id": "38043df9d4733ed8",
+      "title": "L.A.'s Eternal Eviction Moratorium - Reason Magazine",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56VlpOR0ZIMFZwV3U3cldVendjM1BCdzRwTjF0ank0RlM0VTNBVHpvc1BFSEZUc0NCNEo4NVVWc2FJTkFoQ28ta0gxMnNManBBOUdzdXNhSkVVX1RfajJWb25jc2x4T0R5WGQ2X1JRUkF6Zw?oc=5",
+      "source": "Reason Magazine",
+      "published": "Tue, 07 Jun 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE56VlpOR0ZIMFZwV3U3cldVendjM1BCdzRwTjF0ank0RlM0VTNBVHpvc1BFSEZUc0NCNEo4NVVWc2FJTkFoQ28ta0gxMnNManBBOUdzdXNhSkVVX1RfajJWb25jc2x4T0R5WGQ2X1JRUkF6Zw?oc=5\" target=\"_blank\">L.A.'s Eternal Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "7ecd615725d7a8a2",
@@ -2101,6 +2141,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2RWNndsYXBMUk04Q0Q4SFNYZEVqRDk5clFKMkJIb0d3M0o3Uy1VSTYxX3lnbnc5VEFwRjFyV2pzVlgza21MMzR0azl6QW9UdnFoSzl3d1J2VGhKRlJ2UlNlSFNRQ2c4YzJGRDhfWURxR2hmdDNQREFZMUU1Tm9BTA?oc=5\" target=\"_blank\">Do Eviction Moratoriums Violate the Contract Clause? – John O. McGinnis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Law & Liberty</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
+    },
+    {
+      "id": "e55b18f6c247b52b",
+      "title": "City Planning Commission approves Downtown Women's Center expansion - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDQ2YzBuUm85REdpeHpXQ3JEamktSVVPNXpBSVpzZ0w3RFBKOV9Mb1BRbEtjR1ZZQTFacTNodGt1WXJsNGNBNE51MDZwUDZ0QWRsdTI3NVBvamRlMml0SWgwdjNabEY5NGhXbHFIZE5VZThpUGVNODBJM1lnX0pHRWNEYVJRY3BZbkZKUXBoRVQ0YWhnMUR0aGEzLUU?oc=5",
+      "source": "Urbanize LA",
+      "published": "Thu, 30 Sep 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDQ2YzBuUm85REdpeHpXQ3JEamktSVVPNXpBSVpzZ0w3RFBKOV9Mb1BRbEtjR1ZZQTFacTNodGt1WXJsNGNBNE51MDZwUDZ0QWRsdTI3NVBvamRlMml0SWgwdjNabEY5NGhXbHFIZE5VZThpUGVNODBJM1lnX0pHRWNEYVJRY3BZbkZKUXBoRVQ0YWhnMUR0aGEzLUU?oc=5\" target=\"_blank\">City Planning Commission approves Downtown Women's Center expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
     },
     {
       "id": "5c57ea7b692a1769",
@@ -2583,6 +2633,16 @@
       "category": "zoning"
     },
     {
+      "id": "6e8b4abf96a8b9fc",
+      "title": "Tenants group crashed Berkeley party for end of eviction moratorium. Then things got ugly - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeVFfNVlxTUJLdEhHS2RSNEs3Y09TaXVBeWdlRi1HY2NTRXBIclJlMzNMX0c1S0dWRk9UOEVRNDYwMmZTRGhzM3d5b2hkTE1PNVpEVmxyb3ZSRHZYU1U5Z2dOTlFjLTNIZG41VEVuWC00X0E4TGNqNjlMRzFFVTJyS29Ba191cWVEWUNEWlBYRnpuYWxReDBXYUR2VThjd1NnOUVIa2ltVnZ5WHZuUHkwR3VIQ1U1ejBobHMyNHBEYVVyQnBZSlkzczhaM3p6WjdfNnpJZ19Tb1R6OGxUeGNSaGZYQ0JzVHdQLTZrbA?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Thu, 14 Sep 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeVFfNVlxTUJLdEhHS2RSNEs3Y09TaXVBeWdlRi1HY2NTRXBIclJlMzNMX0c1S0dWRk9UOEVRNDYwMmZTRGhzM3d5b2hkTE1PNVpEVmxyb3ZSRHZYU1U5Z2dOTlFjLTNIZG41VEVuWC00X0E4TGNqNjlMRzFFVTJyS29Ba191cWVEWUNEWlBYRnpuYWxReDBXYUR2VThjd1NnOUVIa2ltVnZ5WHZuUHkwR3VIQ1U1ejBobHMyNHBEYVVyQnBZSlkzczhaM3p6WjdfNnpJZ19Tb1R6OGxUeGNSaGZYQ0JzVHdQLTZrbA?oc=5\" target=\"_blank\">Tenants group crashed Berkeley party for end of eviction moratorium. Then things got ugly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "d6806c44a9784bbf",
       "title": "The Facts About Measure A - LA County Homeless Services & Housing (.gov)",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52OHJOWERUMExFWjJtak5ESHF5bnFwcnpIczhNXzJhblpwbFpwckoyQm5MVkVaOEU4eE1JRVpoU3dTUnJ6TmotcHh3a1JEM2ZkZ0VTMkFvVGVjSzlGVy1KRXpmblQ2MnJRU2ZuMURn?oc=5",
@@ -2761,6 +2821,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9YeDRHRVNZSHFGejhNeGotbWR3Y3ZRT05MdzQ4b2tYeWY3VVlGSUZaeHNXUmFyQW1LM3FhYTZ4TVlqVjhGZG0xMGE5Y2tfMjdBMXNKa050YmZmRUxaOW1KT0dCdmp3UjE2TE1YZWNsX2RCZw?oc=5\" target=\"_blank\">YIMBY Law Sues Governor over SB 9 Suspension in Los Angeles Fire Zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "f2e216ab6f7f78cd",
+      "title": "City Planning Commission Rejects Appeals of Four TOC Developments - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG4yNEpKTG1GeFdJeTdXNlJ1MVhkNmJhOFh4eHJfYTFJM29ZbUJQNFc4QWhYZUVNU204dGZ3OUhqaVl5dHlOc1p3TFFSdjJxMW9LZjVXdXNjeUM4Y280MHZHX1NQb3g0VFBJV1I4cnNKMnpMTkVON19OY1dJeW1EczRscnJ4SER5X3hqbGpfOVhNbXZfQ2ZN?oc=5",
+      "source": "Urbanize LA",
+      "published": "Thu, 11 Apr 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG4yNEpKTG1GeFdJeTdXNlJ1MVhkNmJhOFh4eHJfYTFJM29ZbUJQNFc4QWhYZUVNU204dGZ3OUhqaVl5dHlOc1p3TFFSdjJxMW9LZjVXdXNjeUM4Y280MHZHX1NQb3g0VFBJV1I4cnNKMnpMTkVON19OY1dJeW1EczRscnJ4SER5X3hqbGpfOVhNbXZfQ2ZN?oc=5\" target=\"_blank\">City Planning Commission Rejects Appeals of Four TOC Developments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "legal"
     },
     {
       "id": "3d41d04d6a325d1e",
@@ -3713,6 +3783,16 @@
       "category": "rent"
     },
     {
+      "id": "ee6dd62a33768c14",
+      "title": "Santa Ana Residents Say Landlords Are Evicting Them Ahead of New State Law, City Council Balks on Emergency Tenant Protections - Voice of OC",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMm9KLXlfRDFiaXF6T3JDM2ZzWURkdk9CeE1oTGg1cW16WXk2RkUwbWZJcGM3Und0SEFLd0ZpY0E5WUdpb3hTWnU5bkx6YkxBdFI5ZGpnZlg0anRyUjkxSjZMWFdIa2VBRmRtY1lwUlRwZW1kWG5QNG85NDJKZl9xNThyVnhVdld0d2hVZGg2WWp3eE5rWXYwdl8tNkxoQ2Z3LXdsYXVEQXQ3Y01ZUnFISmJlVE01NWJFclVPSEhrSS1rNWtBeTgySTB1ZzhBeHdNazZzUldvV2dGbzNwSDFDc2hwZlVjd09pakZR?oc=5",
+      "source": "Voice of OC",
+      "published": "Mon, 18 Nov 2019 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMm9KLXlfRDFiaXF6T3JDM2ZzWURkdk9CeE1oTGg1cW16WXk2RkUwbWZJcGM3Und0SEFLd0ZpY0E5WUdpb3hTWnU5bkx6YkxBdFI5ZGpnZlg0anRyUjkxSjZMWFdIa2VBRmRtY1lwUlRwZW1kWG5QNG85NDJKZl9xNThyVnhVdld0d2hVZGg2WWp3eE5rWXYwdl8tNkxoQ2Z3LXdsYXVEQXQ3Y01ZUnFISmJlVE01NWJFclVPSEhrSS1rNWtBeTgySTB1ZzhBeHdNazZzUldvV2dGbzNwSDFDc2hwZlVjd09pakZR?oc=5\" target=\"_blank\">Santa Ana Residents Say Landlords Are Evicting Them Ahead of New State Law, City Council Balks on Emergency Tenant Protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Voice of OC</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "a29cedd63097af63",
       "title": "Here are the candidates for LA City Council District 5 - LA Public Press",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVdiOTFYMlZaRlNiTF9vVTdBY2Q5SWE5Y1pwZ1ppcVRub0JMc2daNFoycjNGX1pqMEpsWC1JZTRWbXJIamg5OUVJV3FlUHN3akY3Z0tLZ01KY3Zoa2FIY3h6aUt6TXhnSktkVUU2RlR6MGlZdENMMEdraV9nSzk3MHJxTmx4cHJK?oc=5",
@@ -3731,6 +3811,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVhJS3FPSzVHMVFvQm9LbmpDN2lkdjRmODVvekZiLXYxVnE2Q0NmWWkzWmJxajRHVGJCVzZTSVlGNUVMNERlbUlYMmZOdWEwV0E4dFRuakVadlBHODNXVl9LS2ZhNnBsQnRLNkdmV2R3V3EyRllJaFRqd18ybDhVaXV2MThKcW8?oc=5\" target=\"_blank\">Mixed-use project approved at 825 S. Hampton Dr. in Venice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "b12806e63ecc1cc9",
+      "title": "LA’s Eviction Moratorium Holds As Supreme Court Refuses To Hear Landlords’ Challenge - LAist",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVTFpX2dnQlFydlp4UUhvNnRsRXRKOTcwNWVEcFBmWGdVUDlfWFNDY3VmaVJXUEVCRloydngzNHRVX3E5c0E3UFNINFZyb3MzNDhyNWZFS0VMaWhPUGdyWldvWXRaZGk0NC1jMWRSZGJwaGxoRFZuMGI3bXYxSEhZd1Y5ZG95bktfcURxSVYxd0pzNkFzY3FhVEx0S2tjeHFwQ0JsU05nOXZWclZfNUdTN0NMQ2lyNmlyR3BTNkFZV29QMEwt?oc=5",
+      "source": "LAist",
+      "published": "Mon, 18 Apr 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPVTFpX2dnQlFydlp4UUhvNnRsRXRKOTcwNWVEcFBmWGdVUDlfWFNDY3VmaVJXUEVCRloydngzNHRVX3E5c0E3UFNINFZyb3MzNDhyNWZFS0VMaWhPUGdyWldvWXRaZGk0NC1jMWRSZGJwaGxoRFZuMGI3bXYxSEhZd1Y5ZG95bktfcURxSVYxd0pzNkFzY3FhVEx0S2tjeHFwQ0JsU05nOXZWclZfNUdTN0NMQ2lyNmlyR3BTNkFZV29QMEwt?oc=5\" target=\"_blank\">LA’s Eviction Moratorium Holds As Supreme Court Refuses To Hear Landlords’ Challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "legal"
     },
     {
       "id": "e8075427c7606aa2",
@@ -4911,96 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPbzk3YWFzTUh2M0tQVE1WbzdQMTFwZVlGNE5kY3NMZE9YVnRaRnZjQk1ZUVpONkszbDIzRzFpY3VDbC1sTlF2YkpzUk5ScGpjYnNVX3NKWW1ZcjJ6WVE3cUtJdzl3aEtqRWltb0xuVDJITFVxSmFnUktOZHNIelFySGhHWGQ4V19PLWpwZ0Jueno5RWpqcFNxS0FrYVNONXY0QjhJZnkzaG50bEtjNDVUckIzQmNfdXN4d09sYg?oc=5\" target=\"_blank\">Planning Commission OKs self-storage site despite environmental objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Long Beach Post</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "ae2de244614a5a73",
-      "title": "LA City Council clears way for expedited Olympics construction projects - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREFDQ05yZnBwWk84SGpoQ2lHOTAxU29JcDRON0FiSVcwM0VSM0dsTHhfOFFZcjk3STl3cnA5dk5IandjRmZmMmU0eEZabGdvc1kxNkx0eklldUdLeGFaM3o0cm1hYnU0WGRXdmFROUI3QW9LQWFrZnV6Y3RMUjNOVWNuekQ0bDk5N0VqZnUyQ3M5MXhSOVFVVjVCQQ?oc=5",
-      "source": "The Real Deal",
-      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOREFDQ05yZnBwWk84SGpoQ2lHOTAxU29JcDRON0FiSVcwM0VSM0dsTHhfOFFZcjk3STl3cnA5dk5IandjRmZmMmU0eEZabGdvc1kxNkx0eklldUdLeGFaM3o0cm1hYnU0WGRXdmFROUI3QW9LQWFrZnV6Y3RMUjNOVWNuekQ0bDk5N0VqZnUyQ3M5MXhSOVFVVjVCQQ?oc=5\" target=\"_blank\">LA City Council clears way for expedited Olympics construction projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "policy"
-    },
-    {
-      "id": "246df86ba11238e9",
-      "title": "Fountain Valley denies zoning amendment for high-density housing project - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEQ1RjZtLUdvbW05X1pvWGp1UWJYYVBnR25OSFRjY1d3N2JleUdqZzZrWlN3MkxmaGpmS01xUVFiWFpsaXUtZWF4QWRXQnlMV2J0dEZrejhzcElQWTdHbFZVWEdKdGxaWUs5WUhNOS1sOS1QREsxdmRHSnRjOThWVkpEdFNlNFVsNzdrckVyWDY4bll6TTEwV3Z1M3hELTdxdU5lN0UzVUZVU0tDNjhyWXRDTFpWWFRESHF5V2VZMnc1NUNnc2c0RWNCMlFpZw?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEQ1RjZtLUdvbW05X1pvWGp1UWJYYVBnR25OSFRjY1d3N2JleUdqZzZrWlN3MkxmaGpmS01xUVFiWFpsaXUtZWF4QWRXQnlMV2J0dEZrejhzcElQWTdHbFZVWEdKdGxaWUs5WUhNOS1sOS1QREsxdmRHSnRjOThWVkpEdFNlNFVsNzdrckVyWDY4bll6TTEwV3Z1M3hELTdxdU5lN0UzVUZVU0tDNjhyWXRDTFpWWFRESHF5V2VZMnc1NUNnc2c0RWNCMlFpZw?oc=5\" target=\"_blank\">Fountain Valley denies zoning amendment for high-density housing project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
-    },
-    {
-      "id": "244a4dca43b76d05",
-      "title": "Davidovich Stone Law Group Presents at AAGLA on Landlord Portfolio Protection - newswire.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1cta0ptZ0s1WmZnWjlrSGZYaHgzMDFvSHBxRWExbGxrWlh1TnQ3YW9pcmljMk4tVW1ZWnc5YnhJamkxY2Y0eFVfLTE0ZkdaSGxDc1JMVjdDMUgxMWZ3dFlpcGt2ejRZdVkwekNJTFRaQ3E1ZDJqZ3lYUldHWF9ndThwVmVVdktUVDhDcTJ1Yjk0MXBtQXpmaDdtUjh4QzZUX01Qekh4R3o?oc=5",
-      "source": "newswire.com",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1cta0ptZ0s1WmZnWjlrSGZYaHgzMDFvSHBxRWExbGxrWlh1TnQ3YW9pcmljMk4tVW1ZWnc5YnhJamkxY2Y0eFVfLTE0ZkdaSGxDc1JMVjdDMUgxMWZ3dFlpcGt2ejRZdVkwekNJTFRaQ3E1ZDJqZ3lYUldHWF9ndThwVmVVdktUVDhDcTJ1Yjk0MXBtQXpmaDdtUjh4QzZUX01Qekh4R3o?oc=5\" target=\"_blank\">Davidovich Stone Law Group Presents at AAGLA on Landlord Portfolio Protection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newswire.com</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
-    },
-    {
-      "id": "448c49a9b052ad6f",
-      "title": "Opinion | This anti-tax ballot measure could sap local housing funds. California lawmakers need to act - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93V3Eybk8zZTh4MGdXRkg3OVdkdk5nVDhkQ01GaU03T3hKUndYZWNxZ0NIaWEtMFp1MlEyZmZvR081UEV2V21oSkVGYlM5cm56RUlPU0pQS2NMazBTVHlZOUdDQTFZVFV0V0h2NGtvQ2NKR3NncVZDY0hrUGhpQmc?oc=5",
-      "source": "CalMatters",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE93V3Eybk8zZTh4MGdXRkg3OVdkdk5nVDhkQ01GaU03T3hKUndYZWNxZ0NIaWEtMFp1MlEyZmZvR081UEV2V21oSkVGYlM5cm56RUlPU0pQS2NMazBTVHlZOUdDQTFZVFV0V0h2NGtvQ2NKR3NncVZDY0hrUGhpQmc?oc=5\" target=\"_blank\">Opinion | This anti-tax ballot measure could sap local housing funds. California lawmakers need to act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "other"
-    },
-    {
-      "id": "be46486382eebe1a",
-      "title": "LA approves upzoning to kick more drastic SB 79 down the road - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1B2UGdBd0FfNWpMQjdaQVd3S29YYjJ4by1JMWR2WDZNenNNLUU3T3drSzZUTXgtRGdDNEJCOUwzYmNSLWdKT254VUpXYk9OcW9Bd1oxNzNod0psUTlZWGlTX19vX2Q4NElPRUc1MmdESFRUeF95UmQ2bUdRaW9wRWZ5cDBDcVJKdnF6Z2ln?oc=5",
-      "source": "The Real Deal",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1B2UGdBd0FfNWpMQjdaQVd3S29YYjJ4by1JMWR2WDZNenNNLUU3T3drSzZUTXgtRGdDNEJCOUwzYmNSLWdKT254VUpXYk9OcW9Bd1oxNzNod0psUTlZWGlTX19vX2Q4NElPRUc1MmdESFRUeF95UmQ2bUdRaW9wRWZ5cDBDcVJKdnF6Z2ln?oc=5\" target=\"_blank\">LA approves upzoning to kick more drastic SB 79 down the road</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "zoning"
-    },
-    {
-      "id": "f1e7c5683b82f516",
-      "title": "LA ADU Story: How a State Law Sent Granny Flats off the Charts - Sightline Institute",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDFHeEo4ci1PR21FWU5VMVk3ZW5oZE5GZDNjVE5uNFVyVFFQeGpoX3A1TldaSDh0b29ScVJJRlFBSzFtNEp2Z2lSb1dyS3BKbFNORGlacUQxdnN6dURzT2NtNVRaZ0g2eWFrX0hEY0FfS1VNeUVDVUxfUG82T1pLOXU5VXRoaHp5MTBXN2Rsd1FlbkQwWGtMMlJMWVpKYlJm?oc=5",
-      "source": "Sightline Institute",
-      "published": "Fri, 05 Apr 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDFHeEo4ci1PR21FWU5VMVk3ZW5oZE5GZDNjVE5uNFVyVFFQeGpoX3A1TldaSDh0b29ScVJJRlFBSzFtNEp2Z2lSb1dyS3BKbFNORGlacUQxdnN6dURzT2NtNVRaZ0g2eWFrX0hEY0FfS1VNeUVDVUxfUG82T1pLOXU5VXRoaHp5MTBXN2Rsd1FlbkQwWGtMMlJMWVpKYlJm?oc=5\" target=\"_blank\">LA ADU Story: How a State Law Sent Granny Flats off the Charts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sightline Institute</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "adu"
-    },
-    {
-      "id": "525e29d3f91c26c0",
-      "title": "LA Council Approves Name Change for Pershing Square - MyNewsLA.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnVPOEpna2VwVGZhN25hal9XWDJxZWNGTEwtbEVHbjdQbFJUelpZMl9HdUNJbkJVdkVyb21iOGFxZlZWcDd2UUNHX05OVTBodVlUM3dWWTJmU09FMXBLNURoVkxNZlhWOFYzalhmUnVIQVdPQzVxTVFRc1dIblFWbE41MF92ZWowUmUzUldaNFlmNTBzMXRxdFExZmh1UEpuOEY0?oc=5",
-      "source": "MyNewsLA.com",
-      "published": "Fri, 04 Sep 2026 22:32:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnVPOEpna2VwVGZhN25hal9XWDJxZWNGTEwtbEVHbjdQbFJUelpZMl9HdUNJbkJVdkVyb21iOGFxZlZWcDd2UUNHX05OVTBodVlUM3dWWTJmU09FMXBLNURoVkxNZlhWOFYzalhmUnVIQVdPQzVxTVFRc1dIblFWbE41MF92ZWowUmUzUldaNFlmNTBzMXRxdFExZmh1UEpuOEY0?oc=5\" target=\"_blank\">LA Council Approves Name Change for Pershing Square</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "a3b032d4aa1a7d14",
-      "title": "Davidovich Stone Law Group Defeats City of Los Angeles in Court and Forces LAHD to Remove RSO Designation from Property After Agency Refuses to Correct Its Own Error - Lawyer Herald",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd21kN2NUeXAwZFRZbXpUc0RVdkhJUjNSb25LdEVMbXlfWVBFRXBiSmtqQnVBMTNMR3hjakV1Um1iM19qNnZoOFZIWVdCNVBMUnVMekJ1cEtSdllxQzE2VTlGY0xuakEtMDVRVXJOSXM4b1NuVTJfNkdMUGZEMXptczh2S2xlNmFPVDFjZjVJaXdpN2hUbXU0TF9qWjJoaGwtRXpZaEwtWWFUZmFQV1Z5SjFqNWhDYWlFZ3k4S2lYbVJCeEMwekRjNDZDMkkzcC1ybEJIakNRcUM2XzdZbnVmZ0NtOA?oc=5",
-      "source": "Lawyer Herald",
-      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd21kN2NUeXAwZFRZbXpUc0RVdkhJUjNSb25LdEVMbXlfWVBFRXBiSmtqQnVBMTNMR3hjakV1Um1iM19qNnZoOFZIWVdCNVBMUnVMekJ1cEtSdllxQzE2VTlGY0xuakEtMDVRVXJOSXM4b1NuVTJfNkdMUGZEMXptczh2S2xlNmFPVDFjZjVJaXdpN2hUbXU0TF9qWjJoaGwtRXpZaEwtWWFUZmFQV1Z5SjFqNWhDYWlFZ3k4S2lYbVJCeEMwekRjNDZDMkkzcC1ybEJIakNRcUM2XzdZbnVmZ0NtOA?oc=5\" target=\"_blank\">Davidovich Stone Law Group Defeats City of Los Angeles in Court and Forces LAHD to Remove RSO Designation from Property After Agency Refuses to Correct Its Own Error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lawyer Herald</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "legal"
-    },
-    {
-      "id": "b886b85251c4d367",
-      "title": "L.A. City Council Approves $2B Downtown Housing Development - LAmag",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmRhR1J1VkM1M1ZQSFI1MEVaWGpueEptRTFQQ1FEcHhoTGZ3U1k0aXlsdk4zT2dBRlBPc2lDV3BVSFRXd29YbEtWUVZ4b3MzUmNTTzA1a2JPclhuWW5DaDJxQWwtOWVsbnRWT2F1SEZ4cUI4WmRPUnZwSUxFX3BxSTFqNUYzYk5YZVlVVFM2YmJwX3AzVUdKTEphMGpMRGhmaE1pOXBoT0VhX29VeG1UT2tYd21OcVFRZDdXVw?oc=5",
-      "source": "LAmag",
-      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmRhR1J1VkM1M1ZQSFI1MEVaWGpueEptRTFQQ1FEcHhoTGZ3U1k0aXlsdk4zT2dBRlBPc2lDV3BVSFRXd29YbEtWUVZ4b3MzUmNTTzA1a2JPclhuWW5DaDJxQWwtOWVsbnRWT2F1SEZ4cUI4WmRPUnZwSUxFX3BxSTFqNUYzYk5YZVlVVFM2YmJwX3AzVUdKTEphMGpMRGhmaE1pOXBoT0VhX29VeG1UT2tYd21OcVFRZDdXVw?oc=5\" target=\"_blank\">L.A. City Council Approves $2B Downtown Housing Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
     }
   ]
 }
