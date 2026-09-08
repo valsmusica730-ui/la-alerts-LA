@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T01:17:18.548340+00:00",
-  "total": 476,
+  "generated_at": "2026-09-08T02:38:39.330965+00:00",
+  "total": 477,
   "alerts": [
     {
       "id": "92da29c40dad4ec4",
@@ -4281,6 +4281,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXVQVlViS0w1Tjhpdm1YZXBmbF9BY19fM0JsZGVWNXRrM0wtcmJObTNNZkQtcFlFeFc1bE5rZ1JUMjRnY1ZTQkJDSGpXRnEzMTJZU3ctazBxdGhyZHJNd0ZlaW5WWGRhNjJ0STJDZEdYcWgwZTJMWVBVM3psenBzWUF5X0ZLeEtrUlk2Ml9LZ3M?oc=5\" target=\"_blank\">With deadline looming, L.A. City Council is set to vote on new tenant protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "b51543d9756dd322",
+      "title": "LA City Council Votes To Expand Tenant Rights As COVID-19 Protections Are Set To End - LAist",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN0FrNnZaWWlxU2gtbU82b3lsWlVBcm5UWTZvdExIQjNjb21ONXRReHZtb3Zqdm1zMTRxbUR0QWVwRzJaQ2djUl9UTHJPQkxzbHJxNHF6eDI1bWFsTGJqdXIwVDRZbnZXTlBROXRHQ1ljUVktdFdrcXZ0MDBMX3I3WkpPOFYzOE1LaHRFQzdKS1lXQkJZSEJOUllFb3dpOWs0cFhrS092dnVqTXRhbjJCejdKckhZU1ZtbmFGbWx4c0JqUXNKX25DRy1tYWU3YWlnZlNKMHFWRWRTNFo4M1FwbXRtemJieFJNaVlaRFhVZm01VVpOMlR3bUN3RnJDVkxzSEpXM3VNd29nTFdmUlE?oc=5",
+      "source": "LAist",
+      "published": "Fri, 20 Jan 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQN0FrNnZaWWlxU2gtbU82b3lsWlVBcm5UWTZvdExIQjNjb21ONXRReHZtb3Zqdm1zMTRxbUR0QWVwRzJaQ2djUl9UTHJPQkxzbHJxNHF6eDI1bWFsTGJqdXIwVDRZbnZXTlBROXRHQ1ljUVktdFdrcXZ0MDBMX3I3WkpPOFYzOE1LaHRFQzdKS1lXQkJZSEJOUllFb3dpOWs0cFhrS092dnVqTXRhbjJCejdKckhZU1ZtbmFGbWx4c0JqUXNKX25DRy1tYWU3YWlnZlNKMHFWRWRTNFo4M1FwbXRtemJieFJNaVlaRFhVZm01VVpOMlR3bUN3RnJDVkxzSEpXM3VNd29nTFdmUlE?oc=5\" target=\"_blank\">LA City Council Votes To Expand Tenant Rights As COVID-19 Protections Are Set To End</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "policy"
     },
     {
       "id": "b90b97065f02cb3e",
