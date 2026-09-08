@@ -62,8 +62,8 @@ def _save_alerts_history(alerts: list[dict]) -> None:
 
 def main() -> int:
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
-    if not token or not chat_id:
+    chat_ids = [cid.strip() for cid in os.environ.get("TELEGRAM_CHAT_ID", "").split(",") if cid.strip()]
+    if not token or not chat_ids:
         print("ERROR: faltan TELEGRAM_BOT_TOKEN o TELEGRAM_CHAT_ID", file=sys.stderr)
         return 1
 
@@ -101,7 +101,7 @@ def main() -> int:
         return 0
 
     if new_relevant:
-        notifier = TelegramNotifier(token=token, chat_id=chat_id)
+        notifier = TelegramNotifier(token=token, chat_ids=chat_ids)
         ok = notifier.send_batch(new_relevant)
         if not ok:
             print("Envío falló. No se marca como visto para reintentar la próxima hora.",

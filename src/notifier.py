@@ -23,9 +23,9 @@ CATEGORY_EMOJI = {
 
 
 class TelegramNotifier:
-    def __init__(self, token: str, chat_id: str):
+    def __init__(self, token: str, chat_ids: list[str]):
         self.token = token
-        self.chat_id = chat_id
+        self.chat_ids = chat_ids
 
     def _format_item(self, item: dict) -> str:
         title = html.escape(item.get("title", "").strip())
@@ -35,11 +35,11 @@ class TelegramNotifier:
         emoji = CATEGORY_EMOJI.get(cat, "📄")
         return f'{emoji} <a href="{link}">{title}</a>\n   <i>{source}</i>'
 
-    def _send(self, text: str) -> bool:
+    def _send(self, text: str, cid: str) -> bool:
         url = TELEGRAM_API.format(token=self.token)
         try:
             resp = requests.post(url, json={
-                "chat_id": self.chat_id,
+                \"chat_id\": cid,
                 "text": text,
                 "parse_mode": "HTML",
                 "disable_web_page_preview": True,
@@ -60,7 +60,7 @@ class TelegramNotifier:
             header = (f"🏛️ <b>Alertas normativa LA — Real Estate</b>\n"
                       f"<i>{len(chunk)} novedades</i>\n\n")
             body = "\n\n".join(self._format_item(it) for it in chunk)
-            if not self._send(header + body):
+            for cid in self.chat_ids:`n                if not self._send(header + body, cid):
                 all_ok = False
         return all_ok
 
