@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T05:25:41.006331+00:00",
-  "total": 496,
+  "generated_at": "2026-09-08T10:13:47.829337+00:00",
+  "total": 498,
   "alerts": [
     {
       "id": "92da29c40dad4ec4",
@@ -3053,6 +3053,16 @@
       "category": "tax"
     },
     {
+      "id": "5ca4e69267a6890e",
+      "title": "Hearing on 4th & Central Project Postponed - Rafu Shimpo",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44aWhRa0pOTm85QmZKTkE0UW1wWWJ3RzNOdmQ3ekxSM2RXTjY3T3dQOERDbDVJMTR4TzNLRXh5c0YzUkpZb01GUEc2M1psNGctOHlzZzE3Ry1xbkJKY1piMlBlakpUNTZMdlVvN2lBYmxZRFg2?oc=5",
+      "source": "Rafu Shimpo",
+      "published": "Sun, 12 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE44aWhRa0pOTm85QmZKTkE0UW1wWWJ3RzNOdmQ3ekxSM2RXTjY3T3dQOERDbDVJMTR4TzNLRXh5c0YzUkpZb01GUEc2M1psNGctOHlzZzE3Ry1xbkJKY1piMlBlakpUNTZMdlVvN2lBYmxZRFg2?oc=5\" target=\"_blank\">Hearing on 4th & Central Project Postponed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rafu Shimpo</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
+    },
+    {
       "id": "c5179e9b8dc29f55",
       "title": "LADBS: Helping restaurateurs navigate the permitting process - lacity.gov",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEctSGxJUFpPZTdDNmlqS1ZXa2NsUlJEdmZvM3ZsNW04dkZibU9yRmJSMTVHYzdaclQ4V1NtRFFDRGRoYWZteTNTSThoVm9uLTlDZHRtdmR4ZHVjTnVvZGd6Q3h2U2VMWncxM0ltS0JXREh4R1BRUUhKLVc4X3BETWc2dThOQQ?oc=5",
@@ -3991,6 +4001,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHBQenQ0YUF0U2h5WUxvN21kX042aTJ0MFFrdTdpYW1lUVBXMnRjM0RYMlZqSDZQRzB4TVlHN1pLc0NaUm1rbkw5V2M1cW5SNmQzMU1MaUVQaVVEejM3cWdYb2lpWTNVNGN1MGRFeHA5MG9RWjVqRUE2dGJUelRfdFctQjBTMmRHdXNwaHRkUE1JaFNkUHRCSVkxWnlhb2xBTDluWg?oc=5\" target=\"_blank\">Op-Ed: West Hollywood’s inclusionary housing update misses the economic moment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
+    },
+    {
+      "id": "a8168cda40217a11",
+      "title": "“It’s about time”: Landlords react to end of LA County moratorium - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTF9DZ0pEc1RtWUM0WWhPX2N3dzUxWjdQdDdIQWJRcDBQeXVIUU80eHhBYXFpLXc4bV9rcXBNR0N5a1FCZkRrekItZG9PbTQ3aVBRMmVZRmVVcmxjZ0wzbTJWUEQ1NkRIVVFKbkNfcE1NSWxnV0JBR041cHNyb1dBV0JCdmxWSjVBQ3ZYRjRMSDkxY0hGbFd3VlRlM3hob0plUlE?oc=5",
+      "source": "The Real Deal",
+      "published": "Mon, 03 Apr 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTF9DZ0pEc1RtWUM0WWhPX2N3dzUxWjdQdDdIQWJRcDBQeXVIUU80eHhBYXFpLXc4bV9rcXBNR0N5a1FCZkRrekItZG9PbTQ3aVBRMmVZRmVVcmxjZ0wzbTJWUEQ1NkRIVVFKbkNfcE1NSWxnV0JBR041cHNyb1dBV0JCdmxWSjVBQ3ZYRjRMSDkxY0hGbFd3VlRlM3hob0plUlE?oc=5\" target=\"_blank\">“It’s about time”: Landlords react to end of LA County moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "ba0d175846bfefe7",
