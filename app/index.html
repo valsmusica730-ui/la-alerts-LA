@@ -107,8 +107,8 @@
         </div>
 
         <!-- Filter controls -->
-        <div class="filters-header" style="display: flex; justify-content: space-between; align-items: center; margin-top: var(--space-md);">
-          <div class="filters-bar" id="filters-bar" style="margin-top: 0; padding-top: 0; padding-bottom: 0;">
+        <div class="filters-header" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; align-items: center; margin-top: var(--space-md);">
+          <div class="filters-bar" id="filters-bar" style="margin-top: 0; padding-top: 0; padding-bottom: 0; flex: 1; min-width: 0;">
 
           <button class="chip active" data-filter="all">
             Todas
@@ -142,7 +142,7 @@
             Legal
           </button>
         </div>
-        <select id="date-filter" class="date-filter" style="padding: 0.4rem 1rem; border-radius: var(--radius-full); border: 1px solid var(--glass-border); background: var(--glass-bg); font-family: inherit; font-size: var(--font-xs); font-weight: 600; color: var(--text-secondary); outline: none; cursor: pointer; margin-left: auto;">
+        <select id="date-filter" class="date-filter" style="padding: 0.4rem 1rem; border-radius: var(--radius-full); border: 1px solid var(--glass-border); background: var(--glass-bg); font-family: inherit; font-size: var(--font-xs); font-weight: 600; color: var(--text-secondary); outline: none; cursor: pointer; margin-left: auto; flex-shrink: 0;">
           <option value="all">Cualquier fecha</option>
           <option value="today">Hoy</option>
           <option value="week">Esta semana</option>
