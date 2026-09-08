@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T02:38:39.330965+00:00",
-  "total": 477,
+  "generated_at": "2026-09-08T05:25:41.006331+00:00",
+  "total": 496,
   "alerts": [
     {
       "id": "92da29c40dad4ec4",
@@ -101,6 +101,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdFVJZDV0X3B6MGw5X3dBVHowNk1wWmk2VWdkb3FISllpallEUVVvTS1wRGVBZDBtaDU1eWdGelBieElKeVhJX3VtVHl4ZDh3ZkJXdHdHeU8wN3NTMktjOExRblZJaUVQdDJXRnpOcHpQSUlEVHE5bWV6akFTWjJKR3lmWXUwQWE5b3ZXdtIBlAFBVV95cUxPTldPb05UNXZxUDJRcng2LTNoLVBNem95eFpuN2JvNXkyNEdzdWlQb29odkNSeERIRW95RXB4NEZTOWVXVVZ1dzE0VTB3TzdteUlPWkRXel94LU9WWnBkTldtVF8tRDQ2T3ZlM3hRc2p4dXBvUDNZYUtVeEtlVVJzVXN5ZlhvWnBYSHJBUnVxczdJczlI?oc=5\" target=\"_blank\">A closer look at LA's Council District 11 race: Meet your candidates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "adu"
+    },
+    {
+      "id": "b336265af1107036",
+      "title": "LA's Next Mayor Could Kill — Or Save — Measure ULA. Here's Where The Candidates Stand - Bisnow",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzVFYnE0dkJhNkp6dWNnNHVzQlFLbzNyYnFMZ3g3VG1fN19IY2UtQnRQOVFCeWM4TWJ1ZzM2X2VfQmp2REdCVUZwcDZzWDNLVUVCd0I2UmhpN0hMdGZYSVhsTFRPR0Y0UlA2dGNrQWtsYm9GQU1FNjhFallCMWRtUDhwUVpWcnVnMy0ybjhQQnBLTDRxdTBYVHNqalp2UUdEUGlrSmR5MWVjWjRKeFFDcnhYQUh0bjg2NFdZ?oc=5",
+      "source": "Bisnow",
+      "published": "Wed, 27 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzVFYnE0dkJhNkp6dWNnNHVzQlFLbzNyYnFMZ3g3VG1fN19IY2UtQnRQOVFCeWM4TWJ1ZzM2X2VfQmp2REdCVUZwcDZzWDNLVUVCd0I2UmhpN0hMdGZYSVhsTFRPR0Y0UlA2dGNrQWtsYm9GQU1FNjhFallCMWRtUDhwUVpWcnVnMy0ybjhQQnBLTDRxdTBYVHNqalp2UUdEUGlrSmR5MWVjWjRKeFFDcnhYQUh0bjg2NFdZ?oc=5\" target=\"_blank\">LA's Next Mayor Could Kill — Or Save — Measure ULA. Here's Where The Candidates Stand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "tax"
     },
     {
       "id": "f8f1b8e58e7756d0",
@@ -451,6 +461,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPYmpqWnVHTEhKRTJYVHdISmJWczhxa0VhQUVnMHltNGtMSmpNS2ZITFJyckNfTUlBNXJJSHM4cE9nbzR5b0ZfR0R3RHRvQlNKM2J1TlNlZWh4RllHUEhQT1E0Wldvc2VyckJoRm9iV0duZ054QTIyTmdkZWQyMmlhSG5zdVlBTk9TOUhOZzI0cU1VcnhXNlRqZDRWOTFDT1BsUDI2eXFmRQ?oc=5\" target=\"_blank\">Planning Commission Affirms Studio City Apartment Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Business Journal</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "377448ca6278b34b",
+      "title": "Inside the Vision for Downtown LA’s $2 Billion ‘Urban Village’ - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXZ0OE9vSUVhLUp4QnZZYV85dGdNamRmQ2lYRGJqVEx6ZXRWTk9WV3NJRV9va3N6and3MnRCRHpmcTB6SWhZV1ZvekI0ZEpsaHpSUzdTT3MzVUlWdi1TTjV1SHJVanVscjNwVHV5SEthd2ZDRDdtR0YzSjNpdjVNZk5WRGEyaDBfZW9TeUl1V2RqWXY5bk5Sc1BUbEZESWpv?oc=5",
+      "source": "Newsweek",
+      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXZ0OE9vSUVhLUp4QnZZYV85dGdNamRmQ2lYRGJqVEx6ZXRWTk9WV3NJRV9va3N6and3MnRCRHpmcTB6SWhZV1ZvekI0ZEpsaHpSUzdTT3MzVUlWdi1TTjV1SHJVanVscjNwVHV5SEthd2ZDRDdtR0YzSjNpdjVNZk5WRGEyaDBfZW9TeUl1V2RqWXY5bk5Sc1BUbEZESWpv?oc=5\" target=\"_blank\">Inside the Vision for Downtown LA’s $2 Billion ‘Urban Village’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
     },
     {
       "id": "262022460c2f562f",
@@ -1373,6 +1393,16 @@
       "category": "policy"
     },
     {
+      "id": "690dae598fef385e",
+      "title": "LA Council Confirms Beatrice Hsu to Harbor Commission - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVJtVTZmY0kzRHpYSHpmT1pveDU3OF96Z2NnYTVLWmNJVDUxMW9oWXBPUGQ4M3JKN1BfbVBtYi1LRWZFUXl6WXUyWUpsUGhTUDdQLWRkOHpzRkRsMzk5a2NfeXVrRDM2bkttNzJGX182cFhtbW5JY3FCRml6QlBpM3ZnLU4zRllrcjNUWmtRa3NfU3h5X1NEYUpadjhOZk5naWFYN1hOcUNmMVkwd3ZnQjE3Rmg?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVJtVTZmY0kzRHpYSHpmT1pveDU3OF96Z2NnYTVLWmNJVDUxMW9oWXBPUGQ4M3JKN1BfbVBtYi1LRWZFUXl6WXUyWUpsUGhTUDdQLWRkOHpzRkRsMzk5a2NfeXVrRDM2bkttNzJGX182cFhtbW5JY3FCRml6QlBpM3ZnLU4zRllrcjNUWmtRa3NfU3h5X1NEYUpadjhOZk5naWFYN1hOcUNmMVkwd3ZnQjE3Rmg?oc=5\" target=\"_blank\">LA Council Confirms Beatrice Hsu to Harbor Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
       "id": "1a9fd7b67e426a82",
       "title": "Glendale could implement Airbnb rules this fall - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUc1OFI4Vzk3Y2hDRFc5bUdqMmJMRHpGenlJMzhQckoxaUVxTENieTBVdGR3eXpScjhQZ3RrMS1wdHMxMzUwTjZ2UTVaX1FNeXpiaEh6ajVSUmxtMDhCNXp6Yi1GMk1kdm9jSGdwV0d5ZjVQUmpDX1BBdjcyV3E0RGwtQk9HYXFfbm5hYVBjZUVKTVBsalVrbw?oc=5",
@@ -1553,6 +1583,16 @@
       "category": "zoning"
     },
     {
+      "id": "dfba5cd084810bde",
+      "title": "City Council Continues Measure ULA Exemption Proposals - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUt4akVnWFFmY285a1pyM3hxRk0xaWhqX0diM0t1ZEJKS08wTmJFMWdVYjBFS0VkR0g4NW5DZXF6OXJqUjU0bmE5N2FNUVVNY3pXakdYWjhUN2xqX0lIM292MGZ3VWtQMENyQ3hrX09NNkxmbWRSamRnZnR2eFVNVEIxOGthenlzblRlT0lVbWJ6U0hOWXNRckJfdjQ?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUt4akVnWFFmY285a1pyM3hxRk0xaWhqX0diM0t1ZEJKS08wTmJFMWdVYjBFS0VkR0g4NW5DZXF6OXJqUjU0bmE5N2FNUVVNY3pXakdYWjhUN2xqX0lIM292MGZ3VWtQMENyQ3hrX09NNkxmbWRSamRnZnR2eFVNVEIxOGthenlzblRlT0lVbWJ6U0hOWXNRckJfdjQ?oc=5\" target=\"_blank\">City Council Continues Measure ULA Exemption Proposals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "tax"
+    },
+    {
       "id": "ec59e8196582cadc",
       "title": "County to hold hearing for thousands of homes in Castaic - Santa Clarita Valley Signal",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEpSLW5fa0NYYUVwZl9iTXBndXNyc3J5T0JjNmNHRmoxb2ZzR2F1LWlEYXdBWGg4SWdEUmVLY3ZHTWhZWlRwMWlpSnpYQTNyTnJvejQ4Yy1Cdk1TUzJXeWtvWHlpVXdvdlFhMmxQTTh5ZkE4Z0tvY2lWZVFtQVV3dV9Hb3RTUUFTTnpseTdhcmg?oc=5",
@@ -1619,6 +1659,16 @@
       "source": "The Real Deal",
       "published": "Tue, 13 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmpFUUs2b01TRk44OWUxX2c5cHZrRTVNbi1XVXVzSDZ5YVloS3pZN040TUYycGNOTDJDdVN4Sy1JY3c2M2Q0cFdTOTdhdXlQT3dBSWt2c2N0U09IVGxMNFFOTngxbE9ESnc1SXVBYmxJRlg2SU9NNlE3bEVYY2VieThLZkMwWG1aaHEtdHlhczZLSEtq?oc=5\" target=\"_blank\">Measure ULA revenue passes $1B mark as three-year anniversary approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
+      "id": "5d9e361017b89111",
+      "title": "California Lawmakers Drop Plan to Amend Los Angeles Mansion Tax - news.bloombergtax.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaTQwVzFTV3hIcFN1M0ZFVi1iUW5KS25ZNEttX1RMendYcHhhYm1ZZ3FBWHR0dkFQY3RGbjdUTS1JekpnXy03MktVXy1hcVVCQlVrVXlyaGFZMURzWkM2WjhfbVptZk1ZQzhmNkMxNUtGYVVSZm9JQ2xVMDVxU3JCbzdyZkRPa0gxUEZUdzRUYjF2OTZDVC16NHVtVW1hbURrMG5jV0VlVlpETERTbHpPUFlsaC1QYm8?oc=5",
+      "source": "news.bloombergtax.com",
+      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPaTQwVzFTV3hIcFN1M0ZFVi1iUW5KS25ZNEttX1RMendYcHhhYm1ZZ3FBWHR0dkFQY3RGbjdUTS1JekpnXy03MktVXy1hcVVCQlVrVXlyaGFZMURzWkM2WjhfbVptZk1ZQzhmNkMxNUtGYVVSZm9JQ2xVMDVxU3JCbzdyZkRPa0gxUEZUdzRUYjF2OTZDVC16NHVtVW1hbURrMG5jV0VlVlpETERTbHpPUFlsaC1QYm8?oc=5\" target=\"_blank\">California Lawmakers Drop Plan to Amend Los Angeles Mansion Tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.bloombergtax.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
     },
@@ -2693,6 +2743,16 @@
       "category": "policy"
     },
     {
+      "id": "92bb15eae7d0a227",
+      "title": "L.A. Council committee advances proposal to tighten rent control formula - The California Apartment Association",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUE42eTY1N0RoUnp4S0Vnc0dVZlhVbUV6ZUJjSzVKVWxsTk9rMzdLTmt6NzR1Q2IxaS1XWVEtaENpQnBybGRpRW9iWi1KaTFlVktlc1lJVlllNUhOYXdYVzNNb3R3ZlVfNUEyU0RKemtqVU9QOGRXSGJQZVFKYTZXQnFaLUNJTXRmT0FLREViU0lfZU96eEE?oc=5",
+      "source": "The California Apartment Association",
+      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUE42eTY1N0RoUnp4S0Vnc0dVZlhVbUV6ZUJjSzVKVWxsTk9rMzdLTmt6NzR1Q2IxaS1XWVEtaENpQnBybGRpRW9iWi1KaTFlVktlc1lJVlllNUhOYXdYVzNNb3R3ZlVfNUEyU0RKemtqVU9QOGRXSGJQZVFKYTZXQnFaLUNJTXRmT0FLREViU0lfZU96eEE?oc=5\" target=\"_blank\">L.A. Council committee advances proposal to tighten rent control formula</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "rent"
+    },
+    {
       "id": "6f8254b88e436fca",
       "title": "Part 2: Rent Control in the City of Los Angeles: the Rent Stabilization Ordinance - The California Apartment Association",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEZCdXNRLWpSdnpSaEp2UDQ5ZU41ZUFtMm4yZE9CaGNNb0MxQ3VYZGsxRnpnOGpBeUN3NnV3eXpRdE1pSTlGNk1QaDN3S3lkSFd3YnVWeV9DRnZUM1hDTERHdjZVZE1nb2IzV04tdTlvNlk5ZmY4bVdvZjFyazE3czh5ckFFVlEya29Fa2J5blZ4SUlBTVJ6UEZ1Z29tT3lDMVhhSlRDaW5zdDZiRWVuM2Z2UWFlbzc5?oc=5",
@@ -3063,6 +3123,56 @@
       "category": "policy"
     },
     {
+      "id": "6a583c3931733253",
+      "title": "Meet Dylan Kendall, Candidate For Los Angeles City Council District 13 - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWV1S2xYUDhGT1lqMVMtN1lmWEVEUmg2ZURTMWdpODVXUF8zMDRrc05wcXoxR3hHaGUyVldhRVRLUUIxZGZteUNYTjdxamJMREE4S2tHWVJQNVhkOWxOUFBoaEx1cms1Yi1uQmY4TjQzYkE4Si11NUFNd2Q0MGhUd1Z2SUpBY3BzR2NCZmxhdTktZjBRX2c1bElVRUpMU2VqczAxWmdfWDZKUQ?oc=5",
+      "source": "Patch",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWV1S2xYUDhGT1lqMVMtN1lmWEVEUmg2ZURTMWdpODVXUF8zMDRrc05wcXoxR3hHaGUyVldhRVRLUUIxZGZteUNYTjdxamJMREE4S2tHWVJQNVhkOWxOUFBoaEx1cms1Yi1uQmY4TjQzYkE4Si11NUFNd2Q0MGhUd1Z2SUpBY3BzR2NCZmxhdTktZjBRX2c1bElVRUpMU2VqczAxWmdfWDZKUQ?oc=5\" target=\"_blank\">Meet Dylan Kendall, Candidate For Los Angeles City Council District 13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "83b0af2bbddd5600",
+      "title": "Meet Henry Mantel, Candidate For Los Angeles City Council District 5 - Patch",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObkZlblM1bTBTMERGbG01N0ltVWZ2aFN6VUw2S1RId2ZUMzl1dl9BRnlGbFJpZWRHZ01iWnY1N1hXWDdzTmZ4QnZuSVhscERLTkNiQmRvdjVvR1N4V0J1bXdQRDctS00tYTJPa0xFcmtpVXRBanFwZUI2OXFxdnhnTnA3eEh5enJkcG9JdHJ1dFJPdEFDYkprT2lIX0tUaFEtSjYzMUVWNA?oc=5",
+      "source": "Patch",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxObkZlblM1bTBTMERGbG01N0ltVWZ2aFN6VUw2S1RId2ZUMzl1dl9BRnlGbFJpZWRHZ01iWnY1N1hXWDdzTmZ4QnZuSVhscERLTkNiQmRvdjVvR1N4V0J1bXdQRDctS00tYTJPa0xFcmtpVXRBanFwZUI2OXFxdnhnTnA3eEh5enJkcG9JdHJ1dFJPdEFDYkprT2lIX0tUaFEtSjYzMUVWNA?oc=5\" target=\"_blank\">Meet Henry Mantel, Candidate For Los Angeles City Council District 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "36190b7ac632fdb1",
+      "title": "Meet Hugo Soto-Martinez, Candidate For Los Angeles City Council District 13 - Patch",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnUyXzdXX2pCdHBvMmh6ZVRnSXFSUmFjZlpkMHhRelozNHpCS0JsUEFvVHFCZDFnaXdxaWlkekdrTnFWTEVkYWxaWkc0ZlRXNENTNVFkV24yOVdlNTlpRGxlTXVWVElsTXBLd2hoNUlKMk5HSEpSc05NcjMxMWNTWkpLb3pMQU11YU51T1ZIYU1BVHlLQ0hXenRPbElPTlRZSUtvM1c0eWpTaEtpWlNHdg?oc=5",
+      "source": "Patch",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnUyXzdXX2pCdHBvMmh6ZVRnSXFSUmFjZlpkMHhRelozNHpCS0JsUEFvVHFCZDFnaXdxaWlkekdrTnFWTEVkYWxaWkc0ZlRXNENTNVFkV24yOVdlNTlpRGxlTXVWVElsTXBLd2hoNUlKMk5HSEpSc05NcjMxMWNTWkpLb3pMQU11YU51T1ZIYU1BVHlLQ0hXenRPbElPTlRZSUtvM1c0eWpTaEtpWlNHdg?oc=5\" target=\"_blank\">Meet Hugo Soto-Martinez, Candidate For Los Angeles City Council District 13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "665f97dd70c483b5",
+      "title": "Meet Morgan Oyler, Candidate For Los Angeles City Council District 5 - Patch",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0hlcG8tTkNuWklRd01aYktVOW9Lc2VPNkVGZHM4TlQ3SXF5QVMtbVNWcXJRZ3l2MTVpMWlTLXZJelRScnNldmQxclJaN09rdlJmZ1hQWGV2YzlqSGRTN3lfU0UydVlFd3poY2xRNFZDQ19BVXJtel9kaDV1UmlpbGs1WWFwaFdCeld1a3VpOEppUlE5bTF5dGNleG9obktfa3E5aXJBYw?oc=5",
+      "source": "Patch",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0hlcG8tTkNuWklRd01aYktVOW9Lc2VPNkVGZHM4TlQ3SXF5QVMtbVNWcXJRZ3l2MTVpMWlTLXZJelRScnNldmQxclJaN09rdlJmZ1hQWGV2YzlqSGRTN3lfU0UydVlFd3poY2xRNFZDQ19BVXJtel9kaDV1UmlpbGs1WWFwaFdCeld1a3VpOEppUlE5bTF5dGNleG9obktfa3E5aXJBYw?oc=5\" target=\"_blank\">Meet Morgan Oyler, Candidate For Los Angeles City Council District 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "45409b185042dd24",
+      "title": "Meet Traci Park, Candidate For Los Angeles City Council District 11 - Patch",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeW1CVFQ0dFZnN0JDNHlsUER0NlpkX2FNVnlWVV9QRGdrblVUc3NSaU0zdXVWR3hoQmNDUWlObk5tSXUzT1lydEtkWlpxbEVXZ2x2NWhIbWViVXQzc3lhZmFibVZWNDZvYmJuX0todnhpYjdKXzlCeXNoX0FrRDlDdURmQ1BxWDkyZlc1OC1KbkJzdzc1akhzUHB3ZkpBaXRaeFp2LVhB?oc=5",
+      "source": "Patch",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQeW1CVFQ0dFZnN0JDNHlsUER0NlpkX2FNVnlWVV9QRGdrblVUc3NSaU0zdXVWR3hoQmNDUWlObk5tSXUzT1lydEtkWlpxbEVXZ2x2NWhIbWViVXQzc3lhZmFibVZWNDZvYmJuX0todnhpYjdKXzlCeXNoX0FrRDlDdURmQ1BxWDkyZlc1OC1KbkJzdzc1akhzUHB3ZkpBaXRaeFp2LVhB?oc=5\" target=\"_blank\">Meet Traci Park, Candidate For Los Angeles City Council District 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "a8b0bf5779cf4ac7",
       "title": "LA Council Committee Holds Off On Ballot Proposal to Reform Measure ULA - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJlZDNJZEFLbE5FcFBVdzBsYW0xaFl6SDEyME9jX01HclNRQ2w2NDR0X091Q0o0YVpNSUdjSk5yQlhvUUREckJvMjFzb3RRTGYtVm1WdWdza25Ha1hVVjNlZ0x4dmZoV2wtem9TUXFPQ050MjlLbGt2U09oR1I2NnNsa3VSN0lZVnZyY3hPNzFleENlejh6aUU5M3l4ZExLM1NaTTNVV1RpcF9xX1JwSklRVFc?oc=5",
@@ -3141,6 +3251,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdURNOWlqZGVpaVJLT0lnVWpVdmg3UjFlWjI5eXVZU08wNmlTbGJVaUJ0RWZfNlZtOFphMGp5SDJKSkpoNjFBTE1hbGVSalVvSjR4OERZbHgzdVhBUHdWV19OZEdhNzJMV0tNVHhFTHoyckZmZGw1eUxmX3NmWUptWDMwMV8zRkN2bVlxQmNULUpOVU91anc?oc=5\" target=\"_blank\">New Rule Requires Officials To Report Free Tickets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "other"
+    },
+    {
+      "id": "84ab2e320f5fe26b",
+      "title": "LA to invest $360M in affordable housing - FOX 11 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1JIWlQ1MVhGUENPV3MtYVpxaVdzYmZUN09RR1E3c2YxeXdjaDZ1a1lyZ00tSllrbzF4ZkVfS1loQURJeDJEUnFZdlhMelk1MVNQMWxyUEFyNUJTNEZOd0dPR0JVMTNrTjhfckdjUlVSOXAwS01PQWt6Z09vS3lDRVJoTW43YnFz0gGOAUFVX3lxTE0wdWFTSFUtWjBLaWJ4ZDhPemhocHNNUU9yei0yZm13ZDdsTm15WkpPWDVQOWY1T1JJRGNSajV4cksxdzhaTDE4Vzk2bXNET0NvVTREaUNpSEZpVi01bi1KU0I2ZjhXbGtVRGJnbUNDX3VKcGVNU1lJVEMxbzRLU00ydWktT04zXy1UcUFGUXc?oc=5",
+      "source": "FOX 11 Los Angeles",
+      "published": "Sat, 18 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1JIWlQ1MVhGUENPV3MtYVpxaVdzYmZUN09RR1E3c2YxeXdjaDZ1a1lyZ00tSllrbzF4ZkVfS1loQURJeDJEUnFZdlhMelk1MVNQMWxyUEFyNUJTNEZOd0dPR0JVMTNrTjhfckdjUlVSOXAwS01PQWt6Z09vS3lDRVJoTW43YnFz0gGOAUFVX3lxTE0wdWFTSFUtWjBLaWJ4ZDhPemhocHNNUU9yei0yZm13ZDdsTm15WkpPWDVQOWY1T1JJRGNSajV4cksxdzhaTDE4Vzk2bXNET0NvVTREaUNpSEZpVi01bi1KU0I2ZjhXbGtVRGJnbUNDX3VKcGVNU1lJVEMxbzRLU00ydWktT04zXy1UcUFGUXc?oc=5\" target=\"_blank\">LA to invest $360M in affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "a1425aca2b3bcc06",
@@ -3453,6 +3573,16 @@
       "category": "other"
     },
     {
+      "id": "48a3206291ebcfdf",
+      "title": "Editorial: California needs more housing and good jobs. There's a bill to create both - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZBd1BGSjBfcGlEdVZYc201R2ZldlpXRHNoMUZBUkQxdk51NlZLWFBmYkV5QXZuZm45SUJzTGdvaG45T3BWdUpQeGdETlExMzZRS0NvZHYxU1gtN1dsbm5yM1VJd3JqZWNlLWFzTFJUUlFUMlpXdlRsYzJWVWZqVlF5MXk5NGVRM1MxWE5sTkNZMGxZd0NXTy1RcTBCUTJYRnNJc3lZNXZnWkt6dkVWb1duWFJ2WG12bDdZaklOcmtfdHBIY09uSzcwUQ?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Mon, 20 Jun 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZBd1BGSjBfcGlEdVZYc201R2ZldlpXRHNoMUZBUkQxdk51NlZLWFBmYkV5QXZuZm45SUJzTGdvaG45T3BWdUpQeGdETlExMzZRS0NvZHYxU1gtN1dsbm5yM1VJd3JqZWNlLWFzTFJUUlFUMlpXdlRsYzJWVWZqVlF5MXk5NGVRM1MxWE5sTkNZMGxZd0NXTy1RcTBCUTJYRnNJc3lZNXZnWkt6dkVWb1duWFJ2WG12bDdZaklOcmtfdHBIY09uSzcwUQ?oc=5\" target=\"_blank\">Editorial: California needs more housing and good jobs. There's a bill to create both</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "other"
+    },
+    {
       "id": "0a6a1b8ba33288c9",
       "title": "OpEd: Measure ULA Is Killing L.A. Housing - labusinessjournal.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnd2Zl9jRXl5Qm1taDhGVWM1SlY3OEFYSFpXbmpBUHpWX1dhcHZDRzhZaFZ5Q2FoSXBrT2VQTEF1em1oNEtKQTNNQmtWb1I1U2llRUE3MmRMOE9qQUxPcUdrQTh1Q1hJNE42UzdyNFBmTXpMX2F5Vm9nUElJby1RT0NCZ1Z6QzVy?oc=5",
@@ -3491,6 +3621,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaS1WWU1BUGdsczk4Ukl6OEJ0M3BNRGQ1R2MtWVpQakh6UktITXhxd3V4cEJtWWxFcTBDT2J3dU5ZQjRFZm9rOUxEdnoxa2tWYkRuUEJCbzdCY2hxNlQ3Ylo3X3VSR0wzN0I1NW1wVlJNbjh5ZEdKd1A3bVl6TEkyenI5QmRNckJVSUNCUWp1aTBfeTk0SVpNNUlnaw?oc=5\" target=\"_blank\">LA Councilwoman Nithya Raman Pushes Just Cause Evictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "a29cedd63097af63",
+      "title": "Here are the candidates for LA City Council District 5 - LA Public Press",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVdiOTFYMlZaRlNiTF9vVTdBY2Q5SWE5Y1pwZ1ppcVRub0JMc2daNFoycjNGX1pqMEpsWC1JZTRWbXJIamg5OUVJV3FlUHN3akY3Z0tLZ01KY3Zoa2FIY3h6aUt6TXhnSktkVUU2RlR6MGlZdENMMEdraV9nSzk3MHJxTmx4cHJK?oc=5",
+      "source": "LA Public Press",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVdiOTFYMlZaRlNiTF9vVTdBY2Q5SWE5Y1pwZ1ppcVRub0JMc2daNFoycjNGX1pqMEpsWC1JZTRWbXJIamg5OUVJV3FlUHN3akY3Z0tLZ01KY3Zoa2FIY3h6aUt6TXhnSktkVUU2RlR6MGlZdENMMEdraV9nSzk3MHJxTmx4cHJK?oc=5\" target=\"_blank\">Here are the candidates for LA City Council District 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Public Press</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "24f63969812f246e",
@@ -3571,6 +3711,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxORERMb0Z4OTFtZkJKZHdzYU9VYWpXT0hNTWZFVWRHRjNvMjUzQ3ZIZk45YW5GQWtaUVNOQms0M0ExLVZzZW1ROE9veHJhZ20ybzEzdXFTeDYyc190V19XTmtyeGwwVktqTnN5T0NhQU93al9ZanhtRXJEbkVBUV9fcE1TVTFydjJXaFdUcmliVVBuZXRuWWF5Q3cxMEZHNmV1UExoblBUcHNxX21QTWprcmx4WHZPcmlmZWNPUFVoaDd0bVZR?oc=5\" target=\"_blank\">VA housing policy discriminates against disabled veterans, federal judge rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "legal"
+    },
+    {
+      "id": "45596c7478764b74",
+      "title": "Revised Preservation Plan for Windsor Square HPOZ Approved by City Planning Commission - Larchmont Buzz",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVc3cW5jeDZRTXlITFY3c2R0T2NEd0xkZVEtVl9TcTJrQ3FJSFdEMlVBcnhRY2JHVjlGT3l6UGdSMGdvMjVkQnBqdlAwSGFWN0lsTU5RV1R0TnVpME1EOEdJWUgxTXVZVjg2YW15T043QkRNVGVtVU5aRUhwa0dDNThmRl9QN1REWm5qbVUzclRWa1pMQ0JwVmpLMklJUWpRN1pXWGZBUzVpdzJHQlRzNUtoUm5YN1dGWTBRSG44SVNGa1NGc3k2cTZielo1eER3VW0wRnVENGpsOTZxTDNaY01R?oc=5",
+      "source": "Larchmont Buzz",
+      "published": "Mon, 15 Jul 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVc3cW5jeDZRTXlITFY3c2R0T2NEd0xkZVEtVl9TcTJrQ3FJSFdEMlVBcnhRY2JHVjlGT3l6UGdSMGdvMjVkQnBqdlAwSGFWN0lsTU5RV1R0TnVpME1EOEdJWUgxTXVZVjg2YW15T043QkRNVGVtVU5aRUhwa0dDNThmRl9QN1REWm5qbVUzclRWa1pMQ0JwVmpLMklJUWpRN1pXWGZBUzVpdzJHQlRzNUtoUm5YN1dGWTBRSG44SVNGa1NGc3k2cTZielo1eER3VW0wRnVENGpsOTZxTDNaY01R?oc=5\" target=\"_blank\">Revised Preservation Plan for Windsor Square HPOZ Approved by City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Buzz</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
     },
     {
       "id": "065b1cb01f64d937",
@@ -3879,6 +4029,16 @@
       "source": "Capital B News",
       "published": "Mon, 01 Aug 2022 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZlUzZHhqQm5uNXNJUFRIUkpuRFVNMXE4dFd4Z3ZVWUxOZm96SzY4OF9USk4wY3hEa3Y2b1dZOXB3M2FKSE1pdXdYdXZDM05hNDdGMG83VV9JTmp0MkF5SUdDVGhoYjZuQkxCVEJmbk4td0NGbTR6aTYwTGQwMk9zbQ?oc=5\" target=\"_blank\">A Sweeping Ordinance Would Make It Easier For LA to Target its Unhoused Residents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital B News</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
+    },
+    {
+      "id": "a39e6d723c0678a4",
+      "title": "A Sweeping Ordinance Would Make It Easier For LA to Target its Unhoused Residents - Capital B News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tY1UtLUxWck1SV09hUzl6WFE3c0VKaFVkNXVxb1U0MHZMdnk0M3hodTFPbW1Rd1QyY0s1NERfSEpaZlNUWUx5UU54VjFYbmVOTEp0TGI1WkNtUG85RlRNOXp2S1lybjdlUzdPVk5wOUxGMnVNVkc2Mkc2Z3JMc0U?oc=5",
+      "source": "Capital B News",
+      "published": "Mon, 01 Aug 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5tY1UtLUxWck1SV09hUzl6WFE3c0VKaFVkNXVxb1U0MHZMdnk0M3hodTFPbW1Rd1QyY0s1NERfSEpaZlNUWUx5UU54VjFYbmVOTEp0TGI1WkNtUG85RlRNOXp2S1lybjdlUzdPVk5wOUxGMnVNVkc2Mkc2Z3JMc0U?oc=5\" target=\"_blank\">A Sweeping Ordinance Would Make It Easier For LA to Target its Unhoused Residents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital B News</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
     },
@@ -4261,6 +4421,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNOXVpU3Ywd0ZVVEMxX0NSd1JfSXQ0bFBGaTZjMDVxTk1NTHlCNlEzdGlETldwU0NuUjRlMkU3cTU0UHozU3FDQTk4T2k3V0c5d3lLeUl6dXB2S0hiZzhxNzNCQ0QwMlFBQVRUYjVUUWpfbnpfZTVPV1FXVHhndklpbllma0tjdGdDb3VIREV0VHVtNnMyRzhFczZ1bnZFNXZCa0hqb0pnMkllSlR0azlnaA?oc=5\" target=\"_blank\">Woodland Hills Country Club faces LA Council roadblock to build 400 homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "other"
+    },
+    {
+      "id": "40242e32d88b8afd",
+      "title": "City forced to change granny flat ordinance - Thousand Oaks Acorn",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmVxTHYtYkNGc1BPMzY3MVRyM3hJUjlCeWhpWUxBUUZRYVNZRkdRb2o3cEl6ZFRmWkoyc2s2SmdxLUsyaks5T19ZNzVrWTRrOWF1ZTFOa3RmdTdaUHo3Y043aW92YnB2MFZ3ajFwc3NBdlFxc29TcEFLY2N0VHktOXRYOA?oc=5",
+      "source": "Thousand Oaks Acorn",
+      "published": "Fri, 20 Sep 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmVxTHYtYkNGc1BPMzY3MVRyM3hJUjlCeWhpWUxBUUZRYVNZRkdRb2o3cEl6ZFRmWkoyc2s2SmdxLUsyaks5T19ZNzVrWTRrOWF1ZTFOa3RmdTdaUHo3Y043aW92YnB2MFZ3ajFwc3NBdlFxc29TcEFLY2N0VHktOXRYOA?oc=5\" target=\"_blank\">City forced to change granny flat ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thousand Oaks Acorn</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
     },
     {
       "id": "01923381c83a081f",
@@ -4739,6 +4909,26 @@
       "source": "Los Angeles Times",
       "published": "Fri, 01 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU0Ffc3BLMlhzVTNXd0JTTWFHTGpkQjRHM3d4OU92Z192N1p2R05GYUE0M2NmTml2a1ROTVAxcTAxMTE3RzdXZ0hoLTRkNEZyc2l4UWZzQWltMWFMd0h6ZXUzbjNmOGZVdGJFTldRZFlmWEk3NTdYMnpJWVlMWVpXSVlCd1BBaXJsbGpycERhNVltMjNyYS0wVTgzdktUeDFhcjY4SFdZQ1ktQVk2VWlRX3Bmcy1aalNiZDMyaXZtS0RkUQ?oc=5\" target=\"_blank\">Your guide to the L.A. City Council District 5 race: Katy Yaroslavsky faces two challengers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "3ab48dc2191fc09f",
+      "title": "Your guide to the L.A. City Council District 11 race: Traci Park vs. Faizah Malik - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2FLYlZ0LXk1RWZWRm9xbUxCekgyMEh4WFltTG5BcXZUU2l6VEVxS2cwbHQtX3ozN29DUUc2QW1LekQtWFlxcWpCODRkRUpCT29adDd1SFR5RDlycjlKekFQbTNsdmlrN2VuWHp2MUhabE1JZUpwRmI5UEtNeTRGa0dLUlljZTJvYXhVczVSYkFNb25aaDRfTW1xNUFYbl92cks3MnZ1a200SmNsdkhZdm9aWmRkMElMWHlJbk4xWFNBM1k?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2FLYlZ0LXk1RWZWRm9xbUxCekgyMEh4WFltTG5BcXZUU2l6VEVxS2cwbHQtX3ozN29DUUc2QW1LekQtWFlxcWpCODRkRUpCT29adDd1SFR5RDlycjlKekFQbTNsdmlrN2VuWHp2MUhabE1JZUpwRmI5UEtNeTRGa0dLUlljZTJvYXhVczVSYkFNb25aaDRfTW1xNUFYbl92cks3MnZ1a200SmNsdkhZdm9aWmRkMElMWHlJbk4xWFNBM1k?oc=5\" target=\"_blank\">Your guide to the L.A. City Council District 11 race: Traci Park vs. Faizah Malik</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "e53c165273211bef",
+      "title": "Your guide to the L.A. City Council District 3 race: Who will replace Bob Blumenfield? - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1o0SDVyaEd6VThDVE1zXzNCVWpsWDN6RDVHMzdnVnVZcThvdDBVZUhPRS1uYUVVMzdZZmNhdzlzeE1TaHMwUW43YjUxOGpzY1R6dVIzX25IQVZ1N2Y4QjBPVjJUTDJuWEhWcEtmenk5VV8xeGYwZHU1UnJscUFHencyZ3Z4MmIxcXIxSjZRLVhBcTU4UDRVam42OWNYWFM4T2hrblNIdWV1WmZpWV9MVWF2WVVSN3k3VDNmNEtNRDEydw?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1o0SDVyaEd6VThDVE1zXzNCVWpsWDN6RDVHMzdnVnVZcThvdDBVZUhPRS1uYUVVMzdZZmNhdzlzeE1TaHMwUW43YjUxOGpzY1R6dVIzX25IQVZ1N2Y4QjBPVjJUTDJuWEhWcEtmenk5VV8xeGYwZHU1UnJscUFHencyZ3Z4MmIxcXIxSjZRLVhBcTU4UDRVam42OWNYWFM4T2hrblNIdWV1WmZpWV9MVWF2WVVSN3k3VDNmNEtNRDEydw?oc=5\" target=\"_blank\">Your guide to the L.A. City Council District 3 race: Who will replace Bob Blumenfield?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     },
