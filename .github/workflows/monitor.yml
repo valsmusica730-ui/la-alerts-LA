@@ -1,0 +1,72 @@
+name: LA Real Estate Regulatory Monitor
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # cada hora en punto (UTC)
+  workflow_dispatch:      # permite ejecutar manualmente desde la pestaña Actions
+
+permissions:
+  contents: write         # necesario para guardar el estado (data/seen.json) en el repo
+  pages: write            # necesario para deploy a GitHub Pages
+  id-token: write         # necesario para GitHub Pages
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python src/monitor.py
+
+      - name: Commit state and alerts data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/seen.json app/data/alerts.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update state $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          else
+            echo "Sin cambios en el estado."
+          fi
+
+  # Deploy de la PWA a GitHub Pages
+  deploy:
+    needs: monitor
+    runs-on: ubuntu-latest
+    if: always()
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Pull latest (includes monitor's commit)
+        run: git pull --rebase origin ${{ github.ref_name }} || true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: app
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+

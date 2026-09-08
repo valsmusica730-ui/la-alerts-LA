@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="Dashboard de alertas regulatorias de bienes raíces en Los Ángeles. Monitorea cambios de zonificación, rentas, ADU, construcción, impuestos y más.">
+  <meta name="theme-color" content="#0c1021">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <title>LA Real Estate Alerts — Regulatory Monitor</title>
+
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏛️</text></svg>">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏛️</text></svg>">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/index.css">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+</head>
+<body>
+  <div class="app-layout">
+
+    <!-- ===== HEADER ===== -->
+    <header class="header" id="header">
+      <div class="header__inner">
+        <div class="header__logo">
+          <span class="header__logo-icon">🏛️</span>
+          <div class="header__logo-text">LA <span>Alerts</span></div>
+        </div>
+
+        <div class="search-bar">
+          <span class="search-bar__icon">🔍</span>
+          <input
+            type="search"
+            class="search-bar__input"
+            id="search-input"
+            placeholder="Buscar alertas..."
+            autocomplete="off"
+          >
+        </div>
+
+        <div class="header__actions">
+          <button class="icon-btn" id="btn-refresh" title="Actualizar alertas">
+            🔄
+          </button>
+          <button class="icon-btn" id="btn-install" title="Instalar app" style="display:none;">
+            📲
+          </button>
+          <div class="pulse-dot" title="Monitor activo"></div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ===== NAV TABS (Desktop) ===== -->
+    <nav class="nav-tabs" id="nav-tabs">
+      <button class="nav-tab active" data-view="alerts">
+        <span class="nav-tab__icon">📋</span>
+        Alertas
+        <span class="nav-tab__count" id="tab-count-alerts">0</span>
+      </button>
+      <button class="nav-tab" data-view="stats">
+        <span class="nav-tab__icon">📊</span>
+        Estadísticas
+      </button>
+      <button class="nav-tab" data-view="map">
+        <span class="nav-tab__icon">🗺️</span>
+        Mapa
+      </button>
+      <button class="nav-tab" data-view="favorites">
+        <span class="nav-tab__icon">⭐</span>
+        Favoritos
+        <span class="nav-tab__count" id="tab-count-favorites">0</span>
+      </button>
+      <button class="nav-tab" data-view="settings">
+        <span class="nav-tab__icon">⚙️</span>
+        Configuración
+      </button>
+    </nav>
+
+    <!-- ===== MAIN CONTENT ===== -->
+    <main class="app-main" id="app-main">
+
+      <!-- === ALERTS VIEW === -->
+      <section class="view-section active" id="view-alerts">
+        <!-- Stats summary row -->
+        <div class="stats-row" id="stats-summary">
+          <div class="glass-card stat-card">
+            <div class="stat-card__value" id="stat-total">—</div>
+            <div class="stat-card__label">Total Alertas</div>
+          </div>
+          <div class="glass-card stat-card">
+            <div class="stat-card__value" id="stat-today">—</div>
+            <div class="stat-card__label">Hoy</div>
+          </div>
+          <div class="glass-card stat-card">
+            <div class="stat-card__value" id="stat-week">—</div>
+            <div class="stat-card__label">Esta Semana</div>
+          </div>
+          <div class="glass-card stat-card">
+            <div class="stat-card__value" id="stat-categories">—</div>
+            <div class="stat-card__label">Categorías</div>
+          </div>
+        </div>
+
+        <!-- Category filters -->
+        <div class="filters-bar" id="filters-bar">
+          <button class="chip active" data-filter="all">
+            Todas
+          </button>
+          <button class="chip chip--zoning" data-filter="zoning" data-category>
+            <span class="chip__dot"></span>
+            Zonificación
+          </button>
+          <button class="chip chip--rent" data-filter="rent" data-category>
+            <span class="chip__dot"></span>
+            Rentas
+          </button>
+          <button class="chip chip--adu" data-filter="adu" data-category>
+            <span class="chip__dot"></span>
+            ADU
+          </button>
+          <button class="chip chip--construction" data-filter="construction" data-category>
+            <span class="chip__dot"></span>
+            Construcción
+          </button>
+          <button class="chip chip--tax" data-filter="tax" data-category>
+            <span class="chip__dot"></span>
+            Impuestos
+          </button>
+          <button class="chip chip--policy" data-filter="policy" data-category>
+            <span class="chip__dot"></span>
+            Política
+          </button>
+          <button class="chip chip--legal" data-filter="legal" data-category>
+            <span class="chip__dot"></span>
+            Legal
+          </button>
+        </div>
+
+        <!-- Alerts grid -->
+        <div class="alerts-grid" id="alerts-grid">
+          <!-- Cards rendered by JS -->
+        </div>
+
+        <!-- Empty state -->
+        <div class="empty-state" id="empty-state" style="display:none;">
+          <div class="empty-state__icon">🔍</div>
+          <div class="empty-state__title">No se encontraron alertas</div>
+          <div class="empty-state__desc">Intenta cambiar los filtros o el término de búsqueda.</div>
+        </div>
+      </section>
+
+      <!-- === STATS VIEW === -->
+      <section class="view-section" id="view-stats">
+        <div class="glass-card chart-container">
+          <div class="chart-container__header">
+            <h2 class="chart-container__title">📈 Alertas por Día</h2>
+          </div>
+          <canvas class="chart-container__canvas" id="chart-timeline"></canvas>
+        </div>
+
+        <div class="glass-card chart-container" style="margin-top: var(--space-md);">
+          <div class="chart-container__header">
+            <h2 class="chart-container__title">🏷️ Distribución por Categoría</h2>
+          </div>
+          <canvas class="chart-container__canvas" id="chart-categories"></canvas>
+        </div>
+
+        <div class="glass-card chart-container" style="margin-top: var(--space-md);">
+          <div class="chart-container__header">
+            <h2 class="chart-container__title">📰 Principales Fuentes</h2>
+          </div>
+          <canvas class="chart-container__canvas" id="chart-sources"></canvas>
+        </div>
+      </section>
+
+      <!-- === MAP VIEW === -->
+      <section class="view-section" id="view-map">
+        <div class="glass-card" style="padding: var(--space-lg);">
+          <h2 style="font-size: var(--font-lg); font-weight: 700; margin-bottom: var(--space-md);">
+            🗺️ Mapa de Alertas — Los Ángeles
+          </h2>
+          <div class="map-container" id="map-container"></div>
+        </div>
+      </section>
+
+      <!-- === FAVORITES VIEW === -->
+      <section class="view-section" id="view-favorites">
+        <h2 style="font-size: var(--font-xl); font-weight: 700; margin-bottom: var(--space-lg);">
+          ⭐ Mis Favoritos
+        </h2>
+        <div class="alerts-grid" id="favorites-grid">
+          <!-- Favorites rendered by JS -->
+        </div>
+        <div class="empty-state" id="favorites-empty">
+          <div class="empty-state__icon">⭐</div>
+          <div class="empty-state__title">Sin favoritos aún</div>
+          <div class="empty-state__desc">Toca la estrella ⭐ en cualquier alerta para guardarla aquí.</div>
+        </div>
+      </section>
+
+      <!-- === SETTINGS VIEW === -->
+      <section class="view-section" id="view-settings">
+        <h2 style="font-size: var(--font-xl); font-weight: 700; margin-bottom: var(--space-lg);">
+          ⚙️ Configuración
+        </h2>
+        <div class="settings-panel">
+          <div class="glass-card settings-group">
+            <div class="settings-group__title">Notificaciones</div>
+            <div class="setting-row">
+              <span class="setting-row__label">Notificaciones push en el navegador</span>
+              <label class="toggle">
+                <input type="checkbox" id="toggle-notifications">
+                <span class="toggle__slider"></span>
+              </label>
+            </div>
+          </div>
+
+          <div class="glass-card settings-group">
+            <div class="settings-group__title">Categorías de interés</div>
+            <div class="setting-row">
+              <span class="setting-row__label">🏗️ Zonificación</span>
+              <label class="toggle">
+                <input type="checkbox" checked data-cat-toggle="zoning">
+                <span class="toggle__slider"></span>
+              </label>
+            </div>
+            <div class="setting-row">
+              <span class="setting-row__label">🏠 Rentas / Control de alquiler</span>
+              <label class="toggle">
+                <input type="checkbox" checked data-cat-toggle="rent">
+                <span class="toggle__slider"></span>
+              </label>
+            </div>
+            <div class="setting-row">
+              <span class="setting-row__label">🏡 ADU (Unidades accesorias)</span>
+              <label class="toggle">
+                <input type="checkbox" checked data-cat-toggle="adu">
+                <span class="toggle__slider"></span>
+              </label>
+            </div>
+            <div class="setting-row">
+              <span class="setting-row__label">🔨 Construcción / Códigos</span>
+              <label class="toggle">
+                <input type="checkbox" checked data-cat-toggle="construction">
+                <span class="toggle__slider"></span>
+              </label>
+            </div>
+            <div class="setting-row">
+              <span class="setting-row__label">💰 Impuestos / Tasas</span>
+              <label class="toggle">
+                <input type="checkbox" checked data-cat-toggle="tax">
+                <span class="toggle__slider"></span>
+              </label>
+            </div>
+            <div class="setting-row">
+              <span class="setting-row__label">📜 Política / Ordenanzas</span>
+              <label class="toggle">
+                <input type="checkbox" checked data-cat-toggle="policy">
+                <span class="toggle__slider"></span>
+              </label>
+            </div>
+            <div class="setting-row">
+              <span class="setting-row__label">⚖️ Legal / Demandas</span>
+              <label class="toggle">
+                <input type="checkbox" checked data-cat-toggle="legal">
+                <span class="toggle__slider"></span>
+              </label>
+            </div>
+          </div>
+
+          <div class="glass-card settings-group">
+            <div class="settings-group__title">Telegram</div>
+            <div class="setting-row">
+              <span class="setting-row__label">Estado del bot</span>
+              <span style="color: var(--accent-success); font-size: var(--font-sm); font-weight: 600;">
+                📡 Configurado vía GitHub Actions
+              </span>
+            </div>
+            <p style="font-size: var(--font-xs); color: var(--text-muted); margin-top: var(--space-sm);">
+              Las alertas de Telegram se envían automáticamente desde GitHub Actions.
+              Configura los secrets <code>TELEGRAM_BOT_TOKEN</code> y <code>TELEGRAM_CHAT_ID</code>
+              en tu repositorio para activarlas.
+            </p>
+          </div>
+
+          <div class="glass-card settings-group">
+            <div class="settings-group__title">Acerca de</div>
+            <p style="font-size: var(--font-sm); color: var(--text-secondary); line-height: 1.8;">
+              <strong>LA Real Estate Alerts</strong> monitorea novedades regulatorias que afectan
+              bienes raíces en Los Ángeles: cambios de zonificación, control de rentas, ADU,
+              códigos de construcción, impuestos, y más.<br><br>
+              Los datos se actualizan cada hora vía GitHub Actions y Google News RSS.
+            </p>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- ===== BOTTOM NAV (Mobile) ===== -->
+    <nav class="bottom-nav" id="bottom-nav">
+      <div class="bottom-nav__items">
+        <button class="bottom-nav__item active" data-view="alerts">
+          <span class="bottom-nav__icon">📋</span>
+          <span>Alertas</span>
+        </button>
+        <button class="bottom-nav__item" data-view="stats">
+          <span class="bottom-nav__icon">📊</span>
+          <span>Stats</span>
+        </button>
+        <button class="bottom-nav__item" data-view="map">
+          <span class="bottom-nav__icon">🗺️</span>
+          <span>Mapa</span>
+        </button>
+        <button class="bottom-nav__item" data-view="favorites">
+          <span class="bottom-nav__icon">⭐</span>
+          <span>Favs</span>
+        </button>
+        <button class="bottom-nav__item" data-view="settings">
+          <span class="bottom-nav__icon">⚙️</span>
+          <span>Config</span>
+        </button>
+      </div>
+    </nav>
+
+    <!-- ===== DETAIL MODAL ===== -->
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="glass-card modal" id="alert-modal">
+      <button class="modal__close" id="modal-close">✕</button>
+      <div class="modal__category" id="modal-category"></div>
+      <h2 class="modal__title" id="modal-title"></h2>
+      <div class="modal__meta" id="modal-meta"></div>
+      <div class="modal__summary" id="modal-summary"></div>
+      <div class="modal__actions">
+        <a class="btn btn-primary" id="modal-link" href="#" target="_blank" rel="noopener">
+          🔗 Leer fuente original
+        </a>
+        <button class="btn btn-outline" id="modal-fav-btn">
+          ⭐ Guardar
+        </button>
+      </div>
+    </div>
+
+    <!-- ===== TOAST CONTAINER ===== -->
+    <div class="toast-container" id="toast-container"></div>
+
+  </div>
+
+  <!-- ===== SCRIPTS ===== -->
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+  <!-- Leaflet -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <!-- App -->
+  <script src="js/app.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/map.js"></script>
+</body>
+</html>
