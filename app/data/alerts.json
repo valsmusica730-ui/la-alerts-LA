@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:55:58.611224+00:00",
+  "generated_at": "2026-09-09T19:33:48.596358+00:00",
   "total": 500,
   "alerts": [
     {
@@ -151,6 +151,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTB2dW1CVzFqS09ZT0VPYUJCZVdjR1BVWGtUd1pBeE1zb1ZrMHdaV2VoRm9QcURVN2hDN0U2dDNxU2dKUzFURlJDZnVhQWJzUWl4cEI4X2x4Zms3SjBZUFZJYzN5SG0xWm41NmY3b29jRERuMjRGUG0xZWltZkVSNlNaQXg1REVLeV9ZX1Y0Vlp6ZzRfRDNwb3ZlUE5aUXhJOEZXVVN1WXhMOV9wQWxfRnZxeDh5TXhmQkkyaw?oc=5\" target=\"_blank\">LA Council Approved Zoning Amendment Prohibiting Country Club Housing Construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "zoning"
+    },
+    {
+      "id": "b2b7190e3ddae9d8",
+      "title": "LA City Council allows Olympics projects skip CEQA oversight - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamtqRjBLM3YyS2h3MFRtbVcyVDNPZEtvdXdTMTduSlJpWjFYZlBiUjdVSDRTUmdEWEZVa3BNa21qUzhmMlNKYVZNek8zNnB0VlV5YWR2OTJnZWhLdzZGY2F0dnJ1Q05kZk1BbTIxOUJFX2Y1Wkx2ZHFnRW5zdk9USU5kSU9GTzBpNXNMX0ltZUNMczVQ?oc=5",
+      "source": "The Real Deal",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPamtqRjBLM3YyS2h3MFRtbVcyVDNPZEtvdXdTMTduSlJpWjFYZlBiUjdVSDRTUmdEWEZVa3BNa21qUzhmMlNKYVZNek8zNnB0VlV5YWR2OTJnZWhLdzZGY2F0dnJ1Q05kZk1BbTIxOUJFX2Y1Wkx2ZHFnRW5zdk9USU5kSU9GTzBpNXNMX0ltZUNMczVQ?oc=5\" target=\"_blank\">LA City Council allows Olympics projects skip CEQA oversight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "873a1cc8d72b9b03",
@@ -1773,6 +1783,16 @@
       "category": "rent"
     },
     {
+      "id": "3e0e5537cdff6656",
+      "title": "LA County Board approves emergency declaration over immigration raids - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYThiSWRfZlV2eXBBMHAyMG5XcUVZVHh0SmlhWmdMT3piR0tTZ0lKNzhjZXJ0MWJFQWR6elJHSFhiNEFHZzZSQUtyQTg0d3EzUXVNZzBOY3hMUEZwSGQxMVRnNEt2YnJqOTUwZ1l6bzBFNXhobXh0MHMtanFLLTBJVkJpLUdsVWxxZElZb1RZQS1kWTV5anhTbzhZT2FEWEZSSXFYcGVPNndvekJnMXFTUUhWeDQ?oc=5",
+      "source": "Reuters",
+      "published": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYThiSWRfZlV2eXBBMHAyMG5XcUVZVHh0SmlhWmdMT3piR0tTZ0lKNzhjZXJ0MWJFQWR6elJHSFhiNEFHZzZSQUtyQTg0d3EzUXVNZzBOY3hMUEZwSGQxMVRnNEt2YnJqOTUwZ1l6bzBFNXhobXh0MHMtanFLLTBJVkJpLUdsVWxxZElZb1RZQS1kWTV5anhTbzhZT2FEWEZSSXFYcGVPNndvekJnMXFTUUhWeDQ?oc=5\" target=\"_blank\">LA County Board approves emergency declaration over immigration raids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "other"
+    },
+    {
       "id": "7bd5319ca28dba61",
       "title": "Long Beach man started petition to ban unhosted short-term rentals in his neighborhood. It worked - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZlNFRkhBQnJacmlRRzJtakVoR2tNSGh6X0dDVjJ5SUVKcWdWRVIxazZhWXVEdXVxRWxYT09TWndrSzFaMkpPMUh0WHF5VzBZT3dHZkF5YWZDZWd4cjh6ZTYtZVA4NUt4bDB5N2hHRkVmb09oT0pDZ21FNmRhNmxlRTlLNkk4MjZuU2VwTkREMUtRcUs3NnRPUDl0RHFvTVVHMXJkamUxT29QNUZMSzMwd3NDcDF0cHRaZmRDUnM3Tmp5eDNRVGkycHlPSXBqNjlz?oc=5",
@@ -3203,6 +3223,16 @@
       "category": "policy"
     },
     {
+      "id": "3014b90447660aea",
+      "title": "Airbnb introduces new rules to rein in parties, nuisances - CityNews Calgary",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEJueXVGU2w0RVdQc3pJLS1OZkNFaHU2WVo1ZVN5bGJlVXNuTXRUdFBwVjhvUVlsR256MTZKX2kwSF9IbFNBVXBKellIWG4xOERxUVM2WnBTQ2dqc0dETXRTLXk5LVNySHlVX1NIaThYeTZzTi1LTkFOcFZvNk9OTFV1NGZ1eWtKSElRVXlMREVXb0ZFTmp5LVR5bkM?oc=5",
+      "source": "CityNews Calgary",
+      "published": "Thu, 05 Dec 2019 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEJueXVGU2w0RVdQc3pJLS1OZkNFaHU2WVo1ZVN5bGJlVXNuTXRUdFBwVjhvUVlsR256MTZKX2kwSF9IbFNBVXBKellIWG4xOERxUVM2WnBTQ2dqc0dETXRTLXk5LVNySHlVX1NIaThYeTZzTi1LTkFOcFZvNk9OTFV1NGZ1eWtKSElRVXlMREVXb0ZFTmp5LVR5bkM?oc=5\" target=\"_blank\">Airbnb introduces new rules to rein in parties, nuisances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityNews Calgary</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "82020510601db02a",
       "title": "Seven-story, 37-unit apartment building gets approval near UCLA - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHozZHZ6SVh3LVUwMVdxV0FqLUl4YnlFX1NZZnVDN0RtUmRqZ0xXUER2VGFIdjF6RVVmbzAzc3RTZm1HY051TmVYb2xTdEpVcHdMSnR4ZkxURFlMaVlycjlUQTVIR191TUc5OVBqLW51TlZUMHFiTHcxdmw5SkFnUE4takY3ejZ6SGZockVsSVFra0d6bXFv?oc=5",
@@ -3491,6 +3521,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEctSGxJUFpPZTdDNmlqS1ZXa2NsUlJEdmZvM3ZsNW04dkZibU9yRmJSMTVHYzdaclQ4V1NtRFFDRGRoYWZteTNTSThoVm9uLTlDZHRtdmR4ZHVjTnVvZGd6Q3h2U2VMWncxM0ltS0JXREh4R1BRUUhKLVc4X3BETWc2dThOQQ?oc=5\" target=\"_blank\">LADBS: Helping restaurateurs navigate the permitting process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lacity.gov</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "construction"
+    },
+    {
+      "id": "765af41919c73303",
+      "title": "Early Impacts of New York City's 'De Facto Ban' on Airbnbs - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMFMwOUpNMkU2dFpzZC1mZlZrOWF1YU1UUmJGZnJUSkg2WHRTRW53SHpKdlVvMXhKZ3pYUnFuRzFGLWY1aGRlTEpRcDkzX09SdXpuaDByTjNNSkhhai1LUEZMNlA3VGFUcEU4bDF0bEtlbzYzazRoZWtQUWZlS1JjUTI5YmRWRlhZakFn?oc=5",
+      "source": "Investopedia",
+      "published": "Sun, 10 Sep 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMFMwOUpNMkU2dFpzZC1mZlZrOWF1YU1UUmJGZnJUSkg2WHRTRW53SHpKdlVvMXhKZ3pYUnFuRzFGLWY1aGRlTEpRcDkzX09SdXpuaDByTjNNSkhhai1LUEZMNlA3VGFUcEU4bDF0bEtlbzYzazRoZWtQUWZlS1JjUTI5YmRWRlhZakFn?oc=5\" target=\"_blank\">Early Impacts of New York City's 'De Facto Ban' on Airbnbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "5435450bd07634f9",
@@ -4961,46 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeW9IMk5LcmJyelhpZU5vNHN3NzFsQUEyN2UwUlRVQzFTODkwQ2tpWE5PTzJkUGVTcTFHNEdVd1c0blh1Nk1WVEtxU1ZjSFlMV3dXWFZkVXlUbG5rU1V6NXpFcDRXZ296WkZOR2lfMG1wQXBYSDh4anI3UFRsU1dGZWZFa0VpMWZheXJ6aDlPbEx1TTVlUE9YR2dlY1FvTFZTc09WeG5wbU9SdFlDbEhfN2xqQQ?oc=5\" target=\"_blank\">Researchers say LA’s ‘mansion tax’ hurts new housing. Voters could get a chance to tweak it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "b1610b591234fd7d",
-      "title": "Here are the candidates for LA City Council District 9 - LA Public Press",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZml4M0RoMHlyMDR5ZnVOWDBKUmNnaV9rdFNHUkkwVjVWTFFNNlpXZVc4eHdodjA1R2dGRWQ4TU9LbjNJWjNqcnNEM3dYb185VzBiUkRMakIwU3NMcnpRR1JTZzFfOHdaMGV2R1VEaE5ldEhsWTZhR1NxeEJzbDdqMF9IVUN6TkNI?oc=5",
-      "source": "LA Public Press",
-      "published": "Fri, 22 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZml4M0RoMHlyMDR5ZnVOWDBKUmNnaV9rdFNHUkkwVjVWTFFNNlpXZVc4eHdodjA1R2dGRWQ4TU9LbjNJWjNqcnNEM3dYb185VzBiUkRMakIwU3NMcnpRR1JTZzFfOHdaMGV2R1VEaE5ldEhsWTZhR1NxeEJzbDdqMF9IVUN6TkNI?oc=5\" target=\"_blank\">Here are the candidates for LA City Council District 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Public Press</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "fb453b8fa3ffdd3c",
-      "title": "Court orders East L.A. Area Planning Commission to reverse denial of Boyle Heights project - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTndXR2RBdk9xZEpFeXdyUVZ4R0VBYWxxNXJmSGREZVFXNEdGS1FtdkJhRjNMajVKOUFwYWFlaHI1V01kQzAyVF9Ccy1UR3hkWGdJZjRDY25HazE0VUstaDZ1UVAyZnFMeFFqSVoydVRzWDl4T3dqcDNYR2tOcFZDMUt3U3poRldzR2VuNGVnY3JvVkJqc3A1d0FPam5hWC1OdU84QmVoWFd0cno4LVlPRzZ3?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 21 Mar 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTndXR2RBdk9xZEpFeXdyUVZ4R0VBYWxxNXJmSGREZVFXNEdGS1FtdkJhRjNMajVKOUFwYWFlaHI1V01kQzAyVF9Ccy1UR3hkWGdJZjRDY25HazE0VUstaDZ1UVAyZnFMeFFqSVoydVRzWDl4T3dqcDNYR2tOcFZDMUt3U3poRldzR2VuNGVnY3JvVkJqc3A1d0FPam5hWC1OdU84QmVoWFd0cno4LVlPRzZ3?oc=5\" target=\"_blank\">Court orders East L.A. Area Planning Commission to reverse denial of Boyle Heights project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "legal"
-    },
-    {
-      "id": "824420ef8051d55c",
-      "title": "Court Orders Area Planning Commission To Reverse Boyle Heights Project Denial - Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSlQweWhmeGFnNk4wd1NkbE1ub0I4Zy1fM25Ea3ZaeHpodXhvMHpIalJrX0lmYjd3YVlkNVRrbkstbFVEY09sVGp0Z3VWTTFjU25EUmJ3ZFhJV1Q5MC1jN0VOemFYcTRDcTktNlJscGdwVmhhRlpxZjd1d1lDYzBEOExtdDl3bDBkNVdta0ZZcUtiMG1PY093NWxYZVdVcEJBWS14T2xtTG1JWVozbjFhSFJHajZkNHpCeWN0RExFemJHeldYRC0welNNUkxyVXNHd2I0Z3J2bUN4Q2g0NlFpblpuaw?oc=5",
-      "source": "Bisnow",
-      "published": "Fri, 21 Mar 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSlQweWhmeGFnNk4wd1NkbE1ub0I4Zy1fM25Ea3ZaeHpodXhvMHpIalJrX0lmYjd3YVlkNVRrbkstbFVEY09sVGp0Z3VWTTFjU25EUmJ3ZFhJV1Q5MC1jN0VOemFYcTRDcTktNlJscGdwVmhhRlpxZjd1d1lDYzBEOExtdDl3bDBkNVdta0ZZcUtiMG1PY093NWxYZVdVcEJBWS14T2xtTG1JWVozbjFhSFJHajZkNHpCeWN0RExFemJHeldYRC0welNNUkxyVXNHd2I0Z3J2bUN4Q2g0NlFpblpuaw?oc=5\" target=\"_blank\">Court Orders Area Planning Commission To Reverse Boyle Heights Project Denial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "legal"
-    },
-    {
-      "id": "a6230e65bc8d197b",
-      "title": "This California law was supposed to end single-family zoning. Three years later, it’s ‘just symbolic’ - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmg3ZjFXc2NvR0pWS1RTa3lYTTJzWm5tWW9pd05EbV9lM2ZubG44N0lQUmpQczMtMDJkMHhndm1Wa2x3OF90aFRoZTU5cTFsLVdKbzVCVTJLV2VwZkF6elh2YjFGMmFWb0xPWE0ySDVUOHFlemdXdEtzT1J4OHBtdUxCdkdnWDlGMUJGSTNQcnpOVVUxZVE?oc=5",
-      "source": "San Francisco Chronicle",
-      "published": "Fri, 21 Feb 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmg3ZjFXc2NvR0pWS1RTa3lYTTJzWm5tWW9pd05EbV9lM2ZubG44N0lQUmpQczMtMDJkMHhndm1Wa2x3OF90aFRoZTU5cTFsLVdKbzVCVTJLV2VwZkF6elh2YjFGMmFWb0xPWE0ySDVUOHFlemdXdEtzT1J4OHBtdUxCdkdnWDlGMUJGSTNQcnpOVVUxZVE?oc=5\" target=\"_blank\">This California law was supposed to end single-family zoning. Three years later, it’s ‘just symbolic’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
