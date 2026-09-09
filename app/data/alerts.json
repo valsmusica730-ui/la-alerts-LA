@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:02:02.984978+00:00",
+  "generated_at": "2026-09-09T12:33:08.743408+00:00",
   "total": 500,
   "alerts": [
     {
@@ -943,6 +943,16 @@
       "category": "rent"
     },
     {
+      "id": "cb63d9b685411ce1",
+      "title": "LA City Council votes to end city's long-standing COVID eviction moratorium - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2owN19NOUZZRkduamdVNWlqZ2ltX2tYanFnLVNOVHh3UlIyalhrbTdNblg3VTRxU3N3N0VtaDk3SVU0OVk1ZnJOMTl3akY5RlprdU0tZGplVldEMFJUSUxOQ1JpNFlUR2hXcVVvUmdqaks0SFVYaUFRTkpSd3lfSHR2cGIyTXNWc25SUE1JT1J3VWRyYWYxTGFQai1GVlMwMDlQZTZoZ0dBQXlDMTFYUzZKYjQ1ZGU5MEhxSGR3SzJuVmNrRXh30gHMAUFVX3lxTE5oLUl5YVV5bnFBV1ZtdmZ6Z2dpaEtMYWF6elc1OGpoMHlPakNMTFVoQUZRcE5NS3RrellyWUFUTUlWSm1zQ0VZa0swdGloRkVMemxjRlFRR1BDNDh3azhJcThZeGdvaV9HakdKNGFjc0VIODE0NS11bmgxQ2kxVHpLWWl3WFVmOG9UOUh2RC1yWFViYjVZWVhkRTRabnVWX3luX0hpWTNzbjJxdFd1dnVvTUtQV21mR1p6RUZUc0xVYlZsNndDVGdLbkFDSg?oc=5",
+      "source": "ABC7 Los Angeles",
+      "published": "Wed, 05 Oct 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2owN19NOUZZRkduamdVNWlqZ2ltX2tYanFnLVNOVHh3UlIyalhrbTdNblg3VTRxU3N3N0VtaDk3SVU0OVk1ZnJOMTl3akY5RlprdU0tZGplVldEMFJUSUxOQ1JpNFlUR2hXcVVvUmdqaks0SFVYaUFRTkpSd3lfSHR2cGIyTXNWc25SUE1JT1J3VWRyYWYxTGFQai1GVlMwMDlQZTZoZ0dBQXlDMTFYUzZKYjQ1ZGU5MEhxSGR3SzJuVmNrRXh30gHMAUFVX3lxTE5oLUl5YVV5bnFBV1ZtdmZ6Z2dpaEtMYWF6elc1OGpoMHlPakNMTFVoQUZRcE5NS3RrellyWUFUTUlWSm1zQ0VZa0swdGloRkVMemxjRlFRR1BDNDh3azhJcThZeGdvaV9HakdKNGFjc0VIODE0NS11bmgxQ2kxVHpLWWl3WFVmOG9UOUh2RC1yWFViYjVZWVhkRTRabnVWX3luX0hpWTNzbjJxdFd1dnVvTUtQV21mR1p6RUZUc0xVYlZsNndDVGdLbkFDSg?oc=5\" target=\"_blank\">LA City Council votes to end city's long-standing COVID eviction moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "33e71da8ac79cfed",
       "title": "Federal judge strikes down CDC’s national moratorium on evictions - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZndkWEJiNFk3ZmM3ZVFIZW1mUXlmVHY1eDBNVjRTT3dOUERTNkl2WWVyNEVueS0yRWx0dmJhZ3FIZUVoQndZN0dLMVF5UTBpbjg2MU0zejI1SDV2RVNDR2VnMjVkOHBZaGc3LXdQLXI2YjZScnY4SExKLUdvQXBsMUxEckNGc1hqZEFlVFVxb3Mxbk5YTVNwZHJ5SHYxWkZnUGtJ?oc=5",
@@ -1393,6 +1403,16 @@
       "category": "other"
     },
     {
+      "id": "bc1666f6b53a7711",
+      "title": "LA mayoral debate offers patchy view of candidate field, clash on Measure ULA - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlFXcm5wMU55dnZhQU9Mc1dtRTE2YkU3aVRWd2pDai1wRlZ6OExsSkJHWXlKNEhQYnY5WVpZNE41NHBpOVJVZFVUWnVrVVl3c2xvQ0NPU055YWVHRTM3Y05Pd3ZhSHg4Z2hHWU4zNW96ZWcybzAxMC1Bem5zYXJjdmk0VHFEa2x2SV9jUHY4R3FBLU9fQXViNVE1d2hCTk0?oc=5",
+      "source": "The Real Deal",
+      "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlFXcm5wMU55dnZhQU9Mc1dtRTE2YkU3aVRWd2pDai1wRlZ6OExsSkJHWXlKNEhQYnY5WVpZNE41NHBpOVJVZFVUWnVrVVl3c2xvQ0NPU055YWVHRTM3Y05Pd3ZhSHg4Z2hHWU4zNW96ZWcybzAxMC1Bem5zYXJjdmk0VHFEa2x2SV9jUHY4R3FBLU9fQXViNVE1d2hCTk0?oc=5\" target=\"_blank\">LA mayoral debate offers patchy view of candidate field, clash on Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "c972a11379ce38ae",
       "title": "Community groups call for eviction moratorium amid immigration raids across Los Angeles - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajFQaEZUcl9OQ0dza2V0RlFPMldDSXRnTGpOZFZYMWN6OVdDcEh0RmVmVkxiYTRvQjd0alFqOV9zSms5Tk1OQmhJZWZYMVBpUFlPSkEwQVBPUk5UWm1IbjJ6eEhaRHctWURSN00zalNVS2RjRzEwN09nNllPa3JYQzBjemFOYVlpQjFydGJscDFPV2lkOUM0dWFhYWltcmvSAaQBQVVfeXFMTmZfYUhCWHJzS0dsY2RsazhrXzhBclVjcDBmN3hlWldJdVpDVzlhTUt2Rm1jbFFUS29CTFZGdVpYaVNadVFwNE5aZVBzSVh5UlhoV202RnRQcmNCRDNFSHhGT3hJd0JtWTdYcTJfZ1N3bk1EX21EZGc1cFl2Y3UzOTVfSFlsaDA5cTFLZDhHV2FmclNPdkJyR1EtSmlHZUxIaWtfYkg?oc=5",
@@ -1773,6 +1793,16 @@
       "category": "adu"
     },
     {
+      "id": "868b186df12df516",
+      "title": "LA’s Mansion Tax: Lessons for Urban India - orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXc1QlYxVE43dVBQNDlCMHpqS291SWxXM0YwWWt5TDhaNmNnaDRHeWU1OTljSVFCYnBaYmUwZXN0dXJQQnZaZy1RYll2NGlRci04M25oNGVYZktwZDlEZjljWDNtSnVQTjU4RWdtOHpqX1MwOTcwYkw3TmRhWUxpOTdHZ2U4UQ?oc=5",
+      "source": "orfonline.org",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXc1QlYxVE43dVBQNDlCMHpqS291SWxXM0YwWWt5TDhaNmNnaDRHeWU1OTljSVFCYnBaYmUwZXN0dXJQQnZaZy1RYll2NGlRci04M25oNGVYZktwZDlEZjljWDNtSnVQTjU4RWdtOHpqX1MwOTcwYkw3TmRhWUxpOTdHZ2U4UQ?oc=5\" target=\"_blank\">LA’s Mansion Tax: Lessons for Urban India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">orfonline.org</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "2124db607415e5d3",
       "title": "Senate Bill 10 threatens California’s initiative process - CalMatters",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzZ1WmFrdHZrdXp3dVVPNm1nV1lmX2pyMGp2VnRQNzE0cXlVNzh4TWtXR3QySmJ0dzJBanIwZWd4WXdzOW9TR0tDUl8yYVRiQk13WFBUbkJ1bnJEaDhtYW5xUXZWeHQ3LUc4cngtdUx4cGZaSy1reldJUVFJOG1GaDVWejVxOU5UalQ5Wl9MQ3RpZkVGdVRNMVphdzZwSVU?oc=5",
@@ -2121,6 +2151,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTktkOEpJVmRHb3pEekRCeEdWaHZ0eTZxZmdtUC1mWW9yTWRFNzVZS0RvWGF3VHo0YVhsUXBBbTM2aXNJNjVyZEQzaldhV05zbjh0d202NUV6YkgxZXYtT3MzdldoQldTb3lWOEVxckNUS056S0VxUndzanlvLURsYVhDeFhoNHBGdmNvRmxVekVXOVJkTUZwcEtRVElLSUlWTEVjSjN3MGJXV0tlU2Y2VDhQT0hFd1NhNllycjB3OEdXdHpP?oc=5\" target=\"_blank\">LA County RV Parking Restrictions Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Local</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "b2896336e93e19ea",
+      "title": "Housing policy can be win-win for buyers, builders, and owners - Reason Magazine",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ja04ybWt2MV9wWVc4aGVlSk0xa1pEaFdQUzNBM0Iwa1B1MmU0VXRIX0VxLWthSHdYUUl4ZWpJOXNydXp4YkRaejNzQXRqMjJaS2IwaFJZblZyS1FFaFRwN0gwck1mNnFpRWEtag?oc=5",
+      "source": "Reason Magazine",
+      "published": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ja04ybWt2MV9wWVc4aGVlSk0xa1pEaFdQUzNBM0Iwa1B1MmU0VXRIX0VxLWthSHdYUUl4ZWpJOXNydXp4YkRaejNzQXRqMjJaS2IwaFJZblZyS1FFaFRwN0gwck1mNnFpRWEtag?oc=5\" target=\"_blank\">Housing policy can be win-win for buyers, builders, and owners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
     },
     {
       "id": "855f7bd00c121e39",
@@ -2631,6 +2671,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeW9vYk9vSEJ5bGR2ajQzaHdEM01WdDdyT2lYV1dPcmdHbGVrNnRVeGdOT19rNWVaX3pNdTFpS1oyR2U3NkFnWl9xc05pUDItcDNqX3pPS1Axb053U19ramVoVEpUNzJjZGFPNzJSTDM5U1YtMy1LMmF4VFJ5bjFsU1NMMlY0V0dpRUhJMG1jYmE3Z1A5dkxuYXJKbE1jTmtFbDNQWVNkb3ZRQ0U?oc=5\" target=\"_blank\">LA City Council Advances Mansion Tax Reform for November Ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "2f3bf2f02764eca4",
+      "title": "Council Hires New City Attorney, Waives Public Notice Rule to Do so - The Raincross Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjdwdWFRbHFUaVlNZG5lRS1EaU9PNE45VlVlZWZfVDlvSEMwREVmM1BaZzhpek4xY2sxWS1vbVZnMTh1THloT3FBQXpzck15M0FDVnR2U3Z6X3YyZmZBdjg1WWVFYzhCLTVEMXRncHBDZUdjTnZBY0VUeHlCZ2c0WDBjWDF1VkxLc0VtMWZqQnVCemxfM2xpMDVqT2JPX1p0dHc?oc=5",
+      "source": "The Raincross Gazette",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjdwdWFRbHFUaVlNZG5lRS1EaU9PNE45VlVlZWZfVDlvSEMwREVmM1BaZzhpek4xY2sxWS1vbVZnMTh1THloT3FBQXpzck15M0FDVnR2U3Z6X3YyZmZBdjg1WWVFYzhCLTVEMXRncHBDZUdjTnZBY0VUeHlCZ2c0WDBjWDF1VkxLc0VtMWZqQnVCemxfM2xpMDVqT2JPX1p0dHc?oc=5\" target=\"_blank\">Council Hires New City Attorney, Waives Public Notice Rule to Do so</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Raincross Gazette</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
     },
     {
       "id": "27e4c1b28ef6703e",
@@ -3313,6 +3363,16 @@
       "category": "construction"
     },
     {
+      "id": "c217a0b18b99178d",
+      "title": "Where is real estate as Measure ULA battle tees up - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3pmUW9oaEtZZU11c3V1UEw5ZW1BdU5Da3huSWI1NGxFeDVxLUtlRjh4YVBkY1V6Qi1fbUZ4eXZQRDNrWjJBakpic2U3eVpFR0JjVHFYOVJJcDFXLVhkd2dmSXJRYklSNklkM05ua0FOVXdxLVhDOXZxM1NDZXdZRW8zdTJ4Q2FzTG1mNkRyaWNZZl9MRUlvX2RwVWd5UQ?oc=5",
+      "source": "The Real Deal",
+      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPT3pmUW9oaEtZZU11c3V1UEw5ZW1BdU5Da3huSWI1NGxFeDVxLUtlRjh4YVBkY1V6Qi1fbUZ4eXZQRDNrWjJBakpic2U3eVpFR0JjVHFYOVJJcDFXLVhkd2dmSXJRYklSNklkM05ua0FOVXdxLVhDOXZxM1NDZXdZRW8zdTJ4Q2FzTG1mNkRyaWNZZl9MRUlvX2RwVWd5UQ?oc=5\" target=\"_blank\">Where is real estate as Measure ULA battle tees up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "fd71361de62f1720",
       "title": "LA County’s inclusionary housing ordinance is a step forward in the fight against California’s housing shortage - firsttuesday Journal",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU0lyREJNOVRBYWphLXN4R2c5Qi1BbkFfUFJBaVpxc3gybjRUZHpHYmJ4MzlwQm9FRUJ1ckVZUWZNeThVa0plZmM5Wng5QVB6LU5SUDNNN3hadHdDbWlOY0lEYzlFOVN5ZE84RFhvQVVzLTJRQzZZQ1U5dTZVRlZESm5jWjYtU3dpQjZXQ29zYVBFNlBSTm5jb1JsbmFqQnpIeFkxSTA1Ny12d3B4MFZXZEtZM3d3V1h2X1N0Z2lNMmkxckdLd21wamdDRHJxczdNQzZkSTR4c24zYVhKcGdJbmd3?oc=5",
@@ -3503,6 +3563,16 @@
       "category": "policy"
     },
     {
+      "id": "982e484aab5ff197",
+      "title": "Meet Eunisses Hernandez, Candidate For Los Angeles City Council District 1 - Patch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzZycHA3Wm8xUnQ0d1puMGZVcER3WFBtX3p3MnJ5cEVlcHBCcjBZRnF3SmI2WWxUem1kcnRtMnFsSzlCQnBYYlo4SGJ5U2MydGktVUd2ZzBubjFFQUpmTVBtWDVWTjVDWVJ0UUs4N1VTWVp4MVlFVlIwTGhPNHhaWEpLNWsyLXY5emFkbktpSldZcWpqVnVod3hqWnB5RFhpSU12QmxlZ1VxU3p3N19v?oc=5",
+      "source": "Patch",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzZycHA3Wm8xUnQ0d1puMGZVcER3WFBtX3p3MnJ5cEVlcHBCcjBZRnF3SmI2WWxUem1kcnRtMnFsSzlCQnBYYlo4SGJ5U2MydGktVUd2ZzBubjFFQUpmTVBtWDVWTjVDWVJ0UUs4N1VTWVp4MVlFVlIwTGhPNHhaWEpLNWsyLXY5emFkbktpSldZcWpqVnVod3hqWnB5RFhpSU12QmxlZ1VxU3p3N19v?oc=5\" target=\"_blank\">Meet Eunisses Hernandez, Candidate For Los Angeles City Council District 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "a8b0bf5779cf4ac7",
       "title": "LA Council Committee Holds Off On Ballot Proposal to Reform Measure ULA - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJlZDNJZEFLbE5FcFBVdzBsYW0xaFl6SDEyME9jX01HclNRQ2w2NDR0X091Q0o0YVpNSUdjSk5yQlhvUUREckJvMjFzb3RRTGYtVm1WdWdza25Ha1hVVjNlZ0x4dmZoV2wtem9TUXFPQ050MjlLbGt2U09oR1I2NnNsa3VSN0lZVnZyY3hPNzFleENlejh6aUU5M3l4ZExLM1NaTTNVV1RpcF9xX1JwSklRVFc?oc=5",
@@ -3511,6 +3581,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJlZDNJZEFLbE5FcFBVdzBsYW0xaFl6SDEyME9jX01HclNRQ2w2NDR0X091Q0o0YVpNSUdjSk5yQlhvUUREckJvMjFzb3RRTGYtVm1WdWdza25Ha1hVVjNlZ0x4dmZoV2wtem9TUXFPQ050MjlLbGt2U09oR1I2NnNsa3VSN0lZVnZyY3hPNzFleENlejh6aUU5M3l4ZExLM1NaTTNVV1RpcF9xX1JwSklRVFc?oc=5\" target=\"_blank\">LA Council Committee Holds Off On Ballot Proposal to Reform Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "c7071fb8956b9ece",
+      "title": "RAND reviews ULA impacts, Mayor's race focuses on housing, and more - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnoyTi1KSHdLLXphbjR3b2Q1VVp0M1QxdVBfby1hc1BIWkZwc2dHQjNsMm10c01qTFNfVkI2SGRBSVloamp6TEctc0tvVGdOc0dEOEMtdllkS1QxMUs1aktBNFJ2RmVIQlBiQnFaODdyWU44c2lfVU1BQVlULWdsWjYyNjJMQzBRMjNvVy1KUmpYcGJiRUE?oc=5",
+      "source": "Urbanize LA",
+      "published": "Sat, 30 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnoyTi1KSHdLLXphbjR3b2Q1VVp0M1QxdVBfby1hc1BIWkZwc2dHQjNsMm10c01qTFNfVkI2SGRBSVloamp6TEctc0tvVGdOc0dEOEMtdllkS1QxMUs1aktBNFJ2RmVIQlBiQnFaODdyWU44c2lfVU1BQVlULWdsWjYyNjJMQzBRMjNvVy1KUmpYcGJiRUE?oc=5\" target=\"_blank\">RAND reviews ULA impacts, Mayor's race focuses on housing, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "policy"
     },
     {
       "id": "7d7a86b802c78d27",
@@ -3541,6 +3621,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjYtVmtSbmZSS3ZjQ1Y0b3NxaXhhVUluLTJPd3hQc2tyYUIzal85SGVPWkdnWGZNS1RhMERDenFLZmdoZjJoUGIyaVZ0clA3bG9XbWltX2hSUE5nd1dxQmpiOC1zcmxVU2duMUdNTnN5aENfMzZFdThFc2ExWTROOHB6OUViWGRqOS1MZnExYXFUQkVQQ3JTSjl5ZTl5Xy1sN0E?oc=5\" target=\"_blank\">Geoff Palmer’s lawsuit over tenant protections tossed by judge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
+    },
+    {
+      "id": "1bc6956de43e32ed",
+      "title": "Netflix eyes Radford Studio Center, Measure ULA hits school funding, and more - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzZKRjQ4QUM3TVVTd2ZwYjBGYm5zR29US3d2VUZBTDFDN2p2a09xTWp0YkpoYklCVk91Vk1YVkxrakdFc21HcmhTcG9nZ1ZNZ094cnBEWUNwVEpnbTQtNXZNbUhvMEZXVVlRbGMyOUs5WThyLUJ2akhLU0ZaUTcwaTNlZDd0bEd5N3V5NXUyMEVoV1hBa1NrQ1h6U2dkRWNrejlPQkN3QnY?oc=5",
+      "source": "Urbanize LA",
+      "published": "Sat, 25 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzZKRjQ4QUM3TVVTd2ZwYjBGYm5zR29US3d2VUZBTDFDN2p2a09xTWp0YkpoYklCVk91Vk1YVkxrakdFc21HcmhTcG9nZ1ZNZ094cnBEWUNwVEpnbTQtNXZNbUhvMEZXVVlRbGMyOUs5WThyLUJ2akhLU0ZaUTcwaTNlZDd0bEd5N3V5NXUyMEVoV1hBa1NrQ1h6U2dkRWNrejlPQkN3QnY?oc=5\" target=\"_blank\">Netflix eyes Radford Studio Center, Measure ULA hits school funding, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
     },
     {
       "id": "5d2afd2199a60381",
@@ -4153,6 +4243,16 @@
       "category": "legal"
     },
     {
+      "id": "b6465d8f4974f5d1",
+      "title": "Investing in Housing: Measure ULA funds help rent-burdened Angelenos - Los Angeles Downtown News",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVVJsNlVZSHJqMFdXb0RmS25DM0Jxel9OQk41cDJiNGRPQWtzb0tHdDljeUpxQTRlakJxWF9yUWZnLWZqa09wRVdzck1hcnJFVHFOZGRxekRyRUJPVTNfMkdZV0hYQ3lvRWc0RkN3Uy1wY2FLcjMzUFlfMGUyYnp0aG05VEJOR252T29uMi0tSVk2V2Jaam9KUElvQU5GUjIwcEs2ZHA3eDFaZW1oQk9LVENYTExRVXJRVWNTS09KNWd1Q2ZhazJMMXA1NVRwSzE5Z0tNMUNiSERyNFBRSDdhRW00clo5TUsz?oc=5",
+      "source": "Los Angeles Downtown News",
+      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVVJsNlVZSHJqMFdXb0RmS25DM0Jxel9OQk41cDJiNGRPQWtzb0tHdDljeUpxQTRlakJxWF9yUWZnLWZqa09wRVdzck1hcnJFVHFOZGRxekRyRUJPVTNfMkdZV0hYQ3lvRWc0RkN3Uy1wY2FLcjMzUFlfMGUyYnp0aG05VEJOR252T29uMi0tSVk2V2Jaam9KUElvQU5GUjIwcEs2ZHA3eDFaZW1oQk9LVENYTExRVXJRVWNTS09KNWd1Q2ZhazJMMXA1NVRwSzE5Z0tNMUNiSERyNFBRSDdhRW00clo5TUsz?oc=5\" target=\"_blank\">Investing in Housing: Measure ULA funds help rent-burdened Angelenos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Downtown News</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "d940032c263df42e",
       "title": "Burke Public Law Update: SB 450 Modifies And Strengthens SB 9 - californiacitynews.org",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0ltVXJNaEtYMlhEOEVYSDBVZjdRYk80YXJkOGd4ZVl1amJ4TE1fMDVhbENuU0JlTm5KeTAweXFOWkI0RWxnVGNSS1VrU1NZc1Zrckw0QWtJd1VDa1B6SkNHbnNhRW5QQ3E0RVl6Nl95X2F0dFA5bjhRXzZfVTJnV3hadjBCMmVkVGt4akxkRk5XNzFwa1BNSnU4OEh1M3RDWGtlMEx6M2JILWh5?oc=5",
@@ -4653,6 +4753,16 @@
       "category": "other"
     },
     {
+      "id": "af622632281ecbdf",
+      "title": "California Voters Will Decide If Local Taxes Should Be Harder to Approve - Commercial Observer",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDhZckhwa1pueTFHTDVlQUNiM0hlejVuTk5Yc3pKcmhubGdLUE5nZ1pMNG40UHhiOEtZcExYSTRhOExvWG53SXhQa25pdFpWazl3RDRsVjV0Nm9IQ0F0UU9QNkNweTcxSzdOU1JCZmpQV2hJSzE3VWdQLXQybUZxak1QczN5TER4Z1E?oc=5",
+      "source": "Commercial Observer",
+      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDhZckhwa1pueTFHTDVlQUNiM0hlejVuTk5Yc3pKcmhubGdLUE5nZ1pMNG40UHhiOEtZcExYSTRhOExvWG53SXhQa25pdFpWazl3RDRsVjV0Nm9IQ0F0UU9QNkNweTcxSzdOU1JCZmpQV2hJSzE3VWdQLXQybUZxak1QczN5TER4Z1E?oc=5\" target=\"_blank\">California Voters Will Decide If Local Taxes Should Be Harder to Approve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial Observer</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "other"
+    },
+    {
       "id": "62c23a06b25b1ed1",
       "title": "City Planning Commission signs off on mixed-use Hollywood Central development - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzhWRE9naEFhaDRVZkxmaFBtN0NlS25NbFFoR2VKc2V1dFFNNHVCZlNqQ2ExQzQwVFYtbmRaZnhGTE95bEVWbElFUUhBMTc1Tzh1NTlJNk82dV91ejFneWtlQnZka18zZEVTeDVnNjNnX0E0LUc0SkxiYTJsUFJPUU4yQi1mTDdxOUE5ZEw3eVF0Q2Q0MDRyU3ZJaWVjU0Jtc1E?oc=5",
@@ -4883,124 +4993,14 @@
       "category": "legal"
     },
     {
-      "id": "25e59fa32c1e9808",
-      "title": "LA County Eyes First-of-Its-Kind Cooling Ordinance for Rentals Amid Rising Heat Risks - pasadenanow.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzNWdmlGLW5VcEJwNnY2ckFGa2hnUjVUUXhmbGVuMzJ2aWRyNzMzZFVJejUxQWY0WXdHVlVNdXF4TWZvcjdZUHBnTWxFZGsydHlqYmJyLXo5UXNNX0FBSHJHTnZpUk8yeW1ldVV6ZzFCdERpRW9zdzlYb2k4UklaZ3BvT2s2WXJqeGZiNnF1ZjZFVEhYVjN1emh5dmxRSEg5NUVtM2RRaEFEdUNuYmJRbEFtVXU?oc=5",
-      "source": "pasadenanow.com",
-      "published": "Fri, 18 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzNWdmlGLW5VcEJwNnY2ckFGa2hnUjVUUXhmbGVuMzJ2aWRyNzMzZFVJejUxQWY0WXdHVlVNdXF4TWZvcjdZUHBnTWxFZGsydHlqYmJyLXo5UXNNX0FBSHJHTnZpUk8yeW1ldVV6ZzFCdERpRW9zdzlYb2k4UklaZ3BvT2s2WXJqeGZiNnF1ZjZFVEhYVjN1emh5dmxRSEg5NUVtM2RRaEFEdUNuYmJRbEFtVXU?oc=5\" target=\"_blank\">LA County Eyes First-of-Its-Kind Cooling Ordinance for Rentals Amid Rising Heat Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pasadenanow.com</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "policy"
-    },
-    {
-      "id": "83c5cc96083bb42b",
-      "title": "What California’s new SB9 housing law means for single-family zoning in your neighborhood - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkMtZTVWSDg3dm5ENW9WYXREOTBVclM3b1RLWTFQNjJOSVlabmp0MnVLdUNqY2dJV2dkZG4teVlUdGY0QWtVZmdBdTZwZE12dWxES3l3THRPS2IxYTc4RGZKbHUzUDlHTXI4OUYzU3QycHVYd3hCTTJaaGszRUpPX3VwSDB6dTB1c2xUbDJfY0E4UEhlelJocFpSUDcwZm1SaTh4cXozaU9BNmJhRjl1a3R4MHFscGg5OGZGMtIBwgFBVV95cUxOQXNiZzU1ZjBzZU1XS0VXSzA4eC1SV1BIQjN3N052MjZ4S3RpM1dDTndWU3JvU2N3eW1LUlRDNXNBendwZ3FwQXNiU1F4SlZLYkpQejBqZGl2NV9vR2dHWDBQZklidHpEYmpmX3prR28xQTUyWUlUdlNoT3Zia0o2M3pKTGIyZnVHTGlKVHZsdmxPSUV1RVU0Wk1sTEwtSXRQNllzbU5YY0lUUW94N1NjM1ZqeW94eGhZWndLMW1ORDFIZw?oc=5",
-      "source": "The Mercury News",
-      "published": "Fri, 17 Sep 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkMtZTVWSDg3dm5ENW9WYXREOTBVclM3b1RLWTFQNjJOSVlabmp0MnVLdUNqY2dJV2dkZG4teVlUdGY0QWtVZmdBdTZwZE12dWxES3l3THRPS2IxYTc4RGZKbHUzUDlHTXI4OUYzU3QycHVYd3hCTTJaaGszRUpPX3VwSDB6dTB1c2xUbDJfY0E4UEhlelJocFpSUDcwZm1SaTh4cXozaU9BNmJhRjl1a3R4MHFscGg5OGZGMtIBwgFBVV95cUxOQXNiZzU1ZjBzZU1XS0VXSzA4eC1SV1BIQjN3N052MjZ4S3RpM1dDTndWU3JvU2N3eW1LUlRDNXNBendwZ3FwQXNiU1F4SlZLYkpQejBqZGl2NV9vR2dHWDBQZklidHpEYmpmX3prR28xQTUyWUlUdlNoT3Zia0o2M3pKTGIyZnVHTGlKVHZsdmxPSUV1RVU0Wk1sTEwtSXRQNllzbU5YY0lUUW94N1NjM1ZqeW94eGhZWndLMW1ORDFIZw?oc=5\" target=\"_blank\">What California’s new SB9 housing law means for single-family zoning in your neighborhood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "c5a10489917c007e",
-      "title": "California Enacts Two Important New Zoning Reform Laws - reason.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVFBYkg0RFZwRWZnYVd3Uk9qeXU4S2hzVHBjd29GdjcxZC1YZDZ2Z01SeXBfR1dOLV9lMHFNZTRFaTQ4THNYWFhGUXR2MjNCdFdZemNtTHF4RkhTMWxRLTFTdEpJd0oxbDFOVEJDTlhVRk1GWnk3OW1UaE9ONl94dGstTkxLYU9EczlKUHBKVmZ3ZGRlUExj?oc=5",
-      "source": "reason.com",
-      "published": "Fri, 17 Sep 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVFBYkg0RFZwRWZnYVd3Uk9qeXU4S2hzVHBjd29GdjcxZC1YZDZ2Z01SeXBfR1dOLV9lMHFNZTRFaTQ4THNYWFhGUXR2MjNCdFdZemNtTHF4RkhTMWxRLTFTdEpJd0oxbDFOVEJDTlhVRk1GWnk3OW1UaE9ONl94dGstTkxLYU9EczlKUHBKVmZ3ZGRlUExj?oc=5\" target=\"_blank\">California Enacts Two Important New Zoning Reform Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reason.com</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "23b98f0cca77ac2f",
-      "title": "Los Angeles City Council committee approves $360M funding allocation for affordable housing - dailynews.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWRUeXZROEg2Tkk0UUZ0RE5xU2lsNHY5Qlg1MHhHUWdKT3dpRnJELU1rU05vWEJKZVk3QUtMUV9oZGM2eGgzWE1KdWNMbFppQ2dic0tfNW1zdm5RQzR2aEVSdjVfbUJVUWItV2ZZbm9oM0JrTUk1UHJhcTZkX2lWRW5pbDdWc2hMcjNhR2dyWGdYcXNYUWJqMUN4X1c2azk4VTNnV3BPcDVmZUJmMnBNMXNKWHQydEFrYVRPU05FRDRaai1HbU5n?oc=5",
-      "source": "dailynews.com",
-      "published": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWRUeXZROEg2Tkk0UUZ0RE5xU2lsNHY5Qlg1MHhHUWdKT3dpRnJELU1rU05vWEJKZVk3QUtMUV9oZGM2eGgzWE1KdWNMbFppQ2dic0tfNW1zdm5RQzR2aEVSdjVfbUJVUWItV2ZZbm9oM0JrTUk1UHJhcTZkX2lWRW5pbDdWc2hMcjNhR2dyWGdYcXNYUWJqMUN4X1c2azk4VTNnV3BPcDVmZUJmMnBNMXNKWHQydEFrYVRPU05FRDRaai1HbU5n?oc=5\" target=\"_blank\">Los Angeles City Council committee approves $360M funding allocation for affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "855e0390a562a9bc",
-      "title": "Free Housing or Fifth Amendment Violation? Supreme Court Urged to Hear LA Eviction Moratorium Case - Liberty Justice Center",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT25FRUIxU2I2MC1vR0JXRWdWemJxV0M4R1ZkZ1FVRmY3RlZFbWY1N3BRQ1hBSEZITGtvRS1oSVpaSldxSEw0MDZKaDBBY2ZhQjRnR2FER0RZVlVYQW9jZUR5YnItV1hIT21KNXFaMk84V01QRW04RGJlZWhYWXBMdC1YYlo3QjhEZW9sQ051Vmx0aTBGQTZ2dm9JYUJMcUVHNEM3OUppRUZDTWVxdHYwdEVqRWFJaHdYNmNGWkJfUEZQNEdSZkNvWGd5bGRWaDUwWDh2R3FEQQ?oc=5",
-      "source": "Liberty Justice Center",
-      "published": "Fri, 15 Nov 2024 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT25FRUIxU2I2MC1vR0JXRWdWemJxV0M4R1ZkZ1FVRmY3RlZFbWY1N3BRQ1hBSEZITGtvRS1oSVpaSldxSEw0MDZKaDBBY2ZhQjRnR2FER0RZVlVYQW9jZUR5YnItV1hIT21KNXFaMk84V01QRW04RGJlZWhYWXBMdC1YYlo3QjhEZW9sQ051Vmx0aTBGQTZ2dm9JYUJMcUVHNEM3OUppRUZDTWVxdHYwdEVqRWFJaHdYNmNGWkJfUEZQNEdSZkNvWGd5bGRWaDUwWDh2R3FEQQ?oc=5\" target=\"_blank\">Free Housing or Fifth Amendment Violation? Supreme Court Urged to Hear LA Eviction Moratorium Case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Liberty Justice Center</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "adu"
-    },
-    {
-      "id": "a7b996d7356b5c33",
-      "title": "Raman’s Measure ULA carveout would hand $177M back to commercial developers - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjBmdk9PRjJDaVE2RDlBVnU2NS1qV29rT2VoQUU1ZkN5UTlzN3hXOE1HOWRmTV9wcUwyZVhjTzlYYjJTZGFENk9wZ09tTlJpb1hPYjZFUHBXZVFjdnBHNkpBY1dPYzRrWGVyTWZ5SUhjNG5rbk0wNzZBdWM5N0FBYkpEUWhMQXNqNUU3WEtB?oc=5",
-      "source": "The Real Deal",
-      "published": "Fri, 15 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjBmdk9PRjJDaVE2RDlBVnU2NS1qV29rT2VoQUU1ZkN5UTlzN3hXOE1HOWRmTV9wcUwyZVhjTzlYYjJTZGFENk9wZ09tTlJpb1hPYjZFUHBXZVFjdnBHNkpBY1dPYzRrWGVyTWZ5SUhjNG5rbk0wNzZBdWM5N0FBYkpEUWhMQXNqNUU3WEtB?oc=5\" target=\"_blank\">Raman’s Measure ULA carveout would hand $177M back to commercial developers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "id": "cd2272c7cefa9a8c",
+      "title": "City Council Advances Ballot Measure to Exempt Palisades Fire Victims From ULA Transfer Tax - Palisades News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1dVMWFHVjFnX0ptazVqLVVMMFJ4T3JYandYRi1BS09qdDhkcHAzVHg3bWhWVFBOWFFxaTRpaGxsc0Q5QXc0QjhJU20yQ1FLMnFhUFVmenplTm9oOTZPNFBJQm1jbV9oWURGY1JRcHhGWkROczh1TDZuUDBQbUoyLU90d0JJb3o4eExhVWtHOFNSSVlNZHhKNUQwSi1fSzZTTnQ4ZnBtME9MNS1zM1BZVjNpNk9ROGFOdHc?oc=5",
+      "source": "Palisades News",
+      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1dVMWFHVjFnX0ptazVqLVVMMFJ4T3JYandYRi1BS09qdDhkcHAzVHg3bWhWVFBOWFFxaTRpaGxsc0Q5QXc0QjhJU20yQ1FLMnFhUFVmenplTm9oOTZPNFBJQm1jbV9oWURGY1JRcHhGWkROczh1TDZuUDBQbUoyLU90d0JJb3o4eExhVWtHOFNSSVlNZHhKNUQwSi1fSzZTTnQ4ZnBtME9MNS1zM1BZVjNpNk9ROGFOdHc?oc=5\" target=\"_blank\">City Council Advances Ballot Measure to Exempt Palisades Fire Victims From ULA Transfer Tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palisades News</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "ef3cd7fa78a91fd4",
-      "title": "City Planning Commission approves Los Feliz apartments at 4773 Hollywood Blvd. - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNkt0cng3VVdlbE0tZnVqWjlZakhCSXRXdE9Sb1N2UG9pbVB1MkN3VmppT1FCd3hnYjhOdTI5MkNUSGZ5LWk0LTMySzRGNUJEbDM5bm1zZV9KeVV1NjFiTXJhNWRrTU9xYWVHYm4zcEVXcm1yTkQ1ckdHYllUeHExeDRZVFdiV0tUX1hsVWlFQzc2dy0yTHlQakdsdEhucm5HSUUyVkpVNA?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 15 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQNkt0cng3VVdlbE0tZnVqWjlZakhCSXRXdE9Sb1N2UG9pbVB1MkN3VmppT1FCd3hnYjhOdTI5MkNUSGZ5LWk0LTMySzRGNUJEbDM5bm1zZV9KeVV1NjFiTXJhNWRrTU9xYWVHYm4zcEVXcm1yTkQ1ckdHYllUeHExeDRZVFdiV0tUX1hsVWlFQzc2dy0yTHlQakdsdEhucm5HSUUyVkpVNA?oc=5\" target=\"_blank\">City Planning Commission approves Los Feliz apartments at 4773 Hollywood Blvd.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "998fc88feef7f5a0",
-      "title": "Los Angeles County Approves First-of-Its-Kind Indoor Temperature Limit for Rentals - Santa Monica Daily Press",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNUlrRG56T3gwTEx5WWVwazlsZ18wcHVzVlpGS1Y0bkdTOHNINzFkUmZSRE9LSjM0RHd6UHZ0YUZUVmRseXNiM29tZWlCQ1U1eng3akFkMmdXNUZZWTU3SmVlMU02eVppZEhzcmtSVk40a3phd2Ryak9iWng5bUxoYTV4eXpOTktvWi1Nb1ZRWEZnTnhaRDdONnVYLVEtUmtWQzFwYXpWcw?oc=5",
-      "source": "Santa Monica Daily Press",
-      "published": "Fri, 15 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQNUlrRG56T3gwTEx5WWVwazlsZ18wcHVzVlpGS1Y0bkdTOHNINzFkUmZSRE9LSjM0RHd6UHZ0YUZUVmRseXNiM29tZWlCQ1U1eng3akFkMmdXNUZZWTU3SmVlMU02eVppZEhzcmtSVk40a3phd2Ryak9iWng5bUxoYTV4eXpOTktvWi1Nb1ZRWEZnTnhaRDdONnVYLVEtUmtWQzFwYXpWcw?oc=5\" target=\"_blank\">Los Angeles County Approves First-of-Its-Kind Indoor Temperature Limit for Rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "other"
-    },
-    {
-      "id": "57a8fc17fa99f9aa",
-      "title": "City Planning Commission signs off on EIR for Gehry-designed offices at 12575 Beatrice Street in Playa Vista - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRWI1SGVNanc1ZnIwd0NndHVSWi1yMGNBWVhqMFpmanA3YmU1MWVvaUtWQmFOcGxFTWx6X2FZZEJHdHNHWGVOUklkcGp0bVlWcHRUXzk4bk1fX1RXOVZPM2JhWnFEQ0I5S3BfZHlySi1ScGVHSnZNcno4bW5wSmdneGFwajExYUJTNTJGdEFTQTdvbjJBdHBIdXQ1YnlRMmp0LThIZ29DMzRMNThTcl9nSlEwNFZnWnhkalpYNGZn?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 14 Mar 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRWI1SGVNanc1ZnIwd0NndHVSWi1yMGNBWVhqMFpmanA3YmU1MWVvaUtWQmFOcGxFTWx6X2FZZEJHdHNHWGVOUklkcGp0bVlWcHRUXzk4bk1fX1RXOVZPM2JhWnFEQ0I5S3BfZHlySi1ScGVHSnZNcno4bW5wSmdneGFwajExYUJTNTJGdEFTQTdvbjJBdHBIdXQ1YnlRMmp0LThIZ29DMzRMNThTcl9nSlEwNFZnWnhkalpYNGZn?oc=5\" target=\"_blank\">City Planning Commission signs off on EIR for Gehry-designed offices at 12575 Beatrice Street in Playa Vista</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "04ee660435845081",
-      "title": "102 apartments approved at 1717 S. Beloit Ave. in Sawtelle - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGFyS3dKTG54OGJZNDd1ZFQ0UVZjUmRVdTBrTVZSSjRnMnhwQ0lQb2JPNm81RFd5NzFlTjhZb3ZMcnVtenhFX2d5aTFHdVExTFZWd25UUkI4ZnZiUnMweGh6aTFrMk9wWkFPUEtGbUtUQ1VEQ1haZVBDWmVnS2hQb1hrbTJyUFU?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 14 Mar 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGFyS3dKTG54OGJZNDd1ZFQ0UVZjUmRVdTBrTVZSSjRnMnhwQ0lQb2JPNm81RFd5NzFlTjhZb3ZMcnVtenhFX2d5aTFHdVExTFZWd25UUkI4ZnZiUnMweGh6aTFrMk9wWkFPUEtGbUtUQ1VEQ1haZVBDWmVnS2hQb1hrbTJyUFU?oc=5\" target=\"_blank\">102 apartments approved at 1717 S. Beloit Ave. in Sawtelle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "other"
-    },
-    {
-      "id": "7e5f1e094686c54b",
-      "title": "Modular apartment building in DTLA receives Planning Commission approval - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFR4aWxHM2czaGFOWTZFMkFCUmZJbm1iOG5qMm05NXRpVjNuWWJsVkNFWHVNV2htbk5sTWhReU9vQ1R4QlpKX0oya0tnZ25kOEtiRVJndVhDa21IQ2c2WVNWTXo0SndRdXZLX1JTSUJMaXJ3aFI5N204N3hSNnB5dVNuODFIY2c3MGdqXzlmRmVuWElvaDl0cnBleGZTSmUt?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 14 Jan 2022 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFR4aWxHM2czaGFOWTZFMkFCUmZJbm1iOG5qMm05NXRpVjNuWWJsVkNFWHVNV2htbk5sTWhReU9vQ1R4QlpKX0oya0tnZ25kOEtiRVJndVhDa21IQ2c2WVNWTXo0SndRdXZLX1JTSUJMaXJ3aFI5N204N3hSNnB5dVNuODFIY2c3MGdqXzlmRmVuWElvaDl0cnBleGZTSmUt?oc=5\" target=\"_blank\">Modular apartment building in DTLA receives Planning Commission approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "2ea276c70b250899",
-      "title": "Arts District studio complex at 6th & Alameda approved by City Planning Commission - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXNzNGR3VlVhTzZvel9DMUU5STk3blRjZU5Ic3ZHMTBjU1hmRnVPY3BCXzZmSkNUNWw1bWNKUmVOUXNYazg2WTR0VGRxNzRfV3dQaFpSeTVHR0dybUpjVGVmWk9kVDNpcS00SmVnT0Fhck9SMkN0QXQ1bVpKc29qdm1qOXVWQUVuXzVRNmNwLUtQSTZXV21RaWtCb05qR25YQjFzUnVJdw?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 14 Feb 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXNzNGR3VlVhTzZvel9DMUU5STk3blRjZU5Ic3ZHMTBjU1hmRnVPY3BCXzZmSkNUNWw1bWNKUmVOUXNYazg2WTR0VGRxNzRfV3dQaFpSeTVHR0dybUpjVGVmWk9kVDNpcS00SmVnT0Fhck9SMkN0QXQ1bVpKc29qdm1qOXVWQUVuXzVRNmNwLUtQSTZXV21RaWtCb05qR25YQjFzUnVJdw?oc=5\" target=\"_blank\">Arts District studio complex at 6th & Alameda approved by City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
