@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T19:33:48.596358+00:00",
+  "generated_at": "2026-09-09T22:04:47.236944+00:00",
   "total": 500,
   "alerts": [
     {
@@ -581,6 +581,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRDdkb2xfZFA4V1RMdTN2TGRydmtLYlU0YV9OWEg5N2NpZTd1UlFqREQ1V21XREljR2lvaFotQ0RYQ0N1ZTZveXlJSlIxczJ2WTB5WmxOTDI3OUQtS05YdGpBUjRHWDZXMlU0V0E1SDBfbmNtN1VZbExiZVV5RlM2ZlNRNk1hUlh3ZXBzM0FXb2JfdS1JaDNLeE9SSlV1bF8xUTlrcVV5eXoyaEYyeFkxMTlXbURVTVJIM0w4OHlkanFCWndnZGJXNnFyTlgwN0haeVVZTQ?oc=5\" target=\"_blank\">LA County Supervisors Advance Housing Ordinance Update, With Barger Amendment Preserving Existing Density Caps – Pasadena Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pasadenanow.com</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
+    },
+    {
+      "id": "c81e65b3d07ef67a",
+      "title": "More homeowners in Salt Lake County could build granny flats if this proposal passes - The Salt Lake Tribune",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NV0VGUDFDbVlRR1pyUEVWcWZkazB6X2xlRUhwOEFzeHR0REZXNWhNLVpYcHNZZE1wcFZ0UlJXeGw1UnVYaTJBazRIRlNSRTN0VVJfblVDQ2V1SEhWZ3l6S0xvdllQOXNNRGpYWlhEbnU3R0hMWWlUYVJFenI?oc=5",
+      "source": "The Salt Lake Tribune",
+      "published": "Wed, 13 Mar 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1NV0VGUDFDbVlRR1pyUEVWcWZkazB6X2xlRUhwOEFzeHR0REZXNWhNLVpYcHNZZE1wcFZ0UlJXeGw1UnVYaTJBazRIRlNSRTN0VVJfblVDQ2V1SEhWZ3l6S0xvdllQOXNNRGpYWlhEbnU3R0hMWWlUYVJFenI?oc=5\" target=\"_blank\">More homeowners in Salt Lake County could build granny flats if this proposal passes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Salt Lake Tribune</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
     },
     {
       "id": "4bd8e8ca39af2863",
@@ -2151,6 +2161,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVhiRjVZa05NWEFrMXI5ellzczU1MFpYQ2d5cU9TcjlEN2RjRnRUVHhxQlhjNUEzRGd5WDhBX0c2Sk5zREN4UHQzWDM3UGwxMTlsSHl2UkNiMXYtby1ST2FJMzI3R3hFOERMZTBMQXVMV0RWc0kyMTFqWng5QmJHUWZJRlZac09jYzhkVTdUWS04OTYxSk5ycFRaT2Y2T0FlQUdj?oc=5\" target=\"_blank\">Renters To Get Right To AC Under New 82-Degree Cooling Requirement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "b4506caaf51cb18e",
+      "title": "Upzoning Was Meant To Fix L.A.’s Housing Crisis—Is It Making It Worse? - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOODAxR2s5UENjV24ybWVzcHR1OWFyZ01SdzZtWVNOU2VzdGo4N0FnWGtRYkRzaFZXSDZXS0g2cWxkeWFwUWo2Rmlfa2oyNUpqMWhGSUVnRkZHLUoxRzV5ZTMtcHZ3a1Y0VVNCRE9PSV9QSG1mTVozYVJ4MEh5MDFNTzhzRDBPVFItb1ZjZw?oc=5",
+      "source": "Realtor.com",
+      "published": "Tue, 04 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOODAxR2s5UENjV24ybWVzcHR1OWFyZ01SdzZtWVNOU2VzdGo4N0FnWGtRYkRzaFZXSDZXS0g2cWxkeWFwUWo2Rmlfa2oyNUpqMWhGSUVnRkZHLUoxRzV5ZTMtcHZ3a1Y0VVNCRE9PSV9QSG1mTVozYVJ4MEh5MDFNTzhzRDBPVFItb1ZjZw?oc=5\" target=\"_blank\">Upzoning Was Meant To Fix L.A.’s Housing Crisis—Is It Making It Worse?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realtor.com</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "zoning"
     },
     {
       "id": "f11c712e40c16825",
@@ -4123,6 +4143,16 @@
       "category": "other"
     },
     {
+      "id": "18c03630edb19f4d",
+      "title": "A California man started a petition to ban Airbnb in his neighborhood — and it worked - The Virginian-Pilot",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHVvYUQ1Uk9mWktkS1VHdXQyaVJMcVA4Yk1rOUtadEV6Z3dGUDQ5MjFzcWx1OV9EWERNWWFaX2o5a2FRM2h6U1J3eHhCRHNRT2hqck9ZNGhxMWNNdjdCUF9Rbk9kMnRYSTZxLW1Id2NfbTA3X1JGckowaWloWGVDOVFGZU1SSU81REhtQWFDWkF0R0hVZmxKaTVlQW9hOVNKUzRjcnJVS3RVYVlsZDBXS0N0SHdCLXlURmc2bVZ1cms?oc=5",
+      "source": "The Virginian-Pilot",
+      "published": "Mon, 20 May 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHVvYUQ1Uk9mWktkS1VHdXQyaVJMcVA4Yk1rOUtadEV6Z3dGUDQ5MjFzcWx1OV9EWERNWWFaX2o5a2FRM2h6U1J3eHhCRHNRT2hqck9ZNGhxMWNNdjdCUF9Rbk9kMnRYSTZxLW1Id2NfbTA3X1JGckowaWloWGVDOVFGZU1SSU81REhtQWFDWkF0R0hVZmxKaTVlQW9hOVNKUzRjcnJVS3RVYVlsZDBXS0N0SHdCLXlURmc2bVZ1cms?oc=5\" target=\"_blank\">A California man started a petition to ban Airbnb in his neighborhood — and it worked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Virginian-Pilot</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "48a3206291ebcfdf",
       "title": "Editorial: California needs more housing and good jobs. There's a bill to create both - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZBd1BGSjBfcGlEdVZYc201R2ZldlpXRHNoMUZBUkQxdk51NlZLWFBmYkV5QXZuZm45SUJzTGdvaG45T3BWdUpQeGdETlExMzZRS0NvZHYxU1gtN1dsbm5yM1VJd3JqZWNlLWFzTFJUUlFUMlpXdlRsYzJWVWZqVlF5MXk5NGVRM1MxWE5sTkNZMGxZd0NXTy1RcTBCUTJYRnNJc3lZNXZnWkt6dkVWb1duWFJ2WG12bDdZaklOcmtfdHBIY09uSzcwUQ?oc=5",
@@ -4969,36 +4999,6 @@
       "source": "The Real Deal",
       "published": "Fri, 24 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGcyYmxXbloxN2JNZ0VSZVZnaTJScnpPU3p2Sml5MzlQQmZIUnRqWXAwN2FzSXlFZWF1RG1KMG81a1ppcFNhU1lwX19JaXVNajJHc0JGdXlMZlNWUHk2MGdYQ2FfQk5qWnVxT1Z2MGE4VU9yUEI3VURUMi1tYldiOGxucGU3XzdzdXM0N3lrbWNLd2s?oc=5\" target=\"_blank\">New group looks to scrap the “binary,” keep Measure ULA’s fate local</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "6c01c3c180c474a0",
-      "title": "24 apartments approved at 6735 Sylmar Ave. in Van Nuys - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFhwMXBETWpvOEZLMkU5bWZEb0hoT3huS05RTVp6T2thZkRFQ0RzanFGMThYU0RjT3BOYU14NFpXMmlGZHc3UDBuUDZlMlJodnllaDBkNndXVzFDakhkVnF3Sk1adGduOVlBNTRnVEg4cUI4dVh3SFFMVHN6cEcwdjd6RQ?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFhwMXBETWpvOEZLMkU5bWZEb0hoT3huS05RTVp6T2thZkRFQ0RzanFGMThYU0RjT3BOYU14NFpXMmlGZHc3UDBuUDZlMlJodnllaDBkNndXVzFDakhkVnF3Sk1adGduOVlBNTRnVEg4cUI4dVh3SFFMVHN6cEcwdjd6RQ?oc=5\" target=\"_blank\">24 apartments approved at 6735 Sylmar Ave. in Van Nuys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "other"
-    },
-    {
-      "id": "dc93a495d530ba4e",
-      "title": "COUNCILMEMBER RAMAN INTRODUCES MOTION TO REFORM MEASURE ULA TO UNLOCK HOUSING PRODUCTION IN LOS ANGELES - City of Los Angeles (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORmp2ZmJzeTFFTDZKVi1ET0k0UjJmOENNV2FzeVlfdGV1djNISi1nYWg0eE1yT2VYLTBUcWxaSERMTGtna1MwdUNhNENrWWhITFlKR0x0T2E1V1NuUk1UeUpyZ3MzTWNZVGZoRFZSX0lXUVhvalRIWV9ab0J0YW4yYzJHbnhtM3doeEp2LW5ZMzJlQmtH?oc=5",
-      "source": "City of Los Angeles (.gov)",
-      "published": "Fri, 23 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORmp2ZmJzeTFFTDZKVi1ET0k0UjJmOENNV2FzeVlfdGV1djNISi1nYWg0eE1yT2VYLTBUcWxaSERMTGtna1MwdUNhNENrWWhITFlKR0x0T2E1V1NuUk1UeUpyZ3MzTWNZVGZoRFZSX0lXUVhvalRIWV9ab0J0YW4yYzJHbnhtM3doeEp2LW5ZMzJlQmtH?oc=5\" target=\"_blank\">COUNCILMEMBER RAMAN INTRODUCES MOTION TO REFORM MEASURE ULA TO UNLOCK HOUSING PRODUCTION IN LOS ANGELES</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "1a34fc01e0e16e3d",
-      "title": "Researchers say LA’s ‘mansion tax’ hurts new housing. Voters could get a chance to tweak it - LAist",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeW9IMk5LcmJyelhpZU5vNHN3NzFsQUEyN2UwUlRVQzFTODkwQ2tpWE5PTzJkUGVTcTFHNEdVd1c0blh1Nk1WVEtxU1ZjSFlMV3dXWFZkVXlUbG5rU1V6NXpFcDRXZ296WkZOR2lfMG1wQXBYSDh4anI3UFRsU1dGZWZFa0VpMWZheXJ6aDlPbEx1TTVlUE9YR2dlY1FvTFZTc09WeG5wbU9SdFlDbEhfN2xqQQ?oc=5",
-      "source": "LAist",
-      "published": "Fri, 23 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeW9IMk5LcmJyelhpZU5vNHN3NzFsQUEyN2UwUlRVQzFTODkwQ2tpWE5PTzJkUGVTcTFHNEdVd1c0blh1Nk1WVEtxU1ZjSFlMV3dXWFZkVXlUbG5rU1V6NXpFcDRXZ296WkZOR2lfMG1wQXBYSDh4anI3UFRsU1dGZWZFa0VpMWZheXJ6aDlPbEx1TTVlUE9YR2dlY1FvTFZTc09WeG5wbU9SdFlDbEhfN2xqQQ?oc=5\" target=\"_blank\">Researchers say LA’s ‘mansion tax’ hurts new housing. Voters could get a chance to tweak it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
     }
