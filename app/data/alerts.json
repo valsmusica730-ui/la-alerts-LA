@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T23:44:21.709430+00:00",
+  "generated_at": "2026-09-09T01:58:05.865902+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2281,6 +2281,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWk5kN0hXa3ZJOWVvLUQ4U0x4UTNVdEI1VkxwMXVrMnZTaHV0bDdpZVU1S0dNbTh3X0Z5YktubWhlQ0FzcmFyVldPdm0xTExjNTJUSWZhdUIwaHBNdGdTV0NSMnF6NG1Wb2hEZUc5N3lqR1A5alIxWGRnQUk2RlI3TmtoNA?oc=5\" target=\"_blank\">Short-Term Rental Compliance: NYC vs CA & EU Regs in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RSU by PriceLabs</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
+    },
+    {
+      "id": "8a247c40b2a92a19",
+      "title": "A plan to cut a California tax is going to voters. Why L.A.’s ‘mansion tax’ is at the center of it - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0FCVEw2ak1MMnRsTzlQcFdGNUREeEVBQWx0VE0tY2wzeVF1c0Y0Q0h5MkJnNXEzeWllX1NlNDBucVdaZWdhZmM0MHF3U3FBWlpZOWNsNEwzWGt1OW5idGVsc0dDLUtiSTBzMUJGc3pURGQ5NXVhQW9uMVZoNFhWRkRqOXdTM1BGQWdyd2pkYkJycE5oSXpRX0xEZFZpUjMxQjJlTUpQQTI?oc=5",
+      "source": "San Francisco Chronicle",
+      "published": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0FCVEw2ak1MMnRsTzlQcFdGNUREeEVBQWx0VE0tY2wzeVF1c0Y0Q0h5MkJnNXEzeWllX1NlNDBucVdaZWdhZmM0MHF3U3FBWlpZOWNsNEwzWGt1OW5idGVsc0dDLUtiSTBzMUJGc3pURGQ5NXVhQW9uMVZoNFhWRkRqOXdTM1BGQWdyd2pkYkJycE5oSXpRX0xEZFZpUjMxQjJlTUpQQTI?oc=5\" target=\"_blank\">A plan to cut a California tax is going to voters. Why L.A.’s ‘mansion tax’ is at the center of it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
     },
     {
       "id": "9bc23a1997f71cba",
@@ -4989,16 +4999,6 @@
       "source": "Urbanize LA",
       "published": "Fri, 13 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPV2xlM01ZZFBIXzRLa2FGVDZncy1pNFhteTN3Qjhjbmxpbmlja2FhQjRRdWlTZ3BxN2R6RDNQbWNXUUFnRFpva1dUOWM4RUpqenI3VFkzaUJydjVLSnMyRVc2WWtIaWhMVkhkVGVTblJ0ZTNCTzlWWm4wSk9FbEdMOF9wd2JWMnNEUWpVaWpfSzVSNTFUOXdOc0EtM21WOEw0VXNF?oc=5\" target=\"_blank\">City Planning Commission approves 1,000 DTLA apartments at 787 S. Alameda St.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "9796e9d7b30fbd50",
-      "title": "Big mixed-use project clears a hurdle at 12555 Ventura Blvd. in Studio City - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHNFSnNSaWhrVzFSUmRyR3ZxR3VsVC1BU1BvUGN5UFBSMWpzMlhWTWNTVW9Md0g1YU5mc05MaUhvcUFqU3V6RFlFV0RtMFNSeWZia1BIMXpueWRiVmF2a1Exa2NVZ1BsTGZnWnVBcXhZcjc0MFJEV18wRzhCWFJ3cUE3ejRldTRSY1BpYWZXQkQ3eG5sUHRtNFBqdnI?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHNFSnNSaWhrVzFSUmRyR3ZxR3VsVC1BU1BvUGN5UFBSMWpzMlhWTWNTVW9Md0g1YU5mc05MaUhvcUFqU3V6RFlFV0RtMFNSeWZia1BIMXpueWRiVmF2a1Exa2NVZ1BsTGZnWnVBcXhZcjc0MFJEV18wRzhCWFJ3cUE3ejRldTRSY1BpYWZXQkQ3eG5sUHRtNFBqdnI?oc=5\" target=\"_blank\">Big mixed-use project clears a hurdle at 12555 Ventura Blvd. in Studio City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     }
