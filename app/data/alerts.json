@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:33:08.743408+00:00",
+  "generated_at": "2026-09-09T16:55:58.611224+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1053,6 +1053,16 @@
       "category": "legal"
     },
     {
+      "id": "30f78c4dee60e6eb",
+      "title": "Beverly Hills will likely ban short-term rentals - Beverly Press & Park Labrea News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVklYTDBpdVZSVi1Xc25FZ2hHN0Z1WkkwXzVvUGRDSDVrWWRYUGxFRmZJUlFGV2U1NXVZRjdRdzJlRHREUFcxY0g5WUg3ekFrWktaWERSVUF3MldNYjdKMlgzazYya2RWZGJKRXBqQjcwcXBQRzlSOHhJMlRDYlJlQTlyWi1vNWdUaEE?oc=5",
+      "source": "Beverly Press & Park Labrea News",
+      "published": "Wed, 02 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPVklYTDBpdVZSVi1Xc25FZ2hHN0Z1WkkwXzVvUGRDSDVrWWRYUGxFRmZJUlFGV2U1NXVZRjdRdzJlRHREUFcxY0g5WUg3ekFrWktaWERSVUF3MldNYjdKMlgzazYya2RWZGJKRXBqQjcwcXBQRzlSOHhJMlRDYlJlQTlyWi1vNWdUaEE?oc=5\" target=\"_blank\">Beverly Hills will likely ban short-term rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "ca44a00735a04364",
       "title": "COUNCIL ADOPTS MOTION TO REMOVE DOUBLE STAIRCASE REQUIREMENT FROM BUILDING CODE - City of Los Angeles (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTNRWDZKQTNOOTVfWEY2b0xfSDVPUUpXUzhRMEpiTFh5TW13dTZfbTRnYTg4SVYxTEluV3B1QlR2S0g0LVBZUXNqZ183cUZLT0JJSkF2NFQwSFlSbnRQb2FOMUJhdTF6Yk9HZTlZZ2xVMkY1bDhabjBnSGxBeUE1ZjVCbmVUOWdXSDBKMg?oc=5",
@@ -2063,6 +2073,16 @@
       "category": "legal"
     },
     {
+      "id": "0be1e35abacc9136",
+      "title": "Housing policy and poverty: The case of California - Niskanen Center",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFdPbTFQdnN0ZXJGVVM0cEdlRllmZ0xlWTlTcXVwLURMT0Q5TGlDQ2dkTG1jU0R0VG9zRUFpWlQ2UGJEZ0toa0h3aDBTenNWbElyNXpwM00yc3YtYXE0UVhuQzJLRDlDVE1YQmRnQWxnaXRnT1dxV1AxbzZ2cExKenBMUUpnVjhX?oc=5",
+      "source": "Niskanen Center",
+      "published": "Tue, 08 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFdPbTFQdnN0ZXJGVVM0cEdlRllmZ0xlWTlTcXVwLURMT0Q5TGlDQ2dkTG1jU0R0VG9zRUFpWlQ2UGJEZ0toa0h3aDBTenNWbElyNXpwM00yc3YtYXE0UVhuQzJLRDlDVE1YQmRnQWxnaXRnT1dxV1AxbzZ2cExKenBMUUpnVjhX?oc=5\" target=\"_blank\">Housing policy and poverty: The case of California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Niskanen Center</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
+    },
+    {
       "id": "38043df9d4733ed8",
       "title": "L.A.'s Eternal Eviction Moratorium - Reason Magazine",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56VlpOR0ZIMFZwV3U3cldVendjM1BCdzRwTjF0ank0RlM0VTNBVHpvc1BFSEZUc0NCNEo4NVVWc2FJTkFoQ28ta0gxMnNManBBOUdzdXNhSkVVX1RfajJWb25jc2x4T0R5WGQ2X1JRUkF6Zw?oc=5",
@@ -2139,6 +2159,16 @@
       "source": "MyNewsLA.com",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjZMa1Y2YlV6OWRTSk1UNGxtVjRZZEYzd3FjcmNMM3lDMnRlMEtJazNFbXphNE1haDRlNWlOSzVaeFByYm05bjUwa2YxdVRlamtFeTRneWtWSFY0T3VkNEo0VzcxSHFEcW03dU1MSFBPWDhfaVFFeHAzVGROdzV3UWtlM1k1bFVMTjJ3RnhXV05tc05ndkVVZzd0QVZab3A0dGF2dVE1TjlCdk5meVh5anNJS2tjcXM?oc=5\" target=\"_blank\">LA Voters to Decide Measure Exempting Pacific Palisades from Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
+      "id": "1151e48b3abe0ac0",
+      "title": "LA voters will decide if Palisades homeowners get a break from city’s ‘mansion tax’ - LAist",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXl4UEIzYTdjZlF3cWhVbHBQbVlKY3hSd1hCa3J0UmRweUNOWE1OekdlTjdUTThxSnNWbmxLeWtWRm9aWWY1SEpRNDNXdjhYVE5UYjZWQTF2eE4wdmhtcm4tcG9XRnFNUDY1RTBWaFFmb0JyR3pfd0ZqVUM4aUQ4OXB3cXVSSHZwSnFHWU9iS0VtYTJCSXJQMQ?oc=5",
+      "source": "LAist",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXl4UEIzYTdjZlF3cWhVbHBQbVlKY3hSd1hCa3J0UmRweUNOWE1OekdlTjdUTThxSnNWbmxLeWtWRm9aWWY1SEpRNDNXdjhYVE5UYjZWQTF2eE4wdmhtcm4tcG9XRnFNUDY1RTBWaFFmb0JyR3pfd0ZqVUM4aUQ4OXB3cXVSSHZwSnFHWU9iS0VtYTJCSXJQMQ?oc=5\" target=\"_blank\">LA voters will decide if Palisades homeowners get a break from city’s ‘mansion tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
     },
@@ -3333,6 +3363,16 @@
       "category": "other"
     },
     {
+      "id": "2d411afadba3ccdb",
+      "title": "LA City Council Approves $2-Billion Fourth & Central Mixed-Use Project - Connect CRE",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmJNT1FXMGNVZzYtYXNQWk1Bd2ZBN0htREZPOW43dFhnUG9ubkFzdkFfTW5CU05PeGFUUE93OU5kYkxBSjIxSkFaODBSR1FRb3JURzkwSVItYzFzbVdhNjVQaC1qeW9NR1BvUW14TnA0ZDhiQk8xdG1RQlpXN3h4UWJhS0RjWkVpSlVtSnJyYTNycGdzY1JLVE90cGdPNmZaZjJnRDBB?oc=5",
+      "source": "Connect CRE",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmJNT1FXMGNVZzYtYXNQWk1Bd2ZBN0htREZPOW43dFhnUG9ubkFzdkFfTW5CU05PeGFUUE93OU5kYkxBSjIxSkFaODBSR1FRb3JURzkwSVItYzFzbVdhNjVQaC1qeW9NR1BvUW14TnA0ZDhiQk8xdG1RQlpXN3h4UWJhS0RjWkVpSlVtSnJyYTNycGdzY1JLVE90cGdPNmZaZjJnRDBB?oc=5\" target=\"_blank\">LA City Council Approves $2-Billion Fourth & Central Mixed-Use Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Connect CRE</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "zoning"
+    },
+    {
       "id": "6065a63da56c1f90",
       "title": "Changes to federal regulation open pathway for veterans to get housing in Los Angeles - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFFJajRuOUtjbjViZnhUbGgwX3dYcnNvdlh2UkwzaXFVTWRuYlI3czZEc2VJSkF2aFU3UjBKZE9pdldxV0VUaDlzODdoMG84MktEbUNMZVJ0S1hrY0Fwemc2VGgtcjBURWNRYW1hNVhnSzNHR1liZGFqWG1ZTksxODZ5bm9MSFowYktzSUZJOVFDcEVMTE9hUVpaSHNxUE5ESlNRUlpmZ9IBrAFBVV95cUxPZ0h3bDM2RnNsa1A4ZVpVQzdubEd2NjFjRE9YRzQwalE0ekZDUmRIWVFiRWY2dzltMmJMR1lZdUVkQ0UtSmt1d0RCSmc3MGRqZmhYczVzUHYtWS05ejBpa2VMRUFNS2dZSm9KbkpvM0hxRzV4QU12SHNVUlI1dWxVTmp1WTZKeXhWZkJ1NWw3eUF2bDl3UmZuTTh2QzdKMEEtbGhzbVRJQ0VJRHFF?oc=5",
@@ -3713,6 +3753,16 @@
       "category": "policy"
     },
     {
+      "id": "7640b7ccb70e6719",
+      "title": "Nithya Raman says she’s being punished. L.A.’s City Council president says that’s not true - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd1lFRzJSaURFaXR1SDJwcmh1eTFkMUl0eDg0c2M2UHNtV1FFMlc3WVJYVnFtTW9wT21HclpBUTZaZ29JYk5UblpJVVFZU2p1My1vb0tEb0c1R2Jpalg0UlpJVUxSVU42T25STkphNzRiUUhMNC0zQ3JHU3k4a0RKNURxTFZOMjBaUjJBaTJPVkNBLUsxeWkzeFRuN3FFaU8wNE9jS2lYWG9WQm01c3VDdm5IOHktYTBDZWl2VEx1RU55Z2Z2VXFVUWpPaUk?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Sat, 15 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQd1lFRzJSaURFaXR1SDJwcmh1eTFkMUl0eDg0c2M2UHNtV1FFMlc3WVJYVnFtTW9wT21HclpBUTZaZ29JYk5UblpJVVFZU2p1My1vb0tEb0c1R2Jpalg0UlpJVUxSVU42T25STkphNzRiUUhMNC0zQ3JHU3k4a0RKNURxTFZOMjBaUjJBaTJPVkNBLUsxeWkzeFRuN3FFaU8wNE9jS2lYWG9WQm01c3VDdm5IOHktYTBDZWl2VEx1RU55Z2Z2VXFVUWpPaUk?oc=5\" target=\"_blank\">Nithya Raman says she’s being punished. L.A.’s City Council president says that’s not true</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "62283bd33777065a",
       "title": "A new law allows homeowner to sell ADUs like condos, boosting homeownership. Here's how AB 1033 works - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUEg3cDZ3STFXWTBlb1dNNjlMR3NmQjJiUEdmZ09HTVVDcGRULVE3WGI5Z01Zcmp2dG9yd0RoRFRWVXJIXzhhUEYxaVRIRzNLdXNrNG9tRmY5akxIVS1CTnFlWElvcjQ3VmJ4OEFuYjZLckZqbGpfNktCTHRvMWFETXdpMnZscUZhSHEwaXVscFppMXRJcEluMkVmSXVEcmVCcFlnMmhGMkFuTDZoZWJGU0YxcVFUODh5Z2Jva05Db2ZfQUxVZGR1NE5abExlTVRxN0RvZFFKc2NJa0pkcUNQRWFvYnk?oc=5",
@@ -3881,6 +3931,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQczFoTFotQWgyRFRaUlNNUEZFWHdNSzhURUdiQVk1ejRhZExZX3Rtam1GOWMzTzQ1ZE0wbG5iek41cFVQemR1aDFKTU8xSzlfdnRLQ0FrSHAyMktyNUk3VTFncWM1NkJCYXdjWUFURTh1ZGwzblJ6V2ZjamNLWnR5Y1VzS015OG9HZ1RLRlN3RnpIUUxx?oc=5\" target=\"_blank\">Opinion: Who gets to live in L.A? A bold plan to create affordable housing has a serious flaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
+    },
+    {
+      "id": "a936062d3fc023d6",
+      "title": "Clarifying Short-Term Rental Regulations: A response to Ms. Snortland - ladowntownnews.com",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORGJ2dE4zaWVfb01ZU0FPeWVRZGp2NUFFek1JYnlWaGphZFBHdGZTV1pEQi1DSW40d0x2SUlsOHdUaUZncXNlZnM2S21WMkRxM0dza3I1OEoteWdTSG1mU1k4aUlLM0pJVWVITVVOaXVINFBRT0xhTGZXYVFKWWh6S3RwOEhiMlJNelNrYXRDalViTW1SYXQ3NVVhVW5CMy1HWFBhTVB2NG9HVEdFeUJPamRwbkhVQWI0bkJYRzRXYy1qankwaUd3UTdnREdTY3ZqRnFwWTFYNUV2TjlrTGl3Z0pyUExwd3lieG00dS02dm4yTmRDRHZ4M3lxQnZyMVRTRF9wYQ?oc=5",
+      "source": "ladowntownnews.com",
+      "published": "Mon, 27 May 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxORGJ2dE4zaWVfb01ZU0FPeWVRZGp2NUFFek1JYnlWaGphZFBHdGZTV1pEQi1DSW40d0x2SUlsOHdUaUZncXNlZnM2S21WMkRxM0dza3I1OEoteWdTSG1mU1k4aUlLM0pJVWVITVVOaXVINFBRT0xhTGZXYVFKWWh6S3RwOEhiMlJNelNrYXRDalViTW1SYXQ3NVVhVW5CMy1HWFBhTVB2NG9HVEdFeUJPamRwbkhVQWI0bkJYRzRXYy1qankwaUd3UTdnREdTY3ZqRnFwWTFYNUV2TjlrTGl3Z0pyUExwd3lieG00dS02dm4yTmRDRHZ4M3lxQnZyMVRTRF9wYQ?oc=5\" target=\"_blank\">Clarifying Short-Term Rental Regulations: A response to Ms. Snortland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ladowntownnews.com</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "rent"
     },
     {
       "id": "4d16317f5127219d",
@@ -4603,6 +4663,16 @@
       "category": "zoning"
     },
     {
+      "id": "b714b5a1b2a27645",
+      "title": "AG Bonta Statement on Court Decision Affirming Constitutionality of SB 10 - Contra Costa News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTA2RWFpSTRkRWl2OC1XM1hZa05fNXh5QTQ1RGJIV2dnTDhjTEFDR2VETFBIcjlmWndhR2l1TkF0LTZDWFlLSUVvSXRXTDBEbVMtZ04xOUl6NG9BaXV1ZzNCWWRmcFpGeHQwMXlpRjB0Zk5VcUU2cEhoVV9zcm5qQm10NkVUdlM5VHZ1bVB5V3NjNlRSQnh6RENublJORG0zM3Rjdm43TXJQSWMwb000?oc=5",
+      "source": "Contra Costa News",
+      "published": "Fri, 29 Mar 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTA2RWFpSTRkRWl2OC1XM1hZa05fNXh5QTQ1RGJIV2dnTDhjTEFDR2VETFBIcjlmWndhR2l1TkF0LTZDWFlLSUVvSXRXTDBEbVMtZ04xOUl6NG9BaXV1ZzNCWWRmcFpGeHQwMXlpRjB0Zk5VcUU2cEhoVV9zcm5qQm10NkVUdlM5VHZ1bVB5V3NjNlRSQnh6RENublJORG0zM3Rjdm43TXJQSWMwb000?oc=5\" target=\"_blank\">AG Bonta Statement on Court Decision Affirming Constitutionality of SB 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Contra Costa News</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "legal"
+    },
+    {
       "id": "09c38c26c5aa1969",
       "title": "Modeling New Housing Supply in Los Angeles: Simulations from the Terner Housing Policy Dashboard - Terner Center",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONmZ4M0VteUxuN1NYYk1lZzlFNWkyeW10Sm5lQWw5MUdXbTZCUFRzTVFMR25QbUdSbUxieHlzTmZsQ1dXcVNud1VMMVJnYXNibC1kNmdsU1hCcUNkOGhubUMxQ3dRS0xEZjAxM1JrV2hEcXNvV2FuMmJXS3NDYWQ3WjRIN1hQT29PUWFB?oc=5",
@@ -4931,76 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmg3ZjFXc2NvR0pWS1RTa3lYTTJzWm5tWW9pd05EbV9lM2ZubG44N0lQUmpQczMtMDJkMHhndm1Wa2x3OF90aFRoZTU5cTFsLVdKbzVCVTJLV2VwZkF6elh2YjFGMmFWb0xPWE0ySDVUOHFlemdXdEtzT1J4OHBtdUxCdkdnWDlGMUJGSTNQcnpOVVUxZVE?oc=5\" target=\"_blank\">This California law was supposed to end single-family zoning. Three years later, it’s ‘just symbolic’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
-    },
-    {
-      "id": "4bf7320795f2498e",
-      "title": "Woodland Hills Country Club faces LA Council roadblock to build 400 homes - dailynews.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOXVpU3Ywd0ZVVEMxX0NSd1JfSXQ0bFBGaTZjMDVxTk1NTHlCNlEzdGlETldwU0NuUjRlMkU3cTU0UHozU3FDQTk4T2k3V0c5d3lLeUl6dXB2S0hiZzhxNzNCQ0QwMlFBQVRUYjVUUWpfbnpfZTVPV1FXVHhndklpbllma0tjdGdDb3VIREV0VHVtNnMyRzhFczZ1bnZFNXZCa0hqb0pnMkllSlR0azlnaA?oc=5",
-      "source": "dailynews.com",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNOXVpU3Ywd0ZVVEMxX0NSd1JfSXQ0bFBGaTZjMDVxTk1NTHlCNlEzdGlETldwU0NuUjRlMkU3cTU0UHozU3FDQTk4T2k3V0c5d3lLeUl6dXB2S0hiZzhxNzNCQ0QwMlFBQVRUYjVUUWpfbnpfZTVPV1FXVHhndklpbllma0tjdGdDb3VIREV0VHVtNnMyRzhFczZ1bnZFNXZCa0hqb0pnMkllSlR0azlnaA?oc=5\" target=\"_blank\">Woodland Hills Country Club faces LA Council roadblock to build 400 homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "40242e32d88b8afd",
-      "title": "City forced to change granny flat ordinance - Thousand Oaks Acorn",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmVxTHYtYkNGc1BPMzY3MVRyM3hJUjlCeWhpWUxBUUZRYVNZRkdRb2o3cEl6ZFRmWkoyc2s2SmdxLUsyaks5T19ZNzVrWTRrOWF1ZTFOa3RmdTdaUHo3Y043aW92YnB2MFZ3ajFwc3NBdlFxc29TcEFLY2N0VHktOXRYOA?oc=5",
-      "source": "Thousand Oaks Acorn",
-      "published": "Fri, 20 Sep 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmVxTHYtYkNGc1BPMzY3MVRyM3hJUjlCeWhpWUxBUUZRYVNZRkdRb2o3cEl6ZFRmWkoyc2s2SmdxLUsyaks5T19ZNzVrWTRrOWF1ZTFOa3RmdTdaUHo3Y043aW92YnB2MFZ3ajFwc3NBdlFxc29TcEFLY2N0VHktOXRYOA?oc=5\" target=\"_blank\">City forced to change granny flat ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thousand Oaks Acorn</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "adu"
-    },
-    {
-      "id": "01923381c83a081f",
-      "title": "L.A. City Council votes to dramatically expand tenant protections ahead of deadline - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3Q4TVpKclU0VWJpMTJXMTUtdUlxOVpvRldUam9MUG9OREZha1pGSm9TNGE0ZnhXdWRCZDB3TDAwcWxud2txR3FtS09UTFowWnl4c0F3Z3I4RFotLVFlZDdUQ282b2UwUjlXdzBoUUxWZEVJdUFnMVpBSTVENjdNZURBZnk4QlJRU01BRzhnOFNtd3ZiWGc?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Fri, 20 Jan 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3Q4TVpKclU0VWJpMTJXMTUtdUlxOVpvRldUam9MUG9OREZha1pGSm9TNGE0ZnhXdWRCZDB3TDAwcWxud2txR3FtS09UTFowWnl4c0F3Z3I4RFotLVFlZDdUQ282b2UwUjlXdzBoUUxWZEVJdUFnMVpBSTVENjdNZURBZnk4QlJRU01BRzhnOFNtd3ZiWGc?oc=5\" target=\"_blank\">L.A. City Council votes to dramatically expand tenant protections ahead of deadline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
-    },
-    {
-      "id": "089655956e4d8bc9",
-      "title": "With deadline looming, L.A. City Council is set to vote on new tenant protections - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXVQVlViS0w1Tjhpdm1YZXBmbF9BY19fM0JsZGVWNXRrM0wtcmJObTNNZkQtcFlFeFc1bE5rZ1JUMjRnY1ZTQkJDSGpXRnEzMTJZU3ctazBxdGhyZHJNd0ZlaW5WWGRhNjJ0STJDZEdYcWgwZTJMWVBVM3psenBzWUF5X0ZLeEtrUlk2Ml9LZ3M?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Fri, 20 Jan 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXVQVlViS0w1Tjhpdm1YZXBmbF9BY19fM0JsZGVWNXRrM0wtcmJObTNNZkQtcFlFeFc1bE5rZ1JUMjRnY1ZTQkJDSGpXRnEzMTJZU3ctazBxdGhyZHJNd0ZlaW5WWGRhNjJ0STJDZEdYcWgwZTJMWVBVM3psenBzWUF5X0ZLeEtrUlk2Ml9LZ3M?oc=5\" target=\"_blank\">With deadline looming, L.A. City Council is set to vote on new tenant protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
-    },
-    {
-      "id": "b51543d9756dd322",
-      "title": "LA City Council Votes To Expand Tenant Rights As COVID-19 Protections Are Set To End - LAist",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN0FrNnZaWWlxU2gtbU82b3lsWlVBcm5UWTZvdExIQjNjb21ONXRReHZtb3Zqdm1zMTRxbUR0QWVwRzJaQ2djUl9UTHJPQkxzbHJxNHF6eDI1bWFsTGJqdXIwVDRZbnZXTlBROXRHQ1ljUVktdFdrcXZ0MDBMX3I3WkpPOFYzOE1LaHRFQzdKS1lXQkJZSEJOUllFb3dpOWs0cFhrS092dnVqTXRhbjJCejdKckhZU1ZtbmFGbWx4c0JqUXNKX25DRy1tYWU3YWlnZlNKMHFWRWRTNFo4M1FwbXRtemJieFJNaVlaRFhVZm01VVpOMlR3bUN3RnJDVkxzSEpXM3VNd29nTFdmUlE?oc=5",
-      "source": "LAist",
-      "published": "Fri, 20 Jan 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQN0FrNnZaWWlxU2gtbU82b3lsWlVBcm5UWTZvdExIQjNjb21ONXRReHZtb3Zqdm1zMTRxbUR0QWVwRzJaQ2djUl9UTHJPQkxzbHJxNHF6eDI1bWFsTGJqdXIwVDRZbnZXTlBROXRHQ1ljUVktdFdrcXZ0MDBMX3I3WkpPOFYzOE1LaHRFQzdKS1lXQkJZSEJOUllFb3dpOWs0cFhrS092dnVqTXRhbjJCejdKckhZU1ZtbmFGbWx4c0JqUXNKX25DRy1tYWU3YWlnZlNKMHFWRWRTNFo4M1FwbXRtemJieFJNaVlaRFhVZm01VVpOMlR3bUN3RnJDVkxzSEpXM3VNd29nTFdmUlE?oc=5\" target=\"_blank\">LA City Council Votes To Expand Tenant Rights As COVID-19 Protections Are Set To End</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "policy"
-    },
-    {
-      "id": "b90b97065f02cb3e",
-      "title": "Landlord Group Asks State Supreme Court to Preserve Pasadena Rent Control Ruling - pasadenanow.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUFpTHhaZENmQTJoSTBJTTlHeEhYY3hIdlJFdDlpZFlvN0k4ZlNJdElfX2N1Y25XLUotVzFYWmZKX1Ztb2dCQlFLcjFjU2kyZmNvMDZnUktuSzMyaTJhaENRX1ZVU3VVWkRUREY3cks5aVE4ZGlLY2V6MG84YnY1OFpqdFhER1JTaUx2Y3YxOGxvUTlENzB1cVoxQTYyWkZyT2FZMDlPSzViSUVoNGc?oc=5",
-      "source": "pasadenanow.com",
-      "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUFpTHhaZENmQTJoSTBJTTlHeEhYY3hIdlJFdDlpZFlvN0k4ZlNJdElfX2N1Y25XLUotVzFYWmZKX1Ztb2dCQlFLcjFjU2kyZmNvMDZnUktuSzMyaTJhaENRX1ZVU3VVWkRUREY3cks5aVE4ZGlLY2V6MG84YnY1OFpqdFhER1JTaUx2Y3YxOGxvUTlENzB1cVoxQTYyWkZyT2FZMDlPSzViSUVoNGc?oc=5\" target=\"_blank\">Landlord Group Asks State Supreme Court to Preserve Pasadena Rent Control Ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pasadenanow.com</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "legal"
-    },
-    {
-      "id": "cd2272c7cefa9a8c",
-      "title": "City Council Advances Ballot Measure to Exempt Palisades Fire Victims From ULA Transfer Tax - Palisades News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1dVMWFHVjFnX0ptazVqLVVMMFJ4T3JYandYRi1BS09qdDhkcHAzVHg3bWhWVFBOWFFxaTRpaGxsc0Q5QXc0QjhJU20yQ1FLMnFhUFVmenplTm9oOTZPNFBJQm1jbV9oWURGY1JRcHhGWkROczh1TDZuUDBQbUoyLU90d0JJb3o4eExhVWtHOFNSSVlNZHhKNUQwSi1fSzZTTnQ4ZnBtME9MNS1zM1BZVjNpNk9ROGFOdHc?oc=5",
-      "source": "Palisades News",
-      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1dVMWFHVjFnX0ptazVqLVVMMFJ4T3JYandYRi1BS09qdDhkcHAzVHg3bWhWVFBOWFFxaTRpaGxsc0Q5QXc0QjhJU20yQ1FLMnFhUFVmenplTm9oOTZPNFBJQm1jbV9oWURGY1JRcHhGWkROczh1TDZuUDBQbUoyLU90d0JJb3o4eExhVWtHOFNSSVlNZHhKNUQwSi1fSzZTTnQ4ZnBtME9MNS1zM1BZVjNpNk9ROGFOdHc?oc=5\" target=\"_blank\">City Council Advances Ballot Measure to Exempt Palisades Fire Victims From ULA Transfer Tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palisades News</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
