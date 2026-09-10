@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:25:11.504442+00:00",
+  "generated_at": "2026-09-10T10:11:58.243882+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1223,6 +1223,16 @@
       "category": "tax"
     },
     {
+      "id": "bfd0f5f8a6de7670",
+      "title": "More apartments are coming to LA near transit hubs, thanks to new law - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZG1TZnFMUG9wb3loN1hFaldEZ08yTEZEOFBOaFd4NWJBWklBbjYtUTZib0F0NGxoNmw4WEVYb3JzWlQtVHJLblNYZFowcV9xUUdkemZnbWNKWTROTzdDT2c1NXRKYnE4VlM3eHlEN0J6YzJyckloTnI2TGZvTlo3aDgtaHJHY2s3LXfSAZIBQVVfeXFMT3IybzJyaHg1S2JNQnJ4MGQwdjJZazlrVU44WWRuZ2o0VUhSOUluajV3Y3FwQ2NVV0kzTHkycThOMU1jVzA3NElHY29oUmd5U1pKR0EtS2xQRFZCZDFhWDJBbktFQ1AzZ0xZb0FOUmVrYjdvWmZwbUtBdmVfbUJ5VXdYdDd4R3Q4QVhtcHNzYkpBMlE?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZG1TZnFMUG9wb3loN1hFaldEZ08yTEZEOFBOaFd4NWJBWklBbjYtUTZib0F0NGxoNmw4WEVYb3JzWlQtVHJLblNYZFowcV9xUUdkemZnbWNKWTROTzdDT2c1NXRKYnE4VlM3eHlEN0J6YzJyckloTnI2TGZvTlo3aDgtaHJHY2s3LXfSAZIBQVVfeXFMT3IybzJyaHg1S2JNQnJ4MGQwdjJZazlrVU44WWRuZ2o0VUhSOUluajV3Y3FwQ2NVV0kzTHkycThOMU1jVzA3NElHY29oUmd5U1pKR0EtS2xQRFZCZDFhWDJBbktFQ1AzZ0xZb0FOUmVrYjdvWmZwbUtBdmVfbUJ5VXdYdDd4R3Q4QVhtcHNzYkpBMlE?oc=5\" target=\"_blank\">More apartments are coming to LA near transit hubs, thanks to new law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
       "id": "5732486ee066844b",
       "title": "Coronavirus: Gov. Newsom extends state eviction moratorium through September - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNejJ4cDV5YXFmcDE2a0MxNlVEbkJHTlozb1lGU3ZkbUlzSERtVFY4RjdkakJkYkw4cmE5cHhTNi10bTZUM09IUkhfQUxMazdnM2JCZU95MFR2SWMwajVSMk5yZkhqWExNaFUzOVFFNVBwc2NheTBjTWpFbkV3V1QzSGpSWXkyLTctenVQSnVfVzNpck3SAZgBQVVfeXFMUHJKOG5mazIyY0JHUi0xczBUNmlBM3R4ZTU4RmtJZjdKTkNvOGc3UGZPanVVMVJSRDlOVnRkaGJTLVRsQi1uSDFZWVZRZVUzdmk3NGFmVk9FTEhYSXFUWVQzeXdzN2U4S2NZS1lwNmFZNXBEY0pmNjNnWmdJWkkxZkc4ZU0tVXdaNmhOTmpmaXZjOEdnNlJyU0I?oc=5",
@@ -1651,6 +1661,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWpTTzFieVZUcExzSE9DaUE0bFVPcFNYZjZrNEIwcm9la00yUGx6aEluQndCQ3NxTFJ0VkplcUJYNndXV2tTbzlMVmFUdGNYWlNOZFVBMWk2NEx0SGxndzJyUEFvNjRITTJleVN4ZWZDdWpRZ2NwOTVvaEw5bWZwWkhKZG9BUTZid3ZJVER5d0NnbUtON3gyV2FuQ04xejViODJVNnhB?oc=5\" target=\"_blank\">SB 79 Update: Planning Commission & GWNC Recommendations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Buzz</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "e8d05d3a08e1f450",
+      "title": "For Pasadena City Council, housing project highlights ‘local control’ angst - Pasadena Star News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkJBVG1wQTdKZVc1R0xsLW5ld2ZkbjJPZzNaSjh2ZWVad3B1RDFPUHhhV2dUVExDV1l0c3VsV2hzeFJMRVU0SERyVHpwUlhta2stZFI3SjBVb1JUMWRQWFYyRE0weUYycWRUZWVwY1o4WkFSSndpb1VQd1RXRnU5a2FUT1N1anctOHhNVjdtckJsaXhYalVqY21MSXB2U3U3YWx1dXJlcDBEVGQ4NkQwZ3BleHd0dGhf?oc=5",
+      "source": "Pasadena Star News",
+      "published": "Tue, 19 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkJBVG1wQTdKZVc1R0xsLW5ld2ZkbjJPZzNaSjh2ZWVad3B1RDFPUHhhV2dUVExDV1l0c3VsV2hzeFJMRVU0SERyVHpwUlhta2stZFI3SjBVb1JUMWRQWFYyRE0weUYycWRUZWVwY1o4WkFSSndpb1VQd1RXRnU5a2FUT1N1anctOHhNVjdtckJsaXhYalVqY21MSXB2U3U3YWx1dXJlcDBEVGQ4NkQwZ3BleHd0dGhf?oc=5\" target=\"_blank\">For Pasadena City Council, housing project highlights ‘local control’ angst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Star News</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "1885a4468b83fbcc",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAzd244VFgtZ0pCbzlqMVVER1hVbEROTnpMZk5iVjJ6THBQcHFXOFp5NmJiSkJsMkFYT2IwMURVZ1hrXzNPTDVuaWpnMDYzN1dBd3QxS3VsN1hJczc1c3NJSEd0dGtYNEVZTnVCQ0U1cDhqQQ?oc=5\" target=\"_blank\">California Tackles Housing Costs with Building Code Freeze, Permitting Reforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Association of Home Builders | NAHB</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "construction"
-    },
-    {
-      "id": "21e5079306749142",
-      "title": "Housing is a Human Right Calls on Mayor Bass and L.A. City Council to Stop Failed ‘Inside Safe’ Program as L.A. Homeless Count Rises - WBOC TV",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQzBQYlhjaWxoR0JjVzJJSDAtZXlRSDlvYW5lSU02bUg4MEFjcHNqQUNvdHBiYmNVRllkNGR5TGRLOGlXSWRCX3RaYjVOTFByZW1YY2RuV19ueU9Ed2RoRTBtUzZrUkVSNngzZVpDSm9yTEpoVnB1YjNCd2xxRzh1Yld2Q3BPeHRIenRoeFd5dElqOUJmWk9vSTJPMWNDclpXdFBSZU90Skx0UTZOYXN1N01LdkM0QkxXYVVWTjNQZDNBTzhJaGNvUGJrR0RmNkJlWUZWakJUanA4UWk4azhDSWFwSlFtN1VpaVBULWkzR2lGeTc5VTV2LUlKckFhajA?oc=5",
-      "source": "WBOC TV",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQzBQYlhjaWxoR0JjVzJJSDAtZXlRSDlvYW5lSU02bUg4MEFjcHNqQUNvdHBiYmNVRllkNGR5TGRLOGlXSWRCX3RaYjVOTFByZW1YY2RuV19ueU9Ed2RoRTBtUzZrUkVSNngzZVpDSm9yTEpoVnB1YjNCd2xxRzh1Yld2Q3BPeHRIenRoeFd5dElqOUJmWk9vSTJPMWNDclpXdFBSZU90Skx0UTZOYXN1N01LdkM0QkxXYVVWTjNQZDNBTzhJaGNvUGJrR0RmNkJlWUZWakJUanA4UWk4azhDSWFwSlFtN1VpaVBULWkzR2lGeTc5VTV2LUlKckFhajA?oc=5\" target=\"_blank\">Housing is a Human Right Calls on Mayor Bass and L.A. City Council to Stop Failed ‘Inside Safe’ Program as L.A. Homeless Count Rises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBOC TV</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "be2b9a524b9349f8",
-      "title": "Housing advocates call for reform of Measure ULA, the so-called ‘mansion tax’ - dailynews.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3BfMjJMSXVzam0yd2YzQS03NWx4YVhPVUVQRUoyemMzaG5kVmZQNFctdUt4Q2F6T2JMYVFlanpqLTdFdUJOU3pRTWlab015MTVCUi1peDJpbU9BMUlzV0VEamZuWHByc0VsNDk5NmlmY29faTg1N3VYOEtlZGNSdUdUNUJnWjVuTEo1dlluSlp6RUlfUmkzS2RxVXNxRjFDcVZRb0xZbzZxTG5jUGxDSnpR?oc=5",
-      "source": "dailynews.com",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3BfMjJMSXVzam0yd2YzQS03NWx4YVhPVUVQRUoyemMzaG5kVmZQNFctdUt4Q2F6T2JMYVFlanpqLTdFdUJOU3pRTWlab015MTVCUi1peDJpbU9BMUlzV0VEamZuWHByc0VsNDk5NmlmY29faTg1N3VYOEtlZGNSdUdUNUJnWjVuTEo1dlluSlp6RUlfUmkzS2RxVXNxRjFDcVZRb0xZbzZxTG5jUGxDSnpR?oc=5\" target=\"_blank\">Housing advocates call for reform of Measure ULA, the so-called ‘mansion tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
