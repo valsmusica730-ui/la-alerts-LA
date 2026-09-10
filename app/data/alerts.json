@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:16:23.981927+00:00",
+  "generated_at": "2026-09-10T22:50:20.672484+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3193,6 +3193,16 @@
       "category": "legal"
     },
     {
+      "id": "6afcf020a979e9ab",
+      "title": "Sylmar Fire Station Project Clears City Planning Commission - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSC1OUVVTcm15QjVhdG96Y2pCQ0xDS0dCcDMxY0lfNlpUYjFud2pwQk9TaEFYdlhQZTJDTnA4b3lydl9NbXlLZEZQQnp0Z3RIdERSOXlZVXdlYjZhTUl4Y3lnVldPamZtU1lqd1BwNk4tRTNGckZCWDJRSDNINGRBOEliM0ozTTFVdmdEV2wyeHQ2QndBb2RLN0JyajBUdW8?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Thu, 10 Sep 2026 22:30:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNSC1OUVVTcm15QjVhdG96Y2pCQ0xDS0dCcDMxY0lfNlpUYjFud2pwQk9TaEFYdlhQZTJDTnA4b3lydl9NbXlLZEZQQnp0Z3RIdERSOXlZVXdlYjZhTUl4Y3lnVldPamZtU1lqd1BwNk4tRTNGckZCWDJRSDNINGRBOEliM0ozTTFVdmdEV2wyeHQ2QndBb2RLN0JyajBUdW8?oc=5\" target=\"_blank\">Sylmar Fire Station Project Clears City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "rent"
+    },
+    {
       "id": "3d41d04d6a325d1e",
       "title": "Prominent California city moves to ban Airbnb-style rentals - sfgate.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3pJSk9CbHpCZ2J5XzFvNkp5T0wtVkZxcHBfZG15MVJWTE13WkxnSzNuMmI3ajB4TWdDTDNQZ3NTOUNEVUpmX0xPS2hBdkxYQVJCaHZrbTJlMnljc2V2Y2JBNUJpVFI1U004bmV4b1dKSHBseDZTampPRkdMMXNnQ2MtT1Y0dkprS0tCcWxkNUlXdw?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDhZckhwa1pueTFHTDVlQUNiM0hlejVuTk5Yc3pKcmhubGdLUE5nZ1pMNG40UHhiOEtZcExYSTRhOExvWG53SXhQa25pdFpWazl3RDRsVjV0Nm9IQ0F0UU9QNkNweTcxSzdOU1JCZmpQV2hJSzE3VWdQLXQybUZxak1QczN5TER4Z1E?oc=5\" target=\"_blank\">California Voters Will Decide If Local Taxes Should Be Harder to Approve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial Observer</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "other"
-    },
-    {
-      "id": "62c23a06b25b1ed1",
-      "title": "City Planning Commission signs off on mixed-use Hollywood Central development - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzhWRE9naEFhaDRVZkxmaFBtN0NlS25NbFFoR2VKc2V1dFFNNHVCZlNqQ2ExQzQwVFYtbmRaZnhGTE95bEVWbElFUUhBMTc1Tzh1NTlJNk82dV91ejFneWtlQnZka18zZEVTeDVnNjNnX0E0LUc0SkxiYTJsUFJPUU4yQi1mTDdxOUE5ZEw3eVF0Q2Q0MDRyU3ZJaWVjU0Jtc1E?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 26 Jul 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzhWRE9naEFhaDRVZkxmaFBtN0NlS25NbFFoR2VKc2V1dFFNNHVCZlNqQ2ExQzQwVFYtbmRaZnhGTE95bEVWbElFUUhBMTc1Tzh1NTlJNk82dV91ejFneWtlQnZka18zZEVTeDVnNjNnX0E0LUc0SkxiYTJsUFJPUU4yQi1mTDdxOUE5ZEw3eVF0Q2Q0MDRyU3ZJaWVjU0Jtc1E?oc=5\" target=\"_blank\">City Planning Commission signs off on mixed-use Hollywood Central development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
