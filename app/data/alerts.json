@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T22:04:47.236944+00:00",
+  "generated_at": "2026-09-10T00:42:24.726819+00:00",
   "total": 500,
   "alerts": [
     {
@@ -71,6 +71,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZzlLZ0x1LVRGYnpaXzNiTEVpZVkwQ2lNeEZOWnRReS1saHY3dDRQSmFBSEVRQ2tPZzFoWWs3NXRsSEVqbVFocklqRkxKbnZTdllGOXNRVkZXdGc2VlFPRHZVVTFWNmhqOVQ5YzNiakZYOFN3U1h5bldUdXIwTXVITndzaUlWZTlRdUcwOEV4Y0xMNnJieUswSHc0N2Y0WVJ3NWVBVElZSTRFR3hjSGlycFljQ1JHLVJXRjZYVTBGbmEyeDRJUzdDZjZJUDhsangycUlCLXZ0Nnk3Z3JDd2xER1BORWpnY1k2c0VNbWZ2MzNSeG4xNjZTcklB?oc=5\" target=\"_blank\">Santa Clarita Finalizes ADU Updates, Approves Future Council Pay Increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hometownstation.com</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
+    },
+    {
+      "id": "626465698d18fcae",
+      "title": "Endorsement: Timothy Gaspar for Los Angeles City Council - Los Angeles Daily News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3FuQzVsanVoTFU2TjVnRGFjcGhTN0h0a0lOYnM4NzByMTAtRHZXc3lkRW1JUzJQam42ekx2WlE5aGxSc25tUC1qalVyY3RhZkR3N0lIODRSSWhiWmlRU0RMcExmRnlqOE40SjFGOXpJWV9RZE11VVZiRTEweE5HMWhYeUM2UHFxLVVzUEJ4UmRyT0JQM19DNg?oc=5",
+      "source": "Los Angeles Daily News",
+      "published": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3FuQzVsanVoTFU2TjVnRGFjcGhTN0h0a0lOYnM4NzByMTAtRHZXc3lkRW1JUzJQam42ekx2WlE5aGxSc25tUC1qalVyY3RhZkR3N0lIODRSSWhiWmlRU0RMcExmRnlqOE40SjFGOXpJWV9RZE11VVZiRTEweE5HMWhYeUM2UHFxLVVzUEJ4UmRyT0JQM19DNg?oc=5\" target=\"_blank\">Endorsement: Timothy Gaspar for Los Angeles City Council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "021a349b2063c215",
@@ -4989,16 +4999,6 @@
       "source": "dailynews.com",
       "published": "Fri, 24 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3BfMjJMSXVzam0yd2YzQS03NWx4YVhPVUVQRUoyemMzaG5kVmZQNFctdUt4Q2F6T2JMYVFlanpqLTdFdUJOU3pRTWlab015MTVCUi1peDJpbU9BMUlzV0VEamZuWHByc0VsNDk5NmlmY29faTg1N3VYOEtlZGNSdUdUNUJnWjVuTEo1dlluSlp6RUlfUmkzS2RxVXNxRjFDcVZRb0xZbzZxTG5jUGxDSnpR?oc=5\" target=\"_blank\">Housing advocates call for reform of Measure ULA, the so-called ‘mansion tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "7085cc26176f3eb4",
-      "title": "New group looks to scrap the “binary,” keep Measure ULA’s fate local - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGcyYmxXbloxN2JNZ0VSZVZnaTJScnpPU3p2Sml5MzlQQmZIUnRqWXAwN2FzSXlFZWF1RG1KMG81a1ppcFNhU1lwX19JaXVNajJHc0JGdXlMZlNWUHk2MGdYQ2FfQk5qWnVxT1Z2MGE4VU9yUEI3VURUMi1tYldiOGxucGU3XzdzdXM0N3lrbWNLd2s?oc=5",
-      "source": "The Real Deal",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGcyYmxXbloxN2JNZ0VSZVZnaTJScnpPU3p2Sml5MzlQQmZIUnRqWXAwN2FzSXlFZWF1RG1KMG81a1ppcFNhU1lwX19JaXVNajJHc0JGdXlMZlNWUHk2MGdYQ2FfQk5qWnVxT1Z2MGE4VU9yUEI3VURUMi1tYldiOGxucGU3XzdzdXM0N3lrbWNLd2s?oc=5\" target=\"_blank\">New group looks to scrap the “binary,” keep Measure ULA’s fate local</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
     }
