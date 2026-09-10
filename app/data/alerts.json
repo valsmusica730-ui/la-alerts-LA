@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:41:32.390027+00:00",
+  "generated_at": "2026-09-10T17:56:37.438214+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1071,6 +1071,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbjRXQkhUM3NSa0FaNTV2ZVJKZGl1OER1Rm5oMGFJMkdjSFoyaGZ5cnM5XzN6WHlpMENIRjJNX3ZGbWpkRnd3MUZUWUhWWkNzV0NDdzFqR0g4eVhINjk3RndMY1NtNU9zekgxTVptVjRwclpKRktyZkxDdG03VkctUjcxbzdUc1d6cWN2MG5MVTgzT0xGakNldkYwZ2VNdw?oc=5\" target=\"_blank\">LA Council Contemplates 1% in Allowable Rent Hikes for `Small’ Landlords</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Sentinel</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "rent"
+    },
+    {
+      "id": "05a1e63501e27f9c",
+      "title": "Mayor Bass Calls on L.A. City Council to Allocate $2 Million to Clean and Secure Priority Properties Across Los Angeles - City of Los Angeles (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHEwRnhZZjJRRHVMZDl1OU5VNzRwODdpRjVLTGYwVlhoNTN4UWlEaVdWa3Nod2hsSFNpUXBWRzNsSG5BSUQ4dGtzVXZRcFZSNFJpc0cxRU1OZGVDNG1SRnFDMHlTTnVuLTJuNjdlZm55TXBpeG1YNXZROVlSR0NTR1RhZUxMel84M1VMem5PVDVSb05oVjhLMWF6ako0bWMyaEtJRnNLUEZGZDQ1eWVaWFNoV2VhLWdaclE?oc=5",
+      "source": "City of Los Angeles (.gov)",
+      "published": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHEwRnhZZjJRRHVMZDl1OU5VNzRwODdpRjVLTGYwVlhoNTN4UWlEaVdWa3Nod2hsSFNpUXBWRzNsSG5BSUQ4dGtzVXZRcFZSNFJpc0cxRU1OZGVDNG1SRnFDMHlTTnVuLTJuNjdlZm55TXBpeG1YNXZROVlSR0NTR1RhZUxMel84M1VMem5PVDVSb05oVjhLMWF6ako0bWMyaEtJRnNLUEZGZDQ1eWVaWFNoV2VhLWdaclE?oc=5\" target=\"_blank\">Mayor Bass Calls on L.A. City Council to Allocate $2 Million to Clean and Secure Priority Properties Across Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
+      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
+      "category": "policy"
     },
     {
       "id": "ace072ba764c4205",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOUklMeEdYWlU2WWQxcDZRR2NDMUNWRDZQT1ZVVk1HMkR1d0I5NXZabnhZaUZUMG5LVnd6ZUZkUnVNV0IxWl9kZ3hVWjBDZ2lrdktuU0VDakI2TWN4blFMT1ZLZlRoem9oZDlfZldJOTJjQl85RU5UdGhqMlNyWHVQdWUydkZEVDczNUw0M1NjOXlNcjFyNGZQeWNhN0hSM3Fpa2FRcEtiOGJ1RzFPVkVFTDRnOVZoTmN3TGfSAb8BQVVfeXFMT3hhOHlZZGc0eWtjd0JjT05HZXdUMlJtbXJMcnNoMnRBSkdHQ3JhX2JuWkdVWTdVOVVUYU1wSlMzQlY5SFBlWE9uR2hjVXk4SUlyaDJxS3RraW9ieW85WHpDS3NQaFlUa00zMWh6eFJESHgwNkUzMUpwN1I2UzRrU1dRcUJLV0FiS0pXcmpNZl9UaFZtSlNISThXazJuYWxjZXB1X2VacmlpQkJBRF9QcVRqWU5OeEhHYWo4NldKS0E?oc=5\" target=\"_blank\">LA judge strikes down California lot-splitting law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marin Independent Journal</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "other"
-    },
-    {
-      "id": "4851f9b95c1363c1",
-      "title": "6220 Yucca Tower Clears City Planning Commission - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1Q0LUM4YmFvMHlsUVFIcTc3R2UtVTN2QkRJWUo0ZU95UHVPbkU3bjNBZjFZLUY1RWl2c3hEcTNUYWxZbzVsRzg5Y0JrQkZKQU5venE1c3hXbXJsWWdDcEctNW9CdmlkT2NGUXY5QTRBSWx3bFo4YU9Td1pxX0g3TmR5SVY?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 25 Sep 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1Q0LUM4YmFvMHlsUVFIcTc3R2UtVTN2QkRJWUo0ZU95UHVPbkU3bjNBZjFZLUY1RWl2c3hEcTNUYWxZbzVsRzg5Y0JrQkZKQU5venE1c3hXbXJsWWdDcEctNW9CdmlkT2NGUXY5QTRBSWx3bFo4YU9Td1pxX0g3TmR5SVY?oc=5\" target=\"_blank\">6220 Yucca Tower Clears City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
