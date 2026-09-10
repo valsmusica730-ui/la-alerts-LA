@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:11:58.243882+00:00",
+  "generated_at": "2026-09-10T14:41:32.390027+00:00",
   "total": 500,
   "alerts": [
     {
@@ -221,6 +221,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWkzZlJPb1VHUzRBRVhTUTU0SVNrbUZmVXF2R3EzQ1U1bHh4RW1qUnZTV2l5UmhlVEJMY3k3THhUMFJTNXhIeEVmYjU1UnktR1A2MjRNdmhNV2hRdkZSWFV0RGlsUllnZ1JHX29VWWxHdkhFUWFPdjJqMjRhWkFiSE1GNHJSWmxWaVpoS3A4LTk?oc=5\" target=\"_blank\">Mapping the Potential Impact of SB 79</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Buzz</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "other"
+    },
+    {
+      "id": "e99b9519e8f4e86c",
+      "title": "Housing Groups Join Lawsuit To Defend LA’s Eviction Moratorium From Billionaire Developer’s Challenge - LAist",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR2tPZTh6Nlo1VUF1a0hNeFZTZzhVbGlMbkFzM09MWlNfRFNtbnRfZ2pUYThzR2ZPSURGV3JpUE1kQVVpNk9ibmxKUllJTjJNMUhaZ1ZaN3FKc0t3X0I5aE9DU09GTFlXVlpnMEtxUXdKVXdtTzNTNEw5S3V0amIyWTVSUFd5MFE2NWFPNklobnZsWVFXdTZhRUEtTnQ0V3NQdzg2dHdyQ3hsSm1pWnFhWlk4a3ctREh0YUdDWkhSbmEzRFl0UV93ZnJwbFNxNjVyc1E?oc=5",
+      "source": "LAist",
+      "published": "Wed, 24 Nov 2021 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR2tPZTh6Nlo1VUF1a0hNeFZTZzhVbGlMbkFzM09MWlNfRFNtbnRfZ2pUYThzR2ZPSURGV3JpUE1kQVVpNk9ibmxKUllJTjJNMUhaZ1ZaN3FKc0t3X0I5aE9DU09GTFlXVlpnMEtxUXdKVXdtTzNTNEw5S3V0amIyWTVSUFd5MFE2NWFPNklobnZsWVFXdTZhRUEtTnQ0V3NQdzg2dHdyQ3hsSm1pWnFhWlk4a3ctREh0YUdDWkhSbmEzRFl0UV93ZnJwbFNxNjVyc1E?oc=5\" target=\"_blank\">Housing Groups Join Lawsuit To Defend LA’s Eviction Moratorium From Billionaire Developer’s Challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "legal"
     },
     {
       "id": "bcd0abaef76030cd",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1Q0LUM4YmFvMHlsUVFIcTc3R2UtVTN2QkRJWUo0ZU95UHVPbkU3bjNBZjFZLUY1RWl2c3hEcTNUYWxZbzVsRzg5Y0JrQkZKQU5venE1c3hXbXJsWWdDcEctNW9CdmlkT2NGUXY5QTRBSWx3bFo4YU9Td1pxX0g3TmR5SVY?oc=5\" target=\"_blank\">6220 Yucca Tower Clears City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "48553800b38eaec2",
-      "title": "California Tackles Housing Costs with Building Code Freeze, Permitting Reforms - National Association of Home Builders | NAHB",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzd244VFgtZ0pCbzlqMVVER1hVbEROTnpMZk5iVjJ6THBQcHFXOFp5NmJiSkJsMkFYT2IwMURVZ1hrXzNPTDVuaWpnMDYzN1dBd3QxS3VsN1hJczc1c3NJSEd0dGtYNEVZTnVCQ0U1cDhqQQ?oc=5",
-      "source": "National Association of Home Builders | NAHB",
-      "published": "Fri, 25 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAzd244VFgtZ0pCbzlqMVVER1hVbEROTnpMZk5iVjJ6THBQcHFXOFp5NmJiSkJsMkFYT2IwMURVZ1hrXzNPTDVuaWpnMDYzN1dBd3QxS3VsN1hJczc1c3NJSEd0dGtYNEVZTnVCQ0U1cDhqQQ?oc=5\" target=\"_blank\">California Tackles Housing Costs with Building Code Freeze, Permitting Reforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Association of Home Builders | NAHB</font>",
-      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
-      "category": "construction"
     }
   ]
 }
