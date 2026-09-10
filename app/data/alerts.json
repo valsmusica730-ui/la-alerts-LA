@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:56:37.438214+00:00",
+  "generated_at": "2026-09-10T20:16:23.981927+00:00",
   "total": 500,
   "alerts": [
     {
@@ -413,6 +413,16 @@
       "category": "rent"
     },
     {
+      "id": "a8194256d43c42cd",
+      "title": "California Housing: Past, Present, SB 9 and the Future - League of Women Voters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWgyZVd1MGMxOHVEMW16MHRkeTZuMXJIdDUxUnduek05eHNESnE2WG5pSFZkMmlJeGh2Sk9pS3FoemtlT1pPNmMzQUlFcUFVRUNKZXVLRC1hZW1tRFBndHlyREl2dmV4V0IwaGd2TDJidW10WjItUldiX3JPa3FjcENVYjh2V2tXYTRGNlVHUVo2UmRsWUJvRkxfMlF4ME1WbmhqWTNPakhBQ011aTUta0JB?oc=5",
+      "source": "League of Women Voters",
+      "published": "Wed, 19 Jan 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWgyZVd1MGMxOHVEMW16MHRkeTZuMXJIdDUxUnduek05eHNESnE2WG5pSFZkMmlJeGh2Sk9pS3FoemtlT1pPNmMzQUlFcUFVRUNKZXVLRC1hZW1tRFBndHlyREl2dmV4V0IwaGd2TDJidW10WjItUldiX3JPa3FjcENVYjh2V2tXYTRGNlVHUVo2UmRsWUJvRkxfMlF4ME1WbmhqWTNPakhBQ011aTUta0JB?oc=5\" target=\"_blank\">California Housing: Past, Present, SB 9 and the Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">League of Women Voters</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
       "id": "8a176f82faeec79a",
       "title": "Mixed-use project at Sunset & Gordon clears City Planning Commission - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVQ3VVQzTXZhT2U2Nm9VejFmbldFTGpwbE5KZWQyb1lZcEozbG4xZFJ2c0p6cWJHcE8zYUt1MEVXS05NZG1faDV3V01HMnFZQTVXU3hEZTJydVhWRkZpekI3cGZMTTVNZ1BMYV9PYXd3R3ozT3F6Q3ZqeUxDY0dLZGRHSjlCZlZ2bXRuOTFNc0tFM09jeVRtSg?oc=5",
@@ -523,6 +533,16 @@
       "category": "adu"
     },
     {
+      "id": "371fa286a9da901a",
+      "title": "Historic California Housing Bill Could Bring More Apartment Buildings Near Transit - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXRtV2YzMUN3Q2M2OHlLOGRDeWVYVHRENGwyQW9vZjJRMzZJZklUQnVRWXA3RlhaNl80R2p3bm9abXJaNWFabjFjcFJuZkZEU3p6b1dLMU0weGxQVXFkemF1YllwYjFOLTVTanFoV3JqZFFoRTBmNGJ4Q0pZT1o3YUtTdmdjTU9waUE4UE9xU1Q?oc=5",
+      "source": "Realtor.com",
+      "published": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXRtV2YzMUN3Q2M2OHlLOGRDeWVYVHRENGwyQW9vZjJRMzZJZklUQnVRWXA3RlhaNl80R2p3bm9abXJaNWFabjFjcFJuZkZEU3p6b1dLMU0weGxQVXFkemF1YllwYjFOLTVTanFoV3JqZFFoRTBmNGJ4Q0pZT1o3YUtTdmdjTU9waUE4UE9xU1Q?oc=5\" target=\"_blank\">Historic California Housing Bill Could Bring More Apartment Buildings Near Transit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realtor.com</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "other"
+    },
+    {
       "id": "8c8a72e66f6ba33d",
       "title": "Planning Commission Affirms Studio City Apartment Project - Los Angeles Business Journal",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYmpqWnVHTEhKRTJYVHdISmJWczhxa0VhQUVnMHltNGtMSmpNS2ZITFJyckNfTUlBNXJJSHM4cE9nbzR5b0ZfR0R3RHRvQlNKM2J1TlNlZWh4RllHUEhQT1E0Wldvc2VyckJoRm9iV0duZ054QTIyTmdkZWQyMmlhSG5zdVlBTk9TOUhOZzI0cU1VcnhXNlRqZDRWOTFDT1BsUDI2eXFmRQ?oc=5",
@@ -549,6 +569,16 @@
       "source": "CalMatters",
       "published": "Wed, 15 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9oT2VvdktFMEx0akZrNzhEZUlRemNJRmpOcDF1RmJEVW5NdTVjNXRheHItM215MWNvU2hNX0ZubzNoeHVmZDQ1WXNSdWs3dnd2eXBSTHduNmEyUjVQaGhnYnpFNmQ3eFEwWjBlbw?oc=5\" target=\"_blank\">Cities scramble to comply with or fight major state housing law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "other"
+    },
+    {
+      "id": "94fc541d85a4baf1",
+      "title": "Cities scramble to comply with or fight major state housing law - LAist",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDJSN1k2QzRyNGE3Mk1iNUZRellKemZNSkZkd0d5OVZTQWtGMFNJVEZfNi10WkFIV3ktbW1Xa29vZVJ4LVB6LTNHME9Kd1BzNFkyNGhSZkhRVmVYbjFUSjh4c25ScU1EMUN6NDk3M2NQTzRmX3Y1UGkzM3E3QUN2dTBVMmtyOEVfbUE?oc=5",
+      "source": "LAist",
+      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDJSN1k2QzRyNGE3Mk1iNUZRellKemZNSkZkd0d5OVZTQWtGMFNJVEZfNi10WkFIV3ktbW1Xa29vZVJ4LVB6LTNHME9Kd1BzNFkyNGhSZkhRVmVYbjFUSjh4c25ScU1EMUN6NDk3M2NQTzRmX3Y1UGkzM3E3QUN2dTBVMmtyOEVfbUE?oc=5\" target=\"_blank\">Cities scramble to comply with or fight major state housing law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "other"
     },
@@ -1950,6 +1980,16 @@
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOeWhRQi1YbDl3dGhrbzhnUVlzdTVHUEMxOWRTbm5ZLUZqRGtjTThGdjdSVl9fdlBPaTJJdDZOMG9VdWljU0lGUjhwelVuM2g4cGF0NE5JU3ZaeFBoUjhKZkxOcUJXeFhGZVZ2RXlyNk9pb1pCVUVBQVNqbnk3NGYtYUdTQTh3dHVGbjZsd19NcU95TWw0Q3FSNC1lcU94OG9OOGwtc0Z5TDhDUHFZbU1iRFdVZG9uT2VoZ28ydVRMaGdGbGlKa3Q5dThhMUZQNDBlY2UyV1JucGZQeVBBSG5xYmxtUnR5cU9Nb3JseHAzNVBPQUt1VG8zOGVEejhmNHdy?oc=5\" target=\"_blank\">Supervisor Kathryn Barger Champions Updates to County Housing Rules to Balance Alignment with State Laws and Community Density Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">COUNTY OF LOS ANGELES (.gov)</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "other"
+    },
+    {
+      "id": "5f2a5c0900fcba4d",
+      "title": "Scrap Yards, Scrapped Enforcement? - Legal Planet",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hd3VTMnRQTzlkX3pjcWJFUWhGcW5lem9WTWFlbTljU1Q2SlBMZENFZnh6c2N4VzNmM2F1Ukx2MFhDckh3SmRfN19TQmVPNEdKOE9nVFJOMWY0SEN2TXlmU2d0b3hzaGtUZGRySGxoWVJkVWw1LWdkWA?oc=5",
+      "source": "Legal Planet",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9hd3VTMnRQTzlkX3pjcWJFUWhGcW5lem9WTWFlbTljU1Q2SlBMZENFZnh6c2N4VzNmM2F1Ukx2MFhDckh3SmRfN19TQmVPNEdKOE9nVFJOMWY0SEN2TXlmU2d0b3hzaGtUZGRySGxoWVJkVWw1LWdkWA?oc=5\" target=\"_blank\">Scrap Yards, Scrapped Enforcement?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legal Planet</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "other"
     },
     {
@@ -4961,46 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzhWRE9naEFhaDRVZkxmaFBtN0NlS25NbFFoR2VKc2V1dFFNNHVCZlNqQ2ExQzQwVFYtbmRaZnhGTE95bEVWbElFUUhBMTc1Tzh1NTlJNk82dV91ejFneWtlQnZka18zZEVTeDVnNjNnX0E0LUc0SkxiYTJsUFJPUU4yQi1mTDdxOUE5ZEw3eVF0Q2Q0MDRyU3ZJaWVjU0Jtc1E?oc=5\" target=\"_blank\">City Planning Commission signs off on mixed-use Hollywood Central development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "26b017c1b80616dc",
-      "title": "Mixed-use project at 1218 Manchester green-lit by City Planning Commission - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaTJ0cHd3UzVCRXRFMTE0SDZRSzRlQXBUSG1ObFJVRWhWTTZpaE9aRE80dGlnNVEzZGVUeFphZlVNaEhDQ0hzeDFzQnFiQmpsZzIwaE8yLUFZVjktR19XYURTV3ZKSS1YUzAxUFpxRlpHRlJCUld5SVhXZFNfZ0gtWTRjNzZkdm1iSmM0a29zVHVRZ3VVeEs3UDlrQmYyY1E?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 26 Aug 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPaTJ0cHd3UzVCRXRFMTE0SDZRSzRlQXBUSG1ObFJVRWhWTTZpaE9aRE80dGlnNVEzZGVUeFphZlVNaEhDQ0hzeDFzQnFiQmpsZzIwaE8yLUFZVjktR19XYURTV3ZKSS1YUzAxUFpxRlpHRlJCUld5SVhXZFNfZ0gtWTRjNzZkdm1iSmM0a29zVHVRZ3VVeEs3UDlrQmYyY1E?oc=5\" target=\"_blank\">Mixed-use project at 1218 Manchester green-lit by City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "cb15c339e48f47f7",
-      "title": "Rival fast-track housing bills? California lawmakers pick both - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWZENFJkc3VBTy1YY1pRa3F3Y19BV0Z3SXBaVTc1a0hfUmI3SXhvbFZkY3hXdHI0TTc1YXhVTTZ6Sk44TzVnR25IcGJodUg2Qmk2eFJnbkZrekhUbjQ5TUpoRFhqaG84Rzk5a2tvRE1peXUzS196aU1Xc0dhNHVldW9R?oc=5",
-      "source": "CalMatters",
-      "published": "Fri, 26 Aug 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWZENFJkc3VBTy1YY1pRa3F3Y19BV0Z3SXBaVTc1a0hfUmI3SXhvbFZkY3hXdHI0TTc1YXhVTTZ6Sk44TzVnR25IcGJodUg2Qmk2eFJnbkZrekhUbjQ5TUpoRFhqaG84Rzk5a2tvRE1peXUzS196aU1Xc0dhNHVldW9R?oc=5\" target=\"_blank\">Rival fast-track housing bills? California lawmakers pick both</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
-    },
-    {
-      "id": "9a7bae7c24687063",
-      "title": "Court tears down housing law that densified single family neighborhoods - Santa Monica Daily Press",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2hGNHY2VnM2YzFnUGdaMG5aTVMwUUh4NEtQQWV2aTVkT095LXE1VWVvdGMtaXBuZEM4TVFkU1dEN1RSZ1RFVk4yUmdUMDlKT0ZsbFZWQi14ZktHS25mdXpZdUdEX21Tb2l6cTlJdWdSdDFYaUhtRFJ5WUNHZTNkaktBYTNrVzloa1RmQjBIclhuRlZwcjdwOA?oc=5",
-      "source": "Santa Monica Daily Press",
-      "published": "Fri, 26 Apr 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2hGNHY2VnM2YzFnUGdaMG5aTVMwUUh4NEtQQWV2aTVkT095LXE1VWVvdGMtaXBuZEM4TVFkU1dEN1RSZ1RFVk4yUmdUMDlKT0ZsbFZWQi14ZktHS25mdXpZdUdEX21Tb2l6cTlJdWdSdDFYaUhtRFJ5WUNHZTNkaktBYTNrVzloa1RmQjBIclhuRlZwcjdwOA?oc=5\" target=\"_blank\">Court tears down housing law that densified single family neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "legal"
-    },
-    {
-      "id": "20cca4b992e115d6",
-      "title": "LA judge strikes down California lot-splitting law - Marin Independent Journal",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUklMeEdYWlU2WWQxcDZRR2NDMUNWRDZQT1ZVVk1HMkR1d0I5NXZabnhZaUZUMG5LVnd6ZUZkUnVNV0IxWl9kZ3hVWjBDZ2lrdktuU0VDakI2TWN4blFMT1ZLZlRoem9oZDlfZldJOTJjQl85RU5UdGhqMlNyWHVQdWUydkZEVDczNUw0M1NjOXlNcjFyNGZQeWNhN0hSM3Fpa2FRcEtiOGJ1RzFPVkVFTDRnOVZoTmN3TGfSAb8BQVVfeXFMT3hhOHlZZGc0eWtjd0JjT05HZXdUMlJtbXJMcnNoMnRBSkdHQ3JhX2JuWkdVWTdVOVVUYU1wSlMzQlY5SFBlWE9uR2hjVXk4SUlyaDJxS3RraW9ieW85WHpDS3NQaFlUa00zMWh6eFJESHgwNkUzMUpwN1I2UzRrU1dRcUJLV0FiS0pXcmpNZl9UaFZtSlNISThXazJuYWxjZXB1X2VacmlpQkJBRF9QcVRqWU5OeEhHYWo4NldKS0E?oc=5",
-      "source": "Marin Independent Journal",
-      "published": "Fri, 26 Apr 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOUklMeEdYWlU2WWQxcDZRR2NDMUNWRDZQT1ZVVk1HMkR1d0I5NXZabnhZaUZUMG5LVnd6ZUZkUnVNV0IxWl9kZ3hVWjBDZ2lrdktuU0VDakI2TWN4blFMT1ZLZlRoem9oZDlfZldJOTJjQl85RU5UdGhqMlNyWHVQdWUydkZEVDczNUw0M1NjOXlNcjFyNGZQeWNhN0hSM3Fpa2FRcEtiOGJ1RzFPVkVFTDRnOVZoTmN3TGfSAb8BQVVfeXFMT3hhOHlZZGc0eWtjd0JjT05HZXdUMlJtbXJMcnNoMnRBSkdHQ3JhX2JuWkdVWTdVOVVUYU1wSlMzQlY5SFBlWE9uR2hjVXk4SUlyaDJxS3RraW9ieW85WHpDS3NQaFlUa00zMWh6eFJESHgwNkUzMUpwN1I2UzRrU1dRcUJLV0FiS0pXcmpNZl9UaFZtSlNISThXazJuYWxjZXB1X2VacmlpQkJBRF9QcVRqWU5OeEhHYWo4NldKS0E?oc=5\" target=\"_blank\">LA judge strikes down California lot-splitting law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marin Independent Journal</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
     }
   ]
 }
