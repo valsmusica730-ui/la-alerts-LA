@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:58:36.958869+00:00",
+  "generated_at": "2026-09-11T20:26:12.867353+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2623,6 +2623,16 @@
       "category": "policy"
     },
     {
+      "id": "b731bb0cf24026f1",
+      "title": "Beverly Hills City Council approves Builder's Remedy high-rise at 8844 Burton Way - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1FYRGU2anNvcUxjbGJYQU9PR0pLcHBjYW15VXlEYzUxV3hEM19zbE51NUhnVDhoM2hfcFV1ZWhHM0Nla2YyMW4xYjNlbEFQMHBLcDhUcnBsZVZPT0xydUpPU1NubjVoczY0ckhPcnFmWldCdnNLajlBeXRnRmNoT3IzQmcwRG5TLWxxZ0VQMlZZWFdCUWZaUVFhUE8wZjJjczBLemRFODF2MEE?oc=5",
+      "source": "Urbanize LA",
+      "published": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1FYRGU2anNvcUxjbGJYQU9PR0pLcHBjYW15VXlEYzUxV3hEM19zbE51NUhnVDhoM2hfcFV1ZWhHM0Nla2YyMW4xYjNlbEFQMHBLcDhUcnBsZVZPT0xydUpPU1NubjVoczY0ckhPcnFmWldCdnNLajlBeXRnRmNoT3IzQmcwRG5TLWxxZ0VQMlZZWFdCUWZaUVFhUE8wZjJjczBLemRFODF2MEE?oc=5\" target=\"_blank\">Beverly Hills City Council approves Builder's Remedy high-rise at 8844 Burton Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "a5f1b4f20d4d0722",
       "title": "City of LA looks to stall SB 79 with upzoning - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXBRMTQ4V0lTZDh2SWh5OFd0ODE5a0RIWWVkcFRBUTd0SVdmVHpNOVRLT2NxODFXZEFQRkF3UGhOdkYzTW50OW5DSElJOW03MHY0VlRiaTZZUnpOTGhBa0hGVERJWXhmbmNYdHV4T1JVTkwzRC1laXFGQkhpRzMwOUM0dlh0blp1eEFheDRwSURqVXBoVXk1NmlMc2E?oc=5",
@@ -4989,16 +4999,6 @@
       "source": "Los Angeles Times",
       "published": "Fri, 26 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDFsZUxZaEZYSExYVVN1Mk9RemhDMGZ2MVM2V0ZuNXhmUmhGOHpKMzc1eFVMenYwY3g4bHIzUjBMR3lpMGJXZXBuNmQ4SFVSR1NKMm9hZDJCNVN5aVh5ODlsY09NdDVUN2U3QlNBREt2V0Z0TlkyY2ZVSnlqVG4zekRGUnI5RzlvZFQtcXhiUGNwX1B2WS1NcHltd190Y09NOEppOFdZUm4wUGdLVlFBOGpRQ0VTR2NnZU9ZdGY4YkhtZVV3UVA3V3NxU05jdDEy?oc=5\" target=\"_blank\">Voters nearly had a chance to gut the 'mansion tax.' Now, L.A. approves $544 million in spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "4e2784b4012c4c2c",
-      "title": "“Game of Thrones twist”: Last minute deal spikes ballot measure to kill LA mansion tax - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDU1cFJZNDg5TWRBbTdGM2ZyMmpzVUttaDlQU2hTQnpnS0pybHozS1Jvd3lSTGlKV2ZYbWhQMkdtTlpaZ1NWTExIeVhmTHBmOGhNSHdRUHNRajVzTlc4b1hpRFJZVDF4eTFjVm5adFlqS0RtUTJaZXJaQjFFYVNRWkxtTXM2R0dCTk1UNG02bEJWcEIyUlFxX1Jn?oc=5",
-      "source": "The Real Deal",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDU1cFJZNDg5TWRBbTdGM2ZyMmpzVUttaDlQU2hTQnpnS0pybHozS1Jvd3lSTGlKV2ZYbWhQMkdtTlpaZ1NWTExIeVhmTHBmOGhNSHdRUHNRajVzTlc4b1hpRFJZVDF4eTFjVm5adFlqS0RtUTJaZXJaQjFFYVNRWkxtTXM2R0dCTk1UNG02bEJWcEIyUlFxX1Jn?oc=5\" target=\"_blank\">“Game of Thrones twist”: Last minute deal spikes ballot measure to kill LA mansion tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
     }
