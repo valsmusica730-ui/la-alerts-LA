@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:23:13.800720+00:00",
+  "generated_at": "2026-09-11T10:08:40.028020+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2299,6 +2299,16 @@
       "source": "LAist",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXl4UEIzYTdjZlF3cWhVbHBQbVlKY3hSd1hCa3J0UmRweUNOWE1OekdlTjdUTThxSnNWbmxLeWtWRm9aWWY1SEpRNDNXdjhYVE5UYjZWQTF2eE4wdmhtcm4tcG9XRnFNUDY1RTBWaFFmb0JyR3pfd0ZqVUM4aUQ4OXB3cXVSSHZwSnFHWU9iS0VtYTJCSXJQMQ?oc=5\" target=\"_blank\">LA voters will decide if Palisades homeowners get a break from city’s ‘mansion tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
+      "id": "89739af5273df424",
+      "title": "Voters Will Decide Measure ULA Relief for Palisades Fire Survivors - westsidecurrent.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVG5CNFZJeGZTeHluaXU0NW8yUFRsaTN4WGpxUHFCc2E5UjRqc2F6N2VRWDY2T01ubHAzZVlUVmN5TElLMVVjOC1OZDBMSXpVbWQ5d1ZxTGxIeWN1VHFVS213LUNwVm9fY3BveTNvNU05STJqZXNYMng4ZVZ0OGQyQnNnNG41eVJGdzEzTjBMbThWajVmWGd5VXhuekJvenEwWXNWZlVBbkFGb0hrR3NxemtNYTlBMlpieUFIR2tYQW5QbDhBZENKby1TczV2aUFDZ3FXdFFlVTVMMVhkc2FoakpIOUpYUktZY284Yi1TOA?oc=5",
+      "source": "westsidecurrent.com",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVG5CNFZJeGZTeHluaXU0NW8yUFRsaTN4WGpxUHFCc2E5UjRqc2F6N2VRWDY2T01ubHAzZVlUVmN5TElLMVVjOC1OZDBMSXpVbWQ5d1ZxTGxIeWN1VHFVS213LUNwVm9fY3BveTNvNU05STJqZXNYMng4ZVZ0OGQyQnNnNG41eVJGdzEzTjBMbThWajVmWGd5VXhuekJvenEwWXNWZlVBbkFGb0hrR3NxemtNYTlBMlpieUFIR2tYQW5QbDhBZENKby1TczV2aUFDZ3FXdFFlVTVMMVhkc2FoakpIOUpYUktZY284Yi1TOA?oc=5\" target=\"_blank\">Voters Will Decide Measure ULA Relief for Palisades Fire Survivors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
     },
@@ -4989,16 +4999,6 @@
       "source": "LAist",
       "published": "Fri, 26 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNTJrLUVVdW04SGJBSGpIMEk0SXduOF9rQ2FYQzFiSzhOeWU4S050ZGFOcjdTR1g0X25xNlc4RXJCY3VnQlhiQTFMR1BWS2VGYndJZlN4S1d4NUV3LVB4dTRDeUNWbm9xX3dFNnY0dWlNR2RoMTJ0a0ZyU3dRLUpMbk1PcTEtRDZiRVpLaGRJaEJqbW1Ma3dRU3ppaENWSlhSU2JtTkx1SzgwaXU2S0xsOXViOUpXenZ3TmJXbWNTWnFnY1NmQ0ZxeTFPMGNZNEVncjBmSWtnWUxYbnd2MXVvWTRGX0tPOVc5NTQ5ag?oc=5\" target=\"_blank\">Measure to kill LA’s ‘mansion tax’ won’t be on November ballot after all</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "6b1810467b362daf",
-      "title": "'Mansion tax' prop pulled - LAist",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOWV2X25ncGs4YURKY1lhbXZPUkZmVFpOVThxOG5mQjk0ejQ3eGdBcE5oSE42cEVvdVd5dEtVcy0tUVliTlJmcUk3V1FtTEhZMHdzYTJTdWlqSGkta0JhN3JZSzNld09icmZOTjVfOHI5ellfdXQ2cVRPZnZfY3l1RWJFa0wxQmtONkJjRTFRWjFDb0tTS3ozRC1DU1lCamNDVVRxOXdpRENXT3pnWjdIM2tjd2h1cGU0cTR4bEtYcVExdFluR3lIWFVNcnNTcldnaThkZmw0dElEaXo1Wk9GdGFsVGc4eXNabUJRaTVBQ0JOM01Z?oc=5",
-      "source": "LAist",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOWV2X25ncGs4YURKY1lhbXZPUkZmVFpOVThxOG5mQjk0ejQ3eGdBcE5oSE42cEVvdVd5dEtVcy0tUVliTlJmcUk3V1FtTEhZMHdzYTJTdWlqSGkta0JhN3JZSzNld09icmZOTjVfOHI5ellfdXQ2cVRPZnZfY3l1RWJFa0wxQmtONkJjRTFRWjFDb0tTS3ozRC1DU1lCamNDVVRxOXdpRENXT3pnWjdIM2tjd2h1cGU0cTR4bEtYcVExdFluR3lIWFVNcnNTcldnaThkZmw0dElEaXo1Wk9GdGFsVGc4eXNabUJRaTVBQ0JOM01Z?oc=5\" target=\"_blank\">'Mansion tax' prop pulled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
     }
