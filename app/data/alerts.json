@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:38:51.955499+00:00",
+  "generated_at": "2026-09-11T05:23:13.800720+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3943,6 +3943,16 @@
       "category": "adu"
     },
     {
+      "id": "d7e3172cedcc1f95",
+      "title": "LA Court Finds SB 10 Constitutional - Davis Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aWEhqWmhOU255NEFwcG13Y0M5OFJQczMzTVpBVUgwdEI4elJfVm1fRGpDRXBqcG1QVkxKbHVXSUs5Qkl0bkRaQll4TGtwMDdJaWpwV1VBVmNkOEhBT3RZOGZiMGNGWFdudkNKZHlZR2hkRDIySHphS0FR?oc=5",
+      "source": "Davis Vanguard",
+      "published": "Sat, 14 May 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1aWEhqWmhOU255NEFwcG13Y0M5OFJQczMzTVpBVUgwdEI4elJfVm1fRGpDRXBqcG1QVkxKbHVXSUs5Qkl0bkRaQll4TGtwMDdJaWpwV1VBVmNkOEhBT3RZOGZiMGNGWFdudkNKZHlZR2hkRDIySHphS0FR?oc=5\" target=\"_blank\">LA Court Finds SB 10 Constitutional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "legal"
+    },
+    {
       "id": "f10bd87c3e3188b6",
       "title": "Community Action Partnership OC offers relief as eviction moratorium ends - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTHBjLVBmWGt5YldLQnllQVJqa0FIM3JKLS1DaEdOMUJJckdfbFFrQnNERklzR0xILV85UWt2eWlxNnVpVWxhQU1BS29FUVdHbGhwSTBaUlZCVEJaMTJQTDZvdGN1emFSSUFxM2tMRm1GRUZpSkttRHBUMjJyR0h3NFhIdlFZRnJCc3M2Y3lyYUd6OU9RZm90VzNxd1N3LVI3UVluRWJiVWhvbTU4MWtpWVZqUDBvWS1nQ1o5LTBhRDNnMXI2ekM4czhXOVRUYklKMTBZ?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOWV2X25ncGs4YURKY1lhbXZPUkZmVFpOVThxOG5mQjk0ejQ3eGdBcE5oSE42cEVvdVd5dEtVcy0tUVliTlJmcUk3V1FtTEhZMHdzYTJTdWlqSGkta0JhN3JZSzNld09icmZOTjVfOHI5ellfdXQ2cVRPZnZfY3l1RWJFa0wxQmtONkJjRTFRWjFDb0tTS3ozRC1DU1lCamNDVVRxOXdpRENXT3pnWjdIM2tjd2h1cGU0cTR4bEtYcVExdFluR3lIWFVNcnNTcldnaThkZmw0dElEaXo1Wk9GdGFsVGc4eXNabUJRaTVBQ0JOM01Z?oc=5\" target=\"_blank\">'Mansion tax' prop pulled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "33a3e918822487d0",
-      "title": "Little Tokyo Community Council Statement on 4th & Central Development - Rafu Shimpo",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlFZMVg1VkphWFZjVGVKNm1XclNsQ0RRRGJ0MzRGeVJtRTZFblZMQXZNTWswY2EyQTEwTC12a2dGR29QY3h4Y2tWY1p0UU9qUkhVZmlQT0E0ZEZXUGRBSWxPSXlZUnQ2c01zZHpBMXowN1F1UnNRQkxWQ3ByT0UzNF9zTkJFUDZVd2FuX0xUSUY3T2VkR3paZw?oc=5",
-      "source": "Rafu Shimpo",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlFZMVg1VkphWFZjVGVKNm1XclNsQ0RRRGJ0MzRGeVJtRTZFblZMQXZNTWswY2EyQTEwTC12a2dGR29QY3h4Y2tWY1p0UU9qUkhVZmlQT0E0ZEZXUGRBSWxPSXlZUnQ2c01zZHpBMXowN1F1UnNRQkxWQ3ByT0UzNF9zTkJFUDZVd2FuX0xUSUY3T2VkR3paZw?oc=5\" target=\"_blank\">Little Tokyo Community Council Statement on 4th & Central Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rafu Shimpo</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
     }
   ]
 }
