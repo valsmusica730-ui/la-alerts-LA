@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:08:40.028020+00:00",
+  "generated_at": "2026-09-11T17:58:36.958869+00:00",
   "total": 500,
   "alerts": [
     {
@@ -581,6 +581,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDJSN1k2QzRyNGE3Mk1iNUZRellKemZNSkZkd0d5OVZTQWtGMFNJVEZfNi10WkFIV3ktbW1Xa29vZVJ4LVB6LTNHME9Kd1BzNFkyNGhSZkhRVmVYbjFUSjh4c25ScU1EMUN6NDk3M2NQTzRmX3Y1UGkzM3E3QUN2dTBVMmtyOEVfbUE?oc=5\" target=\"_blank\">Cities scramble to comply with or fight major state housing law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "other"
+    },
+    {
+      "id": "4323269a1b221bb8",
+      "title": "Board of Supervisors Expands Eviction Moratorium, Rent Freeze to Protect Additional Renters Across Los Angeles County - COUNTY OF LOS ANGELES (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVnpqbm55Y1N3VXVWWHhnallpODhPSFFVamI3YUw2YWdLV2t3cnJzRUJvVTNENW5fbE9xbVZJTmJBWW1WWlV4OUdncDRMcWEyV282cGtZcENtYm1aYTd4NzdORjNWYW5yWmJvV0ZxSGNhR0NtTHFuSmFVY28yTVhkemgyemVWeTFqVUZlTFlPUEE5ajMxeDhrZGxONzNVVWloY3R0R2ZGZVJGR1lZWXVHdmFNVDdnM1cwcUItMHVhYWJsWkhIeDZSbWdHdWZVWjdSbm9KZDFTbTJkZm50VXZPeHVYbng0OUhGUldzWk43b0Q?oc=5",
+      "source": "COUNTY OF LOS ANGELES (.gov)",
+      "published": "Wed, 15 Apr 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVnpqbm55Y1N3VXVWWHhnallpODhPSFFVamI3YUw2YWdLV2t3cnJzRUJvVTNENW5fbE9xbVZJTmJBWW1WWlV4OUdncDRMcWEyV282cGtZcENtYm1aYTd4NzdORjNWYW5yWmJvV0ZxSGNhR0NtTHFuSmFVY28yTVhkemgyemVWeTFqVUZlTFlPUEE5ajMxeDhrZGxONzNVVWloY3R0R2ZGZVJGR1lZWXVHdmFNVDdnM1cwcUItMHVhYWJsWkhIeDZSbWdHdWZVWjdSbm9KZDFTbTJkZm50VXZPeHVYbng0OUhGUldzWk43b0Q?oc=5\" target=\"_blank\">Board of Supervisors Expands Eviction Moratorium, Rent Freeze to Protect Additional Renters Across Los Angeles County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">COUNTY OF LOS ANGELES (.gov)</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "9ce14fb876fd96ff",
@@ -4989,16 +4999,6 @@
       "source": "The Real Deal",
       "published": "Fri, 26 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDU1cFJZNDg5TWRBbTdGM2ZyMmpzVUttaDlQU2hTQnpnS0pybHozS1Jvd3lSTGlKV2ZYbWhQMkdtTlpaZ1NWTExIeVhmTHBmOGhNSHdRUHNRajVzTlc4b1hpRFJZVDF4eTFjVm5adFlqS0RtUTJaZXJaQjFFYVNRWkxtTXM2R0dCTk1UNG02bEJWcEIyUlFxX1Jn?oc=5\" target=\"_blank\">“Game of Thrones twist”: Last minute deal spikes ballot measure to kill LA mansion tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "ef834f155dfc8bc3",
-      "title": "Measure to kill LA’s ‘mansion tax’ won’t be on November ballot after all - LAist",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNTJrLUVVdW04SGJBSGpIMEk0SXduOF9rQ2FYQzFiSzhOeWU4S050ZGFOcjdTR1g0X25xNlc4RXJCY3VnQlhiQTFMR1BWS2VGYndJZlN4S1d4NUV3LVB4dTRDeUNWbm9xX3dFNnY0dWlNR2RoMTJ0a0ZyU3dRLUpMbk1PcTEtRDZiRVpLaGRJaEJqbW1Ma3dRU3ppaENWSlhSU2JtTkx1SzgwaXU2S0xsOXViOUpXenZ3TmJXbWNTWnFnY1NmQ0ZxeTFPMGNZNEVncjBmSWtnWUxYbnd2MXVvWTRGX0tPOVc5NTQ5ag?oc=5",
-      "source": "LAist",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNTJrLUVVdW04SGJBSGpIMEk0SXduOF9rQ2FYQzFiSzhOeWU4S050ZGFOcjdTR1g0X25xNlc4RXJCY3VnQlhiQTFMR1BWS2VGYndJZlN4S1d4NUV3LVB4dTRDeUNWbm9xX3dFNnY0dWlNR2RoMTJ0a0ZyU3dRLUpMbk1PcTEtRDZiRVpLaGRJaEJqbW1Ma3dRU3ppaENWSlhSU2JtTkx1SzgwaXU2S0xsOXViOUpXenZ3TmJXbWNTWnFnY1NmQ0ZxeTFPMGNZNEVncjBmSWtnWUxYbnd2MXVvWTRGX0tPOVc5NTQ5ag?oc=5\" target=\"_blank\">Measure to kill LA’s ‘mansion tax’ won’t be on November ballot after all</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
     }
