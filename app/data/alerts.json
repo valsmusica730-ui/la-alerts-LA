@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:50:20.672484+00:00",
+  "generated_at": "2026-09-11T00:38:51.955499+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3193,6 +3193,16 @@
       "category": "legal"
     },
     {
+      "id": "7359f7ce2b1c5917",
+      "title": "City Planning Commission Approves Sylmar Fire Station Project - mynewsla.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3hCRG1GX28wTmh4SXZXME9aRGVBcUhUVUtmdXlUM1hULTliX2ZxSkJfdnVOYXhJeHNvaTNmb3BzekU3N1BZY01fU2RuVHh5ZlJCRzhtdkk5d2dNSUpHMjdUbm03UTcxVXpWYjlyZUc5WDVsc2JmZFpsUzNERkhPdU1ZZEtvUXF0UGRRanlMbkRqTXJnSnNRRW9idVFIM0ZzSXJXZGZn?oc=5",
+      "source": "mynewsla.com",
+      "published": "Thu, 10 Sep 2026 22:31:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3hCRG1GX28wTmh4SXZXME9aRGVBcUhUVUtmdXlUM1hULTliX2ZxSkJfdnVOYXhJeHNvaTNmb3BzekU3N1BZY01fU2RuVHh5ZlJCRzhtdkk5d2dNSUpHMjdUbm03UTcxVXpWYjlyZUc5WDVsc2JmZFpsUzNERkhPdU1ZZEtvUXF0UGRRanlMbkRqTXJnSnNRRW9idVFIM0ZzSXJXZGZn?oc=5\" target=\"_blank\">City Planning Commission Approves Sylmar Fire Station Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mynewsla.com</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "6afcf020a979e9ab",
       "title": "Sylmar Fire Station Project Clears City Planning Commission - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSC1OUVVTcm15QjVhdG96Y2pCQ0xDS0dCcDMxY0lfNlpUYjFud2pwQk9TaEFYdlhQZTJDTnA4b3lydl9NbXlLZEZQQnp0Z3RIdERSOXlZVXdlYjZhTUl4Y3lnVldPamZtU1lqd1BwNk4tRTNGckZCWDJRSDNINGRBOEliM0ozTTFVdmdEV2wyeHQ2QndBb2RLN0JyajBUdW8?oc=5",
@@ -4990,16 +5000,6 @@
       "published": "Fri, 26 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlFZMVg1VkphWFZjVGVKNm1XclNsQ0RRRGJ0MzRGeVJtRTZFblZMQXZNTWswY2EyQTEwTC12a2dGR29QY3h4Y2tWY1p0UU9qUkhVZmlQT0E0ZEZXUGRBSWxPSXlZUnQ2c01zZHpBMXowN1F1UnNRQkxWQ3ByT0UzNF9zTkJFUDZVd2FuX0xUSUY3T2VkR3paZw?oc=5\" target=\"_blank\">Little Tokyo Community Council Statement on 4th & Central Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rafu Shimpo</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "af622632281ecbdf",
-      "title": "California Voters Will Decide If Local Taxes Should Be Harder to Approve - Commercial Observer",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDhZckhwa1pueTFHTDVlQUNiM0hlejVuTk5Yc3pKcmhubGdLUE5nZ1pMNG40UHhiOEtZcExYSTRhOExvWG53SXhQa25pdFpWazl3RDRsVjV0Nm9IQ0F0UU9QNkNweTcxSzdOU1JCZmpQV2hJSzE3VWdQLXQybUZxak1QczN5TER4Z1E?oc=5",
-      "source": "Commercial Observer",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDhZckhwa1pueTFHTDVlQUNiM0hlejVuTk5Yc3pKcmhubGdLUE5nZ1pMNG40UHhiOEtZcExYSTRhOExvWG53SXhQa25pdFpWazl3RDRsVjV0Nm9IQ0F0UU9QNkNweTcxSzdOU1JCZmpQV2hJSzE3VWdQLXQybUZxak1QczN5TER4Z1E?oc=5\" target=\"_blank\">California Voters Will Decide If Local Taxes Should Be Harder to Approve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial Observer</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "other"
     }
   ]
