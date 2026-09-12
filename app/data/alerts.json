@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T05:13:52.094813+00:00",
+  "generated_at": "2026-09-12T09:43:36.135132+00:00",
   "total": 500,
   "alerts": [
     {
@@ -199,6 +199,16 @@
       "source": "LAist",
       "published": "Wed, 25 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmFNeVlMX1JJV3FValctU2xYSms2dDlIc0U5dDRDcnpPdWpWakFvamNGZlJYTUxISHFOZFNrY0l4QmFlQ0JCQ3BTdG02aXh2Q0lrSUNhR092cTl4X0ZmNzhBeWQ3YW5kS2M4OFFWbGNPTHBLZEZpYl9SUGNyRmhoWlVpX3U1V01qR3g5eE01WTVyVldGbWE5Slp2SUg2OHFtTjctWkpNcndYN0RXRDNGZmVZVE5QeHA2NFVUWk5yTHgxaXBEb00wWlRDN1Q1cERCNGVETEtOVQ?oc=5\" target=\"_blank\">LA City Council approves plan to allow small- to mid-sized apartment buildings near transit stops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "6a0d6cf1fe18f7c3",
+      "title": "Beverly Hills City Council OKs Burton Way project - Beverly Press & Park Labrea News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnBQZnJuYV9DeFFDRXBtbnNqNTFidmpxTmc3a3NtQlk4RDFCSnB0bERERzdNRHAzWVRaQ2hMRDBjZlNFc0hSYlR0QkFmVmZWRTROeWh2VFdrR1VhVEpDSDZlcEstRlNGeVNTREFNamV1Z1UyYVpWanVzQWJWaFl1b3FpRGRxXzNPaTMw?oc=5",
+      "source": "Beverly Press & Park Labrea News",
+      "published": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnBQZnJuYV9DeFFDRXBtbnNqNTFidmpxTmc3a3NtQlk4RDFCSnB0bERERzdNRHAzWVRaQ2hMRDBjZlNFc0hSYlR0QkFmVmZWRTROeWh2VFdrR1VhVEpDSDZlcEstRlNGeVNTREFNamV1Z1UyYVpWanVzQWJWaFl1b3FpRGRxXzNPaTMw?oc=5\" target=\"_blank\">Beverly Hills City Council OKs Burton Way project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     },
@@ -2321,6 +2331,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVhiRjVZa05NWEFrMXI5ellzczU1MFpYQ2d5cU9TcjlEN2RjRnRUVHhxQlhjNUEzRGd5WDhBX0c2Sk5zREN4UHQzWDM3UGwxMTlsSHl2UkNiMXYtby1ST2FJMzI3R3hFOERMZTBMQXVMV0RWc0kyMTFqWng5QmJHUWZJRlZac09jYzhkVTdUWS04OTYxSk5ycFRaT2Y2T0FlQUdj?oc=5\" target=\"_blank\">Renters To Get Right To AC Under New 82-Degree Cooling Requirement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "2e8e6e3c48f689b6",
+      "title": "LACo to Consider Ordinance Capping Allowable Temperatures in Rental Units - Los Angeles Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEFuMlMzUE1NYUc5RXhkYkpFOElGbjJPcy14Z0FOdVllVDVaU3lIZHZOM2ZpTjZMMFRHeFV6UXFPc1VWdDdPZWNDdHJyZF9xOTJtemEtWHNtSjdFbEpTYmttQ20yMkd2OGNILTEyVnprUUdvWXRoTFlsSXFoQnpHbDI4eGtiaGNiQVExS3RORnFnWnB4QkFPTXd6S0VDSl9LdlBN?oc=5",
+      "source": "Los Angeles Sentinel",
+      "published": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEFuMlMzUE1NYUc5RXhkYkpFOElGbjJPcy14Z0FOdVllVDVaU3lIZHZOM2ZpTjZMMFRHeFV6UXFPc1VWdDdPZWNDdHJyZF9xOTJtemEtWHNtSjdFbEpTYmttQ20yMkd2OGNILTEyVnprUUdvWXRoTFlsSXFoQnpHbDI4eGtiaGNiQVExS3RORnFnWnB4QkFPTXd6S0VDSl9LdlBN?oc=5\" target=\"_blank\">LACo to Consider Ordinance Capping Allowable Temperatures in Rental Units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Sentinel</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
     },
     {
       "id": "b4506caaf51cb18e",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTA2RWFpSTRkRWl2OC1XM1hZa05fNXh5QTQ1RGJIV2dnTDhjTEFDR2VETFBIcjlmWndhR2l1TkF0LTZDWFlLSUVvSXRXTDBEbVMtZ04xOUl6NG9BaXV1ZzNCWWRmcFpGeHQwMXlpRjB0Zk5VcUU2cEhoVV9zcm5qQm10NkVUdlM5VHZ1bVB5V3NjNlRSQnh6RENublJORG0zM3Rjdm43TXJQSWMwb000?oc=5\" target=\"_blank\">AG Bonta Statement on Court Decision Affirming Constitutionality of SB 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Contra Costa News</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "legal"
-    },
-    {
-      "id": "09c38c26c5aa1969",
-      "title": "Modeling New Housing Supply in Los Angeles: Simulations from the Terner Housing Policy Dashboard - Terner Center",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONmZ4M0VteUxuN1NYYk1lZzlFNWkyeW10Sm5lQWw5MUdXbTZCUFRzTVFMR25QbUdSbUxieHlzTmZsQ1dXcVNud1VMMVJnYXNibC1kNmdsU1hCcUNkOGhubUMxQ3dRS0xEZjAxM1JrV2hEcXNvV2FuMmJXS3NDYWQ3WjRIN1hQT29PUWFB?oc=5",
-      "source": "Terner Center",
-      "published": "Fri, 28 Oct 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONmZ4M0VteUxuN1NYYk1lZzlFNWkyeW10Sm5lQWw5MUdXbTZCUFRzTVFMR25QbUdSbUxieHlzTmZsQ1dXcVNud1VMMVJnYXNibC1kNmdsU1hCcUNkOGhubUMxQ3dRS0xEZjAxM1JrV2hEcXNvV2FuMmJXS3NDYWQ3WjRIN1hQT29PUWFB?oc=5\" target=\"_blank\">Modeling New Housing Supply in Los Angeles: Simulations from the Terner Housing Policy Dashboard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terner Center</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
-    },
-    {
-      "id": "7dc34553e767ae51",
-      "title": "Modeling New Housing Supply in Los Angeles: Simulations from the Terner Housing Policy Dashboard - Terner Center",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10bVdET2F0WXI2LVlpVUtpMldIWGpqSWtwdl8wT0dicWZnSEphMlRaMlBmVmdSMk1LT3JacVJPV19mNWFGNTJPczdYNm1yTVlraTAxYkpmQVZ6Z1Z0Q2Y1eUNaNHRFSmRpak5BRVk0TlhQSWNULWZv?oc=5",
-      "source": "Terner Center",
-      "published": "Fri, 28 Oct 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE10bVdET2F0WXI2LVlpVUtpMldIWGpqSWtwdl8wT0dicWZnSEphMlRaMlBmVmdSMk1LT3JacVJPV19mNWFGNTJPczdYNm1yTVlraTAxYkpmQVZ6Z1Z0Q2Y1eUNaNHRFSmRpak5BRVk0TlhQSWNULWZv?oc=5\" target=\"_blank\">Modeling New Housing Supply in Los Angeles: Simulations from the Terner Housing Policy Dashboard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terner Center</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
     }
   ]
 }
