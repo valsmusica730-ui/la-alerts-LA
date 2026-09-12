@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T18:50:50.980588+00:00",
+  "generated_at": "2026-09-12T23:31:52.524972+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1271,6 +1271,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUdqLXlfMDk1ZFFiMGs5ZEVqQ1RodkZ0eWlhX2JlQmxocmR5RTIzT19zNGcxaEZ3TDdDMi1hV3RNWWdlNzIwV21fRFlUVldXS2dkVUxfSEF4d1E0T3I0SWRfVHFHTTlDQV9BYVY2N1NON1VYRTlSSDBJd1JTczNaR29salFkR3R2ZVlsbE5fWkowbXo3NFhfU19wX29BUUI3VzRTdXA2Ymd2RFREMXpxbzVuY3h4VlhDOURadVUxWTFsZw?oc=5\" target=\"_blank\">Burke Public Law Update: Trial Court Holds That SB 9 Does Not Apply To Charter Cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">californiacitynews.org</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "legal"
+    },
+    {
+      "id": "5b474467e163d674",
+      "title": "Portland’s Airbnb Fiasco Shows Why Regulation Often Fails - ABC4 Utah",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS3ltZ3o4aTVaQ1FtQ1cyUVpDdGloMnNzQlJVanpoQ3ZWRTFWdWVvNzZkWTJObUtfSVI2VFNld2xseHNlc3ZOQTR0ZjhlVXN2Y0NoRXc4ZXo4aW5ocW9GRjEyNUJsY1JHcXJ0bFJ0R3NnVWl4dGFzTk8zLWVMZ1Vsa2VSQWJ5UXpfaGRDRGNwVUczajJZaUN1aTBpOVpwNDc1VDBoRndn0gGrAUFVX3lxTFByN2VRNEk1VHRQd2htWTNNckJnUFdpc0lobkN2UFdsdnhPT1B5YTVsREdiVWl3OEhkUDNpa2ZwalBKblROcm1Mbk1URGtoVm9HTEwwVTVfa1h4TjgxRWNXZ2ZmdzFLZ0JhemNMQW5mMGdCWUNwcnlJcHVKTUoya01UVE1kQV96ekwwbmhWaFpIVEdOQTNPdU5kVFYtN2RaMWx3Y0Nndll2OEtHYw?oc=5",
+      "source": "ABC4 Utah",
+      "published": "Wed, 01 May 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPS3ltZ3o4aTVaQ1FtQ1cyUVpDdGloMnNzQlJVanpoQ3ZWRTFWdWVvNzZkWTJObUtfSVI2VFNld2xseHNlc3ZOQTR0ZjhlVXN2Y0NoRXc4ZXo4aW5ocW9GRjEyNUJsY1JHcXJ0bFJ0R3NnVWl4dGFzTk8zLWVMZ1Vsa2VSQWJ5UXpfaGRDRGNwVUczajJZaUN1aTBpOVpwNDc1VDBoRndn0gGrAUFVX3lxTFByN2VRNEk1VHRQd2htWTNNckJnUFdpc0lobkN2UFdsdnhPT1B5YTVsREdiVWl3OEhkUDNpa2ZwalBKblROcm1Mbk1URGtoVm9HTEwwVTVfa1h4TjgxRWNXZ2ZmdzFLZ0JhemNMQW5mMGdCWUNwcnlJcHVKTUoya01UVE1kQV96ekwwbmhWaFpIVEdOQTNPdU5kVFYtN2RaMWx3Y0Nndll2OEtHYw?oc=5\" target=\"_blank\">Portland’s Airbnb Fiasco Shows Why Regulation Often Fails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "d344624804870ab9",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5tY1UtLUxWck1SV09hUzl6WFE3c0VKaFVkNXVxb1U0MHZMdnk0M3hodTFPbW1Rd1QyY0s1NERfSEpaZlNUWUx5UU54VjFYbmVOTEp0TGI1WkNtUG85RlRNOXp2S1lybjdlUzdPVk5wOUxGMnVNVkc2Mkc2Z3JMc0U?oc=5\" target=\"_blank\">A Sweeping Ordinance Would Make It Easier For LA to Target its Unhoused Residents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital B News</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
-    },
-    {
-      "id": "099651ec3b3d2af1",
-      "title": "An Eviction Moratorium Against ICE? - Jacobin",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01S0E2amM2NUNrTTFvQi1zVldXbXBEekNjazFSSkNLQnBwVk4yVmR5Q3JqRzlaMmhsVkd4bDJtak5tN0VrVXJyVC1uQ1JiYzI3eC1CT0E5VjlYdzBlNllSWmRkQmh1YXJMY1E2bA?oc=5",
-      "source": "Jacobin",
-      "published": "Fri, 31 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE01S0E2amM2NUNrTTFvQi1zVldXbXBEekNjazFSSkNLQnBwVk4yVmR5Q3JqRzlaMmhsVkd4bDJtak5tN0VrVXJyVC1uQ1JiYzI3eC1CT0E5VjlYdzBlNllSWmRkQmh1YXJMY1E2bA?oc=5\" target=\"_blank\">An Eviction Moratorium Against ICE?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jacobin</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
