@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T22:51:33.452940+00:00",
+  "generated_at": "2026-09-12T00:45:53.218656+00:00",
   "total": 500,
   "alerts": [
     {
@@ -649,6 +649,16 @@
       "source": "The Salt Lake Tribune",
       "published": "Wed, 13 Mar 2024 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1NV0VGUDFDbVlRR1pyUEVWcWZkazB6X2xlRUhwOEFzeHR0REZXNWhNLVpYcHNZZE1wcFZ0UlJXeGw1UnVYaTJBazRIRlNSRTN0VVJfblVDQ2V1SEhWZ3l6S0xvdllQOXNNRGpYWlhEbnU3R0hMWWlUYVJFenI?oc=5\" target=\"_blank\">More homeowners in Salt Lake County could build granny flats if this proposal passes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Salt Lake Tribune</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
+    },
+    {
+      "id": "acda1d5a9b1b9609",
+      "title": "You Can Build These Prefab ADUs Yourself, Which Start at $100 Per Square Foot - Dwell",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43WmVNeXdlLWc5Zmg5YXhTblhyM0M5N0U3MzRCNTFWMUhLOUdSa3duMGlucFRTWnJnTWpNNnZiejRVYTRWTU95MW90WC1fYnpraGtZMmxjNGl3UkhOVEJfSzV5ZkF4R3Jsd0pHUzFlTV96LTjSAXhBVV95cUxNbVBPVVpIRV9EeGRKUnB4QjJjV3JWV0JXcGIycjZUMWdkYjhzWTNIVzM4U2szZ0VKOE9zclJRb19QSEZXQjJxbjZxV1FDTEMweFgtU0FOSmgwbjlWc2EyMEM5cm1qQ3FyejhiUXBvVVYtUGllNUd4Wlc?oc=5",
+      "source": "Dwell",
+      "published": "Wed, 13 Dec 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE43WmVNeXdlLWc5Zmg5YXhTblhyM0M5N0U3MzRCNTFWMUhLOUdSa3duMGlucFRTWnJnTWpNNnZiejRVYTRWTU95MW90WC1fYnpraGtZMmxjNGl3UkhOVEJfSzV5ZkF4R3Jsd0pHUzFlTV96LTjSAXhBVV95cUxNbVBPVVpIRV9EeGRKUnB4QjJjV3JWV0JXcGIycjZUMWdkYjhzWTNIVzM4U2szZ0VKOE9zclJRb19QSEZXQjJxbjZxV1FDTEMweFgtU0FOSmgwbjlWc2EyMEM5cm1qQ3FyejhiUXBvVVYtUGllNUd4Wlc?oc=5\" target=\"_blank\">You Can Build These Prefab ADUs Yourself, Which Start at $100 Per Square Foot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dwell</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
     },
@@ -2253,6 +2263,16 @@
       "category": "rent"
     },
     {
+      "id": "e359ff71f9ac5fad",
+      "title": "Go Big for Homes and Jobs: How AB 2011 Will Change the Game for Affordable Housing - spur.org",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmtlRUMwb0RqVHN5TExYVlRseWhJdnZFbWhTQUthUjNNc0EtUU9EY3V5anh1eWJsb1g5RzZLMVZkMDdmU1JmMGRReVF6QmRpVW01dldCa2E1WHNoS1dTUEpGdjNKTVNvQVB4MFFwNmdEbFc3VXJXRGZsVmRwMmwxRjJncFYtc041WXhGeF81NnhDVHc0U28zeG1tTkY4TVpyMHZLdWxPRThaVl9Y?oc=5",
+      "source": "spur.org",
+      "published": "Tue, 06 Sep 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmtlRUMwb0RqVHN5TExYVlRseWhJdnZFbWhTQUthUjNNc0EtUU9EY3V5anh1eWJsb1g5RzZLMVZkMDdmU1JmMGRReVF6QmRpVW01dldCa2E1WHNoS1dTUEpGdjNKTVNvQVB4MFFwNmdEbFc3VXJXRGZsVmRwMmwxRjJncFYtc041WXhGeF81NnhDVHc0U28zeG1tTkY4TVpyMHZLdWxPRThaVl9Y?oc=5\" target=\"_blank\">Go Big for Homes and Jobs: How AB 2011 Will Change the Game for Affordable Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spur.org</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
       "id": "8240ccf5209bb711",
       "title": "LA City Councilwoman seeks amnesty program for unpermitted ADUs - spectrumlocalnews.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlZOS3gyeklyY2Q5X18yZjlaN255VFcySkljOHpjMXdHQ2t1c0FsVmlzbnhjRXMxUGo0c2o2LWNHSHJfRUNUVm1pdHJoUkRyd25EUUFVeXBYcHYtT0c0ZTk4ektSOWNnWmdHa1BMWktuSVdpNjhiQ3RoSGFMZE1DU2JVYmFtZE14S0t2S05uVUVPSFphNTBsRTE5Y1hDUkhkRzFPYmprblBVVXd3ZDlVODI4YS02a2t3Y2gwRjdvc2FibEZmQ0E?oc=5",
@@ -2291,6 +2311,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOODAxR2s5UENjV24ybWVzcHR1OWFyZ01SdzZtWVNOU2VzdGo4N0FnWGtRYkRzaFZXSDZXS0g2cWxkeWFwUWo2Rmlfa2oyNUpqMWhGSUVnRkZHLUoxRzV5ZTMtcHZ3a1Y0VVNCRE9PSV9QSG1mTVozYVJ4MEh5MDFNTzhzRDBPVFItb1ZjZw?oc=5\" target=\"_blank\">Upzoning Was Meant To Fix L.A.’s Housing Crisis—Is It Making It Worse?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realtor.com</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "zoning"
+    },
+    {
+      "id": "e25127ab77bf810e",
+      "title": "‘Mansion tax’ measure - laist.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzlWRjM2Zi1tTW9UcHhzOGpTZ2ZxenF4enIwN0RndHo0a2F2TnRlVkx2YVQwLXVqdTBkdTVtVmw5b3lMN0pfbXVDYXNYbnlKazVTNUxhcTRBeFpwLWJKYWVGVVh6TWVqbkJMRVRSZ1NKdkVUSFlqeHBIX0FtMFM1TFcwWnFaN2w4Q0pnb3NNcHEwVUlHS0JCdFNYNS13VWFr?oc=5",
+      "source": "laist.com",
+      "published": "Tue, 04 Aug 2026 20:57:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzlWRjM2Zi1tTW9UcHhzOGpTZ2ZxenF4enIwN0RndHo0a2F2TnRlVkx2YVQwLXVqdTBkdTVtVmw5b3lMN0pfbXVDYXNYbnlKazVTNUxhcTRBeFpwLWJKYWVGVVh6TWVqbkJMRVRSZ1NKdkVUSFlqeHBIX0FtMFM1TFcwWnFaN2w4Q0pnb3NNcHEwVUlHS0JCdFNYNS13VWFr?oc=5\" target=\"_blank\">‘Mansion tax’ measure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">laist.com</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
     },
     {
       "id": "f11c712e40c16825",
@@ -3021,6 +3051,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeVFfNVlxTUJLdEhHS2RSNEs3Y09TaXVBeWdlRi1HY2NTRXBIclJlMzNMX0c1S0dWRk9UOEVRNDYwMmZTRGhzM3d5b2hkTE1PNVpEVmxyb3ZSRHZYU1U5Z2dOTlFjLTNIZG41VEVuWC00X0E4TGNqNjlMRzFFVTJyS29Ba191cWVEWUNEWlBYRnpuYWxReDBXYUR2VThjd1NnOUVIa2ltVnZ5WHZuUHkwR3VIQ1U1ejBobHMyNHBEYVVyQnBZSlkzczhaM3p6WjdfNnpJZ19Tb1R6OGxUeGNSaGZYQ0JzVHdQLTZrbA?oc=5\" target=\"_blank\">Tenants group crashed Berkeley party for end of eviction moratorium. Then things got ugly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "38a6ef732cfb7e30",
+      "title": "LA City Planning Commission OKs USC Plans to Develop New Sports Stadium - KFI AM 640",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEUyc3k3bHl1TW83WHM5VThiMEpsT3NmN01haThjQlBKcGNZYnA3NlNVNHJod1ZTUkJCSVNZakUzVF8zbEFLRW1mZDNMNzhzSGVYdE92YzN4NHdpY1E0OWUxS2tlOEdsNEJjblN2QVJlSUUxZWM4eVRmY0gzRDdLcHZVWEZZS00tUHNfcjk5YXFkbWZEbl9EZnpyWE5ITENpaXVkeVNCQW1NUzNCbHlFZXlsNmVjTWczSFIwYm1oTEtiRWdhQ0U3SWx3amw1a3NicG5SaDBHTVQ0d9IBwwFBVV95cUxNWExJVXNleWh6UVhpakxqc2s2WFhoMk9iZV94R2llRjAwbmtxal92Q0tPR1gzZk0xUHp0OXNfdUNNRHhxQlNfN24yblFZTXRFUkZOdWZPZEFDZVMwekhmc2ZJWGIyMl9oTVJVY28wY3oxbG50UmlTYV84d0xKVFdJdDZYRTNzNHhfWVNfWEhUZElaMFhoeExJU2E0UmtJdXBGTC03RDBwX0hqdmNRcnZ5Ukw1RWwxRTM1cGFxMXYyYUh3QVU?oc=5",
+      "source": "KFI AM 640",
+      "published": "Thu, 14 Sep 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEUyc3k3bHl1TW83WHM5VThiMEpsT3NmN01haThjQlBKcGNZYnA3NlNVNHJod1ZTUkJCSVNZakUzVF8zbEFLRW1mZDNMNzhzSGVYdE92YzN4NHdpY1E0OWUxS2tlOEdsNEJjblN2QVJlSUUxZWM4eVRmY0gzRDdLcHZVWEZZS00tUHNfcjk5YXFkbWZEbl9EZnpyWE5ITENpaXVkeVNCQW1NUzNCbHlFZXlsNmVjTWczSFIwYm1oTEtiRWdhQ0U3SWx3amw1a3NicG5SaDBHTVQ0d9IBwwFBVV95cUxNWExJVXNleWh6UVhpakxqc2s2WFhoMk9iZV94R2llRjAwbmtxal92Q0tPR1gzZk0xUHp0OXNfdUNNRHhxQlNfN24yblFZTXRFUkZOdWZPZEFDZVMwekhmc2ZJWGIyMl9oTVJVY28wY3oxbG50UmlTYV84d0xKVFdJdDZYRTNzNHhfWVNfWEhUZElaMFhoeExJU2E0UmtJdXBGTC03RDBwX0hqdmNRcnZ5Ukw1RWwxRTM1cGFxMXYyYUh3QVU?oc=5\" target=\"_blank\">LA City Planning Commission OKs USC Plans to Develop New Sports Stadium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFI AM 640</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
     },
     {
       "id": "d6806c44a9784bbf",
@@ -4961,46 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmdVVUJ5MmVzbVRlQjdrYnB6aFg5LWVSaTN4a2NyRklFRENuQUVGTGNGbm9HcVNERi0zRU0wd08taktDQ3lEbG5OVkY3eHZJTUQ5QlQxRWtDQUNld1luMlo3U2tJTVdJRmNQMlloVzZSVGJ4My1wZGczQVFMaUptZ05mMkRaVWIzUGUzSl9EcjFpZDJhWjJneENKd1VxUmxGUVhvN0tDaFlRckZBUk5WSkpFNnNxUlE?oc=5\" target=\"_blank\">Statewide eviction moratorium extension would require partial tenant payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "956500d63a9dfaa1",
-      "title": "Measure ULA supporters point to progress as city committee meets to review tax - spectrumlocalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnJCLVpBX24zNU1lRHZOanpOazdwTDRNWGN5MmJVN1VETVJNOVVOZlpJbERzZUYyVzl4b2VIZEVqUVRreGR1czVNX0hWQ3R0OXk5RUdDT2NqbTcxeThSemVoVGJtbEt5aGFmVl9ibjVIVWdidFVwTU5xQmJOTmYxdzBkaWtmczJuWmw0Um5WSVc5TTNuQjJYcnZPT2RSN3Y3?oc=5",
-      "source": "spectrumlocalnews.com",
-      "published": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnJCLVpBX24zNU1lRHZOanpOazdwTDRNWGN5MmJVN1VETVJNOVVOZlpJbERzZUYyVzl4b2VIZEVqUVRreGR1czVNX0hWQ3R0OXk5RUdDT2NqbTcxeThSemVoVGJtbEt5aGFmVl9ibjVIVWdidFVwTU5xQmJOTmYxdzBkaWtmczJuWmw0Um5WSVc5TTNuQjJYcnZPT2RSN3Y3?oc=5\" target=\"_blank\">Measure ULA supporters point to progress as city committee meets to review tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spectrumlocalnews.com</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "e07684df35173165",
-      "title": "Measure ULA committee weighs mansion tax “best practices,” pros and cons - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFdfQzlpdnYyZGJwMjduMXBrYXJKUHd4cmtBYlpZY1pELVpwZ1lsZVhkOF9RZm5aWTAtM0ktRlFsamNweHRKOGhXRjJjRVV1aDBjb3gzR2xUTElfd0dHR0lreDQyeEVuaGFDbzN4UnB4emVXQzBIS0d3aWVLdEdzOVYxS0ktNXRmeldjOURNWlBiUXViendsZ0s2MjI?oc=5",
-      "source": "The Real Deal",
-      "published": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFdfQzlpdnYyZGJwMjduMXBrYXJKUHd4cmtBYlpZY1pELVpwZ1lsZVhkOF9RZm5aWTAtM0ktRlFsamNweHRKOGhXRjJjRVV1aDBjb3gzR2xUTElfd0dHR0lreDQyeEVuaGFDbzN4UnB4emVXQzBIS0d3aWVLdEdzOVYxS0ktNXRmeldjOURNWlBiUXViendsZ0s2MjI?oc=5\" target=\"_blank\">Measure ULA committee weighs mansion tax “best practices,” pros and cons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "b57b2e2e1adbbeca",
-      "title": "LA City Council to expand tenant protections with expected start in February - Daily Bruin",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWF8zMUo1NzdGS1pzT19nS3lSZENHQ0FMTjVrLUFvdFdtUWY1U1FLeFAtSTFtUWM4MkZTcGxlbzdpWFpsV3JKTjVmMm9WNV9GS05PU2N2ek1iekpQT184ZzdZb1ptaWFsaFdXZGMyRmVxcHNsajNtNVV6ZEY5TS1JMVFDbG9UX3dUNTJOejdObFZTSkc5dDBkQnVtTmR3cE55YVUwTTBDOW02STJra05R?oc=5",
-      "source": "Daily Bruin",
-      "published": "Fri, 27 Jan 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPWF8zMUo1NzdGS1pzT19nS3lSZENHQ0FMTjVrLUFvdFdtUWY1U1FLeFAtSTFtUWM4MkZTcGxlbzdpWFpsV3JKTjVmMm9WNV9GS05PU2N2ek1iekpQT184ZzdZb1ptaWFsaFdXZGMyRmVxcHNsajNtNVV6ZEY5TS1JMVFDbG9UX3dUNTJOejdObFZTSkc5dDBkQnVtTmR3cE55YVUwTTBDOW02STJra05R?oc=5\" target=\"_blank\">LA City Council to expand tenant protections with expected start in February</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Bruin</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
-    },
-    {
-      "id": "96ef2694ca832f8f",
-      "title": "Senate Leader Atkins’ SB 9 Housing Bill Passes Assembly - East County Today",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMnk0b0RjcV83OWMzZDc5cFk0b25SV2VYZWl0WWxPTGVla1V5eC0ySF9OMk0yVnh0TFNGdGdKUnAxVTd4TzFRd3h4WENIcHBPbDh6YjlUdllMT0ppU2pCTDFkYXZWa2N5M2FDNmtCeTBtTUdhYXFoTjcxX3RVS2hCVHhLa1luX1pWYkI4?oc=5",
-      "source": "East County Today",
-      "published": "Fri, 27 Aug 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMnk0b0RjcV83OWMzZDc5cFk0b25SV2VYZWl0WWxPTGVla1V5eC0ySF9OMk0yVnh0TFNGdGdKUnAxVTd4TzFRd3h4WENIcHBPbDh6YjlUdllMT0ppU2pCTDFkYXZWa2N5M2FDNmtCeTBtTUdhYXFoTjcxX3RVS2hCVHhLa1luX1pWYkI4?oc=5\" target=\"_blank\">Senate Leader Atkins’ SB 9 Housing Bill Passes Assembly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East County Today</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
