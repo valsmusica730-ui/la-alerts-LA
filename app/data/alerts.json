@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:12:51.764470+00:00",
+  "generated_at": "2026-09-12T16:35:48.619298+00:00",
   "total": 500,
   "alerts": [
     {
@@ -11,6 +11,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNUzV1SWw5aS1jODdYcHAwTUdNZExRclNYTzRqV1diRWlLTDllbnUzTEF6ZVdvSDNLNmJYYjhRZkhISGlubDg3OE95Q1dkWUpPb2JYWTlrbWJxTlpxOEFndElJMWRGVFh1c1I1S0o1VDVKUEdVNGtBTGVkbW9PdEppcFQwSXJtRmFoS0E?oc=5\" target=\"_blank\">New tenant protections become law in Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "rent"
+    },
+    {
+      "id": "1bb26664c41d2281",
+      "title": "L. A. County Approves Creative Housing Solution to Combat Homelessness - LA County Homeless Services & Housing (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNenFiTTI2ZWdOQVVEZXA2RzdodUl5dVNEamc1emZuelpTcGlVV1JxekRza0JhQlVKaVVLSldlTWhNcHNBclhqZmlOMVFfVndWb3lrVHl0cjZJa3JGTXZjVFFSM1lHRXVsWEQyQkRJajd3a3E0X0NpT0l4Z1lZRjFXVk5NWTN0WDdRbEdGSzhKd3FGY3hOWFRLNVNuUExWM0NjZmN4MUNQUQ?oc=5",
+      "source": "LA County Homeless Services & Housing (.gov)",
+      "published": "Wed, 30 May 2018 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNenFiTTI2ZWdOQVVEZXA2RzdodUl5dVNEamc1emZuelpTcGlVV1JxekRza0JhQlVKaVVLSldlTWhNcHNBclhqZmlOMVFfVndWb3lrVHl0cjZJa3JGTXZjVFFSM1lHRXVsWEQyQkRJajd3a3E0X0NpT0l4Z1lZRjFXVk5NWTN0WDdRbEdGSzhKd3FGY3hOWFRLNVNuUExWM0NjZmN4MUNQUQ?oc=5\" target=\"_blank\">L. A. County Approves Creative Housing Solution to Combat Homelessness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA County Homeless Services & Housing (.gov)</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "other"
     },
     {
       "id": "2eb2c055f9730daf",
@@ -91,6 +101,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1JkQ25TY2pPMjVqRURBRkNxdFdTcmZJd1BkMFRhX0RvOFVqWW9RMXJIakRIczNVbUpOTml6Y2Q1TmllSElNc21GM1R3bElMb3YtOUU5M0xEdW5EVWdJaTgwdTAtN1RNWjZreHpYNENhQnh0MWRUV2RpSXJTdlhWYlhUM08yWnRneWRLQXBwa2twMjlkQ1FiZEtlMHFiS29zeEEta01PT0lXdk05WTlhNUR5dTBZOVE?oc=5\" target=\"_blank\">A Year Into New Los Angeles Law to Protect Renters, City Has Taken Zero Landlords to Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">capitalandmain.com</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "legal"
+    },
+    {
+      "id": "6c29bcf664b89542",
+      "title": "Los Angeles property owner says eviction moratorium due to pandemic has left him homeless - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1haZnpITlZxXzBDMmFjYlFLNFRkdkQwR3NDX1ZtUElmNTBRYmMtYVg2bmtPV2ZnY08xUGdaSjlUM0hheG5GSjdIaXl0R1NOcUJUSG5HdldqUHg1cDBDX2FvVUlLRnhtTXZxSTlaOHhkRkh0YzlLREdvc1o4M1hnS3AxZENPWnc2OHRQVi11eTJsbmI3VElN0gGcAUFVX3lxTE00Z1VMZnh5QXpnLXJReUhlRFpsOTVwT0dTc0V4RlltRW83NllVX0gwTmhQVU1kaU41ZjNCVWVWUXY0ZmIwS1FKOWZ4c0JCTHljRWJOYl9mZ09wZkVBZk1yeklqNVY1d1Z5YkMtZEdJYnJqb0hJZ01Xb1Ewd3BsOTFTMHJ1VDREN3M0VmE5SFRNcXpsN0pKZE1TRVdQRA?oc=5",
+      "source": "ABC7 Los Angeles",
+      "published": "Wed, 28 Apr 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1haZnpITlZxXzBDMmFjYlFLNFRkdkQwR3NDX1ZtUElmNTBRYmMtYVg2bmtPV2ZnY08xUGdaSjlUM0hheG5GSjdIaXl0R1NOcUJUSG5HdldqUHg1cDBDX2FvVUlLRnhtTXZxSTlaOHhkRkh0YzlLREdvc1o4M1hnS3AxZENPWnc2OHRQVi11eTJsbmI3VElN0gGcAUFVX3lxTE00Z1VMZnh5QXpnLXJReUhlRFpsOTVwT0dTc0V4RlltRW83NllVX0gwTmhQVU1kaU41ZjNCVWVWUXY0ZmIwS1FKOWZ4c0JCTHljRWJOYl9mZ09wZkVBZk1yeklqNVY1d1Z5YkMtZEdJYnJqb0hJZ01Xb1Ewd3BsOTFTMHJ1VDREN3M0VmE5SFRNcXpsN0pKZE1TRVdQRA?oc=5\" target=\"_blank\">Los Angeles property owner says eviction moratorium due to pandemic has left him homeless</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "d0ea9dbdde25fbdf",
@@ -1069,6 +1089,16 @@
       "source": "ABC7 Los Angeles",
       "published": "Wed, 05 Oct 2022 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2owN19NOUZZRkduamdVNWlqZ2ltX2tYanFnLVNOVHh3UlIyalhrbTdNblg3VTRxU3N3N0VtaDk3SVU0OVk1ZnJOMTl3akY5RlprdU0tZGplVldEMFJUSUxOQ1JpNFlUR2hXcVVvUmdqaks0SFVYaUFRTkpSd3lfSHR2cGIyTXNWc25SUE1JT1J3VWRyYWYxTGFQai1GVlMwMDlQZTZoZ0dBQXlDMTFYUzZKYjQ1ZGU5MEhxSGR3SzJuVmNrRXh30gHMAUFVX3lxTE5oLUl5YVV5bnFBV1ZtdmZ6Z2dpaEtMYWF6elc1OGpoMHlPakNMTFVoQUZRcE5NS3RrellyWUFUTUlWSm1zQ0VZa0swdGloRkVMemxjRlFRR1BDNDh3azhJcThZeGdvaV9HakdKNGFjc0VIODE0NS11bmgxQ2kxVHpLWWl3WFVmOG9UOUh2RC1yWFViYjVZWVhkRTRabnVWX3luX0hpWTNzbjJxdFd1dnVvTUtQV21mR1p6RUZUc0xVYlZsNndDVGdLbkFDSg?oc=5\" target=\"_blank\">LA City Council votes to end city's long-standing COVID eviction moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
+      "id": "6ad9a5f5901e4f60",
+      "title": "LA’s Eviction Moratorium to End in February - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONkRFTFhhbnRUR0EtQk9iS3lNUVMzcDBGUEFENFZHNzRnQVNtYWlobDBxYWlDSlF4VXJTUk8xSTNtc1NWejdvcDRLRHZiWE5fclE3TTJTVnp0bHFMWXd1blBvLWRhdW5tdXFOSDN3bXIxQXdFdGJjbEZlYlpQTkREU0tqNGRUMjNw?oc=5",
+      "source": "The Real Deal",
+      "published": "Wed, 05 Oct 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONkRFTFhhbnRUR0EtQk9iS3lNUVMzcDBGUEFENFZHNzRnQVNtYWlobDBxYWlDSlF4VXJTUk8xSTNtc1NWejdvcDRLRHZiWE5fclE3TTJTVnp0bHFMWXd1blBvLWRhdW5tdXFOSDN3bXIxQXdFdGJjbEZlYlpQTkREU0tqNGRUMjNw?oc=5\" target=\"_blank\">LA’s Eviction Moratorium to End in February</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     },
@@ -2321,6 +2351,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlZOS3gyeklyY2Q5X18yZjlaN255VFcySkljOHpjMXdHQ2t1c0FsVmlzbnhjRXMxUGo0c2o2LWNHSHJfRUNUVm1pdHJoUkRyd25EUUFVeXBYcHYtT0c0ZTk4ektSOWNnWmdHa1BMWktuSVdpNjhiQ3RoSGFMZE1DU2JVYmFtZE14S0t2S05uVUVPSFphNTBsRTE5Y1hDUkhkRzFPYmprblBVVXd3ZDlVODI4YS02a2t3Y2gwRjdvc2FibEZmQ0E?oc=5\" target=\"_blank\">LA City Councilwoman seeks amnesty program for unpermitted ADUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spectrumlocalnews.com</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
+    },
+    {
+      "id": "57cd361f4bd34a12",
+      "title": "Rent Relief, Eviction Moratorium Extended In L.A. County - Patch",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzJ6cElTaTBac2NubEcxSVV4UFZNRGQ5SHJITTZGRHF1YjFYQmR5NHlndXY0VEhlRUVvRHk0a21tN25TT1JDRGtUYW8tOHJCazVjQWhmOU1kX0FYSkh3ekprWlVXQ2FaUDlHYk5wMWl4RmplQlhFbjZsUk1aUWx4QVhtX3NUUDNNYmQwQTRhczJrZlY4UkpESQ?oc=5",
+      "source": "Patch",
+      "published": "Tue, 05 Jan 2021 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzJ6cElTaTBac2NubEcxSVV4UFZNRGQ5SHJITTZGRHF1YjFYQmR5NHlndXY0VEhlRUVvRHk0a21tN25TT1JDRGtUYW8tOHJCazVjQWhmOU1kX0FYSkh3ekprWlVXQ2FaUDlHYk5wMWl4RmplQlhFbjZsUk1aUWx4QVhtX3NUUDNNYmQwQTRhczJrZlY4UkpESQ?oc=5\" target=\"_blank\">Rent Relief, Eviction Moratorium Extended In L.A. County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "812ccdfcaf4a14e4",
@@ -4961,46 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE01S0E2amM2NUNrTTFvQi1zVldXbXBEekNjazFSSkNLQnBwVk4yVmR5Q3JqRzlaMmhsVkd4bDJtak5tN0VrVXJyVC1uQ1JiYzI3eC1CT0E5VjlYdzBlNllSWmRkQmh1YXJMY1E2bA?oc=5\" target=\"_blank\">An Eviction Moratorium Against ICE?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jacobin</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "a5f2630b5caac3e3",
-      "title": "Everything you need to know about San Francisco’s Airbnb ballot measure - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGN3cHg3c2Z0dW52SWlCN29fdkwwV3RLTzNNSjN3RzRUakFvYTNvZ0FyUWJrM2pqMEtHanZKT254MVpNaXNzSEZhSmRSZURjUnk5UWlzVk0xenpnMTByc0xGeUZYVnA4ZnN2TlRSdTBibXZ3NVprN1NETUY0dW5KZ25xT28xUWhlRWFYMEJkeU5FM01aNzFUU2FWbFFDMm5iZ3NfaVdmQQ?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Fri, 30 Oct 2015 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGN3cHg3c2Z0dW52SWlCN29fdkwwV3RLTzNNSjN3RzRUakFvYTNvZ0FyUWJrM2pqMEtHanZKT254MVpNaXNzSEZhSmRSZURjUnk5UWlzVk0xenpnMTByc0xGeUZYVnA4ZnN2TlRSdTBibXZ3NVprN1NETUY0dW5KZ25xT28xUWhlRWFYMEJkeU5FM01aNzFUU2FWbFFDMm5iZ3NfaVdmQQ?oc=5\" target=\"_blank\">Everything you need to know about San Francisco’s Airbnb ballot measure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "9eefc0fd4f85bd9d",
-      "title": "ADU & SB 9 Trends: What San José Homeowners Need to Know - City of San Jose (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJRXNBdVdJazhSd0xlWnk5WHJsTm5UZXNsQWQzLTRPNEU3MlhaellkTmtSRzRxQnNTVmlyZ1dDdzFvMWFUb2VRU2lBcjZBM1JIOG5rRnVWbWlFRHZocENCOUF2bFRVUE9INUNjQ2RB?oc=5",
-      "source": "City of San Jose (.gov)",
-      "published": "Fri, 30 May 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBJRXNBdVdJazhSd0xlWnk5WHJsTm5UZXNsQWQzLTRPNEU3MlhaellkTmtSRzRxQnNTVmlyZ1dDdzFvMWFUb2VRU2lBcjZBM1JIOG5rRnVWbWlFRHZocENCOUF2bFRVUE9INUNjQ2RB?oc=5\" target=\"_blank\">ADU & SB 9 Trends: What San José Homeowners Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of San Jose (.gov)</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "adu"
-    },
-    {
-      "id": "b98783cb63da42a8",
-      "title": "LA City Council committee sidelines ballot measure to cut ‘mansion tax’ rate - LAist",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlgwUjB6bnBPLS12OHJVSEJ2eG5YT1lEVkpXS1VNUmNmRGVxSndmSDBjYVhLc0NhUThBaHJBUkRfdjVjUjIwbF9DR3VrSTFNejRvN2Fua1Nfa1B0ZVpMd3BIN2JJcUwxRFlrWjF4RzFPY2FqcUt3QTNERnhxNWMxYUR1UUhWTlJ4YnRVYWl5UnBiaTJyT1QwMlVkX3pYQlky?oc=5",
-      "source": "LAist",
-      "published": "Fri, 29 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlgwUjB6bnBPLS12OHJVSEJ2eG5YT1lEVkpXS1VNUmNmRGVxSndmSDBjYVhLc0NhUThBaHJBUkRfdjVjUjIwbF9DR3VrSTFNejRvN2Fua1Nfa1B0ZVpMd3BIN2JJcUwxRFlrWjF4RzFPY2FqcUt3QTNERnhxNWMxYUR1UUhWTlJ4YnRVYWl5UnBiaTJyT1QwMlVkX3pYQlky?oc=5\" target=\"_blank\">LA City Council committee sidelines ballot measure to cut ‘mansion tax’ rate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "tax"
-    },
-    {
-      "id": "246fdd8230ca6d21",
-      "title": "SoLa Impact gets City Council nod for modular housing facility in South LA - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNczF2aW13UFVScjFUYV91dGs2Y0MwR2o0SDJQU1hmZ1MzYm1DVjJmSHo3by1OYnJtbkN3Sy1hUzFjOEQtSTNKVXF5M1FSZnJwM3pWVVJnMlJkd1ZzbE1Bb29ia2RSVDFYaXNRaEZQbDdMWWxsR3QyV1E0eXMxemhYXzNjRWp6ZC1wNEQ2Y1N6T0t2bWVLZnNYR0NZdUs4dw?oc=5",
-      "source": "The Real Deal",
-      "published": "Fri, 29 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNczF2aW13UFVScjFUYV91dGs2Y0MwR2o0SDJQU1hmZ1MzYm1DVjJmSHo3by1OYnJtbkN3Sy1hUzFjOEQtSTNKVXF5M1FSZnJwM3pWVVJnMlJkd1ZzbE1Bb29ia2RSVDFYaXNRaEZQbDdMWWxsR3QyV1E0eXMxemhYXzNjRWp6ZC1wNEQ2Y1N6T0t2bWVLZnNYR0NZdUs4dw?oc=5\" target=\"_blank\">SoLa Impact gets City Council nod for modular housing facility in South LA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
     }
   ]
 }
