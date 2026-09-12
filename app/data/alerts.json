@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:43:36.135132+00:00",
+  "generated_at": "2026-09-12T13:12:51.764470+00:00",
   "total": 500,
   "alerts": [
     {
@@ -761,6 +761,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOczJqdktWZ0E4emhqY1RXbFRQcDBWbFpmZm1adEk2ay0yNS10ejlaMjZucERUS1N5UWxjYmhYUVBWUTROcEdtY0JJTUEtMTBBeTZILS12NEg3ODA3UFJyUUF6XzB4XzlJOGRRU1NzZ1J2cDh1TTFwX1Rzbm13Tlc4STNWQ2hfQ0txZV9Dc1ViQ2VXQ09ES1pHd1JaSjPSAaIBQVVfeXFMT2RaY2U5LWV4LTBlOHVRSTVkMUNTQzEtT0pNWXEydHN4aXA5MmtMV3BWV05sMHlOX2VCWUE1YzY3eXVqVENYVXpfcFlFbkFVZ05RaUJucEZ3Vjh0bjYySG52TGdPX1FkazF5dkhia2VFeDBqUE1GRGVfVXViUGVNX19nX1BUNzg0NEZtaEFLUzJSTUxYWVprNUcyY2VRNnBIUTdR?oc=5\" target=\"_blank\">Los Angeles passes regulation targeting Airbnb and other short-term rental services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
+    },
+    {
+      "id": "0c42af6fa68bf993",
+      "title": "What California's 2026 ADU Law Changes Mean for LA Homeowners - CityWatch LA",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaU93OTV0X2hJc3pCZGtzWkU5a1l0NzVoVWdYQ3M0X3pJMW54LTVWSWZUZkNONHpzaFFtdkxTaWRSSnZxakJGSThpQkJzS2hNU0w4T2xBakVQSm1nNi1GQ2M1dUVmT0JVdktjTUhGSmpBQlo4YlFSUkZZTXNDYjV3YjZucnNhZWVvRE4zbF9wMUlBQ08zQm5UcU1BTjZQR1FoaFpPVA?oc=5",
+      "source": "CityWatch LA",
+      "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaU93OTV0X2hJc3pCZGtzWkU5a1l0NzVoVWdYQ3M0X3pJMW54LTVWSWZUZkNONHpzaFFtdkxTaWRSSnZxakJGSThpQkJzS2hNU0w4T2xBakVQSm1nNi1GQ2M1dUVmT0JVdktjTUhGSmpBQlo4YlFSUkZZTXNDYjV3YjZucnNhZWVvRE4zbF9wMUlBQ08zQm5UcU1BTjZQR1FoaFpPVA?oc=5\" target=\"_blank\">What California's 2026 ADU Law Changes Mean for LA Homeowners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityWatch LA</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
     },
     {
       "id": "0d2433882f38f4f8",
@@ -4243,6 +4253,16 @@
       "category": "zoning"
     },
     {
+      "id": "59049ad9b4db5316",
+      "title": "The Trump administration’s anti-immigrant housing policy reflects a long history of xenophobia in public housing - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVWhpZVNjdzhBV2pMc1lMN3NzUkJPZ3J1YUpSV3FlcFhfaUotVURPY05qVW51bExLNkV6TUQ4clhlblFoZ1JsOEdneDExZG1aOFVHdlYzbWFlRUxEclB3a3dtQTBHdWRsSDV6cEE3aUhUZnhVWEk2Z2h3RUtwMUxJbEZISHpxaVNHUzRVSFhfalFWdHN5RVJ5TnVqRFFKc3VGNFpmbEhQUDlKUFNJQlRPQ09KcUpYTF94dUhUdmtLUjNIVGw2NnRmVHVERGFmQVc4SVJRR216OU9vWk1LbGM4?oc=5",
+      "source": "The Conversation",
+      "published": "Mon, 27 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVWhpZVNjdzhBV2pMc1lMN3NzUkJPZ3J1YUpSV3FlcFhfaUotVURPY05qVW51bExLNkV6TUQ4clhlblFoZ1JsOEdneDExZG1aOFVHdlYzbWFlRUxEclB3a3dtQTBHdWRsSDV6cEE3aUhUZnhVWEk2Z2h3RUtwMUxJbEZISHpxaVNHUzRVSFhfalFWdHN5RVJ5TnVqRFFKc3VGNFpmbEhQUDlKUFNJQlRPQ09KcUpYTF94dUhUdmtLUjNIVGw2NnRmVHVERGFmQVc4SVJRR216OU9vWk1LbGM4?oc=5\" target=\"_blank\">The Trump administration’s anti-immigrant housing policy reflects a long history of xenophobia in public housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
+    },
+    {
       "id": "b0780a2cb997752f",
       "title": "Opinion: Who gets to live in L.A? A bold plan to create affordable housing has a serious flaw - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQczFoTFotQWgyRFRaUlNNUEZFWHdNSzhURUdiQVk1ejRhZExZX3Rtam1GOWMzTzQ1ZE0wbG5iek41cFVQemR1aDFKTU8xSzlfdnRLQ0FrSHAyMktyNUk3VTFncWM1NkJCYXdjWUFURTh1ZGwzblJ6V2ZjamNLWnR5Y1VzS015OG9HZ1RLRlN3RnpIUUxx?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNczF2aW13UFVScjFUYV91dGs2Y0MwR2o0SDJQU1hmZ1MzYm1DVjJmSHo3by1OYnJtbkN3Sy1hUzFjOEQtSTNKVXF5M1FSZnJwM3pWVVJnMlJkd1ZzbE1Bb29ia2RSVDFYaXNRaEZQbDdMWWxsR3QyV1E0eXMxemhYXzNjRWp6ZC1wNEQ2Y1N6T0t2bWVLZnNYR0NZdUs4dw?oc=5\" target=\"_blank\">SoLa Impact gets City Council nod for modular housing facility in South LA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "666152e7ed5006f9",
-      "title": "City Planning Commission signs off on Silver Lake apartments at 2346 Hyperion Avenue - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTzE1YjdsNWNSbWZFM0FhbXZBNzdIVTFaejhHZHNPM0czS0xnTHJ3ZURSVXlxbWN6aEFOS3FCakRZWlB3VE5vZGVGUE83OHJxQUx0TWFtV2xKQjlNOVJOSnQzQUQ5S05qZjlvWHNrc2p3MGdDOFRxczZfSlRXVWltMHFvc21FZnBYVUhuQlBGNHhUZzU5X2Y0QWNaMzFUcHhxVTZVWW5DYw?oc=5",
-      "source": "Urbanize LA",
-      "published": "Fri, 29 Mar 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQTzE1YjdsNWNSbWZFM0FhbXZBNzdIVTFaejhHZHNPM0czS0xnTHJ3ZURSVXlxbWN6aEFOS3FCakRZWlB3VE5vZGVGUE83OHJxQUx0TWFtV2xKQjlNOVJOSnQzQUQ5S05qZjlvWHNrc2p3MGdDOFRxczZfSlRXVWltMHFvc21FZnBYVUhuQlBGNHhUZzU5X2Y0QWNaMzFUcHhxVTZVWW5DYw?oc=5\" target=\"_blank\">City Planning Commission signs off on Silver Lake apartments at 2346 Hyperion Avenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "b714b5a1b2a27645",
-      "title": "AG Bonta Statement on Court Decision Affirming Constitutionality of SB 10 - Contra Costa News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTA2RWFpSTRkRWl2OC1XM1hZa05fNXh5QTQ1RGJIV2dnTDhjTEFDR2VETFBIcjlmWndhR2l1TkF0LTZDWFlLSUVvSXRXTDBEbVMtZ04xOUl6NG9BaXV1ZzNCWWRmcFpGeHQwMXlpRjB0Zk5VcUU2cEhoVV9zcm5qQm10NkVUdlM5VHZ1bVB5V3NjNlRSQnh6RENublJORG0zM3Rjdm43TXJQSWMwb000?oc=5",
-      "source": "Contra Costa News",
-      "published": "Fri, 29 Mar 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTA2RWFpSTRkRWl2OC1XM1hZa05fNXh5QTQ1RGJIV2dnTDhjTEFDR2VETFBIcjlmWndhR2l1TkF0LTZDWFlLSUVvSXRXTDBEbVMtZ04xOUl6NG9BaXV1ZzNCWWRmcFpGeHQwMXlpRjB0Zk5VcUU2cEhoVV9zcm5qQm10NkVUdlM5VHZ1bVB5V3NjNlRSQnh6RENublJORG0zM3Rjdm43TXJQSWMwb000?oc=5\" target=\"_blank\">AG Bonta Statement on Court Decision Affirming Constitutionality of SB 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Contra Costa News</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "legal"
     }
   ]
 }
