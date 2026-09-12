@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T00:45:53.218656+00:00",
+  "generated_at": "2026-09-12T05:13:52.094813+00:00",
   "total": 500,
   "alerts": [
     {
@@ -501,6 +501,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVI1SDlTQkhIUnVQdjVkckNjcnNXS3dvY2U1WnlWX1NPQkRhcHNCNUdUUFBHdGM5S3oxRTA5bTN6YWNiLUNSWDEzQ0xaRllpWnNlMVF4T0hXSnpCRm9mdldaWkVudnBaYkprMk5EZ1h5a0hUdHd1cDAyV1p1a1YxaVV3MEI4bEJJeDA3YXBuNlBpWk1aNVE?oc=5\" target=\"_blank\">LA Council Advances Proposal to Amend Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "f73de493e0c675c3",
+      "title": "Increase of eviction notices expected as LA’s renter protection ends Feb. 1 - The Korea Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmV4Mms0a00ycFU4NGQxWWpPZjZLSTlkeGVzaWxBanZvY0RKd2I2X1BockhnMVFFaUZDRUFxNjNvUlR5emlYbjBLYlZrdGJfZW9kUlZXSC1XWDA5SXAyajhDRGlXNnVobVM3R3ZBdFFyQ2xBV1ZLdkE5dkFQSEVrcXFDeDZkYU9EanliSTUwTDJaMFhwX253V3RLZ0FnNlZUbUE?oc=5",
+      "source": "The Korea Daily",
+      "published": "Wed, 17 Jan 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmV4Mms0a00ycFU4NGQxWWpPZjZLSTlkeGVzaWxBanZvY0RKd2I2X1BockhnMVFFaUZDRUFxNjNvUlR5emlYbjBLYlZrdGJfZW9kUlZXSC1XWDA5SXAyajhDRGlXNnVobVM3R3ZBdFFyQ2xBV1ZLdkE5dkFQSEVrcXFDeDZkYU9EanliSTUwTDJaMFhwX253V3RLZ0FnNlZUbUE?oc=5\" target=\"_blank\">Increase of eviction notices expected as LA’s renter protection ends Feb. 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Daily</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "rent"
     },
     {
       "id": "c936bd7597d1f4d3",
@@ -1813,6 +1823,16 @@
       "category": "zoning"
     },
     {
+      "id": "ea3c44df30f8f1d5",
+      "title": "ROW DTLA redevelopment approved for 1,000 apartments - The Korea Daily",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ueGNmcnhqN0FVT0x4aFVJVU1fYVhRdzdHZEM3TGVMYnBrNnZ6N0FueHZIdDNJZmFXLTl6UExEMTRISEpUaTdTOE1sQmsyTkt2b1YwbUxRQWU2ZlBma1NyOFFwdDNOdm5zTFBZb1ZWSV9hZDg?oc=5",
+      "source": "The Korea Daily",
+      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5ueGNmcnhqN0FVT0x4aFVJVU1fYVhRdzdHZEM3TGVMYnBrNnZ6N0FueHZIdDNJZmFXLTl6UExEMTRISEpUaTdTOE1sQmsyTkt2b1YwbUxRQWU2ZlBma1NyOFFwdDNOdm5zTFBZb1ZWSV9hZDg?oc=5\" target=\"_blank\">ROW DTLA redevelopment approved for 1,000 apartments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Daily</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
+    },
+    {
       "id": "36c8892e8dd8e068",
       "title": "LA County Supervisors Call for Pet Housing Ordinance - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLVZXVkM2dWhLbC1KZWdsT0pucFZyZGpGLVZXdmZiVWJBMmQtVnRDZkdPeXdtdXg2MWdNajYtWFBqRV9RaTVmSmJBRWhXeDFjbFpPN2x1RzJuZWpWRWhCQXlQbWdiSWxLVHFSdm9NQ0dsREI0TUtac1ZwRzYxX2FLTnFWdEJxSjEwZDhRc2hoWXFISm9QRVpuaWVoelU?oc=5",
@@ -2489,6 +2509,16 @@
       "source": "Urbanize LA",
       "published": "Thu, 30 Sep 2021 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDQ2YzBuUm85REdpeHpXQ3JEamktSVVPNXpBSVpzZ0w3RFBKOV9Mb1BRbEtjR1ZZQTFacTNodGt1WXJsNGNBNE51MDZwUDZ0QWRsdTI3NVBvamRlMml0SWgwdjNabEY5NGhXbHFIZE5VZThpUGVNODBJM1lnX0pHRWNEYVJRY3BZbkZKUXBoRVQ0YWhnMUR0aGEzLUU?oc=5\" target=\"_blank\">City Planning Commission approves Downtown Women's Center expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
+      "id": "d3acbabaf7cb6d60",
+      "title": "Planning Commission Continues Hearing on Burton Way Project - Beverly Hills Courier",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZktBenFEYWRWdDc1SVRXd253eEVPZmZtTXgyU2gtektCMDdwZm91VEo1d2o4ZlVfMTJOUkJjamREclZ3M3o2NmJxNjFmWXFGVXZSM3VDQi1Uc0FpZjhQZXBSbXJIZXhwbHZZRHFVd1lNaDd2MTMyX0RmRnozX0Y0cHp5V00zRGo5aWo3aTVMSFFUU2lrcWxJWGFKWFptb3RRT1l3dUdB?oc=5",
+      "source": "Beverly Hills Courier",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQZktBenFEYWRWdDc1SVRXd253eEVPZmZtTXgyU2gtektCMDdwZm91VEo1d2o4ZlVfMTJOUkJjamREclZ3M3o2NmJxNjFmWXFGVXZSM3VDQi1Uc0FpZjhQZXBSbXJIZXhwbHZZRHFVd1lNaDd2MTMyX0RmRnozX0Y0cHp5V00zRGo5aWo3aTVMSFFUU2lrcWxJWGFKWFptb3RRT1l3dUdB?oc=5\" target=\"_blank\">Planning Commission Continues Hearing on Burton Way Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Hills Courier</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     },
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE10bVdET2F0WXI2LVlpVUtpMldIWGpqSWtwdl8wT0dicWZnSEphMlRaMlBmVmdSMk1LT3JacVJPV19mNWFGNTJPczdYNm1yTVlraTAxYkpmQVZ6Z1Z0Q2Y1eUNaNHRFSmRpak5BRVk0TlhQSWNULWZv?oc=5\" target=\"_blank\">Modeling New Housing Supply in Los Angeles: Simulations from the Terner Housing Policy Dashboard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terner Center</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
-    },
-    {
-      "id": "219234d8605d7292",
-      "title": "CA cities hit with SB 79 lawsuits after allegedly dragging feet on transit-oriented development - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXdJNFRRUHNkNjRuYzNaaTFibGcteG9jZ2hLRU4zcGRael9kZFY3SXczSFRhN015ME1KMzA4aEs2VjQwenRPNDhFOVg5OGhUVG5CSkxMTEpfbEZ4eGVXRUpQMVdwQUVFdDgzbFFNRlY1VkVSX0tpc0VHd3ZqM25Qdll5T3RTZ3FjRHRzNFBKekRXZ1dFRHNvczF3?oc=5",
-      "source": "The Real Deal",
-      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXdJNFRRUHNkNjRuYzNaaTFibGcteG9jZ2hLRU4zcGRael9kZFY3SXczSFRhN015ME1KMzA4aEs2VjQwenRPNDhFOVg5OGhUVG5CSkxMTEpfbEZ4eGVXRUpQMVdwQUVFdDgzbFFNRlY1VkVSX0tpc0VHd3ZqM25Qdll5T3RTZ3FjRHRzNFBKekRXZ1dFRHNvczF3?oc=5\" target=\"_blank\">CA cities hit with SB 79 lawsuits after allegedly dragging feet on transit-oriented development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "legal"
-    },
-    {
-      "id": "7edb9f68f783bdb6",
-      "title": "Watch Screaming matches at LA City planning hearing - FOX LOCAL Los Angeles - FOX One",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUtxOEhVREtkenUzRzhKUEVqYkZQV1ZjbjVrRmpxWTVYR1BFSDNzdjlVY2dabFlMOWdYem1iNWdrLTNadkxSdGttRkx1Snh6VW0ySGRRU3RtT3FzQllHS2pJUUhDY3RLR09KLXJLV3E1Y3NMMktiak1kR2FLcGZzdFpzSEx2U09qVzJiQnRuOElJd0NxZGpDRTNzWUUtUQ?oc=5",
-      "source": "FOX One",
-      "published": "Fri, 28 Aug 2026 00:36:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTUtxOEhVREtkenUzRzhKUEVqYkZQV1ZjbjVrRmpxWTVYR1BFSDNzdjlVY2dabFlMOWdYem1iNWdrLTNadkxSdGttRkx1Snh6VW0ySGRRU3RtT3FzQllHS2pJUUhDY3RLR09KLXJLV3E1Y3NMMktiak1kR2FLcGZzdFpzSEx2U09qVzJiQnRuOElJd0NxZGpDRTNzWUUtUQ?oc=5\" target=\"_blank\">Watch Screaming matches at LA City planning hearing - FOX LOCAL Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX One</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "other"
-    },
-    {
-      "id": "cfaa7eaf371208b3",
-      "title": "Statewide eviction moratorium extension would require partial tenant payments - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmdVVUJ5MmVzbVRlQjdrYnB6aFg5LWVSaTN4a2NyRklFRENuQUVGTGNGbm9HcVNERi0zRU0wd08taktDQ3lEbG5OVkY3eHZJTUQ5QlQxRWtDQUNld1luMlo3U2tJTVdJRmNQMlloVzZSVGJ4My1wZGczQVFMaUptZ05mMkRaVWIzUGUzSl9EcjFpZDJhWjJneENKd1VxUmxGUVhvN0tDaFlRckZBUk5WSkpFNnNxUlE?oc=5",
-      "source": "The Real Deal",
-      "published": "Fri, 28 Aug 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmdVVUJ5MmVzbVRlQjdrYnB6aFg5LWVSaTN4a2NyRklFRENuQUVGTGNGbm9HcVNERi0zRU0wd08taktDQ3lEbG5OVkY3eHZJTUQ5QlQxRWtDQUNld1luMlo3U2tJTVdJRmNQMlloVzZSVGJ4My1wZGczQVFMaUptZ05mMkRaVWIzUGUzSl9EcjFpZDJhWjJneENKd1VxUmxGUVhvN0tDaFlRckZBUk5WSkpFNnNxUlE?oc=5\" target=\"_blank\">Statewide eviction moratorium extension would require partial tenant payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
