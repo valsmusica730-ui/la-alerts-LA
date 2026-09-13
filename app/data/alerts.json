@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T06:56:24.247710+00:00",
+  "generated_at": "2026-09-13T12:28:15.279911+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2329,6 +2329,16 @@
       "source": "Reason Magazine",
       "published": "Tue, 07 Jun 2022 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE56VlpOR0ZIMFZwV3U3cldVendjM1BCdzRwTjF0ank0RlM0VTNBVHpvc1BFSEZUc0NCNEo4NVVWc2FJTkFoQ28ta0gxMnNManBBOUdzdXNhSkVVX1RfajJWb25jc2x4T0R5WGQ2X1JRUkF6Zw?oc=5\" target=\"_blank\">L.A.'s Eternal Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
+      "id": "ed3bfbd85152ce2d",
+      "title": "LA Approves $31 Fee to Cover Enforcement of Tenant Protections - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVNXWUFnb1B4VVZrQ3pVME81Q191cnV5T0RFLVhCdkIzbEJtMTQxOUg4d3c2enFGVjFyS3hCN0JyUUtsSUQxS0ttTWpRdkdUVU1RSTljSTdZODRvZDRwZFd6eVNxQUFFTUwzWW1USGJyUERjMVZxbHc0eWxZMlpVUWVrcDJPVURoV0k0cUNPTGItUC1KbEVCYmRtX2hEX3hBUzhET1lKbzMtODdj?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 07 Jan 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVNXWUFnb1B4VVZrQ3pVME81Q191cnV5T0RFLVhCdkIzbEJtMTQxOUg4d3c2enFGVjFyS3hCN0JyUUtsSUQxS0ttTWpRdkdUVU1RSTljSTdZODRvZDRwZFd6eVNxQUFFTUwzWW1USGJyUERjMVZxbHc0eWxZMlpVUWVrcDJPVURoV0k0cUNPTGItUC1KbEVCYmRtX2hEX3hBUzhET1lKbzMtODdj?oc=5\" target=\"_blank\">LA Approves $31 Fee to Cover Enforcement of Tenant Protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     },
@@ -4989,16 +4999,6 @@
       "source": "Capital B News",
       "published": "Mon, 01 Aug 2022 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZlUzZHhqQm5uNXNJUFRIUkpuRFVNMXE4dFd4Z3ZVWUxOZm96SzY4OF9USk4wY3hEa3Y2b1dZOXB3M2FKSE1pdXdYdXZDM05hNDdGMG83VV9JTmp0MkF5SUdDVGhoYjZuQkxCVEJmbk4td0NGbTR6aTYwTGQwMk9zbQ?oc=5\" target=\"_blank\">A Sweeping Ordinance Would Make It Easier For LA to Target its Unhoused Residents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital B News</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "policy"
-    },
-    {
-      "id": "a39e6d723c0678a4",
-      "title": "A Sweeping Ordinance Would Make It Easier For LA to Target its Unhoused Residents - Capital B News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tY1UtLUxWck1SV09hUzl6WFE3c0VKaFVkNXVxb1U0MHZMdnk0M3hodTFPbW1Rd1QyY0s1NERfSEpaZlNUWUx5UU54VjFYbmVOTEp0TGI1WkNtUG85RlRNOXp2S1lybjdlUzdPVk5wOUxGMnVNVkc2Mkc2Z3JMc0U?oc=5",
-      "source": "Capital B News",
-      "published": "Mon, 01 Aug 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5tY1UtLUxWck1SV09hUzl6WFE3c0VKaFVkNXVxb1U0MHZMdnk0M3hodTFPbW1Rd1QyY0s1NERfSEpaZlNUWUx5UU54VjFYbmVOTEp0TGI1WkNtUG85RlRNOXp2S1lybjdlUzdPVk5wOUxGMnVNVkc2Mkc2Z3JMc0U?oc=5\" target=\"_blank\">A Sweeping Ordinance Would Make It Easier For LA to Target its Unhoused Residents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital B News</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
     }
