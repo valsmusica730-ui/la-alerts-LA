@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:28:15.279911+00:00",
+  "generated_at": "2026-09-13T16:43:44.382218+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2953,6 +2953,16 @@
       "category": "zoning"
     },
     {
+      "id": "318de212c15c979a",
+      "title": "After two years, City Council clears proposed apartments at 3601 Mission Road - la.urbanize.city",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmhhZm9ldzVpd21acUlTMEdmWEY3N0dWVDZmWjhXNktKaXFRT2t0TzFTemdlQ1laZDJocFZtZEc5dmJ0cGVhd3BoSHFKZk4wQkpNcmF5eE9PX3Z5VlAxVE9oRlg0SnhvendSN3B6ZUR4dWRkdXdZZXZTbmJ2TnZlUVNBdXBXOFdpYlI4bWdoMFpVOHNsUG1Ja2tkMWUyYV9Yei1oeDd3?oc=5",
+      "source": "la.urbanize.city",
+      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmhhZm9ldzVpd21acUlTMEdmWEY3N0dWVDZmWjhXNktKaXFRT2t0TzFTemdlQ1laZDJocFZtZEc5dmJ0cGVhd3BoSHFKZk4wQkpNcmF5eE9PX3Z5VlAxVE9oRlg0SnhvendSN3B6ZUR4dWRkdXdZZXZTbmJ2TnZlUVNBdXBXOFdpYlI4bWdoMFpVOHNsUG1Ja2tkMWUyYV9Yei1oeDd3?oc=5\" target=\"_blank\">After two years, City Council clears proposed apartments at 3601 Mission Road</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">la.urbanize.city</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "policy"
+    },
+    {
       "id": "64ba964a8ed1ef75",
       "title": "Long Beach moves to approve citywide inclusionary housing rules - Long Beach Post",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0xLME9ZMFlWQWF5QUNIbzB1Q1FLQlNwdmU0SXNnOER1NmJiQkhydDFJYUN0UGJTemhpbEpqZ0ZGMVFmRm9FSDFqdkxIVkkzVS1ENjBBVFNxNTFEMWpKTTlvY29MSmZnS2Q0U2RUdGVpVWpwNkVwdkhiRkdlWHN5bXJpQ015NUljWUNQYWJoa0QxY2R1dWtJM1BEZWZOUk05U1pwYjFtZzVnZw?oc=5",
@@ -3993,6 +4003,16 @@
       "category": "policy"
     },
     {
+      "id": "ece2f427624159ea",
+      "title": "Meet Maria Lou Calanche, Candidate For Los Angeles City Council District 1 - Patch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VhN2hIV1lsMDJiaWtZc2NRbGc0Sll6NDFCcUxjc3lzRFpEYkFUWWlxbEJwamM3azR0WmQzMEdDNlFoN2RZOUZmSXZaYkU4Zk0zcVJhQ3dsc1Zjb29Ed3phWHdTT1R2SGdMVFQ2UVl3Smpua0RlUjB4aXJYeFNnMUljRmpfQmYzOWd6TlMyU1I4RlVlcWxIX1hjbk54TE9CQ25reVRTU2w1Z0RFLVl3?oc=5",
+      "source": "Patch",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VhN2hIV1lsMDJiaWtZc2NRbGc0Sll6NDFCcUxjc3lzRFpEYkFUWWlxbEJwamM3azR0WmQzMEdDNlFoN2RZOUZmSXZaYkU4Zk0zcVJhQ3dsc1Zjb29Ed3phWHdTT1R2SGdMVFQ2UVl3Smpua0RlUjB4aXJYeFNnMUljRmpfQmYzOWd6TlMyU1I4RlVlcWxIX1hjbk54TE9CQ25reVRTU2w1Z0RFLVl3?oc=5\" target=\"_blank\">Meet Maria Lou Calanche, Candidate For Los Angeles City Council District 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "a8b0bf5779cf4ac7",
       "title": "LA Council Committee Holds Off On Ballot Proposal to Reform Measure ULA - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJlZDNJZEFLbE5FcFBVdzBsYW0xaFl6SDEyME9jX01HclNRQ2w2NDR0X091Q0o0YVpNSUdjSk5yQlhvUUREckJvMjFzb3RRTGYtVm1WdWdza25Ha1hVVjNlZ0x4dmZoV2wtem9TUXFPQ050MjlLbGt2U09oR1I2NnNsa3VSN0lZVnZyY3hPNzFleENlejh6aUU5M3l4ZExLM1NaTTNVV1RpcF9xX1JwSklRVFc?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNaG1NcWFUdzdURDhtYUpBWEdmMHhocjBNOUlVbzNMVkMxdC1XelM2a3lfdzlFM2NrdDV4bDRUdS1OU182a0QxYjZ0UmVRMDZROUxSemd4NlpQWmhnZHUtdC00Zm5IR25COWlMZ1c2d3pzR0xoNzV2aVY0NFBranVielhjYjQ4TjNmTVdFOWRZYw?oc=5\" target=\"_blank\">April 2024: New eviction rules take effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "0434772b23120c27",
-      "title": "The federal eviction moratorium has ended. What does that mean for LA County renters? - dailynews.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeF9DRGoySVBPYm9US2o3eEE4NmJBb3M2dHI4MnBnZnY5OUMzWUg5eE1VS1dXamZ0Nlc0V3RKLTZhWkJPc19tY045YnlkbndMaU1UMm5PamNJbzMtQk9WeG4xa1ZEWHVfM1NGUXVTTVlXSzR2YlRXMFJmeUdueVl0YzBZMWd4QTFudEVYOFFUdGFUX0FWX0ItTHp0RVg3QzVqelJfOUlqXzBZV2ZpemZVMnJNR1g1dklFVklnTmZn?oc=5",
-      "source": "dailynews.com",
-      "published": "Mon, 02 Aug 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOeF9DRGoySVBPYm9US2o3eEE4NmJBb3M2dHI4MnBnZnY5OUMzWUg5eE1VS1dXamZ0Nlc0V3RKLTZhWkJPc19tY045YnlkbndMaU1UMm5PamNJbzMtQk9WeG4xa1ZEWHVfM1NGUXVTTVlXSzR2YlRXMFJmeUdueVl0YzBZMWd4QTFudEVYOFFUdGFUX0FWX0ItTHp0RVg3QzVqelJfOUlqXzBZV2ZpemZVMnJNR1g1dklFVklnTmZn?oc=5\" target=\"_blank\">The federal eviction moratorium has ended. What does that mean for LA County renters?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
-    },
-    {
-      "id": "79becf804e993877",
-      "title": "A Sweeping Ordinance Would Make It Easier For LA to Target its Unhoused Residents - Capital B News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZlUzZHhqQm5uNXNJUFRIUkpuRFVNMXE4dFd4Z3ZVWUxOZm96SzY4OF9USk4wY3hEa3Y2b1dZOXB3M2FKSE1pdXdYdXZDM05hNDdGMG83VV9JTmp0MkF5SUdDVGhoYjZuQkxCVEJmbk4td0NGbTR6aTYwTGQwMk9zbQ?oc=5",
-      "source": "Capital B News",
-      "published": "Mon, 01 Aug 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZlUzZHhqQm5uNXNJUFRIUkpuRFVNMXE4dFd4Z3ZVWUxOZm96SzY4OF9USk4wY3hEa3Y2b1dZOXB3M2FKSE1pdXdYdXZDM05hNDdGMG83VV9JTmp0MkF5SUdDVGhoYjZuQkxCVEJmbk4td0NGbTR6aTYwTGQwMk9zbQ?oc=5\" target=\"_blank\">A Sweeping Ordinance Would Make It Easier For LA to Target its Unhoused Residents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital B News</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "policy"
     }
   ]
 }
