@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T21:53:54.564554+00:00",
+  "generated_at": "2026-09-14T02:09:02.212525+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1301,6 +1301,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ3lLZFJieHhmbzdISnhucFc4R2hEZE1ESUpHREhvSFpEa1NMSGt4V2Z4LU9tcnU3MXRnRS1FNWJKOEZlaTlpcEpfYlZyZEF6VkdfM0hTY1VUUXptVFU5c05vdVgwOXEzelJkMldmSUwwcjNjZmJwQjZwNXNvb3pFR0kzbXBZYVdzR2lLX01sRzFJSFZOX1phRmU1ejJTenJEdDNackxYdXpHVzFTZGpkYWRoTGRaS2FPZXU1VVNJN2lpb1hLODh5QzBSREwxazNHWkxBMA?oc=5\" target=\"_blank\">Landlords take self-defense classes as LA's eviction moratorium nears end</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spectrumlocalnews.com</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "b34cb774c1a60517",
+      "title": "Measure ULA Apartment Break Shelved by LA Council - westsidecurrent.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc3dIOGlqZHV5TjZRNEhiTm5FQXZvTll4cllLdXE3dE9IYkZCazlTLXE1LXhVc0FNcFNwanFlNXZRTmt6VTFJQW5hcVZMODhNZ2FUV3lxYi0wMkVMcUlpODNkQy10blM1UVJ5YTMxeVViekFFa19SSTRsZjZTQUJJWXp6X1BUQ29nM0VHX09iekJfV3FJU3c5b0Y0RHBvZHo0ZWxETVVDVjhubi1sd3hQRFJPWGx4QzBYbkhPaHBPclVkMVZvbnJaWnZOVDRaYlMwUDFKYzFVZTN2elU?oc=5",
+      "source": "westsidecurrent.com",
+      "published": "Wed, 01 Jul 2026 21:58:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc3dIOGlqZHV5TjZRNEhiTm5FQXZvTll4cllLdXE3dE9IYkZCazlTLXE1LXhVc0FNcFNwanFlNXZRTmt6VTFJQW5hcVZMODhNZ2FUV3lxYi0wMkVMcUlpODNkQy10blM1UVJ5YTMxeVViekFFa19SSTRsZjZTQUJJWXp6X1BUQ29nM0VHX09iekJfV3FJU3c5b0Y0RHBvZHo0ZWxETVVDVjhubi1sd3hQRFJPWGx4QzBYbkhPaHBPclVkMVZvbnJaWnZOVDRaYlMwUDFKYzFVZTN2elU?oc=5\" target=\"_blank\">Measure ULA Apartment Break Shelved by LA Council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
     },
     {
       "id": "69b63ad0ca8b9bcb",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVBnRldwRHBBOWF0VXVURzhLZExwQ201cXB2cWNyRnhYTlJPN3ZTTWxMSnNOQnNKaHN2VGtkdzM2SmFpUXhUTEpPeDFGSGJGeWdOWm5zbmpNdmlTUUVKamhnU1MwZHNlSUtNbzFBei1JVFBXelh5dVV1dElyZk5ScWZhM3RheDlMcVRRaUpLWWo5M21IUHg3WngzTWdtUWNj?oc=5\" target=\"_blank\">LA deploys $361M in Measure ULA funding for affordable housing projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "tax"
-    },
-    {
-      "id": "99ff9c6d1669949b",
-      "title": "Op-Ed: West Hollywood’s inclusionary housing update misses the economic moment - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHBQenQ0YUF0U2h5WUxvN21kX042aTJ0MFFrdTdpYW1lUVBXMnRjM0RYMlZqSDZQRzB4TVlHN1pLc0NaUm1rbkw5V2M1cW5SNmQzMU1MaUVQaVVEejM3cWdYb2lpWTNVNGN1MGRFeHA5MG9RWjVqRUE2dGJUelRfdFctQjBTMmRHdXNwaHRkUE1JaFNkUHRCSVkxWnlhb2xBTDluWg?oc=5",
-      "source": "Urbanize LA",
-      "published": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHBQenQ0YUF0U2h5WUxvN21kX042aTJ0MFFrdTdpYW1lUVBXMnRjM0RYMlZqSDZQRzB4TVlHN1pLc0NaUm1rbkw5V2M1cW5SNmQzMU1MaUVQaVVEejM3cWdYb2lpWTNVNGN1MGRFeHA5MG9RWjVqRUE2dGJUelRfdFctQjBTMmRHdXNwaHRkUE1JaFNkUHRCSVkxWnlhb2xBTDluWg?oc=5\" target=\"_blank\">Op-Ed: West Hollywood’s inclusionary housing update misses the economic moment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "policy"
     }
   ]
 }
