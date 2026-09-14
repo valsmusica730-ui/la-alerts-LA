@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:22:06.079149+00:00",
+  "generated_at": "2026-09-14T20:00:23.401914+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1823,6 +1823,16 @@
       "category": "policy"
     },
     {
+      "id": "8b4a00d0ee34e8cf",
+      "title": "Atkins Introduces Legislation to Update SB 9 - Davis Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMEpqb3hDZDRUbThzQnNKWktWX1p4aHBnNDVkQXhUeHhiTTV6bk9oaE81NmU3dl9YS1JoV1FzdloxZk5tREM0TkgyQXdabEMybXZTOVBudkVEaXdWRjVmX2wtdEhrNFF3d1VmT2hlWjlRNW9RelhrcjJFMlp1OWF4aWtYSk8wZw?oc=5",
+      "source": "Davis Vanguard",
+      "published": "Tue, 21 Mar 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPMEpqb3hDZDRUbThzQnNKWktWX1p4aHBnNDVkQXhUeHhiTTV6bk9oaE81NmU3dl9YS1JoV1FzdloxZk5tREM0TkgyQXdabEMybXZTOVBudkVEaXdWRjVmX2wtdEhrNFF3d1VmT2hlWjlRNW9RelhrcjJFMlp1OWF4aWtYSk8wZw?oc=5\" target=\"_blank\">Atkins Introduces Legislation to Update SB 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
       "id": "8d1e8f8e53bd0642",
       "title": "A Major Property Rights Case Idles on Supreme Court Docket - Reason Magazine",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXpEcGk2bmVyb0RkTkZsTC1FT0dCWmZOVXM3TnF6SHZiUVhZUGdRcVZzLXowanQ1UDJfZml3VUllRWhnQ051Nlk2ODBJVGVpbjlqOFFScjZWWGxrQVFQZU1XSVk4bnB4bGN4ZWxSRFVNekpna1JkTm5XMXVQS05qUXlZMkhfSnRXR2V0dXY5eWhNMEU?oc=5",
@@ -3143,6 +3153,16 @@
       "category": "zoning"
     },
     {
+      "id": "cdbe1e19ff801b90",
+      "title": "LA Planning Commission to vote on proposal to fast-track affordable housing - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVNLMUkxQU9YN21mUzA2SlIwTlZCRGFSeldRNTBQcFdXaE0yWktLTmw1R21xLXRFcXhEOS11bDZiTEFlZGJlT0E4X2t5bW9HYk4yX0xRTEctRDlaQldTb1NUdkI2TzYzazhLMjNGMUpFTnFPelRNY2NCMmdROVc4Mk5xRm9kSEpSWGo5QTlEZUNYM25CcUl1M0xlS2JmMTVhczBVT3lGeWpCY3dFM0drYUFISnQ2OHlldTVvbm81eE56SE3SAcsBQVVfeXFMTUpjeHgtLTM0SFJPb3BYMEpuakd0V1RTMWIwcHhSLUlFUWw1bE1ncGpzbmV0N24xbVRTZENWNjh6ZFBEWWM3M0ZULXhrZDg3b0MxSUh4Nm1CNFJvbEdXbmg5bUp5MEI2Y0EtbUVxRUU0NHhmN2c0UG5pT3gxUld6dmp3NC1RMXJhQTZsUjFpMm9fNjZLamlXSzZ5TnFkMVNyVDVLZjVqeTdteEttelY5MHlkSHE4eVM4OUluWElab3RPaFJHcG1FV1hpWms?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Thu, 16 Nov 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVNLMUkxQU9YN21mUzA2SlIwTlZCRGFSeldRNTBQcFdXaE0yWktLTmw1R21xLXRFcXhEOS11bDZiTEFlZGJlT0E4X2t5bW9HYk4yX0xRTEctRDlaQldTb1NUdkI2TzYzazhLMjNGMUpFTnFPelRNY2NCMmdROVc4Mk5xRm9kSEpSWGo5QTlEZUNYM25CcUl1M0xlS2JmMTVhczBVT3lGeWpCY3dFM0drYUFISnQ2OHlldTVvbm81eE56SE3SAcsBQVVfeXFMTUpjeHgtLTM0SFJPb3BYMEpuakd0V1RTMWIwcHhSLUlFUWw1bE1ncGpzbmV0N24xbVRTZENWNjh6ZFBEWWM3M0ZULXhrZDg3b0MxSUh4Nm1CNFJvbEdXbmg5bUp5MEI2Y0EtbUVxRUU0NHhmN2c0UG5pT3gxUld6dmp3NC1RMXJhQTZsUjFpMm9fNjZLamlXSzZ5TnFkMVNyVDVLZjVqeTdteEttelY5MHlkSHE4eVM4OUluWElab3RPaFJHcG1FV1hpWms?oc=5\" target=\"_blank\">LA Planning Commission to vote on proposal to fast-track affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "eb16f87cdbe2e88f",
       "title": "Santa Monica Reverses Course: Upzoning Single-Family Neighborhoods for Housing Law - Santa Monica Daily Press",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDBDcU1qdl96cnR0dGRidWJmNVkzczNkUlRNUUV6VDE5b1Rsc1NtVXJiNkEzLVZ3ZTM2V20wc1RpZUF5SVVhWFNFUXRSUm1ZU3UtRjFuRTJKZDZIVzlXNmxlR0VFOFRiRWZ3ejhHaE9QRW5uNnZycTd0OHE2SUZUR0EwNUQ3M2ZHTWxCUnJMWjA1TmxDTjhMNGJRcHFGRDEtSGdsVmU4Y2VLSTRKMXRuYWV6ODdtdzZkbEU1XzVVVlZsOU15d2c?oc=5",
@@ -4263,6 +4283,16 @@
       "category": "policy"
     },
     {
+      "id": "3fe280e6c5a7948f",
+      "title": "Pasadena sues to keep UCLA football at the Rose Bowl, Glendale caves on ADU fight, and more - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pc2Z1b3JMUGFDaUNYLV9vRjR0SXgxTU5tSHBFa2VvdHpFdGZXckQtMlVVQlBjQkFHZmZxa1VFWEdUdHpUOFNDWXNYb0tzWWpRMEVPcDJ3TGxvc2hvNVd2S244bV9NMFZibmM0cEVPRQ?oc=5",
+      "source": "Urbanize LA",
+      "published": "Sat, 01 Nov 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9pc2Z1b3JMUGFDaUNYLV9vRjR0SXgxTU5tSHBFa2VvdHpFdGZXckQtMlVVQlBjQkFHZmZxa1VFWEdUdHpUOFNDWXNYb0tzWWpRMEVPcDJ3TGxvc2hvNVd2S244bV9NMFZibmM0cEVPRQ?oc=5\" target=\"_blank\">Pasadena sues to keep UCLA football at the Rose Bowl, Glendale caves on ADU fight, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
+    },
+    {
       "id": "d41ff78f71bb2065",
       "title": "Landlords: Ordinance Killing Us - labusinessjournal.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MdWxydE00aUdPM01pal9QeG1MaFpVRGVFUkVwRkI2Z2laV0s4ZGhCRF84QmRTaHhpZE9NNnpBTHg4cFFQekltY3REYW9ucmp5ZEppSWFJVzg?oc=5",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE90X2dHaHJWbjJYWHhFMTYzcWo4MzUwRWh5cThDRWpJREFDY0pfV3ZXQkNZRTF0Y182cGpEbFdLYU9KS25MajlyRmFCSjJIR0JwdXBaNHBRZ3I1NzBqWHlackxoSmJkcU03a2FaRQ?oc=5\" target=\"_blank\">News Flash Archive - Changes to the Los Angeles County COVID-19 Temporary Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Malibu, CA</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "928436a0e49929c1",
-      "title": "The Trump Admin’s Anti-Immigrant Housing Policy Reflects a History of Xenophobia in Public Housing - Next City",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblBXYUZRVUJFRFBRbFp0SDhXanNuaDgxendEbjZkVVBDRDk4eV9JRUJvMXdCQkZYUkpDYXI2OHpUVTlqbDJrbkFHVWVEbldGVzd3bkhMc290ZnQzWnpaRWdwRWNIT1VzRmVzSmVzY0VhM1dCTThMRDBHYW96U3M4MTk3NGNVMEVpT2xPc0c0aHR0cDdhb1g1ZEZSWVQwVE9UTm1kUE5QdEdDb2xGeEtz?oc=5",
-      "source": "Next City",
-      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOblBXYUZRVUJFRFBRbFp0SDhXanNuaDgxendEbjZkVVBDRDk4eV9JRUJvMXdCQkZYUkpDYXI2OHpUVTlqbDJrbkFHVWVEbldGVzd3bkhMc290ZnQzWnpaRWdwRWNIT1VzRmVzSmVzY0VhM1dCTThMRDBHYW96U3M4MTk3NGNVMEVpT2xPc0c0aHR0cDdhb1g1ZEZSWVQwVE9UTm1kUE5QdEdDb2xGeEtz?oc=5\" target=\"_blank\">The Trump Admin’s Anti-Immigrant Housing Policy Reflects a History of Xenophobia in Public Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Next City</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
-    },
-    {
-      "id": "aef737d6e707edd3",
-      "title": "What was the impact of regulation on short-term rental markets in 2025? - Hospitality Net",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYlc3WVdCbURoTHd6cFJZOUctcjExR1Z4YzRSdkpoNC1qRUZSNnZVYVNaNFBsb3NpdGlZdGRzeHFMMFgzaWUxbnRibmd3b0h6WjZ1eXlrT3FhNHVTbEJ1NWdqVVV3RTFBS2dNTlNmSjhuVEJQcWd6aWhQeDR5NHBWZ2ZQNVV0WUlzZlNtQVB3YjB4N3J3WVFGSzF5WHY0cG81WVpsbG42WHRUYTZuN3BJSHA1MDZQNWR4?oc=5",
-      "source": "Hospitality Net",
-      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYlc3WVdCbURoTHd6cFJZOUctcjExR1Z4YzRSdkpoNC1qRUZSNnZVYVNaNFBsb3NpdGlZdGRzeHFMMFgzaWUxbnRibmd3b0h6WjZ1eXlrT3FhNHVTbEJ1NWdqVVV3RTFBS2dNTlNmSjhuVEJQcWd6aWhQeDR5NHBWZ2ZQNVV0WUlzZlNtQVB3YjB4N3J3WVFGSzF5WHY0cG81WVpsbG42WHRUYTZuN3BJSHA1MDZQNWR4?oc=5\" target=\"_blank\">What was the impact of regulation on short-term rental markets in 2025?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hospitality Net</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "48815c3c8dab6919",
-      "title": "Nearly Half Of LA’s Airbnb, Vrbo Listings May Be Breaking The Law - LAist",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOblRJZ1FJRGpBbWNxV0toLXIyNnEyTXctZm1kaXpXbnRqV3Yzc1NSNllRV1AwLXdYQkNZeFVNQUNIUTFtaG9acWQwZ1J3d1JEa1FrOHUwLXA4cXR5M2xlR2h6MG50NzJ2VWgyUU1XRm5Nd3IyUHN4TnhpYTZxVExoemR4ejdrX3FzZ0hjZlI0N1Q1bXVBNnpSek5HUjhZWXNZNFZha1hfZDBwWWxIMG1hbnhyUXM1M0lxUWpGM1VoUXE0VWRqVXAzTmJDYzY?oc=5",
-      "source": "LAist",
-      "published": "Mon, 05 Dec 2022 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOblRJZ1FJRGpBbWNxV0toLXIyNnEyTXctZm1kaXpXbnRqV3Yzc1NSNllRV1AwLXdYQkNZeFVNQUNIUTFtaG9acWQwZ1J3d1JEa1FrOHUwLXA4cXR5M2xlR2h6MG50NzJ2VWgyUU1XRm5Nd3IyUHN4TnhpYTZxVExoemR4ejdrX3FzZ0hjZlI0N1Q1bXVBNnpSek5HUjhZWXNZNFZha1hfZDBwWWxIMG1hbnhyUXM1M0lxUWpGM1VoUXE0VWRqVXAzTmJDYzY?oc=5\" target=\"_blank\">Nearly Half Of LA’s Airbnb, Vrbo Listings May Be Breaking The Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
     }
   ]
 }
