@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:13:23.827662+00:00",
+  "generated_at": "2026-09-14T15:22:06.079149+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4273,6 +4273,16 @@
       "category": "rent"
     },
     {
+      "id": "02e3a3b4ee2d2f42",
+      "title": "City of Los Angeles announces historic coordinated proactive approach to protect tenants - City of Los Angeles (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEo4ZDZfQ3U0RnRBbm1STFZpakVKN29lX3Q5aXZDMURKUGtBQ1RJZ3ctbTZfSWVvUkxiNnlzb2dmSnE4eFFlTXdDTEdtZ0tjdUowNDlva2FyLVJDVm10UzBpRXZuVnRWbGFLaWZWQkl5M1hyNndHLVByeF8tQld0eWtIcWNQMVVtZ1hiVWJJenAyZGJVbmlXemdjaG1vWmcyMFFYdjA3WXZlRmxwZlUyOC13?oc=5",
+      "source": "City of Los Angeles (.gov)",
+      "published": "Mon, 31 Jul 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEo4ZDZfQ3U0RnRBbm1STFZpakVKN29lX3Q5aXZDMURKUGtBQ1RJZ3ctbTZfSWVvUkxiNnlzb2dmSnE4eFFlTXdDTEdtZ0tjdUowNDlva2FyLVJDVm10UzBpRXZuVnRWbGFLaWZWQkl5M1hyNndHLVByeF8tQld0eWtIcWNQMVVtZ1hiVWJJenAyZGJVbmlXemdjaG1vWmcyMFFYdjA3WXZlRmxwZlUyOC13?oc=5\" target=\"_blank\">City of Los Angeles announces historic coordinated proactive approach to protect tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "other"
+    },
+    {
       "id": "de7d187a0dd417f0",
       "title": "LA City Council pumps brakes on ambitious affordable housing law - calonews.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb2NvNnB3ZWFFbWNrQnEtS0VnSV9KZFlIRWxJNkF4TnhBaUVybV81ZzU4cGdQS1VQb1dEa2gxa1JyS0tIakcyR29SQ1Q0bHpvX0pRQnNRZ3NoZTdCYThwNDJNdEdsRi1Pd1RoV05Uakh3OHQtcVN5bEZUSmtSVlljYnpaMmZsZm1LcDAyZlJiUG02VndTRExKUU5mZW1nSHRHNGFUcTNMa3F4eVhsbWhSWTc4NEh5ZHl2QVBZU0dwb2hGQ3RvMjI5elV6MWU0Sl9FNjBYM01NNTFBVHVpX2dQaFZNcHpMdw?oc=5",
@@ -4990,16 +5000,6 @@
       "published": "Mon, 05 Dec 2022 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOblRJZ1FJRGpBbWNxV0toLXIyNnEyTXctZm1kaXpXbnRqV3Yzc1NSNllRV1AwLXdYQkNZeFVNQUNIUTFtaG9acWQwZ1J3d1JEa1FrOHUwLXA4cXR5M2xlR2h6MG50NzJ2VWgyUU1XRm5Nd3IyUHN4TnhpYTZxVExoemR4ejdrX3FzZ0hjZlI0N1Q1bXVBNnpSek5HUjhZWXNZNFZha1hfZDBwWWxIMG1hbnhyUXM1M0lxUWpGM1VoUXE0VWRqVXAzTmJDYzY?oc=5\" target=\"_blank\">Nearly Half Of LA’s Airbnb, Vrbo Listings May Be Breaking The Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "197d6290b3c96189",
-      "title": "Column: How a racist housing policy caused the biggest, bitterest brawl in California’s Capitol - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRGFXVDRHdG9FdERac0xncE5EWnpUMTVPd0prUHRUQjYxUlJJaDlUZzc5NW1jVE5RVnMxX2NkSjZ0LUlrMmRrVkVjc1RfYmswSUhadmtucEQ1U0haSTg0SGhUVzdIOUt1TWxzQ0ZudEhQTTdxTmRzVzBVWFdNWTdUVDJ0NUhka2QzT184LXAzdnRvX1o0QVozX1hnendwc3d1UHcxcmUwOWZlUFIyNlR0eEFsdjdYa0Y4NUNQc19GTTdJUQ?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Mon, 04 Sep 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRGFXVDRHdG9FdERac0xncE5EWnpUMTVPd0prUHRUQjYxUlJJaDlUZzc5NW1jVE5RVnMxX2NkSjZ0LUlrMmRrVkVjc1RfYmswSUhadmtucEQ1U0haSTg0SGhUVzdIOUt1TWxzQ0ZudEhQTTdxTmRzVzBVWFdNWTdUVDJ0NUhka2QzT184LXAzdnRvX1o0QVozX1hnendwc3d1UHcxcmUwOWZlUFIyNlR0eEFsdjdYa0Y4NUNQc19GTTdJUQ?oc=5\" target=\"_blank\">Column: How a racist housing policy caused the biggest, bitterest brawl in California’s Capitol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
     }
   ]
