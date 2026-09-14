@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:00:23.401914+00:00",
+  "generated_at": "2026-09-14T23:33:37.826745+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4923,6 +4923,16 @@
       "category": "adu"
     },
     {
+      "id": "0cc56295394604cc",
+      "title": "Beverly Hills moves to ban short-term rentals in latest LA-area crackdown - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXc1eGl1Y010cDVSNW0yRjg5T25wVzUwVlFxejJYREppTGs5cktoQko1eEdBSzZHaFB2cWpWYWZrUE16djhxRnA5OWI1X2l4cVVaSDhaaUVTVzE4cDdrcURSOUwybV82M0dFUHZ0dFFXZU9pb3BfTXdaUXFJbWZBWnRsZ3VhMi1LcnBWc0JmcFlwNG5HM01Z?oc=5",
+      "source": "The Real Deal",
+      "published": "Mon, 07 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXc1eGl1Y010cDVSNW0yRjg5T25wVzUwVlFxejJYREppTGs5cktoQko1eEdBSzZHaFB2cWpWYWZrUE16djhxRnA5OWI1X2l4cVVaSDhaaUVTVzE4cDdrcURSOUwybV82M0dFUHZ0dFFXZU9pb3BfTXdaUXFJbWZBWnRsZ3VhMi1LcnBWc0JmcFlwNG5HM01Z?oc=5\" target=\"_blank\">Beverly Hills moves to ban short-term rentals in latest LA-area crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "rent"
+    },
+    {
       "id": "17af093db3415b3c",
       "title": "Solving LA’s housing crisis hinges on policy, zoning reform: experts - Smart Cities Dive",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1BaLWtTYU9rSDBmNS03VS1YTmxVX2ctMS1TbUZCbzhKWWJJWjBjdF9rSF9HYjB5X3ozWkxWZzVTdkdmZ1JPQ0RwTlNGZFhGSHZHMTdzRDhwNkQyZnBDUG5rSGliZEFxT2hOYTNGOWh5MENuVVY5S3FLWmpicmNvWV9BOXVvVVUzTWg4S3Bwb3JkQTZGZU5BbzllSVlFSkI2T1VaUHEtX3BkVjVNeEpF?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2FkbW04STFIdWlNbkIyaWdtbDczekNwYklMUXlyaGEtaHcxM2Jmak5UZzFYZ2RPb3B1M1RhUG1oUHF0b044U0N2ZXFILWstVng1cnBBb3A3R2htTGtpMUVfcmVDMnQyMmJOWi1kSnpMYm13ZFlodmVPcGxaOHZvSTIyWHNOd2puTFF1SEdmc3JEWlFteDkxUFhwZDBMYjVic3RNZE5wRVFDVTR6N1HSAbMBQVVfeXFMTjVEWXFxdElCQWRnRjF2d0taMldhaHJ4aVlXM1NtVnNqZS1TQ1VxTTluT1NTbWdhR28zMzdiOFVyWDNDX3lRcmNROEJxMTVLelBtYW5mSFpaWHFPRVF3enlUU1NxYzdyRW1LelNFdHRpR3NmTnNZVHlMWWk4enJ1eDVqX0RXNGwyWXpvLTQ4bUpuakRvQlQxLUJudEVIQmp1eHFYbDNVeXY5N1Nvd3RLRktGTGc?oc=5\" target=\"_blank\">Cupertino faces its housing reputation as cities get ready for SB 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
-    },
-    {
-      "id": "cc68f7fc138ac4ee",
-      "title": "News Flash Archive - Changes to the Los Angeles County COVID-19 Temporary Eviction Moratorium - City of Malibu, CA",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90X2dHaHJWbjJYWHhFMTYzcWo4MzUwRWh5cThDRWpJREFDY0pfV3ZXQkNZRTF0Y182cGpEbFdLYU9KS25MajlyRmFCSjJIR0JwdXBaNHBRZ3I1NzBqWHlackxoSmJkcU03a2FaRQ?oc=5",
-      "source": "City of Malibu, CA",
-      "published": "Mon, 05 Oct 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE90X2dHaHJWbjJYWHhFMTYzcWo4MzUwRWh5cThDRWpJREFDY0pfV3ZXQkNZRTF0Y182cGpEbFdLYU9KS25MajlyRmFCSjJIR0JwdXBaNHBRZ3I1NzBqWHlackxoSmJkcU03a2FaRQ?oc=5\" target=\"_blank\">News Flash Archive - Changes to the Los Angeles County COVID-19 Temporary Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Malibu, CA</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
