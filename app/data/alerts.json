@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T02:09:02.212525+00:00",
+  "generated_at": "2026-09-14T08:13:23.827662+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1799,6 +1799,16 @@
       "source": "California Local",
       "published": "Tue, 21 Sep 2021 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOU3pQMHRqZTRKNGVxU2Y4ekEwWWR4ZEVRaktZamxsd1hOeHhBTDIyZzE3OWdyZWhwV0tOMm1pTmtlTmlkUGpCcmlEV2c5bHpJNUI4MEE3SHRyZkJWbFJpZ0VNMkx1aWpQcjVRa2l2NGJBZ2x5TkxrVmtnc3RlNVJXSjNBQl9rVGJaY2F4OHJvWXFXN29zdjE0UWlxZjNYUy1oVkN0eXJjMEhZMzZQbkc5cTAxX3l2Q1o0MzRvRGN3?oc=5\" target=\"_blank\">Filling in the ‘Missing Middle’: SB 9 and SB 10, Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Local</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
+      "id": "f28e0046da280a4d",
+      "title": "Controversial SB 9 becomes law, modifying single-family zoning - Los Altos Town Crier",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUTQ4OFJfY3diN1FXdi1Cb1FfV0lzakxYUE9kaXNWb1lEYkFrQ1pyR0JBZGx3QjZ6anBlVlF2aHQ2SThCM0N5NlNpSU41N2JmckkzOW5tb0Z6WTM2ZmxBc2Q4dGFyeEQ3TlZYRGtYX05hSnpSS3pmcGw3ajJYeGtTQndHSXlrRkY3UnM5QldpMV84U3oyeTJwckdyQUJNX1NBYzljS2VTYlhWRmhFeVpxTDlybGVQcnlPYjJMWFFCSGdPWEo0dlJ1Z1VSMG1IRzlSakFVekdtb1ZLYi1CUDlDVA?oc=5",
+      "source": "Los Altos Town Crier",
+      "published": "Tue, 21 Sep 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUTQ4OFJfY3diN1FXdi1Cb1FfV0lzakxYUE9kaXNWb1lEYkFrQ1pyR0JBZGx3QjZ6anBlVlF2aHQ2SThCM0N5NlNpSU41N2JmckkzOW5tb0Z6WTM2ZmxBc2Q4dGFyeEQ3TlZYRGtYX05hSnpSS3pmcGw3ajJYeGtTQndHSXlrRkY3UnM5QldpMV84U3oyeTJwckdyQUJNX1NBYzljS2VTYlhWRmhFeVpxTDlybGVQcnlPYjJMWFFCSGdPWEo0dlJ1Z1VSMG1IRzlSakFVekdtb1ZLYi1CUDlDVA?oc=5\" target=\"_blank\">Controversial SB 9 becomes law, modifying single-family zoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Altos Town Crier</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
     },
@@ -3833,6 +3843,16 @@
       "category": "other"
     },
     {
+      "id": "3578fb08aa93f263",
+      "title": "Commentary: California’s Housing Crisis Demands More Than Symbolic Legislation Like SB 9 - Davis Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNallmc1JkcVlQeklGUFVmODBQbEFiQjhWR00yNHpSZ0EzbFVMV05waEtjbUl2dmJNQ1dxWHdGWVQ2MDE2YUoySmtwTHhMY2FwYVNWeXdyMHRnTWMyQmhVaW5YdWRwVFUxTkNNSjU2UzBTRVNLR25vM2hDVFdlazU2SFY1OGJUb3FJdDFaMV9ETWZkcVJpamlBMEQ2bFo2cnY0cVRkd3JoSTRDajktUUlZYndlWGtEWFcwWkN2dXB3?oc=5",
+      "source": "Davis Vanguard",
+      "published": "Sun, 23 Feb 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNallmc1JkcVlQeklGUFVmODBQbEFiQjhWR00yNHpSZ0EzbFVMV05waEtjbUl2dmJNQ1dxWHdGWVQ2MDE2YUoySmtwTHhMY2FwYVNWeXdyMHRnTWMyQmhVaW5YdWRwVFUxTkNNSjU2UzBTRVNLR25vM2hDVFdlazU2SFY1OGJUb3FJdDFaMV9ETWZkcVJpamlBMEQ2bFo2cnY0cVRkd3JoSTRDajktUUlZYndlWGtEWFcwWkN2dXB3?oc=5\" target=\"_blank\">Commentary: California’s Housing Crisis Demands More Than Symbolic Legislation Like SB 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
       "id": "88155b85d421c2f3",
       "title": "California Enacts Historic Housing Reform Laws - Legal Planet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWdkdkZsREpzVWd4NlprV2JuVDBzQTg1ZHlrUElJbWQ2cHh6Y0d3ZUVpU3J0RXY3ajN2Zkw1aTktMlhnVWFtUXR3dTkwZHliS0wwQW8yamg0OHFhdnBCaG1aZjN2TGlEXzFHWnFJR0JQb0dIS1l5d2MzUTFCcElYYUJoTU9PSXZPMDU0?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRGFXVDRHdG9FdERac0xncE5EWnpUMTVPd0prUHRUQjYxUlJJaDlUZzc5NW1jVE5RVnMxX2NkSjZ0LUlrMmRrVkVjc1RfYmswSUhadmtucEQ1U0haSTg0SGhUVzdIOUt1TWxzQ0ZudEhQTTdxTmRzVzBVWFdNWTdUVDJ0NUhka2QzT184LXAzdnRvX1o0QVozX1hnendwc3d1UHcxcmUwOWZlUFIyNlR0eEFsdjdYa0Y4NUNQc19GTTdJUQ?oc=5\" target=\"_blank\">Column: How a racist housing policy caused the biggest, bitterest brawl in California’s Capitol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
-    },
-    {
-      "id": "9ce114f38c79189d",
-      "title": "California suing city of Norwalk, alleging city is violating state laws about tackling homelessness - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVVPZFIwMzdLVG95TVpWcGxfaGpTOW4tc3J5TDhvdmM3UjE5WEhKUTJ5RTJQS2ctd0VFT1FUbDhFWjV1OGJhaDdjWWRPeFY1aG5YODVyN0dsczBtUzlGVG9LNzdCTDBlYU91Q05xbUJEYW5nRWJ4bmNJdXBNQVR1My1NMzhRdkZsTjdUakhJUEtleHZuTjBPT1FEYUpyVkhFMXFlN0NRdVc4dFk3ZFZ6emRaclV1enfSAbwBQVVfeXFMTXpMWWtTYUZBNy0tS213SXlFRURXdEVvVm1FaGVfMmFIajIwTllhajNaQkU2T1c2cmczU0lBM2tMVEJoaEFPSzhicVBrMlM3S0ZNcnV3eEw3Vzh0ME1fU0c5ejJ0WXpxZHFJbXBQbHNnLXJRY3hvU3RHeTBlZXN0WlNhLUNFNWFhZGtWdHFnSlJXVEZYM0U0Sk5BMXNlcnRWX3NPMk5ka0paRk0zbkhWR2J5c09aVGlwaFJFb2I?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published": "Mon, 04 Nov 2024 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVVPZFIwMzdLVG95TVpWcGxfaGpTOW4tc3J5TDhvdmM3UjE5WEhKUTJ5RTJQS2ctd0VFT1FUbDhFWjV1OGJhaDdjWWRPeFY1aG5YODVyN0dsczBtUzlGVG9LNzdCTDBlYU91Q05xbUJEYW5nRWJ4bmNJdXBNQVR1My1NMzhRdkZsTjdUakhJUEtleHZuTjBPT1FEYUpyVkhFMXFlN0NRdVc4dFk3ZFZ6emRaclV1enfSAbwBQVVfeXFMTXpMWWtTYUZBNy0tS213SXlFRURXdEVvVm1FaGVfMmFIajIwTllhajNaQkU2T1c2cmczU0lBM2tMVEJoaEFPSzhicVBrMlM3S0ZNcnV3eEw3Vzh0ME1fU0c5ejJ0WXpxZHFJbXBQbHNnLXJRY3hvU3RHeTBlZXN0WlNhLUNFNWFhZGtWdHFnSlJXVEZYM0U0Sk5BMXNlcnRWX3NPMk5ka0paRk0zbkhWR2J5c09aVGlwaFJFb2I?oc=5\" target=\"_blank\">California suing city of Norwalk, alleging city is violating state laws about tackling homelessness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "legal"
-    },
-    {
-      "id": "dbef3fa3746f6359",
-      "title": "LA deploys $361M in Measure ULA funding for affordable housing projects - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVBnRldwRHBBOWF0VXVURzhLZExwQ201cXB2cWNyRnhYTlJPN3ZTTWxMSnNOQnNKaHN2VGtkdzM2SmFpUXhUTEpPeDFGSGJGeWdOWm5zbmpNdmlTUUVKamhnU1MwZHNlSUtNbzFBei1JVFBXelh5dVV1dElyZk5ScWZhM3RheDlMcVRRaUpLWWo5M21IUHg3WngzTWdtUWNj?oc=5",
-      "source": "The Real Deal",
-      "published": "Mon, 04 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVBnRldwRHBBOWF0VXVURzhLZExwQ201cXB2cWNyRnhYTlJPN3ZTTWxMSnNOQnNKaHN2VGtkdzM2SmFpUXhUTEpPeDFGSGJGeWdOWm5zbmpNdmlTUUVKamhnU1MwZHNlSUtNbzFBei1JVFBXelh5dVV1dElyZk5ScWZhM3RheDlMcVRRaUpLWWo5M21IUHg3WngzTWdtUWNj?oc=5\" target=\"_blank\">LA deploys $361M in Measure ULA funding for affordable housing projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "tax"
     }
   ]
 }
