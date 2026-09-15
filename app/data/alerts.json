@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T02:15:56.529905+00:00",
+  "generated_at": "2026-09-15T08:06:18.568741+00:00",
   "total": 500,
   "alerts": [
     {
@@ -10,6 +10,16 @@
       "published": "Wed, 31 Dec 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNUzV1SWw5aS1jODdYcHAwTUdNZExRclNYTzRqV1diRWlLTDllbnUzTEF6ZVdvSDNLNmJYYjhRZkhISGlubDg3OE95Q1dkWUpPb2JYWTlrbWJxTlpxOEFndElJMWRGVFh1c1I1S0o1VDVKUEdVNGtBTGVkbW9PdEppcFQwSXJtRmFoS0E?oc=5\" target=\"_blank\">New tenant protections become law in Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "rent"
+    },
+    {
+      "id": "82e26ed52af9eb7b",
+      "title": "News | LA Apartment Owners Face This Question When the Nation's Last Major Eviction Ban Ends - CoStar",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3VvaldzSUt1ZGozTDRxd1ZOQjM3YTItZ0JsYVk5eWRBQTZYVTRkRVlqVHdXT090eWFBRlFFQ05SczdYUERtaVNiXzhBX2xjTFp3MG1xMEo4Q3ljZVQzdTd0NVVYX1dYMTVYYzJlSHJTSGpUMzdBRlloUUZXWkE0aV9UcnRPQzh4WG5GYi1JOGNXR00tLWpWNTBIOHdCeEhQUk1fc0FjclVJZG9TdTd3cFpablAxNVlTMHh4bWMzXzJFVUU?oc=5",
+      "source": "CoStar",
+      "published": "Wed, 30 Nov 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3VvaldzSUt1ZGozTDRxd1ZOQjM3YTItZ0JsYVk5eWRBQTZYVTRkRVlqVHdXT090eWFBRlFFQ05SczdYUERtaVNiXzhBX2xjTFp3MG1xMEo4Q3ljZVQzdTd0NVVYX1dYMTVYYzJlSHJTSGpUMzdBRlloUUZXWkE0aV9UcnRPQzh4WG5GYi1JOGNXR00tLWpWNTBIOHdCeEhQUk1fc0FjclVJZG9TdTd3cFpablAxNVlTMHh4bWMzXzJFVUU?oc=5\" target=\"_blank\">News | LA Apartment Owners Face This Question When the Nation's Last Major Eviction Ban Ends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoStar</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     },
     {
@@ -1891,6 +1901,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnQzTzVYUE5QV29iU3ZEOTFLNHFXZ25wYkcxMXlST1M1R1lqM21HVmRHcF8tN2Z5ZDNtQjkwZ0lMNF85bDd2WnRwSkpsUzhicDlWbWV1dVNiQ0ZvWm5iWGhFcTNncHpMNEN3N2d1LUVoeDJndC1vdy0tNXZ1OTdROVR0RW1WZDYycUZVZ2xVMndYY3RVUnBuRUlxNXVweUtEeE15MHR0SUYzb2hPNlYwdWJZV2JGaERyaFo4SlRDckdMTmVyQi1mRWhXdk8taWJw?oc=5\" target=\"_blank\">Affordable housing under California’s new zoning laws is being developed by a USC graduate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Annenberg Media</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "adu"
+    },
+    {
+      "id": "5c3b20b8b0c8d806",
+      "title": "HUD Secretary Carson defends Trump housing policy in Minneapolis - MPR News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2VmYUh6bVVxMTF3NUdad3dycXhXRjlTS0FQZXBFYWlpeXV5T3I3aEpoeEc3WG1kR0Y0UFBRUnZyVWFuTzFqU1FzRTgwTFBlSWFQcEFBdTYwak5zazlSU1lsSFlUWEtXXzl0ejRvZjZzeUZMRjgwaHlzd2pYTVdiQU0xYzQ5eGZDclVIbXY5SkttbGdoV2tldklIWHRwT1NpdzBNOXpRMU4?oc=5",
+      "source": "MPR News",
+      "published": "Tue, 18 Jun 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2VmYUh6bVVxMTF3NUdad3dycXhXRjlTS0FQZXBFYWlpeXV5T3I3aEpoeEc3WG1kR0Y0UFBRUnZyVWFuTzFqU1FzRTgwTFBlSWFQcEFBdTYwak5zazlSU1lsSFlUWEtXXzl0ejRvZjZzeUZMRjgwaHlzd2pYTVdiQU0xYzQ5eGZDclVIbXY5SkttbGdoV2tldklIWHRwT1NpdzBNOXpRMU4?oc=5\" target=\"_blank\">HUD Secretary Carson defends Trump housing policy in Minneapolis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MPR News</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "rent"
     },
     {
       "id": "6734522c53f1ab8b",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3p3N09vVEtvakJPUjI0MFQxZU54bVVPeGVYS0FoUTlRQXYydnQyb3VON2dvanFTZG1ONE1hSnB0ZkcyN0N2eUZsLXR6alFJRlAxcU5pYlFCSUR0ZF9kSi01NEU3MkhWWjBoYXJaeHVpRGFFT25kT04za2VuV1hzYVZmYXpxZTdQTWlQZlZ3NmJyX2M?oc=5\" target=\"_blank\">Sorting out Measure ULA proposals as City Council balks on ballot measure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "44670cd622ea245c",
-      "title": "L.A. Approves $2 Billion Project - labusinessjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvTXUtWmg1anZPc2wwQ1dvYjRhVmpuNDlZM1JGX29TRlpYZkIxaWdnU3E3a0hHa3RpNlpILV9Tc1pxX3pMM2gwVEJGcGFZOG1JRkgyUjZkemRJazFrMmpCa0NuemFiNTN5UW9XZzZaeXJGWmg1a0tGMUVR?oc=5",
-      "source": "labusinessjournal.com",
-      "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBvTXUtWmg1anZPc2wwQ1dvYjRhVmpuNDlZM1JGX29TRlpYZkIxaWdnU3E3a0hHa3RpNlpILV9Tc1pxX3pMM2gwVEJGcGFZOG1JRkgyUjZkemRJazFrMmpCa0NuemFiNTN5UW9XZzZaeXJGWmg1a0tGMUVR?oc=5\" target=\"_blank\">L.A. Approves $2 Billion Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">labusinessjournal.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "e092e8eab53ad8a5",
-      "title": "Pushing Back: Altadena residents stand against SB 9, SB 1123 housing laws - Pasadena Weekly",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNHRKMElObVQ3NlJ6akF4ejlpYUdnWDFtRjBaOE45V0dVeENURndKUU13ZnNKTmNsUGJUbktPUHlyT2tPTmZvRGdMRUxqMjhpcmxYVHREcE1mLXVSOXl0aVJHOTYwYmlIOWVBZVJtQWYzS2VrQl9IUnBTN3A3SlpaRjlMdTBMTjFDXzRZY3ctTXBfbDAyS0lYZWJhY1dUX18zeVRVVlBoenBDOVVFVlhnR21PX2ctNXF6bzlOWXczXzZFTWxRYzNybjBhZ0daUW93NkxUZC0yZUV1ejJLUEYzMTRQd2J5RFF6ZnZmYmhR?oc=5",
-      "source": "Pasadena Weekly",
-      "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNHRKMElObVQ3NlJ6akF4ejlpYUdnWDFtRjBaOE45V0dVeENURndKUU13ZnNKTmNsUGJUbktPUHlyT2tPTmZvRGdMRUxqMjhpcmxYVHREcE1mLXVSOXl0aVJHOTYwYmlIOWVBZVJtQWYzS2VrQl9IUnBTN3A3SlpaRjlMdTBMTjFDXzRZY3ctTXBfbDAyS0lYZWJhY1dUX18zeVRVVlBoenBDOVVFVlhnR21PX2ctNXF6bzlOWXczXzZFTWxRYzNybjBhZ0daUW93NkxUZC0yZUV1ejJLUEYzMTRQd2J5RFF6ZnZmYmhR?oc=5\" target=\"_blank\">Pushing Back: Altadena residents stand against SB 9, SB 1123 housing laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Weekly</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
