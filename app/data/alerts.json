@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:51:03.431899+00:00",
+  "generated_at": "2026-09-15T20:35:14.969110+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2301,6 +2301,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlprZUF0R0pGb3ptNnQ2M0tnZGdpOElkSmtqOFNVMGZyamZEY3B4RGVWNFkxMU9PVDgwNEtNaVJiQ19pM3BtWGRXV2pwS2xWSmtubzBPVGw4YVhGMUpUeEVRRDBTSVZFR3ZzRmMxT181YWxqa2liTnBtMXBEVS1FOHVfQzlXZG0yblRWYnQ2VElVMkNvaHBIakszSWozMTVaN3UtUnB3X2tQcV81RVNsNFJuOEtOZ0ZrRGlveEcyd1E?oc=5\" target=\"_blank\">$100M moratorium: That’s how much Geoff Palmer’s firms say LA eviction ban has cost them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "3b349e5a17b66b2c",
+      "title": "Political friction percolates over California housing policy and workers comp payouts - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSU1IalpwcWJOZ3RJTGpBYWV5RG5IME5JY2NJVlNZZGlxOWVpZ2R6Xy02WVRpYWJmbmNubFJZLTdKMzRMMXZkN3A2c20wQXlFc1BxZk9xTFVsUktES1NWX0tnZnFESjVhZVp6SEQ2SkJCRGpvSms1bGJVSDgzNUVSS2I4c1pXTnZMQjhQZ1F0ZjBnUEE?oc=5",
+      "source": "CalMatters",
+      "published": "Tue, 09 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSU1IalpwcWJOZ3RJTGpBYWV5RG5IME5JY2NJVlNZZGlxOWVpZ2R6Xy02WVRpYWJmbmNubFJZLTdKMzRMMXZkN3A2c20wQXlFc1BxZk9xTFVsUktES1NWX0tnZnFESjVhZVp6SEQ2SkJCRGpvSms1bGJVSDgzNUVSS2I4c1pXTnZMQjhQZ1F0ZjBnUEE?oc=5\" target=\"_blank\">Political friction percolates over California housing policy and workers comp payouts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
     },
     {
       "id": "ded3f60125305331",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRXgwcDBSUG9MQ0RPRERtZC1jOEVxVkhYNVYtWjJFUmdqTWFZckpFNU9Lcms1cDJGa0s3a3ZmemJUVWZOU0hHVlpXY2tEVzFXakZfcUp1aXZqV205SFNjTV9LZ2RrcDhXaERPNjRxcDNHWGlNYXNlcDlfaGdSU2gxSzJfM2hla1hKcDk1MTlsakw3RG4xZWM2TmVWTnFycWNYaDU3MnJRaWc4bmNlejE0d00zd3pudW5oUlRIVDdKMXhQdTY4aXFSTkdaMzBpaHJzSGEtRThxSlZzQVo1cnVvV3hzWnZZTkcwMnIzWjR2SjdhUDEwbm9JckJBRzg5QQ?oc=5\" target=\"_blank\">Wildlife Ruling Stalls 398 Homes Planned at Woodland Hills Country Club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "adu"
-    },
-    {
-      "id": "0cc56295394604cc",
-      "title": "Beverly Hills moves to ban short-term rentals in latest LA-area crackdown - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXc1eGl1Y010cDVSNW0yRjg5T25wVzUwVlFxejJYREppTGs5cktoQko1eEdBSzZHaFB2cWpWYWZrUE16djhxRnA5OWI1X2l4cVVaSDhaaUVTVzE4cDdrcURSOUwybV82M0dFUHZ0dFFXZU9pb3BfTXdaUXFJbWZBWnRsZ3VhMi1LcnBWc0JmcFlwNG5HM01Z?oc=5",
-      "source": "The Real Deal",
-      "published": "Mon, 07 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXc1eGl1Y010cDVSNW0yRjg5T25wVzUwVlFxejJYREppTGs5cktoQko1eEdBSzZHaFB2cWpWYWZrUE16djhxRnA5OWI1X2l4cVVaSDhaaUVTVzE4cDdrcURSOUwybV82M0dFUHZ0dFFXZU9pb3BfTXdaUXFJbWZBWnRsZ3VhMi1LcnBWc0JmcFlwNG5HM01Z?oc=5\" target=\"_blank\">Beverly Hills moves to ban short-term rentals in latest LA-area crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "rent"
     }
   ]
 }
