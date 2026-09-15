@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:56:25.819964+00:00",
+  "generated_at": "2026-09-15T17:51:03.431899+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1423,6 +1423,16 @@
       "category": "other"
     },
     {
+      "id": "156a30c29bb5bfe5",
+      "title": "LA City Council Holds Off On Measure ULA Exemption For New Housing - Patch",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWS1lcy1pSC1kSFlrWkRTX0hpVDhjSWYtRkZ3T01aQ2Y2ZndzRTNoQjdMUzgxV1NrdVR2Zi1EcmlkWnpLaGJJQ09BQUpTNWpXY09ZRUE0S3lCbndVUEZyN21yU0w2aEZFSTBtNDlhYUZwQU5mRG43M05VN1VqeWFlaDdHMFFMeGhhTmhoUzBSVnhrZk5VWTg5cS1SR0I?oc=5",
+      "source": "Patch",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOWS1lcy1pSC1kSFlrWkRTX0hpVDhjSWYtRkZ3T01aQ2Y2ZndzRTNoQjdMUzgxV1NrdVR2Zi1EcmlkWnpLaGJJQ09BQUpTNWpXY09ZRUE0S3lCbndVUEZyN21yU0w2aEZFSTBtNDlhYUZwQU5mRG43M05VN1VqeWFlaDdHMFFMeGhhTmhoUzBSVnhrZk5VWTg5cS1SR0I?oc=5\" target=\"_blank\">LA City Council Holds Off On Measure ULA Exemption For New Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "5732486ee066844b",
       "title": "Coronavirus: Gov. Newsom extends state eviction moratorium through September - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNejJ4cDV5YXFmcDE2a0MxNlVEbkJHTlozb1lGU3ZkbUlzSERtVFY4RjdkakJkYkw4cmE5cHhTNi10bTZUM09IUkhfQUxMazdnM2JCZU95MFR2SWMwajVSMk5yZkhqWExNaFUzOVFFNVBwc2NheTBjTWpFbkV3V1QzSGpSWXkyLTctenVQSnVfVzNpck3SAZgBQVVfeXFMUHJKOG5mazIyY0JHUi0xczBUNmlBM3R4ZTU4RmtJZjdKTkNvOGc3UGZPanVVMVJSRDlOVnRkaGJTLVRsQi1uSDFZWVZRZVUzdmk3NGFmVk9FTEhYSXFUWVQzeXdzN2U4S2NZS1lwNmFZNXBEY0pmNjNnWmdJWkkxZkc4ZU0tVXdaNmhOTmpmaXZjOEdnNlJyU0I?oc=5",
@@ -2011,6 +2021,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUt4akVnWFFmY285a1pyM3hxRk0xaWhqX0diM0t1ZEJKS08wTmJFMWdVYjBFS0VkR0g4NW5DZXF6OXJqUjU0bmE5N2FNUVVNY3pXakdYWjhUN2xqX0lIM292MGZ3VWtQMENyQ3hrX09NNkxmbWRSamRnZnR2eFVNVEIxOGthenlzblRlT0lVbWJ6U0hOWXNRckJfdjQ?oc=5\" target=\"_blank\">City Council Continues Measure ULA Exemption Proposals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "tax"
+    },
+    {
+      "id": "dfd1522fffe73cea",
+      "title": "This Venice Housing Project Has Been Fought Off for Years. Will a New Court Win Pave the Way for its Development? - smmirror.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTBIOWpuak1abl9lN3Nna0hiZzlXbEIzZjhpbnUwVW9xb2dIUHRmb0w3X01NSVN3TEk2cGVsVmdSRDlKSjU0RkN6Zl8tX090bzU3akJNWXprU21kdlItem1Fdmp1X21sUWxLODdKdzdsUHFPNXJVQXZXQWNjc0V1aWZOblo0eGdGd0VGY3BPOTFEcTJPZktfWWZxUkRsUmEzdFhJeHNzTWxvSmYzTU1DM3V6UFhxalBTRlJoemx1dl9EQmxlWC1zQ29Mb3kxUQ?oc=5",
+      "source": "smmirror.com",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTBIOWpuak1abl9lN3Nna0hiZzlXbEIzZjhpbnUwVW9xb2dIUHRmb0w3X01NSVN3TEk2cGVsVmdSRDlKSjU0RkN6Zl8tX090bzU3akJNWXprU21kdlItem1Fdmp1X21sUWxLODdKdzdsUHFPNXJVQXZXQWNjc0V1aWZOblo0eGdGd0VGY3BPOTFEcTJPZktfWWZxUkRsUmEzdFhJeHNzTWxvSmYzTU1DM3V6UFhxalBTRlJoemx1dl9EQmxlWC1zQ29Mb3kxUQ?oc=5\" target=\"_blank\">This Venice Housing Project Has Been Fought Off for Years. Will a New Court Win Pave the Way for its Development?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smmirror.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "legal"
     },
     {
       "id": "357e085d09f113dd",
@@ -4593,6 +4613,16 @@
       "category": "zoning"
     },
     {
+      "id": "11c6e895c1a37266",
+      "title": "Slew of Landlords Sue Santa Monica Over Short Term Rental Ban - smmirror.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3p2VS05MGFzTHdyZXN2eV9sVkdpMTRabXplTTRNSDlWXzBIdHAzLU1zOGYyVjFNRHV2V25ueXZRYkpwblExSzJ6bmNuNVdBNjFDUkRuYUhlVzdTQlJsYUpPX1RER25tSnhvUHFuSHU3TnludkpPbGFYQ2RIRnRBaTRIdWZHWGR0S2Zr?oc=5",
+      "source": "smmirror.com",
+      "published": "Mon, 21 Dec 2020 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3p2VS05MGFzTHdyZXN2eV9sVkdpMTRabXplTTRNSDlWXzBIdHAzLU1zOGYyVjFNRHV2V25ueXZRYkpwblExSzJ6bmNuNVdBNjFDUkRuYUhlVzdTQlJsYUpPX1RER25tSnhvUHFuSHU3TnludkpPbGFYQ2RIRnRBaTRIdWZHWGR0S2Zr?oc=5\" target=\"_blank\">Slew of Landlords Sue Santa Monica Over Short Term Rental Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smmirror.com</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "rent"
+    },
+    {
       "id": "390ca5f6449fb56b",
       "title": "Penang Imposes Ban On Airbnb Across Island - Travel and Leisure Asia",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGeWlqczltUTg0UjRGWXJhX0dsZXZ0ZW01ZE10QnB2ckJsNVhOQWtXRWxueVR0aEdfS0xvTDlSOWc4bDZwNVFmTk44elp6M0lqM1RRRTVmMGpLTjRCU0hzMENYdWREQlBWQ1hMX2lnaTVYbUlDOEZIcURxaEdoZ9IBgwFBVV95cUxOamNfdG9WUE5hbFdWSlczRjVRVVQxeDFfMkdjdmRBNXAzV0gwSnFJV0g3X2oyNThQYjZsUDVGNFlGdEQ5bjUyXzNKQVJmSTdvR1BJZUVzNWhFVHZ3Z0cwa3hFR0k4b1F6QkhLZ2ZkNTJSNUhGSkFqQm9vQ1hwQnRCa2kzaw?oc=5",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXc1eGl1Y010cDVSNW0yRjg5T25wVzUwVlFxejJYREppTGs5cktoQko1eEdBSzZHaFB2cWpWYWZrUE16djhxRnA5OWI1X2l4cVVaSDhaaUVTVzE4cDdrcURSOUwybV82M0dFUHZ0dFFXZU9pb3BfTXdaUXFJbWZBWnRsZ3VhMi1LcnBWc0JmcFlwNG5HM01Z?oc=5\" target=\"_blank\">Beverly Hills moves to ban short-term rentals in latest LA-area crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "rent"
-    },
-    {
-      "id": "17af093db3415b3c",
-      "title": "Solving LA’s housing crisis hinges on policy, zoning reform: experts - Smart Cities Dive",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1BaLWtTYU9rSDBmNS03VS1YTmxVX2ctMS1TbUZCbzhKWWJJWjBjdF9rSF9HYjB5X3ozWkxWZzVTdkdmZ1JPQ0RwTlNGZFhGSHZHMTdzRDhwNkQyZnBDUG5rSGliZEFxT2hOYTNGOWh5MENuVVY5S3FLWmpicmNvWV9BOXVvVVUzTWg4S3Bwb3JkQTZGZU5BbzllSVlFSkI2T1VaUHEtX3BkVjVNeEpF?oc=5",
-      "source": "Smart Cities Dive",
-      "published": "Mon, 07 Apr 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1BaLWtTYU9rSDBmNS03VS1YTmxVX2ctMS1TbUZCbzhKWWJJWjBjdF9rSF9HYjB5X3ozWkxWZzVTdkdmZ1JPQ0RwTlNGZFhGSHZHMTdzRDhwNkQyZnBDUG5rSGliZEFxT2hOYTNGOWh5MENuVVY5S3FLWmpicmNvWV9BOXVvVVUzTWg4S3Bwb3JkQTZGZU5BbzllSVlFSkI2T1VaUHEtX3BkVjVNeEpF?oc=5\" target=\"_blank\">Solving LA’s housing crisis hinges on policy, zoning reform: experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities Dive</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
-    },
-    {
-      "id": "0f6fc3d1d765babd",
-      "title": "LA City Council allows Los Feliz mixed-use project to advance after appeal - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2ZuTFNuWjFIVzNMTnVLX2gycHJRUEFaWFdWb3g0QlRXTk9ZY0M4cXgzM0R6QW5KcmtFUnNJRlVLMVdqSnV6cGVQY0xReVFpdnIwbXZ0SThDdzIwQndCSGRZaDFUbFpGZVhkRXM5amxyX0ZQV0FFZ3AzMGFYYjM3YUxaeW4ydlgteHFlMU5JVEF4VnltR1l2T0tsZHV2RzJHMFlPY1VndVkyYjU5V1pIc3ZyMA?oc=5",
-      "source": "The Real Deal",
-      "published": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2ZuTFNuWjFIVzNMTnVLX2gycHJRUEFaWFdWb3g0QlRXTk9ZY0M4cXgzM0R6QW5KcmtFUnNJRlVLMVdqSnV6cGVQY0xReVFpdnIwbXZ0SThDdzIwQndCSGRZaDFUbFpGZVhkRXM5amxyX0ZQV0FFZ3AzMGFYYjM3YUxaeW4ydlgteHFlMU5JVEF4VnltR1l2T0tsZHV2RzJHMFlPY1VndVkyYjU5V1pIc3ZyMA?oc=5\" target=\"_blank\">LA City Council allows Los Feliz mixed-use project to advance after appeal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "legal"
-    },
-    {
-      "id": "b324b4169c913580",
-      "title": "Watsonville Planning Commission to consider alcohol license for new supermarket, taproom - Santa Cruz Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS3ZtRVpuOXV2YVhMNnA1Ull3aFllQTVCQWZSSFVDVVBJd3pTRTgzYnhRWU02d0I5RktZUjljbURpMzA1TVZGb2FrQlhnQmFqT21ScWxjaDZNb1BKbFFWVzFWczk4WXBYMVBiSnBqYUd6M1AtRkswenE2RDBmUXRqTXhnY0xJdThsVEdLNV9FN0RGRzkzaVJMU1VqaWppdkY5ZklkTUdYT2ZSRE5wc2VTelZIM0JiQXVEcFZfbi1YaC1kZlZOdGRMelNqLVJkQQ?oc=5",
-      "source": "Santa Cruz Sentinel",
-      "published": "Mon, 06 May 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPS3ZtRVpuOXV2YVhMNnA1Ull3aFllQTVCQWZSSFVDVVBJd3pTRTgzYnhRWU02d0I5RktZUjljbURpMzA1TVZGb2FrQlhnQmFqT21ScWxjaDZNb1BKbFFWVzFWczk4WXBYMVBiSnBqYUd6M1AtRkswenE2RDBmUXRqTXhnY0xJdThsVEdLNV9FN0RGRzkzaVJMU1VqaWppdkY5ZklkTUdYT2ZSRE5wc2VTelZIM0JiQXVEcFZfbi1YaC1kZlZOdGRMelNqLVJkQQ?oc=5\" target=\"_blank\">Watsonville Planning Commission to consider alcohol license for new supermarket, taproom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Cruz Sentinel</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
