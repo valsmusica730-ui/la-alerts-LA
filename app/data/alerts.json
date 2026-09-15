@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T23:33:37.826745+00:00",
+  "generated_at": "2026-09-15T02:15:56.529905+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2593,6 +2593,16 @@
       "category": "other"
     },
     {
+      "id": "49ef4987d34dc7b3",
+      "title": "Calif. extends eviction moratorium through June - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakhQUUp3RGhKY21kRDBGRUxyaUJGdXBnN25xS2tuS0hDU21iTVpyXzlJZlgxaDU0NU5MZGxYZ2xoa2tWOGdaTzhET1ktaUs0TWt5R0xlTmtVVHRMdmtHVXBHZ2gyWGwtVlRhcTJxekNZdTExTjVFZTlGZjlPM0xHZmNrMXR2OGJzaU5HRnNaMVPSAZYBQVVfeXFMT1RYZ0VkQUVKU2xCVE9oQnZIa2U4bWRhcU80YTJMNHRfblBIQlZrMzJKRGdJaEJVRXJPZDAwa2pwS212NDZsZHZIeDA2S1VlY0pvLV9JSGc0RVB0cHdpY1NzUnJUZExFelJyNEdac0d4RmZ1TTJXc3FINFFPN2UyZXJDYk5VXzFNaXZOaFVlV2FKUDBfN3B3?oc=5",
+      "source": "CBS News",
+      "published": "Thu, 31 Mar 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNakhQUUp3RGhKY21kRDBGRUxyaUJGdXBnN25xS2tuS0hDU21iTVpyXzlJZlgxaDU0NU5MZGxYZ2xoa2tWOGdaTzhET1ktaUs0TWt5R0xlTmtVVHRMdmtHVXBHZ2gyWGwtVlRhcTJxekNZdTExTjVFZTlGZjlPM0xHZmNrMXR2OGJzaU5HRnNaMVPSAZYBQVVfeXFMT1RYZ0VkQUVKU2xCVE9oQnZIa2U4bWRhcU80YTJMNHRfblBIQlZrMzJKRGdJaEJVRXJPZDAwa2pwS212NDZsZHZIeDA2S1VlY0pvLV9JSGc0RVB0cHdpY1NzUnJUZExFelJyNEdac0d4RmZ1TTJXc3FINFFPN2UyZXJDYk5VXzFNaXZOaFVlV2FKUDBfN3B3?oc=5\" target=\"_blank\">Calif. extends eviction moratorium through June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "adu"
+    },
+    {
       "id": "d956a5e364850fc5",
       "title": "Bend approves rule change to allow 2 ADUs per property - Central Oregon Daily",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSW1qS1ZKMS16MDBtb1pqcTZoNVNHMV95bDFzeXlVMkxHMnUyVy04cmNUQnFGZ0xPWDJqaHRPcHF0UWlZcVNRdUhlbnVaRnRWOHRQYkU0My1sNkpWSzU3RXRxelR1VVJoUFBPRlVSLUxDTlIyQlRRSEJsdzNLRktUeEhqY3kzaTRzeWtON3laZ194S2NVUUxuLVlIVnZ3OXF5M3RJb3BVZXR1aWVUenZYcE9NMlZXbi1OeU5yMVFURXB2UmZMWXlyTA?oc=5",
@@ -4989,16 +4999,6 @@
       "source": "Pasadena Weekly",
       "published": "Mon, 06 Jul 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNHRKMElObVQ3NlJ6akF4ejlpYUdnWDFtRjBaOE45V0dVeENURndKUU13ZnNKTmNsUGJUbktPUHlyT2tPTmZvRGdMRUxqMjhpcmxYVHREcE1mLXVSOXl0aVJHOTYwYmlIOWVBZVJtQWYzS2VrQl9IUnBTN3A3SlpaRjlMdTBMTjFDXzRZY3ctTXBfbDAyS0lYZWJhY1dUX18zeVRVVlBoenBDOVVFVlhnR21PX2ctNXF6bzlOWXczXzZFTWxRYzNybjBhZ0daUW93NkxUZC0yZUV1ejJLUEYzMTRQd2J5RFF6ZnZmYmhR?oc=5\" target=\"_blank\">Pushing Back: Altadena residents stand against SB 9, SB 1123 housing laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Weekly</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "d1241fb4e2607f9e",
-      "title": "Cupertino faces its housing reputation as cities get ready for SB 9 - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2FkbW04STFIdWlNbkIyaWdtbDczekNwYklMUXlyaGEtaHcxM2Jmak5UZzFYZ2RPb3B1M1RhUG1oUHF0b044U0N2ZXFILWstVng1cnBBb3A3R2htTGtpMUVfcmVDMnQyMmJOWi1kSnpMYm13ZFlodmVPcGxaOHZvSTIyWHNOd2puTFF1SEdmc3JEWlFteDkxUFhwZDBMYjVic3RNZE5wRVFDVTR6N1HSAbMBQVVfeXFMTjVEWXFxdElCQWRnRjF2d0taMldhaHJ4aVlXM1NtVnNqZS1TQ1VxTTluT1NTbWdhR28zMzdiOFVyWDNDX3lRcmNROEJxMTVLelBtYW5mSFpaWHFPRVF3enlUU1NxYzdyRW1LelNFdHRpR3NmTnNZVHlMWWk4enJ1eDVqX0RXNGwyWXpvLTQ4bUpuakRvQlQxLUJudEVIQmp1eHFYbDNVeXY5N1Nvd3RLRktGTGc?oc=5",
-      "source": "The Mercury News",
-      "published": "Mon, 06 Dec 2021 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2FkbW04STFIdWlNbkIyaWdtbDczekNwYklMUXlyaGEtaHcxM2Jmak5UZzFYZ2RPb3B1M1RhUG1oUHF0b044U0N2ZXFILWstVng1cnBBb3A3R2htTGtpMUVfcmVDMnQyMmJOWi1kSnpMYm13ZFlodmVPcGxaOHZvSTIyWHNOd2puTFF1SEdmc3JEWlFteDkxUFhwZDBMYjVic3RNZE5wRVFDVTR6N1HSAbMBQVVfeXFMTjVEWXFxdElCQWRnRjF2d0taMldhaHJ4aVlXM1NtVnNqZS1TQ1VxTTluT1NTbWdhR28zMzdiOFVyWDNDX3lRcmNROEJxMTVLelBtYW5mSFpaWHFPRVF3enlUU1NxYzdyRW1LelNFdHRpR3NmTnNZVHlMWWk4enJ1eDVqX0RXNGwyWXpvLTQ4bUpuakRvQlQxLUJudEVIQmp1eHFYbDNVeXY5N1Nvd3RLRktGTGc?oc=5\" target=\"_blank\">Cupertino faces its housing reputation as cities get ready for SB 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
     }
