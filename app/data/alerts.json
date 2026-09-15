@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T08:06:18.568741+00:00",
+  "generated_at": "2026-09-15T13:56:25.819964+00:00",
   "total": 500,
   "alerts": [
     {
@@ -971,6 +971,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjlYSk5ramRwbG1NdU5xZkRZbXRacnJIbTZxbmZHT3Jyd2trRXlzUnVVMERGTDR6VFcxcUNFOFdVTmk0dG5RUXRINC13T1BQODJTUVlXNzVKeTRWT1pfV0d0SnBWLTM4RXpkNmxjZE9QdllwVVhFWWxMdnV0c1hWbENXZ0xDb2RtZ1ZBM1RCX3RrZVpjdEZCcDd5bkU0VkdpTVkyVzlURGRuMlBQYUtSaUMxeTF6UQ?oc=5\" target=\"_blank\">Council Adopts Motion To Regulate Embodied Carbon In The City Of Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "other"
+    },
+    {
+      "id": "79d8a184a57988af",
+      "title": "Short Term Rental Regulations: Rowlett, Poland, Perth Fine - RSU by PriceLabs",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aeW9mS2NLYTM5cWhJY2tJV0cySU5ERS1KeG9CLVBhbVE0YmhUUlNWaEw0U18yMWQyQmdYazNKSUpWdGU3NElqRUxYR0tWVi0zbWJJOUx2NDZZNUJqWndPUkdaNUtYQnRfMkxOeUx2ZEhZWGJrMVFCQTRhbnRaUQ?oc=5",
+      "source": "RSU by PriceLabs",
+      "published": "Wed, 09 Sep 2026 09:16:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9aeW9mS2NLYTM5cWhJY2tJV0cySU5ERS1KeG9CLVBhbVE0YmhUUlNWaEw0U18yMWQyQmdYazNKSUpWdGU3NElqRUxYR0tWVi0zbWJJOUx2NDZZNUJqWndPUkdaNUtYQnRfMkxOeUx2ZEhZWGJrMVFCQTRhbnRaUQ?oc=5\" target=\"_blank\">Short Term Rental Regulations: Rowlett, Poland, Perth Fine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RSU by PriceLabs</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "rent"
     },
     {
       "id": "031024c8ece172cc",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPS3ZtRVpuOXV2YVhMNnA1Ull3aFllQTVCQWZSSFVDVVBJd3pTRTgzYnhRWU02d0I5RktZUjljbURpMzA1TVZGb2FrQlhnQmFqT21ScWxjaDZNb1BKbFFWVzFWczk4WXBYMVBiSnBqYUd6M1AtRkswenE2RDBmUXRqTXhnY0xJdThsVEdLNV9FN0RGRzkzaVJMU1VqaWppdkY5ZklkTUdYT2ZSRE5wc2VTelZIM0JiQXVEcFZfbi1YaC1kZlZOdGRMelNqLVJkQQ?oc=5\" target=\"_blank\">Watsonville Planning Commission to consider alcohol license for new supermarket, taproom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Cruz Sentinel</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "9c532b7e6143b0cb",
-      "title": "Sorting out Measure ULA proposals as City Council balks on ballot measure - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3p3N09vVEtvakJPUjI0MFQxZU54bVVPeGVYS0FoUTlRQXYydnQyb3VON2dvanFTZG1ONE1hSnB0ZkcyN0N2eUZsLXR6alFJRlAxcU5pYlFCSUR0ZF9kSi01NEU3MkhWWjBoYXJaeHVpRGFFT25kT04za2VuV1hzYVZmYXpxZTdQTWlQZlZ3NmJyX2M?oc=5",
-      "source": "The Real Deal",
-      "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3p3N09vVEtvakJPUjI0MFQxZU54bVVPeGVYS0FoUTlRQXYydnQyb3VON2dvanFTZG1ONE1hSnB0ZkcyN0N2eUZsLXR6alFJRlAxcU5pYlFCSUR0ZF9kSi01NEU3MkhWWjBoYXJaeHVpRGFFT25kT04za2VuV1hzYVZmYXpxZTdQTWlQZlZ3NmJyX2M?oc=5\" target=\"_blank\">Sorting out Measure ULA proposals as City Council balks on ballot measure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
