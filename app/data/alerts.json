@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T23:16:42.135627+00:00",
+  "generated_at": "2026-09-16T02:08:43.660279+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2113,6 +2113,16 @@
       "category": "rent"
     },
     {
+      "id": "2058595bb829c7ec",
+      "title": "Airbnb issues global party ban at property listings - FOX 5 DC",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUdBQWRPYmFkUk9xZHdWaDA4OS1Qc25GSVU5dmxvb1FJVWh0dTVURDRoVGEtVjZ2eDFpRVhCWVZrZjBmUzlxS25xRVB5QnExWUhUa2E1MjVNQm4zTkVxc1pRbUhGemNROTlJMzE2ZzJMR0lLSmxKSUpUZDJpdm1TY1U5eElNb0Z6bUZ0SkZhSVh0dzZXN01CMncwSHJ3cm1qUHh5aTNuTXVSMk1BRFlWNEI3bXItQdIBuwFBVV95cUxOanRPZUFQWDhKLUlEVWZGbm1JZV9FTU5mOENuSjNCS1ZZMXNkdDRmbkdFUGNnZFh5MEg3RTMtVWhYOGRLS25QZmZRazMzV2FaOTQ3eDhLX19TZGp0d3AxLVNQTTAxMGl5MkpRRVZXUUE5U3pPdU5oeHNZS1FEVVUzYlI2NllVX2RoUGRtWS1PVmVXNWVpRnI1cWJmYTFoUXY4eFFFdEZoVUhwbDAtZWc2OHEzR2NEczVhWEtz?oc=5",
+      "source": "FOX 5 DC",
+      "published": "Tue, 15 Sep 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUdBQWRPYmFkUk9xZHdWaDA4OS1Qc25GSVU5dmxvb1FJVWh0dTVURDRoVGEtVjZ2eDFpRVhCWVZrZjBmUzlxS25xRVB5QnExWUhUa2E1MjVNQm4zTkVxc1pRbUhGemNROTlJMzE2ZzJMR0lLSmxKSUpUZDJpdm1TY1U5eElNb0Z6bUZ0SkZhSVh0dzZXN01CMncwSHJ3cm1qUHh5aTNuTXVSMk1BRFlWNEI3bXItQdIBuwFBVV95cUxOanRPZUFQWDhKLUlEVWZGbm1JZV9FTU5mOENuSjNCS1ZZMXNkdDRmbkdFUGNnZFh5MEg3RTMtVWhYOGRLS25QZmZRazMzV2FaOTQ3eDhLX19TZGp0d3AxLVNQTTAxMGl5MkpRRVZXUUE5U3pPdU5oeHNZS1FEVVUzYlI2NllVX2RoUGRtWS1PVmVXNWVpRnI1cWJmYTFoUXY4eFFFdEZoVUhwbDAtZWc2OHEzR2NEczVhWEtz?oc=5\" target=\"_blank\">Airbnb issues global party ban at property listings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 DC</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "3e0e5537cdff6656",
       "title": "LA County Board approves emergency declaration over immigration raids - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYThiSWRfZlV2eXBBMHAyMG5XcUVZVHh0SmlhWmdMT3piR0tTZ0lKNzhjZXJ0MWJFQWR6elJHSFhiNEFHZzZSQUtyQTg0d3EzUXVNZzBOY3hMUEZwSGQxMVRnNEt2YnJqOTUwZ1l6bzBFNXhobXh0MHMtanFLLTBJVkJpLUdsVWxxZElZb1RZQS1kWTV5anhTbzhZT2FEWEZSSXFYcGVPNndvekJnMXFTUUhWeDQ?oc=5",
@@ -3183,6 +3193,16 @@
       "category": "rent"
     },
     {
+      "id": "79753ee62e739264",
+      "title": "California’s housing crisis: How much difference will a new zoning law make? - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV25Zck1VM0dhN2Jtb2NGM1FzU0NlYjVqV2hXRVhEejhTM3ptTFJhTTQ1QV82aGo0ZUh4UlJQZl9oNjUwWHBIc0FjaGprWTZxUnR0M0RXZTJYX2dabnlmazVtZ0xFUDdDWFFmSVJKQzZiUW9xc0ZTR3FJYVhtQmFyQ1FaTQ?oc=5",
+      "source": "CalMatters",
+      "published": "Thu, 19 Aug 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPV25Zck1VM0dhN2Jtb2NGM1FzU0NlYjVqV2hXRVhEejhTM3ptTFJhTTQ1QV82aGo0ZUh4UlJQZl9oNjUwWHBIc0FjaGprWTZxUnR0M0RXZTJYX2dabnlmazVtZ0xFUDdDWFFmSVJKQzZiUW9xc0ZTR3FJYVhtQmFyQ1FaTQ?oc=5\" target=\"_blank\">California’s housing crisis: How much difference will a new zoning law make?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
       "id": "318f6f8c86471af2",
       "title": "LA City Council Advances Mansion Tax Reform for November Ballot - LAmag",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeW9vYk9vSEJ5bGR2ajQzaHdEM01WdDdyT2lYV1dPcmdHbGVrNnRVeGdOT19rNWVaX3pNdTFpS1oyR2U3NkFnWl9xc05pUDItcDNqX3pPS1Axb053U19ramVoVEpUNzJjZGFPNzJSTDM5U1YtMy1LMmF4VFJ5bjFsU1NMMlY0V0dpRUhJMG1jYmE3Z1A5dkxuYXJKbE1jTmtFbDNQWVNkb3ZRQ0U?oc=5",
@@ -4243,6 +4263,16 @@
       "category": "tax"
     },
     {
+      "id": "646b9bf9e1daba0f",
+      "title": "Council Approves Regulations for Short-Term Rentals - Fullerton Observer",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlVZSVo5UlRJdlliVzVxcWxxb01YYUJhSEtEVUpjWnlDZmtaNlB4ei1VVVMzQ0prNHEzcEhSQXRzS1l1dVpOX25BNGJpa2NwLWdyVXFybzFKYTVLbFV1WXlUS3h3STlZa0lkU3JlSzQzaDNrM09vdEJ5dm5ZTjMzRXYtMVhVSTlzbGxNc2VVaEoxNVl3VnoxXw?oc=5",
+      "source": "Fullerton Observer",
+      "published": "Sat, 24 Oct 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlVZSVo5UlRJdlliVzVxcWxxb01YYUJhSEtEVUpjWnlDZmtaNlB4ei1VVVMzQ0prNHEzcEhSQXRzS1l1dVpOX25BNGJpa2NwLWdyVXFybzFKYTVLbFV1WXlUS3h3STlZa0lkU3JlSzQzaDNrM09vdEJ5dm5ZTjMzRXYtMVhVSTlzbGxNc2VVaEoxNVl3VnoxXw?oc=5\" target=\"_blank\">Council Approves Regulations for Short-Term Rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fullerton Observer</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "5d2afd2199a60381",
       "title": "Woodland Hills Country Club Faces LA Council Roadblock to Build 400 Homes - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2lCb2hiXzVmcW8yWUZ0U3VJb0pER3A2VUxNbzlBZmdmRjI0b0MwOGwxd28zVG14RVo4aUQ1SXlUc3VPcXZ5MW56UDBVajVGcGxGanYzTGxfX1dYT2NLcVBMRFVTTlhvZEhKNXVoQ3pOVmN6cGoxQm9pb0FQTDFFdEZsa3ZWYlRJVnBqNnoxY1BmcWw5ZHhHR0F1WmVOa3RzR1JXOHliaTF3Z1JrN01rTWNKMml5SkFQUkY0?oc=5",
@@ -4551,6 +4581,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxORGJ2dE4zaWVfb01ZU0FPeWVRZGp2NUFFek1JYnlWaGphZFBHdGZTV1pEQi1DSW40d0x2SUlsOHdUaUZncXNlZnM2S21WMkRxM0dza3I1OEoteWdTSG1mU1k4aUlLM0pJVWVITVVOaXVINFBRT0xhTGZXYVFKWWh6S3RwOEhiMlJNelNrYXRDalViTW1SYXQ3NVVhVW5CMy1HWFBhTVB2NG9HVEdFeUJPamRwbkhVQWI0bkJYRzRXYy1qankwaUd3UTdnREdTY3ZqRnFwWTFYNUV2TjlrTGl3Z0pyUExwd3lieG00dS02dm4yTmRDRHZ4M3lxQnZyMVRTRF9wYQ?oc=5\" target=\"_blank\">Clarifying Short-Term Rental Regulations: A response to Ms. Snortland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ladowntownnews.com</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "rent"
+    },
+    {
+      "id": "88c636ec4af229ec",
+      "title": "LVMH’s luxury hotel project approved - Los Angeles Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2NpN203dUVrUWZwTUg4VHBiR0JURjVWNGVlZEoya1NHRlA5cDBLUi1UUkJEbWNBSTY5ZFhCQmg2RnRyY19FV184ZlA4MjdhRFVJb3dCVHNWbU84Ymc3OURpUGpoTVBjU3hVdEs0ME1QVjlOM3ZwVkNUcXEzVnZRcg?oc=5",
+      "source": "Los Angeles Business Journal",
+      "published": "Mon, 27 Jun 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2NpN203dUVrUWZwTUg4VHBiR0JURjVWNGVlZEoya1NHRlA5cDBLUi1UUkJEbWNBSTY5ZFhCQmg2RnRyY19FV184ZlA4MjdhRFVJb3dCVHNWbU84Ymc3OURpUGpoTVBjU3hVdEs0ME1QVjlOM3ZwVkNUcXEzVnZRcg?oc=5\" target=\"_blank\">LVMH’s luxury hotel project approved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Business Journal</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
     },
     {
       "id": "4d16317f5127219d",
@@ -4960,46 +5000,6 @@
       "published": "Mon, 13 Jul 2026 02:38:33 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQTVNmaFFUaEZkRVlvWERETWcwUGxQUml0b01FcXhnaFZFRFB0R2ZidmhDcHF2eXJwMExXSjhFVnMzOGs1cVp1QV80NzFUOHZ0X3RtbUFPeVRyR2Q2NDlVNU02MGw4bnh5Zl9TRnNQOHV5eWxmSG05aDVuUUZxUWtsTzVhaURfcjZKczJSTkhzcVZvNHRXb2F3ZmdUY2hWUkU0bW94ZVdQSzlERVBYdUpfWXcySWphT0tfUFp6YWtuYTF2bUU4Q2R4c3c1VzUySkZ5TFhQRVptLUhaTkdDRmI4dVNPbG9vaDFIZ0w4Um1veDRuNlRKS19CYXRtZkpidDZ4LU9v?oc=5\" target=\"_blank\">Long Beach council adopts Bixby Knolls rezoning package to align zoning with housing goals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizenportal.ai</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "zoning"
-    },
-    {
-      "id": "d940032c263df42e",
-      "title": "Burke Public Law Update: SB 450 Modifies And Strengthens SB 9 - californiacitynews.org",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0ltVXJNaEtYMlhEOEVYSDBVZjdRYk80YXJkOGd4ZVl1amJ4TE1fMDVhbENuU0JlTm5KeTAweXFOWkI0RWxnVGNSS1VrU1NZc1Zrckw0QWtJd1VDa1B6SkNHbnNhRW5QQ3E0RVl6Nl95X2F0dFA5bjhRXzZfVTJnV3hadjBCMmVkVGt4akxkRk5XNzFwa1BNSnU4OEh1M3RDWGtlMEx6M2JILWh5?oc=5",
-      "source": "californiacitynews.org",
-      "published": "Mon, 13 Jan 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0ltVXJNaEtYMlhEOEVYSDBVZjdRYk80YXJkOGd4ZVl1amJ4TE1fMDVhbENuU0JlTm5KeTAweXFOWkI0RWxnVGNSS1VrU1NZc1Zrckw0QWtJd1VDa1B6SkNHbnNhRW5QQ3E0RVl6Nl95X2F0dFA5bjhRXzZfVTJnV3hadjBCMmVkVGt4akxkRk5XNzFwa1BNSnU4OEh1M3RDWGtlMEx6M2JILWh5?oc=5\" target=\"_blank\">Burke Public Law Update: SB 450 Modifies And Strengthens SB 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">californiacitynews.org</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "9dd8531b318c95ba",
-      "title": "New law pushes ADUs as housing following the LA wildfires - firsttuesday Journal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXNERTJseDNKMEhZYzZ3Q0dBdU5wMDloazNVdWNEdzlHVGNlQmRZOEdjSWRHVlloZlpIbVRuWGw4STJPZG9vWXdjdGhOMHdfb0MxRDBYNzREZzdIWjRwNUQ3b1VITVZ2LTNrUHRCV0hUOHhQeGJtVU9XT2tCT3YyZGxCdzdNU25XUHhtYWlwYVdqbzU5NjJZcnlqZkQ?oc=5",
-      "source": "firsttuesday Journal",
-      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXNERTJseDNKMEhZYzZ3Q0dBdU5wMDloazNVdWNEdzlHVGNlQmRZOEdjSWRHVlloZlpIbVRuWGw4STJPZG9vWXdjdGhOMHdfb0MxRDBYNzREZzdIWjRwNUQ3b1VITVZ2LTNrUHRCV0hUOHhQeGJtVU9XT2tCT3YyZGxCdzdNU25XUHhtYWlwYVdqbzU5NjJZcnlqZkQ?oc=5\" target=\"_blank\">New law pushes ADUs as housing following the LA wildfires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">firsttuesday Journal</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "adu"
-    },
-    {
-      "id": "106b3251ea911807",
-      "title": "LA moratorium to go, but “just cause” eviction rules to come - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGI1cDJDcF9IMlNZbmVvMnEtTHQxLXNvLTB6bExOTzhFUFRla0NMTnBoY1pnTGNWTHUtYlRDU2o1QVk5ZzJ3cWlERHpvSjZQTVdlUFpSTkpwQUlGb2dQM19WdUJUY0dRZ0Izb3lXS3ZzNGdEaS0zSm5Gc3JUai03X19fb1lkUFVvY0hDSkRpWjZEYUE0WGdjSDUyMm4?oc=5",
-      "source": "The Real Deal",
-      "published": "Mon, 10 Oct 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGI1cDJDcF9IMlNZbmVvMnEtTHQxLXNvLTB6bExOTzhFUFRla0NMTnBoY1pnTGNWTHUtYlRDU2o1QVk5ZzJ3cWlERHpvSjZQTVdlUFpSTkpwQUlGb2dQM19WdUJUY0dRZ0Izb3lXS3ZzNGdEaS0zSm5Gc3JUai03X19fb1lkUFVvY0hDSkRpWjZEYUE0WGdjSDUyMm4?oc=5\" target=\"_blank\">LA moratorium to go, but “just cause” eviction rules to come</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
-    },
-    {
-      "id": "546da4cab05f14d0",
-      "title": "SB 6 and AB 2011: 2 New Bills Try to Turn the Tide on Housing Crisis - California Local",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHdRVjR5NXctN2tJWm1kQWRoaEM3cHJMcmE3SnBIN3NtMGR0Y1BONXhSNWxYZG1KUy05aTd1VU9kZ2JXWEl6cjl1VXJycHpBNnFNSlk3TXg3UWExUl9STDNLaUlaVjNTNXI3cmVaTll6YXplYjNvRFZvWUVsNEV6cVM5c0hlY3RCa1VBWG16Vm1pUU9jRWM3ZEJKdUZQRlN6b0ZMMWZUWHFXSGNacjFzc2gzTG1LRnQwM1RwWA?oc=5",
-      "source": "California Local",
-      "published": "Mon, 10 Oct 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHdRVjR5NXctN2tJWm1kQWRoaEM3cHJMcmE3SnBIN3NtMGR0Y1BONXhSNWxYZG1KUy05aTd1VU9kZ2JXWEl6cjl1VXJycHpBNnFNSlk3TXg3UWExUl9STDNLaUlaVjNTNXI3cmVaTll6YXplYjNvRFZvWUVsNEV6cVM5c0hlY3RCa1VBWG16Vm1pUU9jRWM3ZEJKdUZQRlN6b0ZMMWZUWHFXSGNacjFzc2gzTG1LRnQwM1RwWA?oc=5\" target=\"_blank\">SB 6 and AB 2011: 2 New Bills Try to Turn the Tide on Housing Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Local</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
     }
   ]
