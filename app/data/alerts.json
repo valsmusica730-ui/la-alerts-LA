@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T02:08:43.660279+00:00",
+  "generated_at": "2026-09-16T07:59:53.439701+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1561,6 +1561,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkxxMkJreDktRzZBMWJiLTZGYmluU1N2a0MtcmJtejNTbm1TM0NhdUs1VnJDQ09Vc1UwTlBKNWZFaEdzd3dVYVNSYjFDY0VEdXF0Um1FbmppdWFQMWJacXhzRlJSN3QyOXdUMVo0LWo3RllmRnJjZ1hrLXloMmlETnZNc1lKYXVpQzNKdTNTM1NSZjVXM1FB?oc=5\" target=\"_blank\">Beverly Hills continues builder’s remedy streak as Planning Commission approves another high-rise project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "ec6d2287a3a04be5",
+      "title": "Tenants accuse landlords of unlawful eviction - FOX 11 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnVRRlJRTTUxc0o4VndoeW1jOXBPLUhEWDN1MW9GSXlSWm45SXo1M09qRUlnZVloRURlanNyV1k4cGVoZ0F5TXYzbjBXMjg0Tm1ucl9PcWlxZVk2b2ltNFloWHpOTWVzYkdVVjZ0aWk4eGZDZ1otOThDWjAyMUp4WnQxZ3JsUWxmMFlrVkdBOHgtempTelo0ZjJ2d0MwQTJNb25wMm5ZckJsbE5ETHFFcFFXa9IBuAFBVV95cUxPTEwxMkczdXBLeFg3bmJLLVBtMFA5SXloNHd5VVBSdG9jTW56YVFmMUlUbnNFZTVtbWd5NjVnTGdKcFg0bWdXbG1yTDJBOW9yRGpISWtDM2htemg4UDBJVXhUZlJDREFQc1cyLUpxaDJaa2hLR0o4dUtLckxPVFRuaVh5TS0tNmlGS1RBMUZkN2M2QWtsemhJcExfbnRfSDJ1VWtZM2x4MzZnY0ZYRFNQc1BMMmZZdzJD?oc=5",
+      "source": "FOX 11 Los Angeles",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnVRRlJRTTUxc0o4VndoeW1jOXBPLUhEWDN1MW9GSXlSWm45SXo1M09qRUlnZVloRURlanNyV1k4cGVoZ0F5TXYzbjBXMjg0Tm1ucl9PcWlxZVk2b2ltNFloWHpOTWVzYkdVVjZ0aWk4eGZDZ1otOThDWjAyMUp4WnQxZ3JsUWxmMFlrVkdBOHgtempTelo0ZjJ2d0MwQTJNb25wMm5ZckJsbE5ETHFFcFFXa9IBuAFBVV95cUxPTEwxMkczdXBLeFg3bmJLLVBtMFA5SXloNHd5VVBSdG9jTW56YVFmMUlUbnNFZTVtbWd5NjVnTGdKcFg0bWdXbG1yTDJBOW9yRGpISWtDM2htemg4UDBJVXhUZlJDREFQc1cyLUpxaDJaa2hLR0o4dUtLckxPVFRuaVh5TS0tNmlGS1RBMUZkN2M2QWtsemhJcExfbnRfSDJ1VWtZM2x4MzZnY0ZYRFNQc1BMMmZZdzJD?oc=5\" target=\"_blank\">Tenants accuse landlords of unlawful eviction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "rent"
     },
     {
       "id": "8f75e5f2578084d0",
@@ -4023,6 +4033,16 @@
       "category": "zoning"
     },
     {
+      "id": "b629a5583fa7d416",
+      "title": "Airbnb Bans Guest Who Booked Pittsburgh Rental Tied To Deadly Shooting - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV205RHh2S3hTb1JIN2x1ZUl6U0VhRlRGaGw3LW55NXVXemZsdjlvNjdxVVczczZvVHJHaUFGU2xNU1IyNUNSWnEtaGYzakVaNUsydVVYcTYwaHpwd21fVXcyZFFERF85YTVsbUZjOUtUTVVsRDRBVjlrV2FKQlo0Zl9FbDZFcW5fRjJmR3Foa3RBZ0tZckxqZTN0cG8wUDEwaU91RERNVGJINHB3TkJSblRTaTNjLUlSQnBnd3duSjVKdw?oc=5",
+      "source": "Forbes",
+      "published": "Sun, 17 Apr 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV205RHh2S3hTb1JIN2x1ZUl6U0VhRlRGaGw3LW55NXVXemZsdjlvNjdxVVczczZvVHJHaUFGU2xNU1IyNUNSWnEtaGYzakVaNUsydVVYcTYwaHpwd21fVXcyZFFERF85YTVsbUZjOUtUTVVsRDRBVjlrV2FKQlo0Zl9FbDZFcW5fRjJmR3Foa3RBZ0tZckxqZTN0cG8wUDEwaU91RERNVGJINHB3TkJSblRTaTNjLUlSQnBnd3duSjVKdw?oc=5\" target=\"_blank\">Airbnb Bans Guest Who Booked Pittsburgh Rental Tied To Deadly Shooting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "fe4d6087418804ee",
       "title": "Los Angeles County's first compact lot houses are coming to East L.A. - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX01nelotUFAwa1FLM3FnbnptdFJpZlpUbGNxdThTV1RaeS1HRk9vMldXbFlBRHZ0Mlh4UGUyTmtycjFIVGVKR1FWeFR4VXRINUJsdmctS3FTYXVaMVRzbk1KQ1Z1VWhYRTBEM0dtaW5jUVptbFlfcWlXajhyYXlkalAxNUt4eURka0JTdE1LeEswZjczT1RTQg?oc=5",
@@ -4091,6 +4111,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVEFQaWp6VmJIT2hvNFBLd3loeDc5QVZSa1VFRVZpLU1vUEtWNlJ5NzNiOHVDYUgxSC1MWGJBaEg0Z3JYbFU4Sm1fUGxDVVdoTnI3OVg4NG10ejZreGhpaWJ6SnA5a1VXZldUX1JFVGxXY0VLWmMwMUNJNWlKSE9QcHdaWTRXS3lLR2Z0ck5PdzFkM1FYcWJPakhXNGxVUQ?oc=5\" target=\"_blank\">LA voters hold Pacific Palisades’ ULA fate in hands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "other"
+    },
+    {
+      "id": "c56095714b8aa820",
+      "title": "Santa Fe Springs planning commission approves Dutch Bros drive‑through with traffic conditions - citizenportal.ai",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNnVRTDl2R1RDemJmenhkaFdmOTdDYk1EZ0FKWU1KSHhqcmxWeW1pVFBOajMwc21WV0EyY19rQVdtX2xUS0k2RFQyWG0zNUlEQ2dQR3FXOUlMTFg1N3ZpYXp3RzQweklzMVIxTEFQUURONFhuS21EZXFWV3lJTnlHRVg2QzcyZmdnMm90ZzlGYkloSEZTOTVhUzdEakExNGRlTXRqQ3BxVjZ2MGZtUDJxZ19kbENnaXBNYUNINlV2WkRpWUM0ZXZPc19JazYwU2VpeTJfU3cyMWY3YXdQZV9IQUMzS3ppdmdLRkVCcTRERGIxQnA3cW12UEhaVlhpQnJ2QmtBNzMxMHktdVRRNktxZmw3ZU5qdw?oc=5",
+      "source": "citizenportal.ai",
+      "published": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxPNnVRTDl2R1RDemJmenhkaFdmOTdDYk1EZ0FKWU1KSHhqcmxWeW1pVFBOajMwc21WV0EyY19rQVdtX2xUS0k2RFQyWG0zNUlEQ2dQR3FXOUlMTFg1N3ZpYXp3RzQweklzMVIxTEFQUURONFhuS21EZXFWV3lJTnlHRVg2QzcyZmdnMm90ZzlGYkloSEZTOTVhUzdEakExNGRlTXRqQ3BxVjZ2MGZtUDJxZ19kbENnaXBNYUNINlV2WkRpWUM0ZXZPc19JazYwU2VpeTJfU3cyMWY3YXdQZV9IQUMzS3ppdmdLRkVCcTRERGIxQnA3cW12UEhaVlhpQnJ2QmtBNzMxMHktdVRRNktxZmw3ZU5qdw?oc=5\" target=\"_blank\">Santa Fe Springs planning commission approves Dutch Bros drive‑through with traffic conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizenportal.ai</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
     },
     {
       "id": "7c8a83da725e0ccd",
@@ -4411,6 +4441,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNLUZrcFo2V2dTQ1ZlaWRSVkhxcVhhVGdrVEhsbk1NMFlZOV92Q0liUWR4Uy1kTzVOSkxDN3pNV3ZTRlR1bkZneERFVDR0bVpsUWQ5YmNaTjBZUTJpc3JjY3l2NWJSU0gtS09PRVZPY0c2cFZ0NEsxOWdUMFNwS2dwckdB?oc=5\" target=\"_blank\">SB 79 takes effect, Measure ULA to remain, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "c64aec0ca7a2c16b",
+      "title": "Airbnb regulation deal with London and Amsterdam marks dramatic policy shift - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnZud1IxanE4S2VTUUZ5dmV3RlJTUE9CTG1sSFdQYjM0Y3NxWjZtd2h5YjJoTWVadjJmVi1udzJEMExoallVVTJlYXVSNWwtS1VCcnZLZzdZWV9hOWM5Vi0zUkVFSEQ4X240WVozbHpoU2RjZzl4bUhMMzgycFFWeS1jOXlKR2xaNjlxdHJ2UzZYT1duSUpCaA?oc=5",
+      "source": "The Guardian",
+      "published": "Sat, 03 Dec 2016 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnZud1IxanE4S2VTUUZ5dmV3RlJTUE9CTG1sSFdQYjM0Y3NxWjZtd2h5YjJoTWVadjJmVi1udzJEMExoallVVTJlYXVSNWwtS1VCcnZLZzdZWV9hOWM5Vi0zUkVFSEQ4X240WVozbHpoU2RjZzl4bUhMMzgycFFWeS1jOXlKR2xaNjlxdHJ2UzZYT1duSUpCaA?oc=5\" target=\"_blank\">Airbnb regulation deal with London and Amsterdam marks dramatic policy shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "aeccea3922c540b6",
@@ -4961,46 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzZQSzdoSTZZczg0aDVRNVJSVkJzZXdTU1NJYmVvbDlLTmNhdlV2MnpRUEhiOGV0am5BaVMxdVcxd3g1SlNUQlFScVc4S1lTZmZlOWdfaDJrY190Z1dkWjdac196VjJNWHJfeGJjbEZVU3ZnamNnZWZwdXlOZlI0Vk8yekFYdU9TLTlOeHE3bTlQLUt1bHV4WUZLRXptY0psZFdLTGdFaEk0dThwR25kXzZrcy1LdTN6X0xnRmlB?oc=5\" target=\"_blank\">Council approves plan to expand accessory dwelling units in Jacksonville</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jacksonville Daily Record</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
-    },
-    {
-      "id": "2162634245ef2032",
-      "title": "LA City Council to vote on rent control amendment amid looming rent freeze expiration - NBC Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1ZVWmFVRWRZU1FJcm14dHZvSmRlam93QktaNDVaaEk5T001d1FNRC1RRWdNcHh4aVIyMHEwOGN2b3ZsSGJIdWNpdkt4aUo2dmdKTmRfUjFHZGFDSGtYMFl4YXBVTVl4TlpXb1diT2EwZmYwUW9GZXo4dHhHLWtTWWczTk5NNlVuWnZGeDhDSW9XZEl6VktkbFg5ZUt5NWlMQzBPWWg1dl9VV0lyRFZJVUV6ZG9NakVLQlRpS0tFVUNGeEpDckxhZ0RrQmF1Vmd20gHYAUFVX3lxTE1ZN2tTajF2QnZXS0V4QXNCdWhYU01XNUtNQ0o1TEM5VU1JRHh3NEt4OXRETUwtOUljdjNTT09WSlRTQVNEa2NSV3JhOHB4WkxPcDhhTWVEOUprM3Qxd0pIdEF2ZG8zdWM5Z0U4T3hPaHlxSUJnajhnbGtyY2JpNktYemNuRjNpUEV3V256c0ZCaDJHV1dBNkk3eWc4MVN1TDNkek4xVUlWVzNWVGRiLVl0SVZBMGh3RTZWUDYxY2RpaWJUOEl1dUhpdjNreExSa18zN3J2S0JaNQ?oc=5",
-      "source": "NBC Los Angeles",
-      "published": "Mon, 13 Nov 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1ZVWmFVRWRZU1FJcm14dHZvSmRlam93QktaNDVaaEk5T001d1FNRC1RRWdNcHh4aVIyMHEwOGN2b3ZsSGJIdWNpdkt4aUo2dmdKTmRfUjFHZGFDSGtYMFl4YXBVTVl4TlpXb1diT2EwZmYwUW9GZXo4dHhHLWtTWWczTk5NNlVuWnZGeDhDSW9XZEl6VktkbFg5ZUt5NWlMQzBPWWg1dl9VV0lyRFZJVUV6ZG9NakVLQlRpS0tFVUNGeEpDckxhZ0RrQmF1Vmd20gHYAUFVX3lxTE1ZN2tTajF2QnZXS0V4QXNCdWhYU01XNUtNQ0o1TEM5VU1JRHh3NEt4OXRETUwtOUljdjNTT09WSlRTQVNEa2NSV3JhOHB4WkxPcDhhTWVEOUprM3Qxd0pIdEF2ZG8zdWM5Z0U4T3hPaHlxSUJnajhnbGtyY2JpNktYemNuRjNpUEV3V256c0ZCaDJHV1dBNkk3eWc4MVN1TDNkek4xVUlWVzNWVGRiLVl0SVZBMGh3RTZWUDYxY2RpaWJUOEl1dUhpdjNreExSa18zN3J2S0JaNQ?oc=5\" target=\"_blank\">LA City Council to vote on rent control amendment amid looming rent freeze expiration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
-    },
-    {
-      "id": "31af87f0cb3605b9",
-      "title": "Judge issues tentative ruling on challenge to LA’s tenant protections - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb3Aza1o5VEdsWF9qQWVzRDhJa1p0WWFlOW1Sem9XU3pKSHMyQjRsNFI5aDBiQk9LMHlnbndJS1VibFhQcjUwOFlINV8wMFdlSmdlSWc5UUg4cDdDREduYlpLUWY0RVRzY0JfdkVpUWpfaGxwbmZqSWFFRkNpUlZKSkhjQVNRcUQyb3Z2MG5XRi1MWnFnXzFqYQ?oc=5",
-      "source": "The Real Deal",
-      "published": "Mon, 13 Nov 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPb3Aza1o5VEdsWF9qQWVzRDhJa1p0WWFlOW1Sem9XU3pKSHMyQjRsNFI5aDBiQk9LMHlnbndJS1VibFhQcjUwOFlINV8wMFdlSmdlSWc5UUg4cDdDREduYlpLUWY0RVRzY0JfdkVpUWpfaGxwbmZqSWFFRkNpUlZKSkhjQVNRcUQyb3Z2MG5XRi1MWnFnXzFqYQ?oc=5\" target=\"_blank\">Judge issues tentative ruling on challenge to LA’s tenant protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "legal"
-    },
-    {
-      "id": "b6465d8f4974f5d1",
-      "title": "Investing in Housing: Measure ULA funds help rent-burdened Angelenos - Los Angeles Downtown News",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVVJsNlVZSHJqMFdXb0RmS25DM0Jxel9OQk41cDJiNGRPQWtzb0tHdDljeUpxQTRlakJxWF9yUWZnLWZqa09wRVdzck1hcnJFVHFOZGRxekRyRUJPVTNfMkdZV0hYQ3lvRWc0RkN3Uy1wY2FLcjMzUFlfMGUyYnp0aG05VEJOR252T29uMi0tSVk2V2Jaam9KUElvQU5GUjIwcEs2ZHA3eDFaZW1oQk9LVENYTExRVXJRVWNTS09KNWd1Q2ZhazJMMXA1NVRwSzE5Z0tNMUNiSERyNFBRSDdhRW00clo5TUsz?oc=5",
-      "source": "Los Angeles Downtown News",
-      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVVJsNlVZSHJqMFdXb0RmS25DM0Jxel9OQk41cDJiNGRPQWtzb0tHdDljeUpxQTRlakJxWF9yUWZnLWZqa09wRVdzck1hcnJFVHFOZGRxekRyRUJPVTNfMkdZV0hYQ3lvRWc0RkN3Uy1wY2FLcjMzUFlfMGUyYnp0aG05VEJOR252T29uMi0tSVk2V2Jaam9KUElvQU5GUjIwcEs2ZHA3eDFaZW1oQk9LVENYTExRVXJRVWNTS09KNWd1Q2ZhazJMMXA1NVRwSzE5Z0tNMUNiSERyNFBRSDdhRW00clo5TUsz?oc=5\" target=\"_blank\">Investing in Housing: Measure ULA funds help rent-burdened Angelenos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Downtown News</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "6b7690ba752fdfc4",
-      "title": "Long Beach council adopts Bixby Knolls rezoning package to align zoning with housing goals - citizenportal.ai",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTVNmaFFUaEZkRVlvWERETWcwUGxQUml0b01FcXhnaFZFRFB0R2ZidmhDcHF2eXJwMExXSjhFVnMzOGs1cVp1QV80NzFUOHZ0X3RtbUFPeVRyR2Q2NDlVNU02MGw4bnh5Zl9TRnNQOHV5eWxmSG05aDVuUUZxUWtsTzVhaURfcjZKczJSTkhzcVZvNHRXb2F3ZmdUY2hWUkU0bW94ZVdQSzlERVBYdUpfWXcySWphT0tfUFp6YWtuYTF2bUU4Q2R4c3c1VzUySkZ5TFhQRVptLUhaTkdDRmI4dVNPbG9vaDFIZ0w4Um1veDRuNlRKS19CYXRtZkpidDZ4LU9v?oc=5",
-      "source": "citizenportal.ai",
-      "published": "Mon, 13 Jul 2026 02:38:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQTVNmaFFUaEZkRVlvWERETWcwUGxQUml0b01FcXhnaFZFRFB0R2ZidmhDcHF2eXJwMExXSjhFVnMzOGs1cVp1QV80NzFUOHZ0X3RtbUFPeVRyR2Q2NDlVNU02MGw4bnh5Zl9TRnNQOHV5eWxmSG05aDVuUUZxUWtsTzVhaURfcjZKczJSTkhzcVZvNHRXb2F3ZmdUY2hWUkU0bW94ZVdQSzlERVBYdUpfWXcySWphT0tfUFp6YWtuYTF2bUU4Q2R4c3c1VzUySkZ5TFhQRVptLUhaTkdDRmI4dVNPbG9vaDFIZ0w4Um1veDRuNlRKS19CYXRtZkpidDZ4LU9v?oc=5\" target=\"_blank\">Long Beach council adopts Bixby Knolls rezoning package to align zoning with housing goals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizenportal.ai</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "zoning"
     }
   ]
 }
