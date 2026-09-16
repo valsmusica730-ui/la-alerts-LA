@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:13:06.919439+00:00",
+  "generated_at": "2026-09-16T17:49:02.566904+00:00",
   "total": 500,
   "alerts": [
     {
@@ -853,6 +853,16 @@
       "category": "zoning"
     },
     {
+      "id": "889f93735b27df99",
+      "title": "SB 10 - cayimby.org",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjSnBlcnRGVjcwZ1pWanNCVXNzZjNiRWNhaW9aQ2ZrUHlzVGdXdFlfQTh4NjZCRWM2U0F4TXJ1bFpKbmpQQThIZllZQTh1dnM?oc=5",
+      "source": "cayimby.org",
+      "published": "Wed, 11 Oct 2023 01:44:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjSnBlcnRGVjcwZ1pWanNCVXNzZjNiRWNhaW9aQ2ZrUHlzVGdXdFlfQTh4NjZCRWM2U0F4TXJ1bFpKbmpQQThIZllZQTh1dnM?oc=5\" target=\"_blank\">SB 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cayimby.org</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
       "id": "5fb67eaddb7a0842",
       "title": "LA City Council forms a committee to review Measure ULA amid housing debate - dailynews.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGhrWGVEVmQ5OHRsWUhFYWV0NzVwQUJmWlVlR240LVJ1WXlPQkRZU3YzXzZYY1VEcmdmVXloMlJ4anpMUmVxS3dGV0xsRExGNnB3YkNwRUtJV0RJVEFtdGZ3a1hUTElEVVM5SlM2N2Y1dHlYZmV3dnlnam56cVp4dC1XSWE2YllPU2VZQUhDY0dLOGgwb0tjaHBNM2hxY3ExbURWRDVSYnU4UTlLWFUzOG5FZw?oc=5",
@@ -1061,6 +1071,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3c5ZThuWlZUOGVFakx4TEFWTTk2ZGFDaS16d3BnMDlvQkVpams1Z0IxcXhjeXZaNzJIU0dydVlNQjlNaTEzbUhvNldsU1lSVmJHQU96eFNYUWJTQ0tyd1FvREpMeS1jbVlBMVlZcGVqWl9JYmZaRmtzaXp6Z2NobDllR3JuTGxYaVJhM3dBOG9vZW9nREZoU19rc0Rmb2lqLTdzUXJCTUR5SUJKNnV3SGVhQWVuQQ?oc=5\" target=\"_blank\">Supreme Court Considers Landlord Appeal That Could Overturn Tenant Protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shelterforce</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
+    },
+    {
+      "id": "daf1fc41fce15517",
+      "title": "The 2025 Los Angeles Wildfires: Lessons and Key Recommendations: Policy Report - Independent Institute",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWlpX0ktRl9SS3RpZXUxQXBlRzVsamVQWUU0OGdlTjJVZkt2QkxtbEQ3N3ROSTExLTZSNFNESm83X1M3MzMxUHVqcG5YeHZOaG0wSmlZRWEzYV9wRlRjVlB5VHJQTGlFeU9MTXk3Mjloa1lIUnk5ZW1hNWxWMi02MDF3LThBMFBXVXBZWkVObjhFSHlXbjhsTVpOV0FHdXR2eUxtb01jSVJDM0I5VUVF?oc=5",
+      "source": "Independent Institute",
+      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWlpX0ktRl9SS3RpZXUxQXBlRzVsamVQWUU0OGdlTjJVZkt2QkxtbEQ3N3ROSTExLTZSNFNESm83X1M3MzMxUHVqcG5YeHZOaG0wSmlZRWEzYV9wRlRjVlB5VHJQTGlFeU9MTXk3Mjloa1lIUnk5ZW1hNWxWMi02MDF3LThBMFBXVXBZWkVObjhFSHlXbjhsTVpOV0FHdXR2eUxtb01jSVJDM0I5VUVF?oc=5\" target=\"_blank\">The 2025 Los Angeles Wildfires: Lessons and Key Recommendations: Policy Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Independent Institute</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "other"
     },
     {
       "id": "3d976a4e86a61485",
@@ -2649,6 +2669,16 @@
       "source": "LA Local",
       "published": "Tue, 03 Mar 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTktkOEpJVmRHb3pEekRCeEdWaHZ0eTZxZmdtUC1mWW9yTWRFNzVZS0RvWGF3VHo0YVhsUXBBbTM2aXNJNjVyZEQzaldhV05zbjh0d202NUV6YkgxZXYtT3MzdldoQldTb3lWOEVxckNUS056S0VxUndzanlvLURsYVhDeFhoNHBGdmNvRmxVekVXOVJkTUZwcEtRVElLSUlWTEVjSjN3MGJXV0tlU2Y2VDhQT0hFd1NhNllycjB3OEdXdHpP?oc=5\" target=\"_blank\">LA County RV Parking Restrictions Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Local</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "other"
+    },
+    {
+      "id": "62d5a857a09914b7",
+      "title": "LA County expands parking restrictions for RVs and large vehicles in unincorporated communities - LAist",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUFTdXZEN2VHZ2R6RFpxOUlrNnhSVFU0QTRTbmt4S3lkZGRWTnBqZ2JzbzhhNzRXMjluME1ieGc2cDV1R0lTSHpZZlR1YXJpeGpqZUZyQkR4SHJhTkNRZUUybU05aWVMLXVKdDltb2dzajB2N2RkdXp6NHBwdndoODJNYmVOcHdnVmc3aHA0OGtNeXZzeHYtTnAtTHBkNzM1enFhSjFhUlUyaVdoOEZFc0tRWUxVTHlYa3Jzbzd5dFRmQXN0Nnk0MkdxdWg3NE9tR2cxT1hn?oc=5",
+      "source": "LAist",
+      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUFTdXZEN2VHZ2R6RFpxOUlrNnhSVFU0QTRTbmt4S3lkZGRWTnBqZ2JzbzhhNzRXMjluME1ieGc2cDV1R0lTSHpZZlR1YXJpeGpqZUZyQkR4SHJhTkNRZUUybU05aWVMLXVKdDltb2dzajB2N2RkdXp6NHBwdndoODJNYmVOcHdnVmc3aHA0OGtNeXZzeHYtTnAtTHBkNzM1enFhSjFhUlUyaVdoOEZFc0tRWUxVTHlYa3Jzbzd5dFRmQXN0Nnk0MkdxdWg3NE9tR2cxT1hn?oc=5\" target=\"_blank\">LA County expands parking restrictions for RVs and large vehicles in unincorporated communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
     },
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVc3cW5jeDZRTXlITFY3c2R0T2NEd0xkZVEtVl9TcTJrQ3FJSFdEMlVBcnhRY2JHVjlGT3l6UGdSMGdvMjVkQnBqdlAwSGFWN0lsTU5RV1R0TnVpME1EOEdJWUgxTXVZVjg2YW15T043QkRNVGVtVU5aRUhwa0dDNThmRl9QN1REWm5qbVUzclRWa1pMQ0JwVmpLMklJUWpRN1pXWGZBUzVpdzJHQlRzNUtoUm5YN1dGWTBRSG44SVNGa1NGc3k2cTZielo1eER3VW0wRnVENGpsOTZxTDNaY01R?oc=5\" target=\"_blank\">Revised Preservation Plan for Windsor Square HPOZ Approved by City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Buzz</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "065b1cb01f64d937",
-      "title": "LA 'mansion tax' survives legal challenge - Courthouse News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CY2VFTHZRZXRyRzBUOFJ2R1JSUFEtVmxHMGlCMXZVQkcyb2ZJTGEwQUloRElVT0RDaXZ1RjNLZHpYb21teU05VDloX0xLc0RpWHpFMmtqRDBaVXZjSUI2Q2pwM2FGZkdiYUdLejVrRy11YThTSXJ3WTdyOA?oc=5",
-      "source": "Courthouse News",
-      "published": "Mon, 15 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9CY2VFTHZRZXRyRzBUOFJ2R1JSUFEtVmxHMGlCMXZVQkcyb2ZJTGEwQUloRElVT0RDaXZ1RjNLZHpYb21teU05VDloX0xLc0RpWHpFMmtqRDBaVXZjSUI2Q2pwM2FGZkdiYUdLejVrRy11YThTSXJ3WTdyOA?oc=5\" target=\"_blank\">LA 'mansion tax' survives legal challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courthouse News</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "a809b715a127b024",
-      "title": "City Planning Commission rejects appeal of housing project at 1500 W. Adams Boulevard - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeld2RFFIMG9FdE9iZ0pqb1VJV2x3WmpZUzA5MHZaMXJkQktOYU05S1pzUWxaaE54Y0lXQmJVTF9zaHkzc1hSVkQ1U2xQWW5sbG1USThzRnNlUWV0Z2RfVXlIT29DaDN1MGVfRTllNGxoLUFTWXJmY3VjNGhCajBNY1QwRlh0NXdfRHh0ZWtKcGpBX2xhZHAteVdMVnVIMTQ0UjNuN1pfYzRaZXZp?oc=5",
-      "source": "Urbanize LA",
-      "published": "Mon, 15 Apr 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeld2RFFIMG9FdE9iZ0pqb1VJV2x3WmpZUzA5MHZaMXJkQktOYU05S1pzUWxaaE54Y0lXQmJVTF9zaHkzc1hSVkQ1U2xQWW5sbG1USThzRnNlUWV0Z2RfVXlIT29DaDN1MGVfRTllNGxoLUFTWXJmY3VjNGhCajBNY1QwRlh0NXdfRHh0ZWtKcGpBX2xhZHAteVdMVnVIMTQ0UjNuN1pfYzRaZXZp?oc=5\" target=\"_blank\">City Planning Commission rejects appeal of housing project at 1500 W. Adams Boulevard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "legal"
-    },
-    {
-      "id": "518c2cab29e3b0dc",
-      "title": "Council approves plan to expand accessory dwelling units in Jacksonville - Jacksonville Daily Record",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzZQSzdoSTZZczg0aDVRNVJSVkJzZXdTU1NJYmVvbDlLTmNhdlV2MnpRUEhiOGV0am5BaVMxdVcxd3g1SlNUQlFScVc4S1lTZmZlOWdfaDJrY190Z1dkWjdac196VjJNWHJfeGJjbEZVU3ZnamNnZWZwdXlOZlI0Vk8yekFYdU9TLTlOeHE3bTlQLUt1bHV4WUZLRXptY0psZFdLTGdFaEk0dThwR25kXzZrcy1LdTN6X0xnRmlB?oc=5",
-      "source": "Jacksonville Daily Record",
-      "published": "Mon, 14 Nov 2022 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzZQSzdoSTZZczg0aDVRNVJSVkJzZXdTU1NJYmVvbDlLTmNhdlV2MnpRUEhiOGV0am5BaVMxdVcxd3g1SlNUQlFScVc4S1lTZmZlOWdfaDJrY190Z1dkWjdac196VjJNWHJfeGJjbEZVU3ZnamNnZWZwdXlOZlI0Vk8yekFYdU9TLTlOeHE3bTlQLUt1bHV4WUZLRXptY0psZFdLTGdFaEk0dThwR25kXzZrcy1LdTN6X0xnRmlB?oc=5\" target=\"_blank\">Council approves plan to expand accessory dwelling units in Jacksonville</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jacksonville Daily Record</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "adu"
     }
   ]
 }
