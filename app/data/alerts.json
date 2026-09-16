@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:49:02.566904+00:00",
+  "generated_at": "2026-09-16T20:34:41.903757+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1501,6 +1501,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVUpCMHRuaktnOUV6MnNpeUFsZlk1SGd4cHlfUl9SMC1HeVFTb2E0ajlWOWlmRVdUSWktdF9PRXZpVmE5cW9vNUdZQmFsVnM5cjdqM0hldERCUjFVWnlHLW1oLW9pMl9FV3RlOVdJS1NrWVQycjktX2lsYl9EZVUtRVNCSjJhZw?oc=5\" target=\"_blank\">LA Passes “Just Cause” Eviction Protection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "a30d30622166f0e9",
+      "title": "16 apartments approved at 18419 W. Gresham Street in Northridge - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjYyTVpTeGVFNTVjRTBjcEE5Yk9pcUlpWFJvRkFneTZHYUkzU1d6NFJNZlpvaFdkNDZfRjJLbWVlbVV0cDJ5V2tXRl96MHVuLW9ZM2o5U18tZ05uLWhCWlZMd1ctTXVYamtZMlYxXzZKNGFMZ2p4OWFGMUVOdjVydFU2SF83akJHLWFTT2s3OA?oc=5",
+      "source": "Urbanize LA",
+      "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjYyTVpTeGVFNTVjRTBjcEE5Yk9pcUlpWFJvRkFneTZHYUkzU1d6NFJNZlpvaFdkNDZfRjJLbWVlbVV0cDJ5V2tXRl96MHVuLW9ZM2o5U18tZ05uLWhCWlZMd1ctTXVYamtZMlYxXzZKNGFMZ2p4OWFGMUVOdjVydFU2SF83akJHLWFTT2s3OA?oc=5\" target=\"_blank\">16 apartments approved at 18419 W. Gresham Street in Northridge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
     },
     {
       "id": "ea0fb10e2bdf6dad",
@@ -4493,6 +4503,16 @@
       "category": "policy"
     },
     {
+      "id": "63c6fd1f1982ac9b",
+      "title": "California affordable housing programs are on the chopping block after Supreme Court ruling - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pOFMydC1iU2VxaHprSFp6YUl2TkVOUWhTV3BRRm4tM05OckxpUU5TLWN3ZFhKSTEwVmJPSmVwelczODJmVktobk9WeExfUVVOUi0xNjU5STYzUVJhajVUWV9mU05odHV1SU82dU9rdFR0bmN3dXd5aFgycTZ1dw?oc=5",
+      "source": "CalMatters",
+      "published": "Sat, 02 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5pOFMydC1iU2VxaHprSFp6YUl2TkVOUWhTV3BRRm4tM05OckxpUU5TLWN3ZFhKSTEwVmJPSmVwelczODJmVktobk9WeExfUVVOUi0xNjU5STYzUVJhajVUWV9mU05odHV1SU82dU9rdFR0bmN3dXd5aFgycTZ1dw?oc=5\" target=\"_blank\">California affordable housing programs are on the chopping block after Supreme Court ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "legal"
+    },
+    {
       "id": "3fe280e6c5a7948f",
       "title": "Pasadena sues to keep UCLA football at the Rose Bowl, Glendale caves on ADU fight, and more - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pc2Z1b3JMUGFDaUNYLV9vRjR0SXgxTU5tSHBFa2VvdHpFdGZXckQtMlVVQlBjQkFHZmZxa1VFWEdUdHpUOFNDWXNYb0tzWWpRMEVPcDJ3TGxvc2hvNVd2S244bV9NMFZibmM0cEVPRQ?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXY1bm4xNWE3QVZIV0Z3a3Y3ejBhLTJoYm13QldOdnNZdkRzWDZjeVhBM3R3WGdnYTVZd010TDdVRnZUdGphaXh2aVJtQ0RkbngzUVFPMHc0cmJWUkhYYnctbUJLSTl5bUl5RnZHTzRfaVJwb2gtMmNsdUxqSUxrYXBTQmZOaEUtbG40ckUyRDBDTnR2VkNZT3lR?oc=5\" target=\"_blank\">Who's Building L.A: Seismic Code Changes: What is the Update and How Does it Affect You?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">labusinessjournal.com</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "other"
-    },
-    {
-      "id": "f0d3a6dfa5b171d6",
-      "title": "VA housing policy discriminates against disabled veterans, federal judge rules - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORERMb0Z4OTFtZkJKZHdzYU9VYWpXT0hNTWZFVWRHRjNvMjUzQ3ZIZk45YW5GQWtaUVNOQms0M0ExLVZzZW1ROE9veHJhZ20ybzEzdXFTeDYyc190V19XTmtyeGwwVktqTnN5T0NhQU93al9ZanhtRXJEbkVBUV9fcE1TVTFydjJXaFdUcmliVVBuZXRuWWF5Q3cxMEZHNmV1UExoblBUcHNxX21QTWprcmx4WHZPcmlmZWNPUFVoaDd0bVZR?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Mon, 15 Jul 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxORERMb0Z4OTFtZkJKZHdzYU9VYWpXT0hNTWZFVWRHRjNvMjUzQ3ZIZk45YW5GQWtaUVNOQms0M0ExLVZzZW1ROE9veHJhZ20ybzEzdXFTeDYyc190V19XTmtyeGwwVktqTnN5T0NhQU93al9ZanhtRXJEbkVBUV9fcE1TVTFydjJXaFdUcmliVVBuZXRuWWF5Q3cxMEZHNmV1UExoblBUcHNxX21QTWprcmx4WHZPcmlmZWNPUFVoaDd0bVZR?oc=5\" target=\"_blank\">VA housing policy discriminates against disabled veterans, federal judge rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "legal"
-    },
-    {
-      "id": "45596c7478764b74",
-      "title": "Revised Preservation Plan for Windsor Square HPOZ Approved by City Planning Commission - Larchmont Buzz",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVc3cW5jeDZRTXlITFY3c2R0T2NEd0xkZVEtVl9TcTJrQ3FJSFdEMlVBcnhRY2JHVjlGT3l6UGdSMGdvMjVkQnBqdlAwSGFWN0lsTU5RV1R0TnVpME1EOEdJWUgxTXVZVjg2YW15T043QkRNVGVtVU5aRUhwa0dDNThmRl9QN1REWm5qbVUzclRWa1pMQ0JwVmpLMklJUWpRN1pXWGZBUzVpdzJHQlRzNUtoUm5YN1dGWTBRSG44SVNGa1NGc3k2cTZielo1eER3VW0wRnVENGpsOTZxTDNaY01R?oc=5",
-      "source": "Larchmont Buzz",
-      "published": "Mon, 15 Jul 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVc3cW5jeDZRTXlITFY3c2R0T2NEd0xkZVEtVl9TcTJrQ3FJSFdEMlVBcnhRY2JHVjlGT3l6UGdSMGdvMjVkQnBqdlAwSGFWN0lsTU5RV1R0TnVpME1EOEdJWUgxTXVZVjg2YW15T043QkRNVGVtVU5aRUhwa0dDNThmRl9QN1REWm5qbVUzclRWa1pMQ0JwVmpLMklJUWpRN1pXWGZBUzVpdzJHQlRzNUtoUm5YN1dGWTBRSG44SVNGa1NGc3k2cTZielo1eER3VW0wRnVENGpsOTZxTDNaY01R?oc=5\" target=\"_blank\">Revised Preservation Plan for Windsor Square HPOZ Approved by City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Buzz</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
