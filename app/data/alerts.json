@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:41:38.452816+00:00",
+  "generated_at": "2026-09-17T23:13:10.726376+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1961,6 +1961,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPMEpqb3hDZDRUbThzQnNKWktWX1p4aHBnNDVkQXhUeHhiTTV6bk9oaE81NmU3dl9YS1JoV1FzdloxZk5tREM0TkgyQXdabEMybXZTOVBudkVEaXdWRjVmX2wtdEhrNFF3d1VmT2hlWjlRNW9RelhrcjJFMlp1OWF4aWtYSk8wZw?oc=5\" target=\"_blank\">Atkins Introduces Legislation to Update SB 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "706de29045c247a2",
+      "title": "Planet Fitness approved for Montebello Mix Shopping Center; operator says location will be open 24/7 - citizenportal.ai",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONThxOFM2SFNLTzljVXFkVm9XZUVlR080VC1IbTJLTWo3TGZLMmZpeFJweW9wWDNTX1B0YzRKTFdMaVdBdE9ySnJ4eTNidThiSG54eWJ6QXVaY3pfMnhielF1OHBlYUNiWkNabkMyWklDdUhWRGNpTXVfaVVFR0dNMnJQa1BCSjFoaDNOeHFodG1QMFBPejJfcTl6clFuRm5HZHBRZG5DT09INWxnMU5OZlhILWphQXlCUWJlQXJ4U1R2OG5qRTEybjV3UzIyTVkybW9pV19la0dDd0pZOHhBUjQ1S0lsQWNmcDZBMW5uOXhqQ3paX1hESG5MYU1EY2pXcFdxSlpTUUZGWlNEd0E?oc=5",
+      "source": "citizenportal.ai",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxONThxOFM2SFNLTzljVXFkVm9XZUVlR080VC1IbTJLTWo3TGZLMmZpeFJweW9wWDNTX1B0YzRKTFdMaVdBdE9ySnJ4eTNidThiSG54eWJ6QXVaY3pfMnhielF1OHBlYUNiWkNabkMyWklDdUhWRGNpTXVfaVVFR0dNMnJQa1BCSjFoaDNOeHFodG1QMFBPejJfcTl6clFuRm5HZHBRZG5DT09INWxnMU5OZlhILWphQXlCUWJlQXJ4U1R2OG5qRTEybjV3UzIyTVkybW9pV19la0dDd0pZOHhBUjQ1S0lsQWNmcDZBMW5uOXhqQ3paX1hESG5MYU1EY2pXcFdxSlpTUUZGWlNEd0E?oc=5\" target=\"_blank\">Planet Fitness approved for Montebello Mix Shopping Center; operator says location will be open 24/7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizenportal.ai</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
     },
     {
       "id": "8d1e8f8e53bd0642",
@@ -4323,6 +4333,16 @@
       "category": "policy"
     },
     {
+      "id": "1a503dd56e962c3b",
+      "title": "Meet Jordan Rivers, Candidate For Los Angeles City Council District 15 - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHp2dEJFUmg3emlyOHQ4bl9KQ3VxSmQxbVRjMHkzZV9iYmx3OTlYMzQ1MXdBZEFsMHdWQzhoNzgyYm80Si1pWUZWd01DeGFfLTk4Qnd0blYwaFNDNEdwQVdPeDJBYzk4Z0E0U1VXLVlyUmJZRG1ZQzhHaUF4SXBUZ0gxdmFlbTEwdWFhZFd5bzVZaGdfeVRlbWpqMWsxeThtUmtoXzhrVGZfZw?oc=5",
+      "source": "Patch",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHp2dEJFUmg3emlyOHQ4bl9KQ3VxSmQxbVRjMHkzZV9iYmx3OTlYMzQ1MXdBZEFsMHdWQzhoNzgyYm80Si1pWUZWd01DeGFfLTk4Qnd0blYwaFNDNEdwQVdPeDJBYzk4Z0E0U1VXLVlyUmJZRG1ZQzhHaUF4SXBUZ0gxdmFlbTEwdWFhZFd5bzVZaGdfeVRlbWpqMWsxeThtUmtoXzhrVGZfZw?oc=5\" target=\"_blank\">Meet Jordan Rivers, Candidate For Los Angeles City Council District 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "a8b0bf5779cf4ac7",
       "title": "LA Council Committee Holds Off On Ballot Proposal to Reform Measure ULA - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJlZDNJZEFLbE5FcFBVdzBsYW0xaFl6SDEyME9jX01HclNRQ2w2NDR0X091Q0o0YVpNSUdjSk5yQlhvUUREckJvMjFzb3RRTGYtVm1WdWdza25Ha1hVVjNlZ0x4dmZoV2wtem9TUXFPQ050MjlLbGt2U09oR1I2NnNsa3VSN0lZVnZyY3hPNzFleENlejh6aUU5M3l4ZExLM1NaTTNVV1RpcF9xX1JwSklRVFc?oc=5",
@@ -4390,6 +4410,16 @@
       "published": "Sat, 24 Oct 2020 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlVZSVo5UlRJdlliVzVxcWxxb01YYUJhSEtEVUpjWnlDZmtaNlB4ei1VVVMzQ0prNHEzcEhSQXRzS1l1dVpOX25BNGJpa2NwLWdyVXFybzFKYTVLbFV1WXlUS3h3STlZa0lkU3JlSzQzaDNrM09vdEJ5dm5ZTjMzRXYtMVhVSTlzbGxNc2VVaEoxNVl3VnoxXw?oc=5\" target=\"_blank\">Council Approves Regulations for Short-Term Rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fullerton Observer</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
+      "id": "c3382a3b1dab28ee",
+      "title": "Rent Board Moves Toward Asking City Council to Set an Indoor Heat Cap - Pasadena Now",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmtGWjJiU213TXBkMXIyUHU4Tjc2bkJkeGdiRWRXRHZuSEhEcHF2UnZ3SVZPQ3dkcVNEdk9iOFlld0ZpLTFVbUxMODVLTGh0LVZuNlVTUGxFaGNmQXRtaU1vZ25IclZGQVpsV05qNzJkX2RCRk5jZ2E3d0ZiRTFyX2loNnBZejEyWmQtelQzcnFPOGZNVDBQTko5MU1OWlk?oc=5",
+      "source": "Pasadena Now",
+      "published": "Sat, 22 Aug 2026 12:47:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmtGWjJiU213TXBkMXIyUHU4Tjc2bkJkeGdiRWRXRHZuSEhEcHF2UnZ3SVZPQ3dkcVNEdk9iOFlld0ZpLTFVbUxMODVLTGh0LVZuNlVTUGxFaGNmQXRtaU1vZ25IclZGQVpsV05qNzJkX2RCRk5jZ2E3d0ZiRTFyX2loNnBZejEyWmQtelQzcnFPOGZNVDBQTko5MU1OWlk?oc=5\" target=\"_blank\">Rent Board Moves Toward Asking City Council to Set an Indoor Heat Cap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Now</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
     },
     {
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVhJS3FPSzVHMVFvQm9LbmpDN2lkdjRmODVvekZiLXYxVnE2Q0NmWWkzWmJxajRHVGJCVzZTSVlGNUVMNERlbUlYMmZOdWEwV0E4dFRuakVadlBHODNXVl9LS2ZhNnBsQnRLNkdmV2R3V3EyRllJaFRqd18ybDhVaXV2MThKcW8?oc=5\" target=\"_blank\">Mixed-use project approved at 825 S. Hampton Dr. in Venice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "b12806e63ecc1cc9",
-      "title": "LA’s Eviction Moratorium Holds As Supreme Court Refuses To Hear Landlords’ Challenge - LAist",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVTFpX2dnQlFydlp4UUhvNnRsRXRKOTcwNWVEcFBmWGdVUDlfWFNDY3VmaVJXUEVCRloydngzNHRVX3E5c0E3UFNINFZyb3MzNDhyNWZFS0VMaWhPUGdyWldvWXRaZGk0NC1jMWRSZGJwaGxoRFZuMGI3bXYxSEhZd1Y5ZG95bktfcURxSVYxd0pzNkFzY3FhVEx0S2tjeHFwQ0JsU05nOXZWclZfNUdTN0NMQ2lyNmlyR3BTNkFZV29QMEwt?oc=5",
-      "source": "LAist",
-      "published": "Mon, 18 Apr 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPVTFpX2dnQlFydlp4UUhvNnRsRXRKOTcwNWVEcFBmWGdVUDlfWFNDY3VmaVJXUEVCRloydngzNHRVX3E5c0E3UFNINFZyb3MzNDhyNWZFS0VMaWhPUGdyWldvWXRaZGk0NC1jMWRSZGJwaGxoRFZuMGI3bXYxSEhZd1Y5ZG95bktfcURxSVYxd0pzNkFzY3FhVEx0S2tjeHFwQ0JsU05nOXZWclZfNUdTN0NMQ2lyNmlyR3BTNkFZV29QMEwt?oc=5\" target=\"_blank\">LA’s Eviction Moratorium Holds As Supreme Court Refuses To Hear Landlords’ Challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "legal"
-    },
-    {
-      "id": "9ad37f403648b73d",
-      "title": "City Planning Commission clears special needs housing in Pico-Robertson - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jNHhQVUZpRGxwX0p3NHdWcG9xMWpzM0ZYNF8wd3d4OHRCSW0zeG9HRGhqYnhidWxWeENzNjVGeU9fR0k4TzZuZ2lGcUtFTzJBcEZnb1JWYzdpMmxiaFFYS3VkQmx2SDNadThEME5aUFNGWUxM?oc=5",
-      "source": "Urbanize LA",
-      "published": "Mon, 17 May 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5jNHhQVUZpRGxwX0p3NHdWcG9xMWpzM0ZYNF8wd3d4OHRCSW0zeG9HRGhqYnhidWxWeENzNjVGeU9fR0k4TzZuZ2lGcUtFTzJBcEZnb1JWYzdpMmxiaFFYS3VkQmx2SDNadThEME5aUFNGWUxM?oc=5\" target=\"_blank\">City Planning Commission clears special needs housing in Pico-Robertson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "e8075427c7606aa2",
-      "title": "LA eviction moratorium withstands landlords’ legal challenge - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGJBOFRybTJhWGhxVmZ4UGdxa1VHVndZQzRhYjJSVGY1Zl94dFcwMWRPZ190VWM3S09lY2FjbjJqMDU4THNUT2w4RXdwdVRzX3c4Z29nVl9vbm1zLV9XRGMzNjkzbGx6aHNMOWcwZDVMUGRMZXBYV0Q2ZFBuQ2FkNmN1Y3ItUWFiS3A0ZGxVLXZnZ1RocGZYVFVEeXhFS2s?oc=5",
-      "source": "The Real Deal",
-      "published": "Mon, 16 Nov 2020 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONGJBOFRybTJhWGhxVmZ4UGdxa1VHVndZQzRhYjJSVGY1Zl94dFcwMWRPZ190VWM3S09lY2FjbjJqMDU4THNUT2w4RXdwdVRzX3c4Z29nVl9vbm1zLV9XRGMzNjkzbGx6aHNMOWcwZDVMUGRMZXBYV0Q2ZFBuQ2FkNmN1Y3ItUWFiS3A0ZGxVLXZnZ1RocGZYVFVEeXhFS2s?oc=5\" target=\"_blank\">LA eviction moratorium withstands landlords’ legal challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
