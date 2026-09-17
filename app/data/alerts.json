@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:34:41.903757+00:00",
+  "generated_at": "2026-09-17T13:53:22.426680+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2293,6 +2293,16 @@
       "category": "other"
     },
     {
+      "id": "0de60f797fda0e62",
+      "title": "Trouble Ahead: SB 79 Comes for South Pasadena – What the New Statewide ‘Transit Housing Law’ Actually Is - South Pasadena News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0hkTDg3VjdZamZ6S3BKMUdQclBKcU8zcFlaUVJwazZNclZ1Q1pVaFUwY2JIRzdodWpOTzVyX1l0S3drQTNSUjl2U1dvZUVWdzVxNGtBYV9iQkFIWXc4Q2dfWV8yRE56TXJRQzhoY092MnY5V2pZa2NuTjVpUTNtVTBtbnBtVjJSX0lnUE81c3E4U205N0QzY1dkcTdQYTF6ZVV4cmpXOHlrTE9DVmlCQ2phanJ1WmxxSTJnZUtRZEttdnU4Zmc?oc=5",
+      "source": "South Pasadena News",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0hkTDg3VjdZamZ6S3BKMUdQclBKcU8zcFlaUVJwazZNclZ1Q1pVaFUwY2JIRzdodWpOTzVyX1l0S3drQTNSUjl2U1dvZUVWdzVxNGtBYV9iQkFIWXc4Q2dfWV8yRE56TXJRQzhoY092MnY5V2pZa2NuTjVpUTNtVTBtbnBtVjJSX0lnUE81c3E4U205N0QzY1dkcTdQYTF6ZVV4cmpXOHlrTE9DVmlCQ2phanJ1WmxxSTJnZUtRZEttdnU4Zmc?oc=5\" target=\"_blank\">Trouble Ahead: SB 79 Comes for South Pasadena – What the New Statewide ‘Transit Housing Law’ Actually Is</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South Pasadena News</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
       "id": "4e1f6df58952aa21",
       "title": "Proposed Modular Housing Complex in Hollywood to Face City Planning Commission - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFR1VUVKQVN3QVhlMnRzYWU2OERYazZEX08zcW9DcVZUZGloajVNR1E0Mm83cHg3X3pHU0FFbDI4T2lyMmh3RnR5UlgwRWJGOS1kdUlHS2o4OUZLaEp3ZmhTdE1iaExlelU3dlJvYWFKSG12TVA4SnZObndyZzcwNHNSMFB3S2VCR1Z4ZTZnczNUdWlHSlJRSU56cllnTl9kZkQ0YQ?oc=5",
@@ -4033,6 +4043,16 @@
       "category": "policy"
     },
     {
+      "id": "6cc88db494c8da14",
+      "title": "Measure ULA tax forces homeowners to think twice about selling - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODdHaWtTNHJLcXBkaUFpaDd0VlFMQlFCM2ZGMTJ0N0JDcWg1eHZCczVoOEVEZkRzbDlwYk0yYlBrNkRkWnU4ckE4Slc5Y05UMG9ENXhmcDRoNjJocFpsSnNYQU9iUmJnRGZHSWRheTNuMkQtMllKM3BINUVsQnRFYW81cl9ab2lfR0hFNDlSR1Z6MlhSY25VNg?oc=5",
+      "source": "The Real Deal",
+      "published": "Sun, 26 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPODdHaWtTNHJLcXBkaUFpaDd0VlFMQlFCM2ZGMTJ0N0JDcWg1eHZCczVoOEVEZkRzbDlwYk0yYlBrNkRkWnU4ckE4Slc5Y05UMG9ENXhmcDRoNjJocFpsSnNYQU9iUmJnRGZHSWRheTNuMkQtMllKM3BINUVsQnRFYW81cl9ab2lfR0hFNDlSR1Z6MlhSY25VNg?oc=5\" target=\"_blank\">Measure ULA tax forces homeowners to think twice about selling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "c65e2c9736e7582f",
       "title": "Townhome-style apartments approved at 9335 Noble Ave. in North Hills - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVpTTFNWZGhaTHhkUmpTaDE3dG0yODhueWFMV3FrS2ViTDhMNUhoazVPR2pXczBvbVdhdUJnelpXRVBlNFNRSTF1SEYtWkJXbHI2VmhvV3RnTVlsczJTcE5hejh2N0l0RVpBd3VzQXNJMzJTd3ZIZ3drZlpyeXFBWF9TcHU3bkxGZFYzYTgzV1FtTlhGQ3c?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXhXb0xvYk5KSWJNLUFuOGtOU3ZOQUVMWFlFM3JtVG1OSEUybzV5NEF5ZGpuOHFBcElnMU83TVJCYlRMTmx4eDVoMVF0Z3M5QmZ4bHl2cy1wVlVFNlVPUHd3SDFqNVhfMEtQZk5WcDNLaHgzLWFUeFFWRXB0N0RWbVV3OWZ3djh0WjB1ckVsNkpRVmNLUHlicnQ2bUQ1WWticE9ERmJEUW1XcWRhb1drNw?oc=5\" target=\"_blank\">Santa Monica Council Approves Controversial Building Code Changes Despite Safety Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "construction"
-    },
-    {
-      "id": "c92ff93cd99aba48",
-      "title": "City Planning Commission approves residential towers at 2143 E. Violet St. in DTLA - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQblBtaVlXc1BlVkVrc0FFem56RDhJNFBzY3R0WXM1LWlRTVVYa3BvV3UtNEJjcFBMelVXWTFXOEhIeVN6TzR5aXktWS0ybmdEM2xaSGZ1NDI4bXFzZ2o0Z0p2dmg4T0RsWVkyeHFHdFJJVnRBbERLV2R5VmJVRm04eEVIYlFkWTRROFB5Z09ZU0JTc1ZSajN4UTAyckdOLUFUUmlVNURhWQ?oc=5",
-      "source": "Urbanize LA",
-      "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQblBtaVlXc1BlVkVrc0FFem56RDhJNFBzY3R0WXM1LWlRTVVYa3BvV3UtNEJjcFBMelVXWTFXOEhIeVN6TzR5aXktWS0ybmdEM2xaSGZ1NDI4bXFzZ2o0Z0p2dmg4T0RsWVkyeHFHdFJJVnRBbERLV2R5VmJVRm04eEVIYlFkWTRROFB5Z09ZU0JTc1ZSajN4UTAyckdOLUFUUmlVNURhWQ?oc=5\" target=\"_blank\">City Planning Commission approves residential towers at 2143 E. Violet St. in DTLA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "ad3aa8616f7421b4",
-      "title": "Who's Building L.A: Seismic Code Changes: What is the Update and How Does it Affect You? - labusinessjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXY1bm4xNWE3QVZIV0Z3a3Y3ejBhLTJoYm13QldOdnNZdkRzWDZjeVhBM3R3WGdnYTVZd010TDdVRnZUdGphaXh2aVJtQ0RkbngzUVFPMHc0cmJWUkhYYnctbUJLSTl5bUl5RnZHTzRfaVJwb2gtMmNsdUxqSUxrYXBTQmZOaEUtbG40ckUyRDBDTnR2VkNZT3lR?oc=5",
-      "source": "labusinessjournal.com",
-      "published": "Mon, 15 Jun 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXY1bm4xNWE3QVZIV0Z3a3Y3ejBhLTJoYm13QldOdnNZdkRzWDZjeVhBM3R3WGdnYTVZd010TDdVRnZUdGphaXh2aVJtQ0RkbngzUVFPMHc0cmJWUkhYYnctbUJLSTl5bUl5RnZHTzRfaVJwb2gtMmNsdUxqSUxrYXBTQmZOaEUtbG40ckUyRDBDTnR2VkNZT3lR?oc=5\" target=\"_blank\">Who's Building L.A: Seismic Code Changes: What is the Update and How Does it Affect You?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">labusinessjournal.com</font>",
-      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
-      "category": "other"
     }
   ]
 }
