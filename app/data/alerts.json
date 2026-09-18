@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T07:06:06.259960+00:00",
+  "generated_at": "2026-09-18T12:26:27.281502+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4353,6 +4353,16 @@
       "category": "policy"
     },
     {
+      "id": "06b72cafbdc53c7b",
+      "title": "Meet Jorge Hernandez Rosas, Candidate For Los Angeles City Council District 9 - patch.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjVDU29VYU5YVlZMa3NocU5BYmQ5OGU2eWlXaElKazB5THBFaWpIZnFsRFQ2V2UzenItTkhSdGZjSHNLN0lhdFQ2cTJuT2V0VjUzdVBlX2dlYTRMYlg2b2pMZ2lfQWVLdWhFci1MenZxWllaWGpYMmZOdlRsajZPeU1neElYX2VoM3NDb19kejQtQTBpMEd5TWx1a3hEQ2ZXcUxQUUZjUnZZOHZENkgtNmJ5cw?oc=5",
+      "source": "patch.com",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjVDU29VYU5YVlZMa3NocU5BYmQ5OGU2eWlXaElKazB5THBFaWpIZnFsRFQ2V2UzenItTkhSdGZjSHNLN0lhdFQ2cTJuT2V0VjUzdVBlX2dlYTRMYlg2b2pMZ2lfQWVLdWhFci1MenZxWllaWGpYMmZOdlRsajZPeU1neElYX2VoM3NDb19kejQtQTBpMEd5TWx1a3hEQ2ZXcUxQUUZjUnZZOHZENkgtNmJ5cw?oc=5\" target=\"_blank\">Meet Jorge Hernandez Rosas, Candidate For Los Angeles City Council District 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">patch.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "a8b0bf5779cf4ac7",
       "title": "LA Council Committee Holds Off On Ballot Proposal to Reform Measure ULA - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJlZDNJZEFLbE5FcFBVdzBsYW0xaFl6SDEyME9jX01HclNRQ2w2NDR0X091Q0o0YVpNSUdjSk5yQlhvUUREckJvMjFzb3RRTGYtVm1WdWdza25Ha1hVVjNlZ0x4dmZoV2wtem9TUXFPQ050MjlLbGt2U09oR1I2NnNsa3VSN0lZVnZyY3hPNzFleENlejh6aUU5M3l4ZExLM1NaTTNVV1RpcF9xX1JwSklRVFc?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMm9KLXlfRDFiaXF6T3JDM2ZzWURkdk9CeE1oTGg1cW16WXk2RkUwbWZJcGM3Und0SEFLd0ZpY0E5WUdpb3hTWnU5bkx6YkxBdFI5ZGpnZlg0anRyUjkxSjZMWFdIa2VBRmRtY1lwUlRwZW1kWG5QNG85NDJKZl9xNThyVnhVdld0d2hVZGg2WWp3eE5rWXYwdl8tNkxoQ2Z3LXdsYXVEQXQ3Y01ZUnFISmJlVE01NWJFclVPSEhrSS1rNWtBeTgySTB1ZzhBeHdNazZzUldvV2dGbzNwSDFDc2hwZlVjd09pakZR?oc=5\" target=\"_blank\">Santa Ana Residents Say Landlords Are Evicting Them Ahead of New State Law, City Council Balks on Emergency Tenant Protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Voice of OC</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "a29cedd63097af63",
-      "title": "Here are the candidates for LA City Council District 5 - LA Public Press",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVdiOTFYMlZaRlNiTF9vVTdBY2Q5SWE5Y1pwZ1ppcVRub0JMc2daNFoycjNGX1pqMEpsWC1JZTRWbXJIamg5OUVJV3FlUHN3akY3Z0tLZ01KY3Zoa2FIY3h6aUt6TXhnSktkVUU2RlR6MGlZdENMMEdraV9nSzk3MHJxTmx4cHJK?oc=5",
-      "source": "LA Public Press",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVdiOTFYMlZaRlNiTF9vVTdBY2Q5SWE5Y1pwZ1ppcVRub0JMc2daNFoycjNGX1pqMEpsWC1JZTRWbXJIamg5OUVJV3FlUHN3akY3Z0tLZ01KY3Zoa2FIY3h6aUt6TXhnSktkVUU2RlR6MGlZdENMMEdraV9nSzk3MHJxTmx4cHJK?oc=5\" target=\"_blank\">Here are the candidates for LA City Council District 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Public Press</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
     }
   ]
 }
