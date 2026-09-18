@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:46:46.648265+00:00",
+  "generated_at": "2026-09-18T19:16:53.211549+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1869,6 +1869,16 @@
       "source": "Los Angeles Daily News",
       "published": "Tue, 23 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFcyQ05nMkVOUk9Kdzd3YWltZHM1Vk1Fa2lzX28yNmptS0otX3dSaWJqMjN5MWQzUFZ6c0h1dU1INlc1bk5sam1XNF9PdDh0Sy10QUdBWVpDTmQzM3d2WklGYmhiZUtSX3NzbnY0eGFXVG5hYXEwdVo5ZWhOUDNWdUJkdko2N0pVeHFFeGwzUVBkcDlGOVBUVTlDOEY3Q3c?oc=5\" target=\"_blank\">LA Council votes to place sales-tax hike on ballot to fund LAFD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
+      "id": "02615ee03852b47f",
+      "title": "LA Council Confirms Appointment of Beatrice Hsu to Harbor Commission - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVVmQURtSXplbzlPTUxVZ0tMN052dTFBY3V5ZTg3SEJ0UGdGWHhwRXBrTHRWS2lDQl9CTVNHY20yMndMdXB2SVI5VXdvNFdJZDR3bm5WR25NWkFTMHI2bTlvWS1TWGY4YzFVNU12TU5seU9MUkI4V1lVTW43UlFwUDBzb0Nhdk8wQldGYXZac2VpUVZScjBZclF3eUFMTnVjR2FkaHl5bW9nLV9leHpv?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVVmQURtSXplbzlPTUxVZ0tMN052dTFBY3V5ZTg3SEJ0UGdGWHhwRXBrTHRWS2lDQl9CTVNHY20yMndMdXB2SVI5VXdvNFdJZDR3bm5WR25NWkFTMHI2bTlvWS1TWGY4YzFVNU12TU5seU9MUkI4V1lVTW43UlFwUDBzb0Nhdk8wQldGYXZac2VpUVZScjBZclF3eUFMTnVjR2FkaHl5bW9nLV9leHpv?oc=5\" target=\"_blank\">LA Council Confirms Appointment of Beatrice Hsu to Harbor Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "other"
     },
@@ -4989,16 +4999,6 @@
       "source": "The Real Deal",
       "published": "Mon, 19 Dec 2022 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaS1WWU1BUGdsczk4Ukl6OEJ0M3BNRGQ1R2MtWVpQakh6UktITXhxd3V4cEJtWWxFcTBDT2J3dU5ZQjRFZm9rOUxEdnoxa2tWYkRuUEJCbzdCY2hxNlQ3Ylo3X3VSR0wzN0I1NW1wVlJNbjh5ZEdKd1A3bVl6TEkyenI5QmRNckJVSUNCUWp1aTBfeTk0SVpNNUlnaw?oc=5\" target=\"_blank\">LA Councilwoman Nithya Raman Pushes Just Cause Evictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
-    },
-    {
-      "id": "ee6dd62a33768c14",
-      "title": "Santa Ana Residents Say Landlords Are Evicting Them Ahead of New State Law, City Council Balks on Emergency Tenant Protections - Voice of OC",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMm9KLXlfRDFiaXF6T3JDM2ZzWURkdk9CeE1oTGg1cW16WXk2RkUwbWZJcGM3Und0SEFLd0ZpY0E5WUdpb3hTWnU5bkx6YkxBdFI5ZGpnZlg0anRyUjkxSjZMWFdIa2VBRmRtY1lwUlRwZW1kWG5QNG85NDJKZl9xNThyVnhVdld0d2hVZGg2WWp3eE5rWXYwdl8tNkxoQ2Z3LXdsYXVEQXQ3Y01ZUnFISmJlVE01NWJFclVPSEhrSS1rNWtBeTgySTB1ZzhBeHdNazZzUldvV2dGbzNwSDFDc2hwZlVjd09pakZR?oc=5",
-      "source": "Voice of OC",
-      "published": "Mon, 18 Nov 2019 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMm9KLXlfRDFiaXF6T3JDM2ZzWURkdk9CeE1oTGg1cW16WXk2RkUwbWZJcGM3Und0SEFLd0ZpY0E5WUdpb3hTWnU5bkx6YkxBdFI5ZGpnZlg0anRyUjkxSjZMWFdIa2VBRmRtY1lwUlRwZW1kWG5QNG85NDJKZl9xNThyVnhVdld0d2hVZGg2WWp3eE5rWXYwdl8tNkxoQ2Z3LXdsYXVEQXQ3Y01ZUnFISmJlVE01NWJFclVPSEhrSS1rNWtBeTgySTB1ZzhBeHdNazZzUldvV2dGbzNwSDFDc2hwZlVjd09pakZR?oc=5\" target=\"_blank\">Santa Ana Residents Say Landlords Are Evicting Them Ahead of New State Law, City Council Balks on Emergency Tenant Protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Voice of OC</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     }
