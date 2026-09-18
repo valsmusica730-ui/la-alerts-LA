@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:13:10.726376+00:00",
+  "generated_at": "2026-09-18T07:06:06.259960+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2121,6 +2121,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdmpNZHlnYlZUd0EwZk1DVk1sM1JjYndrX2dNSWdlcWJvTi1qNWZLTkx4R0xDMS1oNVpxZTZYLUV1Q0E0VXVLNFZycm0zTERRd3lMY1ZZVlBPcFFPLTNjb183MXkzTkNiYVpzdmZmdHMtSi1jZWliM0c3eUVMbm4tMjlpb1pYX3BISm00?oc=5\" target=\"_blank\">Mixed-use project approved at 6727 Melrose Ave. in Hollywood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "1c4bd581b3dc7d14",
+      "title": "Duplexes are now banned in post-fire Palisades. Here’s why they’re still allowed in Altadena - LAist",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVBhLUdhYXByNVZVcnc5MldQWFZpTUNiNDd2a3JtMVhlU1phbU5aZC1sNC1XdWVTbDJVdHB1QUVSclEwOEdHSl9oVXhIaGJieG5tNDZmZmZLQnkweGl1b2lEcVBOM3J2VWRxTWM4MExSUkhSSGZ3d0hYOW5pYlJnOW9qbXV3NnRJeU1GUmJESG1KUktZZ0dMXzRyd2dhYkZ5U3hGcWw5c2hpd1piS3lHOG5PUURBVE40MkVTM3BDT3dOa09fTTUyOWhn?oc=5",
+      "source": "LAist",
+      "published": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVBhLUdhYXByNVZVcnc5MldQWFZpTUNiNDd2a3JtMVhlU1phbU5aZC1sNC1XdWVTbDJVdHB1QUVSclEwOEdHSl9oVXhIaGJieG5tNDZmZmZLQnkweGl1b2lEcVBOM3J2VWRxTWM4MExSUkhSSGZ3d0hYOW5pYlJnOW9qbXV3NnRJeU1GUmJESG1KUktZZ0dMXzRyd2dhYkZ5U3hGcWw5c2hpd1piS3lHOG5PUURBVE40MkVTM3BDT3dOa09fTTUyOWhn?oc=5\" target=\"_blank\">Duplexes are now banned in post-fire Palisades. Here’s why they’re still allowed in Altadena</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "other"
     },
     {
       "id": "dfba5cd084810bde",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVdiOTFYMlZaRlNiTF9vVTdBY2Q5SWE5Y1pwZ1ppcVRub0JMc2daNFoycjNGX1pqMEpsWC1JZTRWbXJIamg5OUVJV3FlUHN3akY3Z0tLZ01KY3Zoa2FIY3h6aUt6TXhnSktkVUU2RlR6MGlZdENMMEdraV9nSzk3MHJxTmx4cHJK?oc=5\" target=\"_blank\">Here are the candidates for LA City Council District 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Public Press</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "24f63969812f246e",
-      "title": "Mixed-use project approved at 825 S. Hampton Dr. in Venice - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVhJS3FPSzVHMVFvQm9LbmpDN2lkdjRmODVvekZiLXYxVnE2Q0NmWWkzWmJxajRHVGJCVzZTSVlGNUVMNERlbUlYMmZOdWEwV0E4dFRuakVadlBHODNXVl9LS2ZhNnBsQnRLNkdmV2R3V3EyRllJaFRqd18ybDhVaXV2MThKcW8?oc=5",
-      "source": "Urbanize LA",
-      "published": "Mon, 18 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVhJS3FPSzVHMVFvQm9LbmpDN2lkdjRmODVvekZiLXYxVnE2Q0NmWWkzWmJxajRHVGJCVzZTSVlGNUVMNERlbUlYMmZOdWEwV0E4dFRuakVadlBHODNXVl9LS2ZhNnBsQnRLNkdmV2R3V3EyRllJaFRqd18ybDhVaXV2MThKcW8?oc=5\" target=\"_blank\">Mixed-use project approved at 825 S. Hampton Dr. in Venice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
