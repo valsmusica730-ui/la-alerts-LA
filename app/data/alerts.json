@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:02:24.022515+00:00",
+  "generated_at": "2026-09-19T21:53:29.804077+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2693,6 +2693,16 @@
       "category": "policy"
     },
     {
+      "id": "257acdfa6a6130c5",
+      "title": "LA City Council Expected to Discuss Ending COVID-19 Eviction Moratorium - KFI AM 640",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmtLS1c4RGxMcFlueVExeDcwTHF0OGdFWEdCeFEzdEZZYjZ4dXhra2JpamZpWWRSWU9ybUNNRVU5ZGJYUkI1RWZCeFIwQ2hCclJjTkhsTkZlbHpRUkc5LWdMLUxQZ2ZPV1RfV3Q3N1pDQ1QyNTcxbms2b0VpUGcyWFhBeEpZWV80eVprYk42VzBkOHh1a1Vrc2I0Q0tWMVpkeHZCdlJrQmJ1WmZ6U1ExeldIRVlhYUt5X2dqdTdKWF84U3YySE9TQXpxVDlZdE5rQm9jQlZUV3Vud9IBwwFBVV95cUxOYnJUcDBlT3BZQ0ZJQThacmJSa2ZZTG9XdVF0LW0xd0toYzFDajlPM2N3YVlKWWkyQ1V1V2xBUi1nVUV1QlNnSk9xNlpOZTBFOXR3NXBFb2FCVlFDN013a0xxUVN0YzRiY3FQNlpRQzNuN00xREt4QjljS2kzcEIwZVYyRWh6M21pUy1oejg4MEI1YTZPUUhWeW9kZ3I0QkhGeDloV0JnWFlySU1GNVljNTJ4WU1VaHFadmxfdVRLcUlCcnM?oc=5",
+      "source": "KFI AM 640",
+      "published": "Tue, 04 Oct 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmtLS1c4RGxMcFlueVExeDcwTHF0OGdFWEdCeFEzdEZZYjZ4dXhra2JpamZpWWRSWU9ybUNNRVU5ZGJYUkI1RWZCeFIwQ2hCclJjTkhsTkZlbHpRUkc5LWdMLUxQZ2ZPV1RfV3Q3N1pDQ1QyNTcxbms2b0VpUGcyWFhBeEpZWV80eVprYk42VzBkOHh1a1Vrc2I0Q0tWMVpkeHZCdlJrQmJ1WmZ6U1ExeldIRVlhYUt5X2dqdTdKWF84U3YySE9TQXpxVDlZdE5rQm9jQlZUV3Vud9IBwwFBVV95cUxOYnJUcDBlT3BZQ0ZJQThacmJSa2ZZTG9XdVF0LW0xd0toYzFDajlPM2N3YVlKWWkyQ1V1V2xBUi1nVUV1QlNnSk9xNlpOZTBFOXR3NXBFb2FCVlFDN013a0xxUVN0YzRiY3FQNlpRQzNuN00xREt4QjljS2kzcEIwZVYyRWh6M21pUy1oejg4MEI1YTZPUUhWeW9kZ3I0QkhGeDloV0JnWFlySU1GNVljNTJ4WU1VaHFadmxfdVRLcUlCcnM?oc=5\" target=\"_blank\">LA City Council Expected to Discuss Ending COVID-19 Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFI AM 640</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "b4506caaf51cb18e",
       "title": "Upzoning Was Meant To Fix L.A.’s Housing Crisis—Is It Making It Worse? - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOODAxR2s5UENjV24ybWVzcHR1OWFyZ01SdzZtWVNOU2VzdGo4N0FnWGtRYkRzaFZXSDZXS0g2cWxkeWFwUWo2Rmlfa2oyNUpqMWhGSUVnRkZHLUoxRzV5ZTMtcHZ3a1Y0VVNCRE9PSV9QSG1mTVozYVJ4MEh5MDFNTzhzRDBPVFItb1ZjZw?oc=5",
@@ -4193,6 +4203,16 @@
       "category": "zoning"
     },
     {
+      "id": "554d7d7132ec50a9",
+      "title": "California’s housing crisis: Would SB 9 zoning bill make a big impact? - Victorville Daily Press",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVZlTHA1QTBNVzhEdHZpRjdDeEUxMERhMmp0N3BtdkVfZ3ZlY044VDc2U3ZYOGtxLUV5WWpKYkdOejczdFE2V29qV0hhZ0Z4TEtYVklUYUF3RjRKVHdNNXpGbVpRb1k2WHRUMGdRZW9UbzVQb1pXVFpJalVvSHpwY1FOMmJxWVEyM09lOW9lVEtOR0J3RFg2LVRHSzFEbzlzcGtqY2RyWmotM0JhX09qbEdaSFlISGhWa2I5OThoWVF2RWI5alBtMDR3UjhwNWlnNlE?oc=5",
+      "source": "Victorville Daily Press",
+      "published": "Sun, 22 Aug 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVZlTHA1QTBNVzhEdHZpRjdDeEUxMERhMmp0N3BtdkVfZ3ZlY044VDc2U3ZYOGtxLUV5WWpKYkdOejczdFE2V29qV0hhZ0Z4TEtYVklUYUF3RjRKVHdNNXpGbVpRb1k2WHRUMGdRZW9UbzVQb1pXVFpJalVvSHpwY1FOMmJxWVEyM09lOW9lVEtOR0J3RFg2LVRHSzFEbzlzcGtqY2RyWmotM0JhX09qbEdaSFlISGhWa2I5OThoWVF2RWI5alBtMDR3UjhwNWlnNlE?oc=5\" target=\"_blank\">California’s housing crisis: Would SB 9 zoning bill make a big impact?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Victorville Daily Press</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
       "id": "88155b85d421c2f3",
       "title": "California Enacts Historic Housing Reform Laws - Legal Planet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWdkdkZsREpzVWd4NlprV2JuVDBzQTg1ZHlrUElJbWQ2cHh6Y0d3ZUVpU3J0RXY3ajN2Zkw1aTktMlhnVWFtUXR3dTkwZHliS0wwQW8yamg0OHFhdnBCaG1aZjN2TGlEXzFHWnFJR0JQb0dIS1l5d2MzUTFCcElYYUJoTU9PSXZPMDU0?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBGeWlqczltUTg0UjRGWXJhX0dsZXZ0ZW01ZE10QnB2ckJsNVhOQWtXRWxueVR0aEdfS0xvTDlSOWc4bDZwNVFmTk44elp6M0lqM1RRRTVmMGpLTjRCU0hzMENYdWREQlBWQ1hMX2lnaTVYbUlDOEZIcURxaEdoZ9IBgwFBVV95cUxOamNfdG9WUE5hbFdWSlczRjVRVVQxeDFfMkdjdmRBNXAzV0gwSnFJV0g3X2oyNThQYjZsUDVGNFlGdEQ5bjUyXzNKQVJmSTdvR1BJZUVzNWhFVHZ3Z0cwa3hFR0k4b1F6QkhLZ2ZkNTJSNUhGSkFqQm9vQ1hwQnRCa2kzaw?oc=5\" target=\"_blank\">Penang Imposes Ban On Airbnb Across Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel and Leisure Asia</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
-    },
-    {
-      "id": "c971885af2d33eba",
-      "title": "Penang Imposes Ban On Airbnb Across Island - Travel and Leisure Asia",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbkNSVk5yNDNpbnJKWVZrN0xFQlA0LTdvNDNqN3BvMjNwSk9qZ0Jwb1lVempjaDVJLWN3NUdDNTlENl84S0JNa0lnc3VKbDB6SjVUalhkT1dGbnVTMEhvd3N1VDh4bkpZd0Fzb0dheWhqQndnYUNUakpkbHdrNzJBSWhkY2N6dTFZQnVxZHd3SdIBlAFBVV95cUxPME4yV2U1OEx1RDFqX0hFZUIzVk0xMTZyQU81SWpkZ3ExeTBuQXk3T0NzTzJiVWdFMldGeS10TU84M0J5UFlNOU5Ha2hGZkNHZnRSSnIyQS05Zm9DMm9GSkVMVl9JQ2FoeFdxczhBcWkwSXRuZU8zMS1PVURpazZWS21xdUxId0dsU1dFb3k1X2FZLXZo?oc=5",
-      "source": "Travel and Leisure Asia",
-      "published": "Mon, 21 Aug 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQbkNSVk5yNDNpbnJKWVZrN0xFQlA0LTdvNDNqN3BvMjNwSk9qZ0Jwb1lVempjaDVJLWN3NUdDNTlENl84S0JNa0lnc3VKbDB6SjVUalhkT1dGbnVTMEhvd3N1VDh4bkpZd0Fzb0dheWhqQndnYUNUakpkbHdrNzJBSWhkY2N6dTFZQnVxZHd3SdIBlAFBVV95cUxPME4yV2U1OEx1RDFqX0hFZUIzVk0xMTZyQU81SWpkZ3ExeTBuQXk3T0NzTzJiVWdFMldGeS10TU84M0J5UFlNOU5Ha2hGZkNHZnRSSnIyQS05Zm9DMm9GSkVMVl9JQ2FoeFdxczhBcWkwSXRuZU8zMS1PVURpazZWS21xdUxId0dsU1dFb3k1X2FZLXZo?oc=5\" target=\"_blank\">Penang Imposes Ban On Airbnb Across Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel and Leisure Asia</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "bfd752e575f8b752",
-      "title": "After Years of Failure, California Lawmakers Pave the Way for More Housing (Published 2021) - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMG0wZEVqb0x6cWlVRmpvOFBQaHJiZmkwR3JBVWxsNUNPaTE0bkJzRWdxa1BTNThOQ2FtY211RUdmV3JVTEV4NjhxMjNwVjdoVEY3SUxCNkc5aGdDMThDN0pPdGxCNU9VQkpLRUpLY0lEbWdDZWNNM29lMkNKV3ZUOVhNWXBqSUU?oc=5",
-      "source": "The New York Times",
-      "published": "Mon, 20 Sep 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMG0wZEVqb0x6cWlVRmpvOFBQaHJiZmkwR3JBVWxsNUNPaTE0bkJzRWdxa1BTNThOQ2FtY211RUdmV3JVTEV4NjhxMjNwVjdoVEY3SUxCNkc5aGdDMThDN0pPdGxCNU9VQkpLRUpLY0lEbWdDZWNNM29lMkNKV3ZUOVhNWXBqSUU?oc=5\" target=\"_blank\">After Years of Failure, California Lawmakers Pave the Way for More Housing (Published 2021)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
     }
   ]
 }
