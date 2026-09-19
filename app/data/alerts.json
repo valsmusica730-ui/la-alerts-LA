@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:52:21.570414+00:00",
+  "generated_at": "2026-09-19T19:02:24.022515+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1303,6 +1303,16 @@
       "category": "policy"
     },
     {
+      "id": "d24be72c9eea5efd",
+      "title": "Measure ULA challenger backs Steve Hilton for governor - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZll5OU5Qc0dEXzd5MEZoazRLZ2EzVzdSeUJ3THgzc2FQeHF6SS1EQ3VGMXo3QUZuejAyOEtpTUV0OGc3V01FVjNtdGpLdHhWeFU0VmlSSDBPTTItb1lIblNSaWljUldBQjNtXzJITVRpOUYtSE1fM0hOb09PTElscUZmQjU4aWVaWk9PRjhySDF2X3g1S3c?oc=5",
+      "source": "The Real Deal",
+      "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZll5OU5Qc0dEXzd5MEZoazRLZ2EzVzdSeUJ3THgzc2FQeHF6SS1EQ3VGMXo3QUZuejAyOEtpTUV0OGc3V01FVjNtdGpLdHhWeFU0VmlSSDBPTTItb1lIblNSaWljUldBQjNtXzJITVRpOUYtSE1fM0hOb09PTElscUZmQjU4aWVaWk9PRjhySDF2X3g1S3c?oc=5\" target=\"_blank\">Measure ULA challenger backs Steve Hilton for governor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "ace072ba764c4205",
       "title": "Housing policy isn't that complicated - by Matthew Yglesias - slowboring.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xVXlrLVp6dHpZTnlFeDVWTEMxTFJrcmgzelM1RDRzXzlDbkp0Mk40RXQxaVk3MGQ4Q1VtMUFIVVF5R2JkejBQcFluTEFvWGF6aHp5UjJRXzNENGpWTTB1OWJHVGx2MzlNM1pwdi01eVpwakU?oc=5",
@@ -1571,6 +1581,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxON3ZSVFJST1VoZU9OWU9zOGk1LXNoSFp3bTBDVUZxeE9GWGdmWkdQYUl0S09ESkFFODVWaGc4NE93cjBzcmRhdzZlSWRWSVB5QXFOUVExOS03bEo4NkEzYzk5RmEwdklEUklLUHBpZHNXanNyWDRzRTZUTE1mamR0LV9vcmlJbjljMW9TMEdyZ0lZUWIzV3c?oc=5\" target=\"_blank\">California Housing Laws That Go into Effect in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terner Center</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "other"
+    },
+    {
+      "id": "7d3f35c069c62339",
+      "title": "L.A. City Planning Commission Rejects Five TOC Appeals - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHAyTmd3ZEZMUU4xT0trV1Z3Y0k4aTllaU5sOUc0dzNUYWx3WHE5NFNSLXdZQXRGTWRDdXFsNVJ3ODhHM255LXFUZmoycmpLNkhkbUVkUDZpRkNhVnNfWXF0R05JSnJ0dTNiZ3Ffbm10UnlzYmlTVEU5cEpXam5NVkJ2em9ZSW1PcVE?oc=5",
+      "source": "Urbanize LA",
+      "published": "Tue, 29 Oct 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHAyTmd3ZEZMUU4xT0trV1Z3Y0k4aTllaU5sOUc0dzNUYWx3WHE5NFNSLXdZQXRGTWRDdXFsNVJ3ODhHM255LXFUZmoycmpLNkhkbUVkUDZpRkNhVnNfWXF0R05JSnJ0dTNiZ3Ffbm10UnlzYmlTVEU5cEpXam5NVkJ2em9ZSW1PcVE?oc=5\" target=\"_blank\">L.A. City Planning Commission Rejects Five TOC Appeals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "legal"
     },
     {
       "id": "563e092ca8d29bf6",
@@ -2813,6 +2833,16 @@
       "category": "policy"
     },
     {
+      "id": "4fdd5e4501850371",
+      "title": "LA Council Votes Tuesday on Right to Counsel Ordinance for Renters Facing Eviction - mynewsla.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV2ROTWtGOGZaVnpobHdZemtGMFQ2UzRGanp2Nlh1VzhCTmxiS2N3bUpXelZRLWdTNTFmTVRPV1BxUWM0WllsSXN4SmtqR2RGNUkyMGdUQVNPVHdHZVNHcDc1OXloRjNhWG5abjlPaTM2QTNhMERYRlItcFBKUE4zZVJrSDIxeWhlZWxNSkRFc29za0tvYjFB?oc=5",
+      "source": "mynewsla.com",
+      "published": "Tue, 01 Apr 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNV2ROTWtGOGZaVnpobHdZemtGMFQ2UzRGanp2Nlh1VzhCTmxiS2N3bUpXelZRLWdTNTFmTVRPV1BxUWM0WllsSXN4SmtqR2RGNUkyMGdUQVNPVHdHZVNHcDc1OXloRjNhWG5abjlPaTM2QTNhMERYRlItcFBKUE4zZVJrSDIxeWhlZWxNSkRFc29za0tvYjFB?oc=5\" target=\"_blank\">LA Council Votes Tuesday on Right to Counsel Ordinance for Renters Facing Eviction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mynewsla.com</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "rent"
+    },
+    {
       "id": "829e57ce694f1b5d",
       "title": "4 Cities Sue to Stop New California Law Permitting More Homes in Single-Family Neighborhoods - Times of San Diego",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWRlRGNWXzB1WVJkZTF3bDd2NzFoemNwZy1jd094bEs2djU0S0hJLU1UNnZJZXFFVkhieHNleHNUcnlvSkRsUXBES3BxSWctVHFHU3JINEQzSnhmandTOEpqWmN1VVc5TVl0ZmNzZWdCSlA2ZVBfZTY1bTdQZjZPdEsxWmtIa0RQUWtrMHk3MS1iOURRRmJ1bGFXcnUxb1dQNWFZNTA1dEVkaWJFZ0tqaTdsN3NnVnhXYk5HMWVHY2JPZGw1Qk5LUHhqZ3NsOTlzbXM4RmNhdXE?oc=5",
@@ -3121,6 +3151,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEczdnpSX2dZYWpYMm5MdVdtNS1xc2R4VmNzNldESUEyMUFkaUpLaVVJdThkcjFNRmt2WW1EOTRfLWJWaE5ma1VDQnJrYVpWWTVieGJEVnEtWlA0LUdEbS00c3dvZ214YTRwYXpyQ04wTGFMWlYtLW9RZC1WckVTZkJrYVR0NG5WQ0ZzbGdwV29IdlctOHV4ekxZOU4zczR0dmhfdXFobXFNb01vdm56M243V1JTUVZMczdBMWtDSWJDMHJYUDdXU3NHNEU?oc=5\" target=\"_blank\">Chicago City Council allows coach houses with key exceptions for single-family districts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "policy"
+    },
+    {
+      "id": "a6a1af7890c0a9c3",
+      "title": "A Lawsuit That’s Forcing L.A. To Enforce Its Housing Voucher Discrimination Ban - Next City",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUyOENnYUloVzREV1IxQ2NudVJKVEp0b2FxZkJEUmp1MmpONVNaLXE5a2xaelhBaVhLZktkRHAwRU9NRVN0Y3cwdDhyR1dZeDhJaVdCOTYwODEzelJlRzNzTEJwX21DYlJGTnNoSkZyc25YdUNXZVF1aHlNZzVNazFKNDlpR2dqU0NsUXk1WTgzSThfV2RjTm8yR3lSdw?oc=5",
+      "source": "Next City",
+      "published": "Thu, 25 May 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUyOENnYUloVzREV1IxQ2NudVJKVEp0b2FxZkJEUmp1MmpONVNaLXE5a2xaelhBaVhLZktkRHAwRU9NRVN0Y3cwdDhyR1dZeDhJaVdCOTYwODEzelJlRzNzTEJwX21DYlJGTnNoSkZyc25YdUNXZVF1aHlNZzVNazFKNDlpR2dqU0NsUXk1WTgzSThfV2RjTm8yR3lSdw?oc=5\" target=\"_blank\">A Lawsuit That’s Forcing L.A. To Enforce Its Housing Voucher Discrimination Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Next City</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "legal"
     },
     {
       "id": "d25206c60546b521",
@@ -3761,6 +3801,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWtWa25tb3ExeWhKQVlVSlJRZzFXbk5YNGszenN0dVM4ellxU2ZqSEpWQWRzNU9sNlNxNzk3UXVReHNCZThTYjFNTFpUU004OXM5Zi02ajdqZkREU1ZENXluNDAxU2NmdnBQdjRiMGxPZl82Smg5RnNFcGF0Wmt0RGRHYTd5X2FaVmotRWd0aVk3Q2RQQUU4ZUFRemUtZ2Myd1RfMjZlSHNWbW5WVTY3ckN3?oc=5\" target=\"_blank\">Torrance enacts ordinance to ban smoking in multi-unit housing complexes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Breeze</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
+    },
+    {
+      "id": "4af7b86dbc4de560",
+      "title": "City Planning Commission Approves Two Affordable Developments in South L.A. - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVNubnZRSkZDRHA1bmI2S2txMDVvckw0MFVIT01PUGt5TThOd3prTS00NldlWDNiTk9BMThLaWMwT3ROckMxc2VUYkRpVi02dzRMT01WbkRfd1hjQ0JPN3F5MkJSRW1FVlpnZ3J5QkFvS3I5SGdaM3liWTlyRnpXS1RzUzljTjJBVDBqbE1JcVd1M3lQdTFkSGJwSW9feWtEVnc?oc=5",
+      "source": "Urbanize LA",
+      "published": "Thu, 09 Jan 2020 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVNubnZRSkZDRHA1bmI2S2txMDVvckw0MFVIT01PUGt5TThOd3prTS00NldlWDNiTk9BMThLaWMwT3ROckMxc2VUYkRpVi02dzRMT01WbkRfd1hjQ0JPN3F5MkJSRW1FVlpnZ3J5QkFvS3I5SGdaM3liWTlyRnpXS1RzUzljTjJBVDBqbE1JcVd1M3lQdTFkSGJwSW9feWtEVnc?oc=5\" target=\"_blank\">City Planning Commission Approves Two Affordable Developments in South L.A.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
     },
     {
       "id": "5a21bc2e09dd0ed6",
@@ -4951,56 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMG0wZEVqb0x6cWlVRmpvOFBQaHJiZmkwR3JBVWxsNUNPaTE0bkJzRWdxa1BTNThOQ2FtY211RUdmV3JVTEV4NjhxMjNwVjdoVEY3SUxCNkc5aGdDMThDN0pPdGxCNU9VQkpLRUpLY0lEbWdDZWNNM29lMkNKV3ZUOVhNWXBqSUU?oc=5\" target=\"_blank\">After Years of Failure, California Lawmakers Pave the Way for More Housing (Published 2021)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "other"
-    },
-    {
-      "id": "18c03630edb19f4d",
-      "title": "A California man started a petition to ban Airbnb in his neighborhood — and it worked - The Virginian-Pilot",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHVvYUQ1Uk9mWktkS1VHdXQyaVJMcVA4Yk1rOUtadEV6Z3dGUDQ5MjFzcWx1OV9EWERNWWFaX2o5a2FRM2h6U1J3eHhCRHNRT2hqck9ZNGhxMWNNdjdCUF9Rbk9kMnRYSTZxLW1Id2NfbTA3X1JGckowaWloWGVDOVFGZU1SSU81REhtQWFDWkF0R0hVZmxKaTVlQW9hOVNKUzRjcnJVS3RVYVlsZDBXS0N0SHdCLXlURmc2bVZ1cms?oc=5",
-      "source": "The Virginian-Pilot",
-      "published": "Mon, 20 May 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHVvYUQ1Uk9mWktkS1VHdXQyaVJMcVA4Yk1rOUtadEV6Z3dGUDQ5MjFzcWx1OV9EWERNWWFaX2o5a2FRM2h6U1J3eHhCRHNRT2hqck9ZNGhxMWNNdjdCUF9Rbk9kMnRYSTZxLW1Id2NfbTA3X1JGckowaWloWGVDOVFGZU1SSU81REhtQWFDWkF0R0hVZmxKaTVlQW9hOVNKUzRjcnJVS3RVYVlsZDBXS0N0SHdCLXlURmc2bVZ1cms?oc=5\" target=\"_blank\">A California man started a petition to ban Airbnb in his neighborhood — and it worked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Virginian-Pilot</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "48a3206291ebcfdf",
-      "title": "Editorial: California needs more housing and good jobs. There's a bill to create both - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZBd1BGSjBfcGlEdVZYc201R2ZldlpXRHNoMUZBUkQxdk51NlZLWFBmYkV5QXZuZm45SUJzTGdvaG45T3BWdUpQeGdETlExMzZRS0NvZHYxU1gtN1dsbm5yM1VJd3JqZWNlLWFzTFJUUlFUMlpXdlRsYzJWVWZqVlF5MXk5NGVRM1MxWE5sTkNZMGxZd0NXTy1RcTBCUTJYRnNJc3lZNXZnWkt6dkVWb1duWFJ2WG12bDdZaklOcmtfdHBIY09uSzcwUQ?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Mon, 20 Jun 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZBd1BGSjBfcGlEdVZYc201R2ZldlpXRHNoMUZBUkQxdk51NlZLWFBmYkV5QXZuZm45SUJzTGdvaG45T3BWdUpQeGdETlExMzZRS0NvZHYxU1gtN1dsbm5yM1VJd3JqZWNlLWFzTFJUUlFUMlpXdlRsYzJWVWZqVlF5MXk5NGVRM1MxWE5sTkNZMGxZd0NXTy1RcTBCUTJYRnNJc3lZNXZnWkt6dkVWb1duWFJ2WG12bDdZaklOcmtfdHBIY09uSzcwUQ?oc=5\" target=\"_blank\">Editorial: California needs more housing and good jobs. There's a bill to create both</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
-    },
-    {
-      "id": "0a6a1b8ba33288c9",
-      "title": "OpEd: Measure ULA Is Killing L.A. Housing - labusinessjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnd2Zl9jRXl5Qm1taDhGVWM1SlY3OEFYSFpXbmpBUHpWX1dhcHZDRzhZaFZ5Q2FoSXBrT2VQTEF1em1oNEtKQTNNQmtWb1I1U2llRUE3MmRMOE9qQUxPcUdrQTh1Q1hJNE42UzdyNFBmTXpMX2F5Vm9nUElJby1RT0NCZ1Z6QzVy?oc=5",
-      "source": "labusinessjournal.com",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnd2Zl9jRXl5Qm1taDhGVWM1SlY3OEFYSFpXbmpBUHpWX1dhcHZDRzhZaFZ5Q2FoSXBrT2VQTEF1em1oNEtKQTNNQmtWb1I1U2llRUE3MmRMOE9qQUxPcUdrQTh1Q1hJNE42UzdyNFBmTXpMX2F5Vm9nUElJby1RT0NCZ1Z6QzVy?oc=5\" target=\"_blank\">OpEd: Measure ULA Is Killing L.A. Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">labusinessjournal.com</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "7920e8a02ab51777",
-      "title": "The Black Box of Los Angeles: Who Oversees LADBS? - CityWatch LA",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlZiSmlTMkhOY05lc2FnT0VmWnFDVlNPZTlRUVh4TTc1cmxQS3pmdDREbTFDUnhPa3BzSy1BdzBnNkVmTXFfWmxxeW16MGpSamN4azZGaVFueDM5MHYwWTZoOFJwZ3M2SU00ajgtbjBfS0NyUDBETW16Ykh1S0xpVkszMFZnUTF2WGxmZVZfTEtkWlBUckI5Sw?oc=5",
-      "source": "CityWatch LA",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlZiSmlTMkhOY05lc2FnT0VmWnFDVlNPZTlRUVh4TTc1cmxQS3pmdDREbTFDUnhPa3BzSy1BdzBnNkVmTXFfWmxxeW16MGpSamN4azZGaVFueDM5MHYwWTZoOFJwZ3M2SU00ajgtbjBfS0NyUDBETW16Ykh1S0xpVkszMFZnUTF2WGxmZVZfTEtkWlBUckI5Sw?oc=5\" target=\"_blank\">The Black Box of Los Angeles: Who Oversees LADBS?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityWatch LA</font>",
-      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
-      "category": "construction"
-    },
-    {
-      "id": "bf63519f1215b2e8",
-      "title": "Appeals Court Partially Sides With LA Landlords In Challenge To Tenant Protection Laws - Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1EwVjZYS2RpcHpoajVQYXIzMjdRRGlOMjlMVTJsMUlDay1Jc0x1bUpiTGRrRzRfWG5aQWlteFFoVWpidHFJbWtqX3lhRUhweFlfOHhVQTBtSnlKd2ZibWJPeHdnU3BqUVdTUUxRbFRFYkV6dmRZQzBTOFo2S0FXRWppb3pfTXBVSENka1pEV0NFUUJYektRYnBkMm1hX3JBYTM4OGs5NndmVl9BNFdUX2R1ZlBScm50WktuUVhDSQ?oc=5",
-      "source": "Bisnow",
-      "published": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1EwVjZYS2RpcHpoajVQYXIzMjdRRGlOMjlMVTJsMUlDay1Jc0x1bUpiTGRrRzRfWG5aQWlteFFoVWpidHFJbWtqX3lhRUhweFlfOHhVQTBtSnlKd2ZibWJPeHdnU3BqUVdTUUxRbFRFYkV6dmRZQzBTOFo2S0FXRWppb3pfTXBVSENka1pEV0NFUUJYektRYnBkMm1hX3JBYTM4OGs5NndmVl9BNFdUX2R1ZlBScm50WktuUVhDSQ?oc=5\" target=\"_blank\">Appeals Court Partially Sides With LA Landlords In Challenge To Tenant Protection Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "legal"
     }
   ]
 }
