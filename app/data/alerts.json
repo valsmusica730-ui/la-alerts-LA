@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T05:14:41.806736+00:00",
+  "generated_at": "2026-09-19T16:52:21.570414+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3383,6 +3383,16 @@
       "category": "rent"
     },
     {
+      "id": "2a38bf83d9143946",
+      "title": "Renters, Landlords Both Looking For Action From Lawmakers As California Eviction Moratorium Set To Expire - capradio.org",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMUVyTXVnZG1PTmlJc2lrc2RiSmFtX2F5Vy1KTndoTGliUEpaSlJnTmNDODI5REx2aTU5Y0ZjRGRrY1p1ZXEtNko5V2pFNmY0UTlzb1N3bC1nRXNURTRYRkZoQVc4SDlRUWVlZXRJTGUxcy1YTWxaRFVHeENScHJ2cERGYkU1NlBtZlo0bnMwZEZFalFwNGFFbG04aWU3ejVpb21XUklxQlB1bmdQX3FXMDNUNHp0Wk9haUh0RGNORnFQb3hlNjZxMEVnZGk5aEQ3Q2RvR3pvS3ZGeHFVRnNxRmY4dzY?oc=5",
+      "source": "capradio.org",
+      "published": "Thu, 17 Dec 2020 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMUVyTXVnZG1PTmlJc2lrc2RiSmFtX2F5Vy1KTndoTGliUEpaSlJnTmNDODI5REx2aTU5Y0ZjRGRrY1p1ZXEtNko5V2pFNmY0UTlzb1N3bC1nRXNURTRYRkZoQVc4SDlRUWVlZXRJTGUxcy1YTWxaRFVHeENScHJ2cERGYkU1NlBtZlo0bnMwZEZFalFwNGFFbG04aWU3ejVpb21XUklxQlB1bmdQX3FXMDNUNHp0Wk9haUh0RGNORnFQb3hlNjZxMEVnZGk5aEQ3Q2RvR3pvS3ZGeHFVRnNxRmY4dzY?oc=5\" target=\"_blank\">Renters, Landlords Both Looking For Action From Lawmakers As California Eviction Moratorium Set To Expire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">capradio.org</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "46ec33c879785fc4",
       "title": "Two Days After Avoiding Recall, Governor Newsom Signs Housing Density Boosting SB 9 and SB 10 Into Law - LBReport.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xd2IwNUFEV0FzSkplaUhlWjFjSU40SENKa1lXZ2RnYUhfdlVDWEZwb1BvLVBaMEphdnAtOXExaEw5VS1nV202a1RYbTVvMEhuU2pFdDV2eUtuU1VP?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1EwVjZYS2RpcHpoajVQYXIzMjdRRGlOMjlMVTJsMUlDay1Jc0x1bUpiTGRrRzRfWG5aQWlteFFoVWpidHFJbWtqX3lhRUhweFlfOHhVQTBtSnlKd2ZibWJPeHdnU3BqUVdTUUxRbFRFYkV6dmRZQzBTOFo2S0FXRWppb3pfTXBVSENka1pEV0NFUUJYektRYnBkMm1hX3JBYTM4OGs5NndmVl9BNFdUX2R1ZlBScm50WktuUVhDSQ?oc=5\" target=\"_blank\">Appeals Court Partially Sides With LA Landlords In Challenge To Tenant Protection Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "legal"
-    },
-    {
-      "id": "73108e34c2563f3a",
-      "title": "LA Councilwoman Nithya Raman Pushes Just Cause Evictions - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaS1WWU1BUGdsczk4Ukl6OEJ0M3BNRGQ1R2MtWVpQakh6UktITXhxd3V4cEJtWWxFcTBDT2J3dU5ZQjRFZm9rOUxEdnoxa2tWYkRuUEJCbzdCY2hxNlQ3Ylo3X3VSR0wzN0I1NW1wVlJNbjh5ZEdKd1A3bVl6TEkyenI5QmRNckJVSUNCUWp1aTBfeTk0SVpNNUlnaw?oc=5",
-      "source": "The Real Deal",
-      "published": "Mon, 19 Dec 2022 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaS1WWU1BUGdsczk4Ukl6OEJ0M3BNRGQ1R2MtWVpQakh6UktITXhxd3V4cEJtWWxFcTBDT2J3dU5ZQjRFZm9rOUxEdnoxa2tWYkRuUEJCbzdCY2hxNlQ3Ylo3X3VSR0wzN0I1NW1wVlJNbjh5ZEdKd1A3bVl6TEkyenI5QmRNckJVSUNCUWp1aTBfeTk0SVpNNUlnaw?oc=5\" target=\"_blank\">LA Councilwoman Nithya Raman Pushes Just Cause Evictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
