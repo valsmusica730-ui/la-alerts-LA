@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:55:00.572833+00:00",
+  "generated_at": "2026-09-20T19:09:50.085569+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4233,6 +4233,16 @@
       "category": "zoning"
     },
     {
+      "id": "fe685134b628103c",
+      "title": "LA County issues temporary ban on data centers in unincorporated areas - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYndVNm4xM1RDVTRmS050MjBzVWFYN3BnRzRnUG5GOVRCbUJrVnhEUVNZTk50aEJ6ajdNZVhweS1uZlRGMXVuUmRnZWlkcmtKWW9aSHlkby14dGpERHk5bWFfOThZR2F1UzFmYjl5Mkd5UGwwOG1xX2ltcndVcDlwZEpWZWhhdllSRGxIUkYwTVl1ZzY3WGVyT3BVNlPSAaIBQVVfeXFMTms2blRYeWFtVUtvenpfRkExV1BNUXhzMFNac0Jfd0F0Q25hM0F3TDUzU1ZiNzczVVM2Wl9uQzBpZjUzTXZ3RE9JcXZqX3FxY1VEVU96SHNwMTg2T3dZWWoxTVBZZ1JpdU9yVG9vX1NFTGJxQWg4Tlo1NmRfNnlHX0gyamVxUmdSVWpXd1A2WVVqYjFSX3hGYXJHS1FFQVdOZkF3?oc=5",
+      "source": "ABC7 Los Angeles",
+      "published": "Sun, 20 Sep 2026 17:57:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYndVNm4xM1RDVTRmS050MjBzVWFYN3BnRzRnUG5GOVRCbUJrVnhEUVNZTk50aEJ6ajdNZVhweS1uZlRGMXVuUmRnZWlkcmtKWW9aSHlkby14dGpERHk5bWFfOThZR2F1UzFmYjl5Mkd5UGwwOG1xX2ltcndVcDlwZEpWZWhhdllSRGxIUkYwTVl1ZzY3WGVyT3BVNlPSAaIBQVVfeXFMTms2blRYeWFtVUtvenpfRkExV1BNUXhzMFNac0Jfd0F0Q25hM0F3TDUzU1ZiNzczVVM2Wl9uQzBpZjUzTXZ3RE9JcXZqX3FxY1VEVU96SHNwMTg2T3dZWWoxTVBZZ1JpdU9yVG9vX1NFTGJxQWg4Tlo1NmRfNnlHX0gyamVxUmdSVWpXd1A2WVVqYjFSX3hGYXJHS1FFQVdOZkF3?oc=5\" target=\"_blank\">LA County issues temporary ban on data centers in unincorporated areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "other"
+    },
+    {
       "id": "88155b85d421c2f3",
       "title": "California Enacts Historic Housing Reform Laws - Legal Planet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWdkdkZsREpzVWd4NlprV2JuVDBzQTg1ZHlrUElJbWQ2cHh6Y0d3ZUVpU3J0RXY3ajN2Zkw1aTktMlhnVWFtUXR3dTkwZHliS0wwQW8yamg0OHFhdnBCaG1aZjN2TGlEXzFHWnFJR0JQb0dIS1l5d2MzUTFCcElYYUJoTU9PSXZPMDU0?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3hOenhzMndTcVA1V1VvZ2p3cjgyZ25tNnVGeE1uX2U5SlJYaGdoRk9PYTl5RVJiSnFDX0pVZnBWZHl4LUZTXzRlZzdCa29nZDcxbUZvU3J2dTJfOTI5T2s1NVFBTnBqV0w0ZkxiWi1jTDNiNHpkWUFmdVMxN3NoSWtPLTRzU3lfZGhTSmtnaVBBcW9seVE?oc=5\" target=\"_blank\">City Planning Commission signs off on projects in Sawtelle and Westlake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "2e6b927ab1d1a317",
-      "title": "City Council Advances Ballot Measure to Exempt Palisades Fire Victims From “Mansion Tax” - Palisades News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUZPZUdLN0gxM2NxVlllSEY2VWFSZnYyelFPVHlWUWRhYWZWZHlDMVNXRHNKQUNveDlTN2F2SVdscFBMOFJwYzd6YnRURUZIS1FweFg4Ty1vWnh0Q3FPSXpNZmhtRDM1bEwtLWtJcUJKcjRvOW9lSElwY21HSGwzZ0hNTWh0SWEwaWZKQ0g5UXo0S0d6TDdxZWY2VWZWMWtYaHdxQl9VSTgzRlRWTm5kcjF5cw?oc=5",
-      "source": "Palisades News",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUZPZUdLN0gxM2NxVlllSEY2VWFSZnYyelFPVHlWUWRhYWZWZHlDMVNXRHNKQUNveDlTN2F2SVdscFBMOFJwYzd6YnRURUZIS1FweFg4Ty1vWnh0Q3FPSXpNZmhtRDM1bEwtLWtJcUJKcjRvOW9lSElwY21HSGwzZ0hNTWh0SWEwaWZKQ0g5UXo0S0d6TDdxZWY2VWZWMWtYaHdxQl9VSTgzRlRWTm5kcjF5cw?oc=5\" target=\"_blank\">City Council Advances Ballot Measure to Exempt Palisades Fire Victims From “Mansion Tax”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palisades News</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
