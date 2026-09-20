@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T08:00:03.633575+00:00",
+  "generated_at": "2026-09-20T12:55:00.572833+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2091,6 +2091,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlRRY0ZKWmNoMEtaRUVrYzRHeHAyOFlLZGNoeHNVd0h3WnhkaGFVdUhhaWNuVi03ZUdjMHpZbk1KcWZsd0p3Sk1LdkJ6TnphNVM0eUp3UGFESzZZeHlmNnhhaFgyR2NxUmwxellXWFFRcW1Wb2N4MkdZcVdhWkhsdmNaVGtUZ0VZSWNrTUZoSDF2bHpKZTVEWEVCVHBJaFU5OVJzOTdka2pyRnJVekNDMGtJVmxYalNPSUtTX1F2eldlUQ?oc=5\" target=\"_blank\">Judge Tosses Area Planning Commission Decision on Controversial South L.A. Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">planetizen.com</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "f542cecc912ecfe2",
+      "title": "LACo Supervisors Approve Tenant Protections Ordinance - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjFNQXQyUUJmRW9HWWRsS0o2dGRCZXhHTF9vVWc4bnhXcmkyWXhnQk93M3pfVnJEWE9iQklHSzlmUjBUQnZjdEUtcGNMRnRZVVRHdXRPSjhYNk1xT2ttaFdFa3UyYmlQTzVfN2Q1eVNITTdvdm1keExoNk85a2kyUC1VUWMyMUozV25VWDlFV0pzaTdFVUFFV1JNWEdiMnFoSHQzcy1KbllHeUxtcUpZTQ?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjFNQXQyUUJmRW9HWWRsS0o2dGRCZXhHTF9vVWc4bnhXcmkyWXhnQk93M3pfVnJEWE9iQklHSzlmUjBUQnZjdEUtcGNMRnRZVVRHdXRPSjhYNk1xT2ttaFdFa3UyYmlQTzVfN2Q1eVNITTdvdm1keExoNk85a2kyUC1VUWMyMUozV25VWDlFV0pzaTdFVUFFV1JNWEdiMnFoSHQzcy1KbllHeUxtcUpZTQ?oc=5\" target=\"_blank\">LACo Supervisors Approve Tenant Protections Ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "5af9d733e5b3faa2",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUZPZUdLN0gxM2NxVlllSEY2VWFSZnYyelFPVHlWUWRhYWZWZHlDMVNXRHNKQUNveDlTN2F2SVdscFBMOFJwYzd6YnRURUZIS1FweFg4Ty1vWnh0Q3FPSXpNZmhtRDM1bEwtLWtJcUJKcjRvOW9lSElwY21HSGwzZ0hNTWh0SWEwaWZKQ0g5UXo0S0d6TDdxZWY2VWZWMWtYaHdxQl9VSTgzRlRWTm5kcjF5cw?oc=5\" target=\"_blank\">City Council Advances Ballot Measure to Exempt Palisades Fire Victims From “Mansion Tax”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palisades News</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "dd607c32f0b3d105",
-      "title": "Planning Commission Hears New Draft of Hollywood Community Plan – Part 1: Plan Details - Larchmont Buzz",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd19CVDVKNTBscThiNzl3S3JuYlJWalAyUjRjbkVFZjhOc1JqZXRQcmhVaThHR1ZxbTEtOVVzR1IyaFk2S2RCRDRyaEFnNmp2SDdVQVFabHRIOTMxd2tNbjVZcmI3eWJtb0xNQVFPQjhFNHhJekRrY2E3dGRCNmJzdUJON1pCeVFnRWZIOEc0Qmh6ZlNkTVRpendKQmlsbXQxTm9LSnhhU09keFVHY1N2U3NCSXZyanJRM1luMVR6QTFaUUIzaEh3QlE5SlB5NGtTMnMwUFhzbWk3SUtBS2c?oc=5",
-      "source": "Larchmont Buzz",
-      "published": "Mon, 22 Feb 2021 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd19CVDVKNTBscThiNzl3S3JuYlJWalAyUjRjbkVFZjhOc1JqZXRQcmhVaThHR1ZxbTEtOVVzR1IyaFk2S2RCRDRyaEFnNmp2SDdVQVFabHRIOTMxd2tNbjVZcmI3eWJtb0xNQVFPQjhFNHhJekRrY2E3dGRCNmJzdUJON1pCeVFnRWZIOEc0Qmh6ZlNkTVRpendKQmlsbXQxTm9LSnhhU09keFVHY1N2U3NCSXZyanJRM1luMVR6QTFaUUIzaEh3QlE5SlB5NGtTMnMwUFhzbWk3SUtBS2c?oc=5\" target=\"_blank\">Planning Commission Hears New Draft of Hollywood Community Plan – Part 1: Plan Details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Buzz</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
