@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T02:08:46.427822+00:00",
+  "generated_at": "2026-09-20T08:00:03.633575+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2563,6 +2563,16 @@
       "category": "adu"
     },
     {
+      "id": "5adf6aa6dbe36315",
+      "title": "Construction by Maya Urges Los Angeles Homeowners to Understand California ADU Rules Before Starting Fall 2026 Backyard Builds - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWEZoX0xRa2t1UHBZaXBLUy1BajlId1hQVXZteTlkTG1JOV9rbng1VHhhRjVQZzZXMEs4OUJRdmNFV1pHM2RZdDE4STNuY3U3ZkV1QWR5a1d2U0JUY2dFZy04WXczb1JfQjdwUHBlZG9wRngxOEdzbkhja2drV29mTGJZU2JHYXhxTERtZ0tEUGVMc3BHM1VMeUNJNlJ2Y3BLNENiT3lWelFfU05iR2UxQnY0LVJwLXNKOVREbmkzN3dJVjVVTGtfNi1mSnVkdU9ReWFhTUIwVmp0OWlfQUJ3MUVFYzQ4Vi1OWThCdVpjSTlrVUcxeE9UbktHTDhvdDVIRVlSQzFmY09aQQ?oc=5",
+      "source": "StreetInsider",
+      "published": "Tue, 08 Sep 2026 16:25:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOWEZoX0xRa2t1UHBZaXBLUy1BajlId1hQVXZteTlkTG1JOV9rbng1VHhhRjVQZzZXMEs4OUJRdmNFV1pHM2RZdDE4STNuY3U3ZkV1QWR5a1d2U0JUY2dFZy04WXczb1JfQjdwUHBlZG9wRngxOEdzbkhja2drV29mTGJZU2JHYXhxTERtZ0tEUGVMc3BHM1VMeUNJNlJ2Y3BLNENiT3lWelFfU05iR2UxQnY0LVJwLXNKOVREbmkzN3dJVjVVTGtfNi1mSnVkdU9ReWFhTUIwVmp0OWlfQUJ3MUVFYzQ4Vi1OWThCdVpjSTlrVUcxeE9UbktHTDhvdDVIRVlSQzFmY09aQQ?oc=5\" target=\"_blank\">Construction by Maya Urges Los Angeles Homeowners to Understand California ADU Rules Before Starting Fall 2026 Backyard Builds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
+    },
+    {
       "id": "6a0be72947e9f6dd",
       "title": "Construction by Maya Urges Los Angeles Homeowners to Understand California ADU Rules Before Starting Fall 2026 Backyard Builds - WBOC TV",
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOSjg2Ykl1M1h6Z08wajVMR3Q1Njh0cDdPamJBd0lZS2tPc18tWHpod2pKUzdmSkRIZlNiQWxSNkdMcEtEemdRUkVTQ2ppMTQ2Z3YxMGVEeDVvLWQ2TkU1LVBNSDBFTWthbHdzQkRrRU5MY3llN0NiLVE5dUdhMVFKaEZSSjNOTDhmMWx0ZFRwTFZIc3hxd3ZEbjRCRFBKZmk1WGFVVmlGaVdteWpIS0VYWHlQcklQVFJITnRGdlVHNU13YlQxV3VfenMyRnpweDl6d2VUMlZQN212LWtmdEJ1VHE2bDNlUGttd3l5dmZhWXBwT2tyYkw2YktnSnlkdVBtSXVtcUNTVjdydExETzJyZ01rWmJYZy1nc1VPSWdkTm5UM1UzSndNOTM5TEJPMWQ5?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd19CVDVKNTBscThiNzl3S3JuYlJWalAyUjRjbkVFZjhOc1JqZXRQcmhVaThHR1ZxbTEtOVVzR1IyaFk2S2RCRDRyaEFnNmp2SDdVQVFabHRIOTMxd2tNbjVZcmI3eWJtb0xNQVFPQjhFNHhJekRrY2E3dGRCNmJzdUJON1pCeVFnRWZIOEc0Qmh6ZlNkTVRpendKQmlsbXQxTm9LSnhhU09keFVHY1N2U3NCSXZyanJRM1luMVR6QTFaUUIzaEh3QlE5SlB5NGtTMnMwUFhzbWk3SUtBS2c?oc=5\" target=\"_blank\">Planning Commission Hears New Draft of Hollywood Community Plan – Part 1: Plan Details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Buzz</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "11c6e895c1a37266",
-      "title": "Slew of Landlords Sue Santa Monica Over Short Term Rental Ban - smmirror.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3p2VS05MGFzTHdyZXN2eV9sVkdpMTRabXplTTRNSDlWXzBIdHAzLU1zOGYyVjFNRHV2V25ueXZRYkpwblExSzJ6bmNuNVdBNjFDUkRuYUhlVzdTQlJsYUpPX1RER25tSnhvUHFuSHU3TnludkpPbGFYQ2RIRnRBaTRIdWZHWGR0S2Zr?oc=5",
-      "source": "smmirror.com",
-      "published": "Mon, 21 Dec 2020 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3p2VS05MGFzTHdyZXN2eV9sVkdpMTRabXplTTRNSDlWXzBIdHAzLU1zOGYyVjFNRHV2V25ueXZRYkpwblExSzJ6bmNuNVdBNjFDUkRuYUhlVzdTQlJsYUpPX1RER25tSnhvUHFuSHU3TnludkpPbGFYQ2RIRnRBaTRIdWZHWGR0S2Zr?oc=5\" target=\"_blank\">Slew of Landlords Sue Santa Monica Over Short Term Rental Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smmirror.com</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "rent"
     }
   ]
 }
