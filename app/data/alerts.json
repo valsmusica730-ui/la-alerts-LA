@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T19:09:50.085569+00:00",
+  "generated_at": "2026-09-20T22:00:49.493482+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2893,6 +2893,16 @@
       "category": "adu"
     },
     {
+      "id": "7c80659061144802",
+      "title": "Redondo Beach Leads Legal Challenge Against State Housing Bill - patch.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3ZCQXVEemd3SWdySENoYnQ0X3Z3Q3p6MFZSdFFlTUs4U2xra1F2LW00ZklnRm5MeFY3Y0dJeTV3d1hVbTAwU240MVFYS1o3cEQzMzJyZ2FSWkp3N2xlNzNyMUtyREJoZ1lnemlUTzZ4SDFGdTV4dzQxczBiaEdYb0FLRUxmRGVPUmhVQlVpNmRzU3ZzTGY1TWRoa2NuTDdwVkIxcnhkWQ?oc=5",
+      "source": "patch.com",
+      "published": "Thu, 31 Mar 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3ZCQXVEemd3SWdySENoYnQ0X3Z3Q3p6MFZSdFFlTUs4U2xra1F2LW00ZklnRm5MeFY3Y0dJeTV3d1hVbTAwU240MVFYS1o3cEQzMzJyZ2FSWkp3N2xlNzNyMUtyREJoZ1lnemlUTzZ4SDFGdTV4dzQxczBiaEdYb0FLRUxmRGVPUmhVQlVpNmRzU3ZzTGY1TWRoa2NuTDdwVkIxcnhkWQ?oc=5\" target=\"_blank\">Redondo Beach Leads Legal Challenge Against State Housing Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">patch.com</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "other"
+    },
+    {
       "id": "d956a5e364850fc5",
       "title": "Bend approves rule change to allow 2 ADUs per property - Central Oregon Daily",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSW1qS1ZKMS16MDBtb1pqcTZoNVNHMV95bDFzeXlVMkxHMnUyVy04cmNUQnFGZ0xPWDJqaHRPcHF0UWlZcVNRdUhlbnVaRnRWOHRQYkU0My1sNkpWSzU3RXRxelR1VVJoUFBPRlVSLUxDTlIyQlRRSEJsdzNLRktUeEhqY3kzaTRzeWtON3laZ194S2NVUUxuLVlIVnZ3OXF5M3RJb3BVZXR1aWVUenZYcE9NMlZXbi1OeU5yMVFURXB2UmZMWXlyTA?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVHlmU1phbFhPWnVWR3VKTGJrTW5sNWFOOUhzWWlZRWc3d2lIZzgteUZ4dGt6bjlFRGhpMG9jbGVZVTY4TzVlZm5OSEpOLXNTRWdZM3NJMjZDTzZ6QnhDLUpQVnBlNFhDMWp4V0p2cmNkWkxfS3hUclYzNkR0X0V0THYtSUk3eXBLTVNBOEh1V3lfamVkcHZQS0I5ZDA5RGtTMEgxeUg4M3M1bktMM1ZIOUJxZndDV2wwUjRoeXBPQ08zbHBjQm5KX1ZKVUxpeTNNZ1BLbFRiU3Q5d2VUZGlZ?oc=5\" target=\"_blank\">Cleveland planning commission OKs Cosm, domed theater with courtside views</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news5cleveland.com</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "legal"
-    },
-    {
-      "id": "bbc989a1eff7151e",
-      "title": "City Planning Commission signs off on projects in Sawtelle and Westlake - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3hOenhzMndTcVA1V1VvZ2p3cjgyZ25tNnVGeE1uX2U5SlJYaGdoRk9PYTl5RVJiSnFDX0pVZnBWZHl4LUZTXzRlZzdCa29nZDcxbUZvU3J2dTJfOTI5T2s1NVFBTnBqV0w0ZkxiWi1jTDNiNHpkWUFmdVMxN3NoSWtPLTRzU3lfZGhTSmtnaVBBcW9seVE?oc=5",
-      "source": "Urbanize LA",
-      "published": "Mon, 23 Dec 2024 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3hOenhzMndTcVA1V1VvZ2p3cjgyZ25tNnVGeE1uX2U5SlJYaGdoRk9PYTl5RVJiSnFDX0pVZnBWZHl4LUZTXzRlZzdCa29nZDcxbUZvU3J2dTJfOTI5T2s1NVFBTnBqV0w0ZkxiWi1jTDNiNHpkWUFmdVMxN3NoSWtPLTRzU3lfZGhTSmtnaVBBcW9seVE?oc=5\" target=\"_blank\">City Planning Commission signs off on projects in Sawtelle and Westlake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
