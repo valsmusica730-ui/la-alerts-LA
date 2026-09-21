@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:00:49.493482+00:00",
+  "generated_at": "2026-09-21T00:37:16.824390+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4323,6 +4323,16 @@
       "category": "construction"
     },
     {
+      "id": "2609215b9d187b10",
+      "title": "How does Los Angeles pay for toughest seismic regulations in the country? - Construction Dive",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnV4ZHMtcTZxeEhnNnJyRmp4OWhvMFlQcmpsOU5GLXpoS2xJekJDRzlyTXNnTm1sbnNhSDhtdEZ3ckZYajFPZmx3WWdmQVktWklBQUtRVE90a1puRGZ2RmlJYk8yOUh0NjlwNm1VdWFadDJXMTdhN2dsYjdwVVN4cU54TGJsRm5XdnBfWFlCblJDQTRtaVhxT0QxM1lrRG9uNE94NC1Sc1c0ZFRVVGd1SW1NTEpZd2tPR2c?oc=5",
+      "source": "Construction Dive",
+      "published": "Sun, 11 Oct 2015 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnV4ZHMtcTZxeEhnNnJyRmp4OWhvMFlQcmpsOU5GLXpoS2xJekJDRzlyTXNnTm1sbnNhSDhtdEZ3ckZYajFPZmx3WWdmQVktWklBQUtRVE90a1puRGZ2RmlJYk8yOUh0NjlwNm1VdWFadDJXMTdhN2dsYjdwVVN4cU54TGJsRm5XdnBfWFlCblJDQTRtaVhxT0QxM1lrRG9uNE94NC1Sc1c0ZFRVVGd1SW1NTEpZd2tPR2c?oc=5\" target=\"_blank\">How does Los Angeles pay for toughest seismic regulations in the country?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Dive</font>",
+      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
+      "category": "other"
+    },
+    {
       "id": "765af41919c73303",
       "title": "Early Impacts of New York City's 'De Facto Ban' on Airbnbs - Investopedia",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMFMwOUpNMkU2dFpzZC1mZlZrOWF1YU1UUmJGZnJUSkg2WHRTRW53SHpKdlVvMXhKZ3pYUnFuRzFGLWY1aGRlTEpRcDkzX09SdXpuaDByTjNNSkhhai1LUEZMNlA3VGFUcEU4bDF0bEtlbzYzazRoZWtQUWZlS1JjUTI5YmRWRlhZakFn?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHFjOGJodGpNcU9XUWRjbVBObFpYb2p0SXVPSEp5QjV0RlhId2xqeXNJeHJBOTVxMzRWQkdxT3M2ZGpVX0drY0xZZXpYMDQtSWxhdGtCdjFTMnFVNHVkcUJQRnJScmoyQzJDVTM5WTRaMGhNX1ozeEQyMF9XcE44ODQtVzNodGRCdnpCU0RGN0RiNGpxVGlnMFRJemRYajh3Vk1fUkx1WUtaeWxHTFhhSVlueWhUd9IBvgFBVV95cUxQVGQwcGJZSHBRU3JSY0twSUJQbDdud0RiUVBYN2ljZ3VoN2REUTZuNUJtYVAtclhHYXczdXJSbmpnTmdzUG9CSmpxQk1nSnZsanA4WG1zOTJnNDgzTEQ5TmdxTUF0aFBRMzgzNndYREMyQzlfODBRTW9mLXZvMWN2YWhRdGVEYTJNR1otQnhsNE1qeEgzZWlkUTNVV214RHFzUGV6ai1FRWdjTVB0QXBucERCUnM5bk9kaVc5U25R?oc=5\" target=\"_blank\">Airbnb Says It's Removed More Than 50 LA Properties Over Party Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
-    },
-    {
-      "id": "0dc9b8bc9b4acf3e",
-      "title": "Cleveland planning commission OKs Cosm, domed theater with courtside views - news5cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVHlmU1phbFhPWnVWR3VKTGJrTW5sNWFOOUhzWWlZRWc3d2lIZzgteUZ4dGt6bjlFRGhpMG9jbGVZVTY4TzVlZm5OSEpOLXNTRWdZM3NJMjZDTzZ6QnhDLUpQVnBlNFhDMWp4V0p2cmNkWkxfS3hUclYzNkR0X0V0THYtSUk3eXBLTVNBOEh1V3lfamVkcHZQS0I5ZDA5RGtTMEgxeUg4M3M1bktMM1ZIOUJxZndDV2wwUjRoeXBPQ08zbHBjQm5KX1ZKVUxpeTNNZ1BLbFRiU3Q5d2VUZGlZ?oc=5",
-      "source": "news5cleveland.com",
-      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVHlmU1phbFhPWnVWR3VKTGJrTW5sNWFOOUhzWWlZRWc3d2lIZzgteUZ4dGt6bjlFRGhpMG9jbGVZVTY4TzVlZm5OSEpOLXNTRWdZM3NJMjZDTzZ6QnhDLUpQVnBlNFhDMWp4V0p2cmNkWkxfS3hUclYzNkR0X0V0THYtSUk3eXBLTVNBOEh1V3lfamVkcHZQS0I5ZDA5RGtTMEgxeUg4M3M1bktMM1ZIOUJxZndDV2wwUjRoeXBPQ08zbHBjQm5KX1ZKVUxpeTNNZ1BLbFRiU3Q5d2VUZGlZ?oc=5\" target=\"_blank\">Cleveland planning commission OKs Cosm, domed theater with courtside views</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news5cleveland.com</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "legal"
     }
   ]
 }
