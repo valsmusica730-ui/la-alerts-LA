@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T11:19:31.221387+00:00",
+  "generated_at": "2026-09-21T17:19:59.040035+00:00",
   "total": 500,
   "alerts": [
     {
@@ -21,6 +21,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHpHYTRGZHcwa1ZhNlNYVnQtd2RiTmJQdnljVVhVWVhubWJCZFZDYmIxakdlMHk2dldNNDAyVW5LUXBYX21sOEJydFZMY200am00RW9OZ1lVWmpkNG02NmFGUjgtSWl2ZGhhc0hMdTRFV0xOeDJ5RjhJN3ZIU0hFOFRUNzY0WlBLd0U1WmN6RVR2T2hBODBsUjNkY2hsTmlfZTdTeg?oc=5\" target=\"_blank\">10 new California laws you should know about in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "50f0998897c69d34",
+      "title": "Last-minute policy tweak could hand Airbnb a key victory in LA - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb00tcHhITTMyTmpEdnNlbzZlVFo5QTVUSmpmZ2I2ZzNSZXZaLUJIRjlEeEhZYm5nXzg5U0s5aHllUFdxUGxOQVRBS3IyQ1BrTS1zdnIxMGhsLWZFeE9weWNmZ0s4ZVE5SkxDbnBLWGRSX0FfUkp2c1BXUTdLaENjbFhPNkRiU2p2NDZVVk0yaDhMR2ZNTUlTM29jaHhRYnVjN2tV?oc=5",
+      "source": "The Real Deal",
+      "published": "Wed, 30 Oct 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNb00tcHhITTMyTmpEdnNlbzZlVFo5QTVUSmpmZ2I2ZzNSZXZaLUJIRjlEeEhZYm5nXzg5U0s5aHllUFdxUGxOQVRBS3IyQ1BrTS1zdnIxMGhsLWZFeE9weWNmZ0s4ZVE5SkxDbnBLWGRSX0FfUkp2c1BXUTdLaENjbFhPNkRiU2p2NDZVVk0yaDhMR2ZNTUlTM29jaHhRYnVjN2tV?oc=5\" target=\"_blank\">Last-minute policy tweak could hand Airbnb a key victory in LA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "82e26ed52af9eb7b",
@@ -4990,16 +5000,6 @@
       "published": "Mon, 24 Aug 2020 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkFIcXdURU5uU0Z0emc3OVRzVUFwQXgxSFZFZ3gybXBSZUtWclZqbG9ITjNlR1ZDc1cyTnNSNTJtdGhZZWdOUHBQaWQyUmZISWtSYVhXQkxTS2xGTldUZVBMd0lGZzhTN0ZtZkhMNVNRRThUeVJXdm1Ydzl4ZDhQWHNvSFhYTlpkSnhiOTNqazVWaW40NDdkTjIyWnJKMEk?oc=5\" target=\"_blank\">How Decades of Racist Housing Policy Left Neighborhoods Sweltering (Published 2020)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
-    },
-    {
-      "id": "0d0f737059c70a13",
-      "title": "Airbnb Says It's Removed More Than 50 LA Properties Over Party Ban - NBC Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHFjOGJodGpNcU9XUWRjbVBObFpYb2p0SXVPSEp5QjV0RlhId2xqeXNJeHJBOTVxMzRWQkdxT3M2ZGpVX0drY0xZZXpYMDQtSWxhdGtCdjFTMnFVNHVkcUJQRnJScmoyQzJDVTM5WTRaMGhNX1ozeEQyMF9XcE44ODQtVzNodGRCdnpCU0RGN0RiNGpxVGlnMFRJemRYajh3Vk1fUkx1WUtaeWxHTFhhSVlueWhUd9IBvgFBVV95cUxQVGQwcGJZSHBRU3JSY0twSUJQbDdud0RiUVBYN2ljZ3VoN2REUTZuNUJtYVAtclhHYXczdXJSbmpnTmdzUG9CSmpxQk1nSnZsanA4WG1zOTJnNDgzTEQ5TmdxTUF0aFBRMzgzNndYREMyQzlfODBRTW9mLXZvMWN2YWhRdGVEYTJNR1otQnhsNE1qeEgzZWlkUTNVV214RHFzUGV6ai1FRWdjTVB0QXBucERCUnM5bk9kaVc5U25R?oc=5",
-      "source": "NBC Los Angeles",
-      "published": "Mon, 24 Aug 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHFjOGJodGpNcU9XUWRjbVBObFpYb2p0SXVPSEp5QjV0RlhId2xqeXNJeHJBOTVxMzRWQkdxT3M2ZGpVX0drY0xZZXpYMDQtSWxhdGtCdjFTMnFVNHVkcUJQRnJScmoyQzJDVTM5WTRaMGhNX1ozeEQyMF9XcE44ODQtVzNodGRCdnpCU0RGN0RiNGpxVGlnMFRJemRYajh3Vk1fUkx1WUtaeWxHTFhhSVlueWhUd9IBvgFBVV95cUxQVGQwcGJZSHBRU3JSY0twSUJQbDdud0RiUVBYN2ljZ3VoN2REUTZuNUJtYVAtclhHYXczdXJSbmpnTmdzUG9CSmpxQk1nSnZsanA4WG1zOTJnNDgzTEQ5TmdxTUF0aFBRMzgzNndYREMyQzlfODBRTW9mLXZvMWN2YWhRdGVEYTJNR1otQnhsNE1qeEgzZWlkUTNVV214RHFzUGV6ai1FRWdjTVB0QXBucERCUnM5bk9kaVc5U25R?oc=5\" target=\"_blank\">Airbnb Says It's Removed More Than 50 LA Properties Over Party Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
     }
   ]
