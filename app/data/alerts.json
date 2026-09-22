@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:34:28.443156+00:00",
+  "generated_at": "2026-09-22T10:29:57.822843+00:00",
   "total": 500,
   "alerts": [
     {
@@ -111,6 +111,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWhadkF2Mm5FSENtQzNaLXZyT2NEV08wSjh3ZVM2YV9BVVozSkJVMG44MWlsU0M0MGdaZXZuMkJGTWVhOVRIX3JxdkJsVTYwclRhMlVDNy1ZdzM5a0haZlgzaDBSQWN2TVc4VHBrSTlabGFOYndybkcxMURsMmdIS3NnQVJWUE1HUzBlUXlmdG9NRVNEVlBGNQ?oc=5\" target=\"_blank\">L.A. County Supervisors approve Westside and South Bay Area plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "other"
+    },
+    {
+      "id": "c0909bb1888de155",
+      "title": "LA City Council to consider tenant protections, 1-year freeze on rent increase - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0VjaklubnBjSWxoVzhoMFVwNDVwOFRfV2NmQWZMQzY2andCcnRwUkRXTFI5ek0wcHYwRW5SR2FrLTdpaGpOSXEyaWQ1ZTFPUHpXUWtIdUxXRmdLMTlGWmppSzRDOV9KVnhfTXMwb1VjUzB5RzNMVm5rZkxXOVQ1enNFbVFkdW5feDd4ZTRJa2c3NTVxaTM3LXA3SXc5ZWFrTXdNbXFhT0xuZGhOTW1faVNneWVrS3I3WGNPeHcxX2dkRGFzazBTWUN30gHSAUFVX3lxTE13aWtTLU9TMDVPR3VFeVN4NGdieEpuZmo0cmU3ZnE5SS0tNF9ERXE2LXJBNks0UWg3NVZTWHNxRUlhcC1tMWlHMFhqZlFBN0ZzMEFoLWdRRW5aQnJRdVppNHktWEdkVVlncnNjZDBRWG5OM0J1SFBaV2FUdFFqenlRQ21hd3MydlI5UXZrdlc1ZFc0LUJHbDBqbjEydWhsaFlqNDQ4TUZ6QTBpLUNoTFlTQlBNRDRFV0tQeDV3Ymc5NFloam5sNHVBSU5LMVRCLS02UQ?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Wed, 29 Jan 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0VjaklubnBjSWxoVzhoMFVwNDVwOFRfV2NmQWZMQzY2andCcnRwUkRXTFI5ek0wcHYwRW5SR2FrLTdpaGpOSXEyaWQ1ZTFPUHpXUWtIdUxXRmdLMTlGWmppSzRDOV9KVnhfTXMwb1VjUzB5RzNMVm5rZkxXOVQ1enNFbVFkdW5feDd4ZTRJa2c3NTVxaTM3LXA3SXc5ZWFrTXdNbXFhT0xuZGhOTW1faVNneWVrS3I3WGNPeHcxX2dkRGFzazBTWUN30gHSAUFVX3lxTE13aWtTLU9TMDVPR3VFeVN4NGdieEpuZmo0cmU3ZnE5SS0tNF9ERXE2LXJBNks0UWg3NVZTWHNxRUlhcC1tMWlHMFhqZlFBN0ZzMEFoLWdRRW5aQnJRdVppNHktWEdkVVlncnNjZDBRWG5OM0J1SFBaV2FUdFFqenlRQ21hd3MydlI5UXZrdlc1ZFc0LUJHbDBqbjEydWhsaFlqNDQ4TUZ6QTBpLUNoTFlTQlBNRDRFV0tQeDV3Ymc5NFloam5sNHVBSU5LMVRCLS02UQ?oc=5\" target=\"_blank\">LA City Council to consider tenant protections, 1-year freeze on rent increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "286f97de2669936c",
@@ -1951,6 +1961,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhTU0hna0pTZ19feTdmSXpGbVhaSzJEM0hwcTZqOXJxbzJfbjBleHU3T2JNdzNjc1BMWkN0eWdGZmx4OTZZdGk4MEFhSXY5dzczX2NabWRMa0xmbXdienZaNGFZS0FXdWF4X0pwTTFBZkJuWXBQcVU2VU9idE1kQzZlcDBOVVU?oc=5\" target=\"_blank\">It was a big, bold year in housing policy changes. Here's what that means for SoCal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "policy"
+    },
+    {
+      "id": "32bd318f8872e603",
+      "title": "Costa Mesa approves Fairview Development Center project - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0J5MTRCUzdsa3Z5UVBpekV5bVRGd19fTUlvcWpPa3JtYVFNN09IaFIwVGk3T0VheWtlWW9hd29pYU9vRXRudVBhRjBxVmhxMVh0a01HRENIWTRsU0M3VXFHZXFrMDdQQmNMeDNFd0hpNnh4VG5mbXAtckpIMXhhWVpHcnFWR3hyVGhqWjRrbUpWejJTbzgwcXRQb3FjcnNteE1rZTVVSFM?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Tue, 22 Sep 2026 10:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0J5MTRCUzdsa3Z5UVBpekV5bVRGd19fTUlvcWpPa3JtYVFNN09IaFIwVGk3T0VheWtlWW9hd29pYU9vRXRudVBhRjBxVmhxMVh0a01HRENIWTRsU0M3VXFHZXFrMDdQQmNMeDNFd0hpNnh4VG5mbXAtckpIMXhhWVpHcnFWR3hyVGhqWjRrbUpWejJTbzgwcXRQb3FjcnNteE1rZTVVSFM?oc=5\" target=\"_blank\">Costa Mesa approves Fairview Development Center project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
     },
     {
       "id": "d1b342142bfe57ba",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTZmanV5QUlnR3QwTHU5YnFRdmxfbGstWnlibFhaXzMwMHh6QUxhVkVHWEI0bnlqQUV5OFBZd0dJWlJZRVJoUk5ZOVhya0pFcVpYZXU3UndrSmN3eGFYdDhLWW9wOVdOeXpZUUlHNXI1TzJYTlRIS05RYkp6cnU2SjB2al9KS0xzVy1qWnlmcjBrWUoyNS1scmtB?oc=5\" target=\"_blank\">Los Angeles City Council to weigh changes to Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "382324a604309bf0",
-      "title": "News | Los Angeles ‘mansion tax’ rollback effort heads to City Council vote - CoStar",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQW05SHcwVmliRDd0VXNJclhvNDJETmQ4YlpkMlRRaHdNQnFwUDNQRGpJYmIxY0t0RHdmdG5YekRZM095VE9VWlBWUlBaVlJzNS05Zmc1NTBvMGNHbGtDYk1nN2hhMi1MdlZiOHl0WWo5dzF5S1ZBWTl4UUh2bWdGTGFyMGUzNG1sYUtGWnNKS3NlREhNejlTZ1hCdXc2ckpqV05Ndjdua0NyNVlH?oc=5",
-      "source": "CoStar",
-      "published": "Mon, 26 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQW05SHcwVmliRDd0VXNJclhvNDJETmQ4YlpkMlRRaHdNQnFwUDNQRGpJYmIxY0t0RHdmdG5YekRZM095VE9VWlBWUlBaVlJzNS05Zmc1NTBvMGNHbGtDYk1nN2hhMi1MdlZiOHl0WWo5dzF5S1ZBWTl4UUh2bWdGTGFyMGUzNG1sYUtGWnNKS3NlREhNejlTZ1hCdXc2ckpqV05Ndjdua0NyNVlH?oc=5\" target=\"_blank\">News | Los Angeles ‘mansion tax’ rollback effort heads to City Council vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoStar</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "70e655287537f1dd",
-      "title": "Manhattan Beach Will Not Ease Short-Term Rental Ban During World Cup - Patch",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemZBMVItcmw0WkRYc0VuTFZEQk5abGxPblN2QnpZMzJmSTN1SUZfSEViNDRfeWlmVURvNmFUTWU4MTQwbnFwYWZxTVJ0X2x5QThJQm42dURBVXNQME5JTlJySlBNalktdlpCRUdnaFpfcUJaT3lkTHlpQ1VJTUhGbktSMWgzR0hGZXlsd0kzeTVObTNNam5janhwODVUWG1DeEY3QVR6R3I5cUxWRGFSWVBB?oc=5",
-      "source": "Patch",
-      "published": "Mon, 26 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQemZBMVItcmw0WkRYc0VuTFZEQk5abGxPblN2QnpZMzJmSTN1SUZfSEViNDRfeWlmVURvNmFUTWU4MTQwbnFwYWZxTVJ0X2x5QThJQm42dURBVXNQME5JTlJySlBNalktdlpCRUdnaFpfcUJaT3lkTHlpQ1VJTUhGbktSMWgzR0hGZXlsd0kzeTVObTNNam5janhwODVUWG1DeEY3QVR6R3I5cUxWRGFSWVBB?oc=5\" target=\"_blank\">Manhattan Beach Will Not Ease Short-Term Rental Ban During World Cup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
     }
   ]
 }
