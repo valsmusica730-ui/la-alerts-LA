@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:13:35.256472+00:00",
+  "generated_at": "2026-09-22T22:28:51.732619+00:00",
   "total": 500,
   "alerts": [
     {
@@ -941,6 +941,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlJrclZPb3NSSU00V0t2Q0RqVUdIMVRwdWpVSmpnbDcyZEVUNDJvajJtc0dodG1hYXhzZ0xZeFNJeGNQMVo5allFdHN2Q1Y2eFRXWndvXzlyN1BvenhuLWhYVXBFRkMyTVFNVHFOaFoyMnBQc2dwcjIxc01hbUI4VDM5RVc2Q1FDR012R25NWQ?oc=5\" target=\"_blank\">LA City Council’s bizarre $177 million ‘mansion tax’ boondoggle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "tax"
+    },
+    {
+      "id": "876377c862f27cb2",
+      "title": "LA City Council OKs Redevelopment Of WWII-Era San Pedro Housing - Bisnow",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVRmVVhNc3Y3eUdiZmM2ZU1vQmFpWkxjZkNreDVVWFRWZHRKc1hWRFhRRUdxaUE0U3lieEc5cm9zS0hNNG16LVMwdmItN2dhem1qSGoxYUFhdXdIcGpNZnBzOTh3TkFrUDBBRG5SQ3RNWlhJVk9BcDJiN1hrd2IydURnbUZORjJ6OGFWX2tPM2tpMmU1Ri1RVzRSSXlVTnBpOEl3UExnaG1nR0dEM2hLTzh6T2hza0FCSmxsZkhSNA?oc=5",
+      "source": "Bisnow",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVRmVVhNc3Y3eUdiZmM2ZU1vQmFpWkxjZkNreDVVWFRWZHRKc1hWRFhRRUdxaUE0U3lieEc5cm9zS0hNNG16LVMwdmItN2dhem1qSGoxYUFhdXdIcGpNZnBzOTh3TkFrUDBBRG5SQ3RNWlhJVk9BcDJiN1hrd2IydURnbUZORjJ6OGFWX2tPM2tpMmU1Ri1RVzRSSXlVTnBpOEl3UExnaG1nR0dEM2hLTzh6T2hza0FCSmxsZkhSNA?oc=5\" target=\"_blank\">LA City Council OKs Redevelopment Of WWII-Era San Pedro Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "3e99b87ca7758e7e",
@@ -1961,6 +1971,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhTU0hna0pTZ19feTdmSXpGbVhaSzJEM0hwcTZqOXJxbzJfbjBleHU3T2JNdzNjc1BMWkN0eWdGZmx4OTZZdGk4MEFhSXY5dzczX2NabWRMa0xmbXdienZaNGFZS0FXdWF4X0pwTTFBZkJuWXBQcVU2VU9idE1kQzZlcDBOVVU?oc=5\" target=\"_blank\">It was a big, bold year in housing policy changes. Here's what that means for SoCal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "policy"
+    },
+    {
+      "id": "d24f83aef1ca73af",
+      "title": "Mansion Tax Back in Spotlight After Nearly $500 Million in Housing Funds Approved by Council - westsidecurrent.com",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNjR2QW0yRzdLNkVZWWs0Wkk4WEVHZlQ3WXFZaDZ4Y1UwazFNaVZQWWFETzZ1ZFJ6WnJtbkZkS2RNVEM3SVowdW5lTXZzNnBHajRWTEt0VEZ1dVM0ZnBRaXpiQXpJMjdCczY1RHlyU19BdU03VTVlZnBFUzN4SFY5QnluMHRaNDJ3M25sSnd3QjY5SmRLMk1LdDVneHA3cEtXYUhRQzZBcFJGTllqUERNaFlncGFIV1dFOEpfWG1QSDJBVjNkQzhoS3Z3ekwwOTRtcHhzYmJUSXJNY1RXc2wyQ2dBbUNVMzZnTU9CSkk5WjVPVVRZdTc2eWQtdnl3MEItQ25HZ19MTDI2RHluWGlQY0J2Yw?oc=5",
+      "source": "westsidecurrent.com",
+      "published": "Tue, 22 Sep 2026 20:14:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxQNjR2QW0yRzdLNkVZWWs0Wkk4WEVHZlQ3WXFZaDZ4Y1UwazFNaVZQWWFETzZ1ZFJ6WnJtbkZkS2RNVEM3SVowdW5lTXZzNnBHajRWTEt0VEZ1dVM0ZnBRaXpiQXpJMjdCczY1RHlyU19BdU03VTVlZnBFUzN4SFY5QnluMHRaNDJ3M25sSnd3QjY5SmRLMk1LdDVneHA3cEtXYUhRQzZBcFJGTllqUERNaFlncGFIV1dFOEpfWG1QSDJBVjNkQzhoS3Z3ekwwOTRtcHhzYmJUSXJNY1RXc2wyQ2dBbUNVMzZnTU9CSkk5WjVPVVRZdTc2eWQtdnl3MEItQ25HZ19MTDI2RHluWGlQY0J2Yw?oc=5\" target=\"_blank\">Mansion Tax Back in Spotlight After Nearly $500 Million in Housing Funds Approved by Council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "tax"
     },
     {
       "id": "32bd318f8872e603",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2NpN203dUVrUWZwTUg4VHBiR0JURjVWNGVlZEoya1NHRlA5cDBLUi1UUkJEbWNBSTY5ZFhCQmg2RnRyY19FV184ZlA4MjdhRFVJb3dCVHNWbU84Ymc3OURpUGpoTVBjU3hVdEs0ME1QVjlOM3ZwVkNUcXEzVnZRcg?oc=5\" target=\"_blank\">LVMH’s luxury hotel project approved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Business Journal</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "other"
-    },
-    {
-      "id": "4d16317f5127219d",
-      "title": "LA Planning Commission greenlights multifamily, retail project in Jefferson Park - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWdZSmZoVEJ5d0g2eUpNeFpkckI3aUEzRmdzYjQ5SXBGZUVKNGxBM3B0YXhyQURCWE1UN0tzUFQwV0lBSDNHRVhUQXozTlBVeVNJbFRibWlUM2R3b19PZDhsWjFyVGF2OWRZS2t3Nnkxa2tGYWNfVFNLSDdrM2k0ZTFOQ2lXYnBndUdoNmxjQjNVNW1VdkpVeThfN2E?oc=5",
-      "source": "The Real Deal",
-      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWdZSmZoVEJ5d0g2eUpNeFpkckI3aUEzRmdzYjQ5SXBGZUVKNGxBM3B0YXhyQURCWE1UN0tzUFQwV0lBSDNHRVhUQXozTlBVeVNJbFRibWlUM2R3b19PZDhsWjFyVGF2OWRZS2t3Nnkxa2tGYWNfVFNLSDdrM2k0ZTFOQ2lXYnBndUdoNmxjQjNVNW1VdkpVeThfN2E?oc=5\" target=\"_blank\">LA Planning Commission greenlights multifamily, retail project in Jefferson Park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "rent"
-    },
-    {
-      "id": "5168d538d7d6e886",
-      "title": "Los Angeles City Council to weigh changes to Measure ULA - dailynews.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTZmanV5QUlnR3QwTHU5YnFRdmxfbGstWnlibFhaXzMwMHh6QUxhVkVHWEI0bnlqQUV5OFBZd0dJWlJZRVJoUk5ZOVhya0pFcVpYZXU3UndrSmN3eGFYdDhLWW9wOVdOeXpZUUlHNXI1TzJYTlRIS05RYkp6cnU2SjB2al9KS0xzVy1qWnlmcjBrWUoyNS1scmtB?oc=5",
-      "source": "dailynews.com",
-      "published": "Mon, 26 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTZmanV5QUlnR3QwTHU5YnFRdmxfbGstWnlibFhaXzMwMHh6QUxhVkVHWEI0bnlqQUV5OFBZd0dJWlJZRVJoUk5ZOVhya0pFcVpYZXU3UndrSmN3eGFYdDhLWW9wOVdOeXpZUUlHNXI1TzJYTlRIS05RYkp6cnU2SjB2al9KS0xzVy1qWnlmcjBrWUoyNS1scmtB?oc=5\" target=\"_blank\">Los Angeles City Council to weigh changes to Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
