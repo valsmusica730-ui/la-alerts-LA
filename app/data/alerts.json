@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:20:07.741599+00:00",
+  "generated_at": "2026-09-22T05:34:28.443156+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3783,6 +3783,16 @@
       "category": "zoning"
     },
     {
+      "id": "64f2e4a5fba082db",
+      "title": "Philly has a new law to boost development around transit. Which neighborhoods will benefit? - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUFuYzBQOFYxdFhlbWRLOWJ5NFZIczdvMnZ6MnZHc2R6NFpDeWRmeEk1VkFxRG9CYlVFNVNjcWV4dzBWdGZKZG9uNjlma2hWd2NfTmVFVjlJQ2I3amVpWFdTZXNJRWw3RXhtSXRQbUJxdHJEV2hBMDBhaC1wMjJpSlBHRjdhZzJSX1FFZmJtQU5BNGVwaGlBQWhCa3A3anFlUGs0TElGRVY4YlJJZ25NVzBKcHpPZw?oc=5",
+      "source": "Inquirer.com",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUFuYzBQOFYxdFhlbWRLOWJ5NFZIczdvMnZ6MnZHc2R6NFpDeWRmeEk1VkFxRG9CYlVFNVNjcWV4dzBWdGZKZG9uNjlma2hWd2NfTmVFVjlJQ2I3amVpWFdTZXNJRWw3RXhtSXRQbUJxdHJEV2hBMDBhaC1wMjJpSlBHRjdhZzJSX1FFZmJtQU5BNGVwaGlBQWhCa3A3anFlUGs0TElGRVY4YlJJZ25NVzBKcHpPZw?oc=5\" target=\"_blank\">Philly has a new law to boost development around transit. Which neighborhoods will benefit?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
       "id": "722c5fbc7c83cd82",
       "title": "L.A. City Planning Commission Moves Forward with Boyle Heights Community Plan - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUE5XUzFCMWtBcWcwSzRieFpGS0VzWXpOWW9HeG9YekpwMUdoSXVUajktY2lSTVpBRS1rWk5YeWZWV0p4WkIwaGlyYUdXWkRXODFfa1pjQ1QxMEo3WGg3ZEFjWVpURmlWYU1xdXJ3U0tDeEtGLU03eERFVUR3SWo0Z0ZOZ25LQzFiZVlMb09qbjdQNV9LWGN0SUw1YWQwcGJHTkpnUks3alRlSjV4X2c0Q0NvNDBVMVphbzFWdTVlZzQ?oc=5",
@@ -4893,6 +4903,16 @@
       "category": "rent"
     },
     {
+      "id": "9251eace386c8bd1",
+      "title": "California’s Eviction Moratorium Extension: What’s In It For Tenants And Landlords? - capradio.org",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGM4TURObG1sM3Z5ZTNmOHNlUDB5RERRX01ZRllucUNSNm0waUlHRzVFaFluOUItQThTcWd4djUyQnRyR1lld0JjVG9MQUdsOENVNXljeW9IZ2xQSjhaaUg2eldSdUpXRzFuc3FnUkZ3Rk51cHJGMi03VVFfQk5WVDN2NXpTb3RnMldGT2JNdmcxS3k0OXg1UXhkSTJsUkpKMVBUWEhBdmVnUkNuQm5Ma2FhdFR6aXQ4UXpmWEEtWkttWkk?oc=5",
+      "source": "capradio.org",
+      "published": "Mon, 28 Jun 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGM4TURObG1sM3Z5ZTNmOHNlUDB5RERRX01ZRllucUNSNm0waUlHRzVFaFluOUItQThTcWd4djUyQnRyR1lld0JjVG9MQUdsOENVNXljeW9IZ2xQSjhaaUg2eldSdUpXRzFuc3FnUkZ3Rk51cHJGMi03VVFfQk5WVDN2NXpTb3RnMldGT2JNdmcxS3k0OXg1UXhkSTJsUkpKMVBUWEhBdmVnUkNuQm5Ma2FhdFR6aXQ4UXpmWEEtWkttWkk?oc=5\" target=\"_blank\">California’s Eviction Moratorium Extension: What’s In It For Tenants And Landlords?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">capradio.org</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "376e8708fc18455c",
       "title": "L.A. City Planning Commission signs off on DTLA 2040 - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qYXV0MHFmazNwV2QwQk1DUnpndExuNWhFSzVlMF9XMjA5T1VtUGVQMnowTjBvY2ZWeGd5UnFOeXkyVEtkMFJrNlBJcVQ4ajE0Z0tqRXpXckhYZVlxWFNtWEdnaGpkLTJBZG45NnhIQ1g1bFpTd3RhcEk1MmQtUQ?oc=5",
@@ -4980,26 +5000,6 @@
       "published": "Mon, 26 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQemZBMVItcmw0WkRYc0VuTFZEQk5abGxPblN2QnpZMzJmSTN1SUZfSEViNDRfeWlmVURvNmFUTWU4MTQwbnFwYWZxTVJ0X2x5QThJQm42dURBVXNQME5JTlJySlBNalktdlpCRUdnaFpfcUJaT3lkTHlpQ1VJTUhGbktSMWgzR0hGZXlsd0kzeTVObTNNam5janhwODVUWG1DeEY3QVR6R3I5cUxWRGFSWVBB?oc=5\" target=\"_blank\">Manhattan Beach Will Not Ease Short-Term Rental Ban During World Cup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "663386688b27ee11",
-      "title": "'Limited to no impact': Why a pro-housing group says California’s pro-housing laws aren’t producing more - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjZOOEZCLVZId2xway1MWHM0cG4tZDNIOXc4b18zYUJqRFlRaVdVY0VQcG9sU282RmZrUjZxZTBteUxQMEswbElYWHFJTjN6bEJSQXFleG02UlJ6TzBJZWxMQWVzWktwbndoTE9RM3pEOW9xYnpvbWNKaUpQcHNza21PQzh5UQ?oc=5",
-      "source": "CalMatters",
-      "published": "Mon, 24 Feb 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjZOOEZCLVZId2xway1MWHM0cG4tZDNIOXc4b18zYUJqRFlRaVdVY0VQcG9sU282RmZrUjZxZTBteUxQMEswbElYWHFJTjN6bEJSQXFleG02UlJ6TzBJZWxMQWVzWktwbndoTE9RM3pEOW9xYnpvbWNKaUpQcHNza21PQzh5UQ?oc=5\" target=\"_blank\">'Limited to no impact': Why a pro-housing group says California’s pro-housing laws aren’t producing more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
-    },
-    {
-      "id": "47450da54b1615a7",
-      "title": "How Decades of Racist Housing Policy Left Neighborhoods Sweltering (Published 2020) - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkFIcXdURU5uU0Z0emc3OVRzVUFwQXgxSFZFZ3gybXBSZUtWclZqbG9ITjNlR1ZDc1cyTnNSNTJtdGhZZWdOUHBQaWQyUmZISWtSYVhXQkxTS2xGTldUZVBMd0lGZzhTN0ZtZkhMNVNRRThUeVJXdm1Ydzl4ZDhQWHNvSFhYTlpkSnhiOTNqazVWaW40NDdkTjIyWnJKMEk?oc=5",
-      "source": "The New York Times",
-      "published": "Mon, 24 Aug 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkFIcXdURU5uU0Z0emc3OVRzVUFwQXgxSFZFZ3gybXBSZUtWclZqbG9ITjNlR1ZDc1cyTnNSNTJtdGhZZWdOUHBQaWQyUmZISWtSYVhXQkxTS2xGTldUZVBMd0lGZzhTN0ZtZkhMNVNRRThUeVJXdm1Ydzl4ZDhQWHNvSFhYTlpkSnhiOTNqazVWaW40NDdkTjIyWnJKMEk?oc=5\" target=\"_blank\">How Decades of Racist Housing Policy Left Neighborhoods Sweltering (Published 2020)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
     }
   ]
