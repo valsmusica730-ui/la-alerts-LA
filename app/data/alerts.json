@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:24:09.724808+00:00",
+  "generated_at": "2026-09-23T17:32:34.888495+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3033,6 +3033,16 @@
       "category": "zoning"
     },
     {
+      "id": "d795a1ee9d330772",
+      "title": "California’s eviction moratorium to lift at midnight, despite rent relief concerns - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWRoN1l5WWZ0OUFvS0lLbWRpYkREUDR1LXYxUy05MWlZYnNoYm0yOVpPNUxvRUZhLUxuWHdOQUZtZVRnWUxsN2pzTEw5WWJDNTBIVEZwY1FVTGVhN1I2aDNXWTNKUXNKcGdVTnVZREFrNVRXMUNaMFFpcXdETVhTTE1zRlhxZW9LMUUwcTFWd0ZDQV91RXNzZUVDN01FQnNKU2dpTU1yd1lySWk2TVh1VUNQWEtQeDA3Unc?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Thu, 30 Jun 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWRoN1l5WWZ0OUFvS0lLbWRpYkREUDR1LXYxUy05MWlZYnNoYm0yOVpPNUxvRUZhLUxuWHdOQUZtZVRnWUxsN2pzTEw5WWJDNTBIVEZwY1FVTGVhN1I2aDNXWTNKUXNKcGdVTnVZREFrNVRXMUNaMFFpcXdETVhTTE1zRlhxZW9LMUUwcTFWd0ZDQV91RXNzZUVDN01FQnNKU2dpTU1yd1lySWk2TVh1VUNQWEtQeDA3Unc?oc=5\" target=\"_blank\">California’s eviction moratorium to lift at midnight, despite rent relief concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "5c57ea7b692a1769",
       "title": "As heat intensifies, here’s what to know about LA’s future AC requirements for apartments - LA Public Press",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUEN6YUV5QXNWdVhEOUFRcnlrMkRfMTdLMkgzRGtDNk02RUR3RGkxQUZPMWhHTjBtZUgtQ1BFeGdobU1Nd0xVM05XTy1GTG9RVUMzODFMR0hhRXhkMkU2blU0YUREaVV0cHIwdEgtRlNJVWowTklqVWoxa3p0Umc?oc=5",
@@ -3961,6 +3971,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0d3aU9RVWY1SnlkR1N1OXJaUDhES2kyQWhPQVNWWHF0MFNjVHVDUTJ6elV6TElGeGJqaHd4UWZZQnFTQTJDdllfNVI0UkQ1Mm5ZRDl2TFN2b0l0X3gyenMyZHI2dWI5czY3NUtUa05tNkIxMzVLSkFGcTVEZ0cwNjg3RmNrLVJsYkFXc2U3SGoxZw?oc=5\" target=\"_blank\">Measure ULA Tax Receipts Hit $1B In Revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "9388303e1ee6603d",
+      "title": "Airbnb Bans New Year's Eve Bookings For Some LA, SoCal House Parties - Patch",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVlKT2VrVkZTUjNWZ29BRWdWUURsTHd1cXp5bEdnbEZUVnBCaldCUWFZdEtBUnlsNm9Na2xHN0kzVjlfRjBPeGNseksxbjZqSGVOQUtUMkRGUkRGYmVXbmNUempzTEpaYTlsOGxib1BfaWt3cWtGaF9hMzIwanFMMjhCdWhIOGU5SkdwNG8zSkVPRTJJdjZucWFJRFV0a1MyMG1sbzhR?oc=5",
+      "source": "Patch",
+      "published": "Thu, 08 Dec 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVlKT2VrVkZTUjNWZ29BRWdWUURsTHd1cXp5bEdnbEZUVnBCaldCUWFZdEtBUnlsNm9Na2xHN0kzVjlfRjBPeGNseksxbjZqSGVOQUtUMkRGUkRGYmVXbmNUempzTEpaYTlsOGxib1BfaWt3cWtGaF9hMzIwanFMMjhCdWhIOGU5SkdwNG8zSkVPRTJJdjZucWFJRFV0a1MyMG1sbzhR?oc=5\" target=\"_blank\">Airbnb Bans New Year's Eve Bookings For Some LA, SoCal House Parties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "ec025d5466378340",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVWhpZVNjdzhBV2pMc1lMN3NzUkJPZ3J1YUpSV3FlcFhfaUotVURPY05qVW51bExLNkV6TUQ4clhlblFoZ1JsOEdneDExZG1aOFVHdlYzbWFlRUxEclB3a3dtQTBHdWRsSDV6cEE3aUhUZnhVWEk2Z2h3RUtwMUxJbEZISHpxaVNHUzRVSFhfalFWdHN5RVJ5TnVqRFFKc3VGNFpmbEhQUDlKUFNJQlRPQ09KcUpYTF94dUhUdmtLUjNIVGw2NnRmVHVERGFmQVc4SVJRR216OU9vWk1LbGM4?oc=5\" target=\"_blank\">The Trump administration’s anti-immigrant housing policy reflects a long history of xenophobia in public housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
-    },
-    {
-      "id": "b0780a2cb997752f",
-      "title": "Opinion: Who gets to live in L.A? A bold plan to create affordable housing has a serious flaw - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQczFoTFotQWgyRFRaUlNNUEZFWHdNSzhURUdiQVk1ejRhZExZX3Rtam1GOWMzTzQ1ZE0wbG5iek41cFVQemR1aDFKTU8xSzlfdnRLQ0FrSHAyMktyNUk3VTFncWM1NkJCYXdjWUFURTh1ZGwzblJ6V2ZjamNLWnR5Y1VzS015OG9HZ1RLRlN3RnpIUUxx?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Mon, 27 Nov 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQczFoTFotQWgyRFRaUlNNUEZFWHdNSzhURUdiQVk1ejRhZExZX3Rtam1GOWMzTzQ1ZE0wbG5iek41cFVQemR1aDFKTU8xSzlfdnRLQ0FrSHAyMktyNUk3VTFncWM1NkJCYXdjWUFURTh1ZGwzblJ6V2ZjamNLWnR5Y1VzS015OG9HZ1RLRlN3RnpIUUxx?oc=5\" target=\"_blank\">Opinion: Who gets to live in L.A? A bold plan to create affordable housing has a serious flaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
-    },
-    {
-      "id": "a936062d3fc023d6",
-      "title": "Clarifying Short-Term Rental Regulations: A response to Ms. Snortland - ladowntownnews.com",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORGJ2dE4zaWVfb01ZU0FPeWVRZGp2NUFFek1JYnlWaGphZFBHdGZTV1pEQi1DSW40d0x2SUlsOHdUaUZncXNlZnM2S21WMkRxM0dza3I1OEoteWdTSG1mU1k4aUlLM0pJVWVITVVOaXVINFBRT0xhTGZXYVFKWWh6S3RwOEhiMlJNelNrYXRDalViTW1SYXQ3NVVhVW5CMy1HWFBhTVB2NG9HVEdFeUJPamRwbkhVQWI0bkJYRzRXYy1qankwaUd3UTdnREdTY3ZqRnFwWTFYNUV2TjlrTGl3Z0pyUExwd3lieG00dS02dm4yTmRDRHZ4M3lxQnZyMVRTRF9wYQ?oc=5",
-      "source": "ladowntownnews.com",
-      "published": "Mon, 27 May 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxORGJ2dE4zaWVfb01ZU0FPeWVRZGp2NUFFek1JYnlWaGphZFBHdGZTV1pEQi1DSW40d0x2SUlsOHdUaUZncXNlZnM2S21WMkRxM0dza3I1OEoteWdTSG1mU1k4aUlLM0pJVWVITVVOaXVINFBRT0xhTGZXYVFKWWh6S3RwOEhiMlJNelNrYXRDalViTW1SYXQ3NVVhVW5CMy1HWFBhTVB2NG9HVEdFeUJPamRwbkhVQWI0bkJYRzRXYy1qankwaUd3UTdnREdTY3ZqRnFwWTFYNUV2TjlrTGl3Z0pyUExwd3lieG00dS02dm4yTmRDRHZ4M3lxQnZyMVRTRF9wYQ?oc=5\" target=\"_blank\">Clarifying Short-Term Rental Regulations: A response to Ms. Snortland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ladowntownnews.com</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "rent"
     }
   ]
 }
