@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:32:34.888495+00:00",
+  "generated_at": "2026-09-23T20:48:11.805959+00:00",
   "total": 500,
   "alerts": [
     {
@@ -331,6 +331,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXJDNXVUNE5tSk9zcWF4bUh6R1J5LXM5NU90Y1luY2ZzQzcybHl3NFAxYUZTOFhDdEtxdkRmRjYzTVR5YnlQeUdkMl9Eek4xYmRZSklHcVBBamhqcF92UVRfNVhOT0VRczlCY1Yxa3N3WEhLUUxsc0NuR1RXS05GQzNHdkpKTU9NU2M2OXpKS0lyU05nQ1lMaERObGhvZDRhYVY0TEpObkFBNk5CSHpvSF9JcDdSMGxEQVVnSnEzMnhmXzRIdWp3bEwzS1BBY0ZEckdiSk91Rkc4bXl1b0d1R3JIcWZpc2NydjVucFM0T0Zhdw?oc=5\" target=\"_blank\">LA City Council votes to place Measure ULA changes on the November ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calonews.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "f098fc905e93d0d8",
+      "title": "L.A. approves $466 million in affordable housing spending, the largest pool ever - latimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGswek5mY2ZYV3o3NGVZdnFPeWQ1T240S3BjVGF2Z2h6RmJIaVVZZE8yTlFBMkxoNlZ2N3FUNVBZZ3k3b082T25zUDVPYVdrVjNyd1ZhVlpvUVQ5ZC1GWnRCcFVhS1FNbllMbENJR3RzdHcyUEdUSDVwUERVUFExNk1UMjFXUTFCaVhfVl9fVHFwT0ZyR2VTT1RKcXVqaHNxOTJlaTA5TFVxUQ?oc=5",
+      "source": "latimes.com",
+      "published": "Wed, 23 Sep 2026 18:54:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGswek5mY2ZYV3o3NGVZdnFPeWQ1T240S3BjVGF2Z2h6RmJIaVVZZE8yTlFBMkxoNlZ2N3FUNVBZZ3k3b082T25zUDVPYVdrVjNyd1ZhVlpvUVQ5ZC1GWnRCcFVhS1FNbllMbENJR3RzdHcyUEdUSDVwUERVUFExNk1UMjFXUTFCaVhfVl9fVHFwT0ZyR2VTT1RKcXVqaHNxOTJlaTA5TFVxUQ?oc=5\" target=\"_blank\">L.A. approves $466 million in affordable housing spending, the largest pool ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "policy"
     },
     {
       "id": "6d81a0210111d253",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1qYXV0MHFmazNwV2QwQk1DUnpndExuNWhFSzVlMF9XMjA5T1VtUGVQMnowTjBvY2ZWeGd5UnFOeXkyVEtkMFJrNlBJcVQ4ajE0Z0tqRXpXckhYZVlxWFNtWEdnaGpkLTJBZG45NnhIQ1g1bFpTd3RhcEk1MmQtUQ?oc=5\" target=\"_blank\">L.A. City Planning Commission signs off on DTLA 2040</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "59049ad9b4db5316",
-      "title": "The Trump administration’s anti-immigrant housing policy reflects a long history of xenophobia in public housing - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVWhpZVNjdzhBV2pMc1lMN3NzUkJPZ3J1YUpSV3FlcFhfaUotVURPY05qVW51bExLNkV6TUQ4clhlblFoZ1JsOEdneDExZG1aOFVHdlYzbWFlRUxEclB3a3dtQTBHdWRsSDV6cEE3aUhUZnhVWEk2Z2h3RUtwMUxJbEZISHpxaVNHUzRVSFhfalFWdHN5RVJ5TnVqRFFKc3VGNFpmbEhQUDlKUFNJQlRPQ09KcUpYTF94dUhUdmtLUjNIVGw2NnRmVHVERGFmQVc4SVJRR216OU9vWk1LbGM4?oc=5",
-      "source": "The Conversation",
-      "published": "Mon, 27 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVWhpZVNjdzhBV2pMc1lMN3NzUkJPZ3J1YUpSV3FlcFhfaUotVURPY05qVW51bExLNkV6TUQ4clhlblFoZ1JsOEdneDExZG1aOFVHdlYzbWFlRUxEclB3a3dtQTBHdWRsSDV6cEE3aUhUZnhVWEk2Z2h3RUtwMUxJbEZISHpxaVNHUzRVSFhfalFWdHN5RVJ5TnVqRFFKc3VGNFpmbEhQUDlKUFNJQlRPQ09KcUpYTF94dUhUdmtLUjNIVGw2NnRmVHVERGFmQVc4SVJRR216OU9vWk1LbGM4?oc=5\" target=\"_blank\">The Trump administration’s anti-immigrant housing policy reflects a long history of xenophobia in public housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
     }
   ]
 }
