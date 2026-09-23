@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:28:51.732619+00:00",
+  "generated_at": "2026-09-23T12:24:09.724808+00:00",
   "total": 500,
   "alerts": [
     {
@@ -331,6 +331,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXJDNXVUNE5tSk9zcWF4bUh6R1J5LXM5NU90Y1luY2ZzQzcybHl3NFAxYUZTOFhDdEtxdkRmRjYzTVR5YnlQeUdkMl9Eek4xYmRZSklHcVBBamhqcF92UVRfNVhOT0VRczlCY1Yxa3N3WEhLUUxsc0NuR1RXS05GQzNHdkpKTU9NU2M2OXpKS0lyU05nQ1lMaERObGhvZDRhYVY0TEpObkFBNk5CSHpvSF9JcDdSMGxEQVVnSnEzMnhmXzRIdWp3bEwzS1BBY0ZEckdiSk91Rkc4bXl1b0d1R3JIcWZpc2NydjVucFM0T0Zhdw?oc=5\" target=\"_blank\">LA City Council votes to place Measure ULA changes on the November ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calonews.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "6d81a0210111d253",
+      "title": "Trusted ADU Contractor in Los Angeles: ADU Los Angeles Helps Homeowners Navigate 2026 ADU Rules - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVF0NDRkdmRUZThFUkx2ZjBoTGRqdG5nTVdYOFg5VVRUcXItOC1BczZxY0lIcm1raThKSHFENkRUMTgyWDAxMGxzLXlSbmhiTV9FS0xuR3c5OWRYYVYxVzRER1lYenpLUm9ncXAwczJUNUIyX2Nia3ZtQTRvU3ZJV2lEclVhdEFudDg0VWhNdUdPbTZqS3ZxSzNLWQ?oc=5",
+      "source": "openPR.com",
+      "published": "Wed, 23 Sep 2026 11:50:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVF0NDRkdmRUZThFUkx2ZjBoTGRqdG5nTVdYOFg5VVRUcXItOC1BczZxY0lIcm1raThKSHFENkRUMTgyWDAxMGxzLXlSbmhiTV9FS0xuR3c5OWRYYVYxVzRER1lYenpLUm9ncXAwczJUNUIyX2Nia3ZtQTRvU3ZJV2lEclVhdEFudDg0VWhNdUdPbTZqS3ZxSzNLWQ?oc=5\" target=\"_blank\">Trusted ADU Contractor in Los Angeles: ADU Los Angeles Helps Homeowners Navigate 2026 ADU Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
     },
     {
       "id": "322b04cc5a354d25",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxORGJ2dE4zaWVfb01ZU0FPeWVRZGp2NUFFek1JYnlWaGphZFBHdGZTV1pEQi1DSW40d0x2SUlsOHdUaUZncXNlZnM2S21WMkRxM0dza3I1OEoteWdTSG1mU1k4aUlLM0pJVWVITVVOaXVINFBRT0xhTGZXYVFKWWh6S3RwOEhiMlJNelNrYXRDalViTW1SYXQ3NVVhVW5CMy1HWFBhTVB2NG9HVEdFeUJPamRwbkhVQWI0bkJYRzRXYy1qankwaUd3UTdnREdTY3ZqRnFwWTFYNUV2TjlrTGl3Z0pyUExwd3lieG00dS02dm4yTmRDRHZ4M3lxQnZyMVRTRF9wYQ?oc=5\" target=\"_blank\">Clarifying Short-Term Rental Regulations: A response to Ms. Snortland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ladowntownnews.com</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "rent"
-    },
-    {
-      "id": "88c636ec4af229ec",
-      "title": "LVMH’s luxury hotel project approved - Los Angeles Business Journal",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2NpN203dUVrUWZwTUg4VHBiR0JURjVWNGVlZEoya1NHRlA5cDBLUi1UUkJEbWNBSTY5ZFhCQmg2RnRyY19FV184ZlA4MjdhRFVJb3dCVHNWbU84Ymc3OURpUGpoTVBjU3hVdEs0ME1QVjlOM3ZwVkNUcXEzVnZRcg?oc=5",
-      "source": "Los Angeles Business Journal",
-      "published": "Mon, 27 Jun 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2NpN203dUVrUWZwTUg4VHBiR0JURjVWNGVlZEoya1NHRlA5cDBLUi1UUkJEbWNBSTY5ZFhCQmg2RnRyY19FV184ZlA4MjdhRFVJb3dCVHNWbU84Ymc3OURpUGpoTVBjU3hVdEs0ME1QVjlOM3ZwVkNUcXEzVnZRcg?oc=5\" target=\"_blank\">LVMH’s luxury hotel project approved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Business Journal</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "other"
     }
   ]
 }
