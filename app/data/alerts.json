@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:59:03.290244+00:00",
+  "generated_at": "2026-09-24T17:46:43.241167+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3323,6 +3323,16 @@
       "category": "legal"
     },
     {
+      "id": "cb813cc33b4c4799",
+      "title": "The L.A. City Council just approved nearly $467 million in affordable housing — and applications open soon - Secret Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NVmpCZzNhaVYwUHd3MjBoNG1BMmF2ekppSTZSMS15M0FmT1ZMRVNNM3psT2ZtQzBoZkhCXzlGY0p6d2h2NzBPUW11T2Z4ZWo0b1dveFdfRV8wTWk3aF9EcEFLeG4tWGdrb05YWW54SHNHaTNOVWljTGlqU3c?oc=5",
+      "source": "Secret Los Angeles",
+      "published": "Thu, 24 Sep 2026 17:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9NVmpCZzNhaVYwUHd3MjBoNG1BMmF2ekppSTZSMS15M0FmT1ZMRVNNM3psT2ZtQzBoZkhCXzlGY0p6d2h2NzBPUW11T2Z4ZWo0b1dveFdfRV8wTWk3aF9EcEFLeG4tWGdrb05YWW54SHNHaTNOVWljTGlqU3c?oc=5\" target=\"_blank\">The L.A. City Council just approved nearly $467 million in affordable housing — and applications open soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Secret Los Angeles</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "6ecaf0a9f637bdb4",
       "title": "California's ballot compromise leaves Measure ULA standing - for now - Daily Journal",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnNuQXFwblFPSUg2Nl9WdzdaN0s3SXJXYWNCOEtRU2FYNUlUY0VQYWtzbFl2M0hvWGJZSkpKaXF4WmtXR21RVElYWHRBZEZ6TmJCZ3lPbVRjMXFpOUFaM3Z4M29kTzdCNzlNc09sbjZuaXdyXzZnZ29hLThTd3J1aGNYRERTWlotb1JvRndVY2ZJNW9SOENscldTV1AtRzNqR2E3Wjdab1FOekxwd1JR?oc=5",
@@ -3361,6 +3371,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOWHdMN2JBNGpDZzBVeVAwdXlvOXNqakVrckhaSGJRbUZXNVZDWFQ0cExmRktHR0ZRdkNoNHRkVzlJNjVuS1kzaTd6ZlItMkViQzNCelpuLUVPcnJzV3NxdHZxd0U4akt2M3JGWWQwbERweHRGelpWaklEMlB5dUY4VFJnUjEta3FlX01jSnZoQkhudVpVWFBsdjVua2hyQQ?oc=5\" target=\"_blank\">Mixed-Use Project at Selma & Argyle Approved by L.A. City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "ab8b633e513ec97b",
+      "title": "Essential California: Oakland bans criminal background checks for rental housing - latimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONl94b1hXYTRUMmo3NWVaWDBkem53QXNYSVhpQVBvU2NOWkowbW1JMmttTl91TXdpOEZuM3hNRHFkZUFiS0F6WEluQUxnNGxzWUlnVmJoUFowaFRvbGoxNmNJMnZWdGRiM1FGajBIV2g5SHc0UWlOUEtvN2pGRnFnSzlIZE0wZEFUTk5uSS1LaHZjV1dNb2d6QUFTV0pPc0Ntd3c?oc=5",
+      "source": "latimes.com",
+      "published": "Thu, 23 Jan 2020 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONl94b1hXYTRUMmo3NWVaWDBkem53QXNYSVhpQVBvU2NOWkowbW1JMmttTl91TXdpOEZuM3hNRHFkZUFiS0F6WEluQUxnNGxzWUlnVmJoUFowaFRvbGoxNmNJMnZWdGRiM1FGajBIV2g5SHc0UWlOUEtvN2pGRnFnSzlIZE0wZEFUTk5uSS1LaHZjV1dNb2d6QUFTV0pPc0Ntd3c?oc=5\" target=\"_blank\">Essential California: Oakland bans criminal background checks for rental housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "other"
     },
     {
       "id": "923efffbec9ec9f5",
@@ -3511,6 +3531,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjdwdWFRbHFUaVlNZG5lRS1EaU9PNE45VlVlZWZfVDlvSEMwREVmM1BaZzhpek4xY2sxWS1vbVZnMTh1THloT3FBQXpzck15M0FDVnR2U3Z6X3YyZmZBdjg1WWVFYzhCLTVEMXRncHBDZUdjTnZBY0VUeHlCZ2c0WDBjWDF1VkxLc0VtMWZqQnVCemxfM2xpMDVqT2JPX1p0dHc?oc=5\" target=\"_blank\">Council Hires New City Attorney, Waives Public Notice Rule to Do so</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Raincross Gazette</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "other"
+    },
+    {
+      "id": "9918b38193cf1ee0",
+      "title": "Measure ULA Changes Move Forward at City Hall - westsidecurrent.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHdMbnRNX0ZMZEJwd1hyVXpLOUJHWlZkTnd5WVdydV9nOS15M2VlTTBlWmJzenJoRHB6QnZKTmgwX2NSMVZzdllMMVFEN1ZnVnlIRmNrTEkzaE9WLVJOb1lZZWZWTGdHNmV3S3FidzhPa2JJN0hmandyUGtHU19vS29MZDljRjMxaEVhTGJVamRfMUUtY05NRVNvWEdsRk1aV3dRR01jcjAwMldlbVFpQ2xXd3pDaU5oQmljWmxGNkJGVUpad0FGUzlYWkdPd2FXUHU0VWg0YUVVT2s?oc=5",
+      "source": "westsidecurrent.com",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHdMbnRNX0ZMZEJwd1hyVXpLOUJHWlZkTnd5WVdydV9nOS15M2VlTTBlWmJzenJoRHB6QnZKTmgwX2NSMVZzdllMMVFEN1ZnVnlIRmNrTEkzaE9WLVJOb1lZZWZWTGdHNmV3S3FidzhPa2JJN0hmandyUGtHU19vS29MZDljRjMxaEVhTGJVamRfMUUtY05NRVNvWEdsRk1aV3dRR01jcjAwMldlbVFpQ2xXd3pDaU5oQmljWmxGNkJGVUpad0FGUzlYWkdPd2FXUHU0VWg0YUVVT2s?oc=5\" target=\"_blank\">Measure ULA Changes Move Forward at City Hall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "tax"
     },
     {
       "id": "27e4c1b28ef6703e",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDdTdGVMYVlJOGxwTmR2aDE5OVRnYUhRQkJHVDJ3cjNkQnBnWDMxU2ZTVzlQSnNHcERSa3RHMF9WajdNMWhGdWJlT0J0cDZrUHUzQjVRZEZFT2I4eG84bV9rNlYzdVFVU1dldU1sSEZpdjFNd2w1eUlreTVBcHRwVHhnbmJmN2h6V3hQNW9ldzFVZ01ZamhOaWFLSm1qUHMyLS1r?oc=5\" target=\"_blank\">City Planning Commission clears 48-unit development at 736 E. Vernon Avenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "97ba37dd1b032cbc",
-      "title": "Law that ended single-family zoning is struck down for five Southern California cities - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1U3UG1oUk1QNjVseU1kczg5bXZuZTRwdjdHYmhsQUxMbFFnZzZLVTVsRW96NEt6QzVQTzZaWUxvZ1R0YzI1Y2JTOGJuTklvdjVEeXFRUzkwbHlyck5md1VkTHBiSjlnQVVSdkNsazhFcXJIOTNtT29ST3JMQlZLU1Nxb1ZLYUR3em9vWG1JNUpRM2NPcVcza3BmN2RxNU5EcnhkQVJkYVVDYWdHcjRlMTVFaEk4R2NpLUFNSG5xWTFoZU1hZFQ2V1AyMjZzNkdyNFp5OXNDdXIxNHdJ?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Mon, 29 Apr 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1U3UG1oUk1QNjVseU1kczg5bXZuZTRwdjdHYmhsQUxMbFFnZzZLVTVsRW96NEt6QzVQTzZaWUxvZ1R0YzI1Y2JTOGJuTklvdjVEeXFRUzkwbHlyck5md1VkTHBiSjlnQVVSdkNsazhFcXJIOTNtT29ST3JMQlZLU1Nxb1ZLYUR3em9vWG1JNUpRM2NPcVcza3BmN2RxNU5EcnhkQVJkYVVDYWdHcjRlMTVFaEk4R2NpLUFNSG5xWTFoZU1hZFQ2V1AyMjZzNkdyNFp5OXNDdXIxNHdJ?oc=5\" target=\"_blank\">Law that ended single-family zoning is struck down for five Southern California cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "2da5bf32edc46e9e",
-      "title": "Three years into California duplex law, San Diego homeowners start to cash in - kpbs.org",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUFCZ09DaWEyWW1ZUFY4a0lrSXh0RnoxWkxWUl9OMGZxZDdROUF5Tm83VUxxdjVpbWZxVGZfQWh5ZEhjTGlLSkxnQS1XVXdWaWNnWHpEMTBKdjBJQTZGUm9ndXVncThIekN5cnhTa05GV0lLWWpIZ3ZhNXFIQWM3N0pINjZLSDFRWjlBTTQwdXQ5R0lkYXBCUFMyWHJKUnFnQWc?oc=5",
-      "source": "kpbs.org",
-      "published": "Mon, 28 Oct 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUFCZ09DaWEyWW1ZUFY4a0lrSXh0RnoxWkxWUl9OMGZxZDdROUF5Tm83VUxxdjVpbWZxVGZfQWh5ZEhjTGlLSkxnQS1XVXdWaWNnWHpEMTBKdjBJQTZGUm9ndXVncThIekN5cnhTa05GV0lLWWpIZ3ZhNXFIQWM3N0pINjZLSDFRWjlBTTQwdXQ5R0lkYXBCUFMyWHJKUnFnQWc?oc=5\" target=\"_blank\">Three years into California duplex law, San Diego homeowners start to cash in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kpbs.org</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
-    },
-    {
-      "id": "67e806114693ee73",
-      "title": "California has a new law on eviction protections. What does it mean for tenants? - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcVF2MmxuaWpEMFBXRExWYkY1VXZvYWRnQWZzT2xvWmJ1YmlVenJ1VGpQSGpxTGNWVUhxeTUzZ25Lc1BBR1Iza3htR0V1ZkxFUnQ0Q3dkdmZVM25zRDRwTjZjQXZHN1N2dzBibFpsZ2R2XzBnXzFzVnJ2QkRITzlkU3hB?oc=5",
-      "source": "CalMatters",
-      "published": "Mon, 28 Mar 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcVF2MmxuaWpEMFBXRExWYkY1VXZvYWRnQWZzT2xvWmJ1YmlVenJ1VGpQSGpxTGNWVUhxeTUzZ25Lc1BBR1Iza3htR0V1ZkxFUnQ0Q3dkdmZVM25zRDRwTjZjQXZHN1N2dzBibFpsZ2R2XzBnXzFzVnJ2QkRITzlkU3hB?oc=5\" target=\"_blank\">California has a new law on eviction protections. What does it mean for tenants?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
