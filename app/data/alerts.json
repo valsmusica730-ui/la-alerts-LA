@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:46:43.241167+00:00",
+  "generated_at": "2026-09-24T20:53:53.843791+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2391,6 +2391,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXc1QlYxVE43dVBQNDlCMHpqS291SWxXM0YwWWt5TDhaNmNnaDRHeWU1OTljSVFCYnBaYmUwZXN0dXJQQnZaZy1RYll2NGlRci04M25oNGVYZktwZDlEZjljWDNtSnVQTjU4RWdtOHpqX1MwOTcwYkw3TmRhWUxpOTdHZ2U4UQ?oc=5\" target=\"_blank\">LA’s Mansion Tax: Lessons for Urban India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">orfonline.org</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "ffee9c629eff3c42",
+      "title": "LA County Approves Plan To End COVID-19 Tenant Protections At End Of Year - LAist",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcTVhUkNaTVFTNFUxdGd2eWJsTG9TdzlSbnJabHoyakpQSUdZNGNWUTZLa2Z4N0RJZHRyWUNFeTV4MnNpTUw4eTFnQmtXU1NzT0VEVDFzVElfQk1vaEIybDJfRUNTSTdXSmg1bGo0ODY0MnIzY3ZhVGZNbU1IeHAwZzdFeDFQc0Vvb3k0RkROdmJIVkVSMlZWM2NqM2lLZ3JXX21rZ3VxZUdNTzQtcnhYTkpoaEZtLTY3dTlXcUpSaWkwbi1Xbk9YSDE1OEtfZw?oc=5",
+      "source": "LAist",
+      "published": "Tue, 13 Sep 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcTVhUkNaTVFTNFUxdGd2eWJsTG9TdzlSbnJabHoyakpQSUdZNGNWUTZLa2Z4N0RJZHRyWUNFeTV4MnNpTUw4eTFnQmtXU1NzT0VEVDFzVElfQk1vaEIybDJfRUNTSTdXSmg1bGo0ODY0MnIzY3ZhVGZNbU1IeHAwZzdFeDFQc0Vvb3k0RkROdmJIVkVSMlZWM2NqM2lLZ3JXX21rZ3VxZUdNTzQtcnhYTkpoaEZtLTY3dTlXcUpSaWkwbi1Xbk9YSDE1OEtfZw?oc=5\" target=\"_blank\">LA County Approves Plan To End COVID-19 Tenant Protections At End Of Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "2124db607415e5d3",
@@ -4990,16 +5000,6 @@
       "published": "Mon, 29 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWJnZzdTR0wwWU1WaEV5YWdIV2t0bDliUlV6Wkl6eXB6Ty1SWjVVZ2dGLUhWaXhDN1R5c0RHMVN1NEFzTThORG9iN05RT0NCMlZ4aTl1aG9SbVlqVjNUWEZiWkZGZ1dudEpDSmxkYktyZjQ5eDNyRzJteTNMMTJyR2JEcDRoX2w3bHA3UVVub0U5SmMyb3A3VjgtdHJyUWtnWGZIeFRjTXBoY28?oc=5\" target=\"_blank\">City Planning Commission votes in favor of new zoning rules near three G Line stops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
-    },
-    {
-      "id": "158cfd44742331ae",
-      "title": "City Planning Commission clears 48-unit development at 736 E. Vernon Avenue - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDdTdGVMYVlJOGxwTmR2aDE5OVRnYUhRQkJHVDJ3cjNkQnBnWDMxU2ZTVzlQSnNHcERSa3RHMF9WajdNMWhGdWJlT0J0cDZrUHUzQjVRZEZFT2I4eG84bV9rNlYzdVFVU1dldU1sSEZpdjFNd2w1eUlreTVBcHRwVHhnbmJmN2h6V3hQNW9ldzFVZ01ZamhOaWFLSm1qUHMyLS1r?oc=5",
-      "source": "Urbanize LA",
-      "published": "Mon, 29 Aug 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDdTdGVMYVlJOGxwTmR2aDE5OVRnYUhRQkJHVDJ3cjNkQnBnWDMxU2ZTVzlQSnNHcERSa3RHMF9WajdNMWhGdWJlT0J0cDZrUHUzQjVRZEZFT2I4eG84bV9rNlYzdVFVU1dldU1sSEZpdjFNd2w1eUlreTVBcHRwVHhnbmJmN2h6V3hQNW9ldzFVZ01ZamhOaWFLSm1qUHMyLS1r?oc=5\" target=\"_blank\">City Planning Commission clears 48-unit development at 736 E. Vernon Avenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     }
   ]
