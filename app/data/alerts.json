@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:01:14.597190+00:00",
+  "generated_at": "2026-09-24T12:59:03.290244+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1591,6 +1591,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVUpCMHRuaktnOUV6MnNpeUFsZlk1SGd4cHlfUl9SMC1HeVFTb2E0ajlWOWlmRVdUSWktdF9PRXZpVmE5cW9vNUdZQmFsVnM5cjdqM0hldERCUjFVWnlHLW1oLW9pMl9FV3RlOVdJS1NrWVQycjktX2lsYl9EZVUtRVNCSjJhZw?oc=5\" target=\"_blank\">LA Passes “Just Cause” Eviction Protection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "f81c975f2d916a5e",
+      "title": "Senate Passed SB 9 – Measure Now Awaits Governor Action - Davis Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnl2VS0tYmt1YzlnMVRMN2R1ODhEd0lFbHhBSXo3czVnVDJoTWxkUC1MZVpSam1ab2dpbVZ2MFFRRnF5cnYwVUFuMnBneTlSSU5VVEU1SURmc0NGdllsZmJoSUJIWHA0NDFZNlNsYkJ4YzNDbU84V0h1cnF0VlRFUS1ReFk3U1RLYlhNVlJyMkpvdw?oc=5",
+      "source": "Davis Vanguard",
+      "published": "Tue, 31 Aug 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnl2VS0tYmt1YzlnMVRMN2R1ODhEd0lFbHhBSXo3czVnVDJoTWxkUC1MZVpSam1ab2dpbVZ2MFFRRnF5cnYwVUFuMnBneTlSSU5VVEU1SURmc0NGdllsZmJoSUJIWHA0NDFZNlNsYkJ4YzNDbU84V0h1cnF0VlRFUS1ReFk3U1RLYlhNVlJyMkpvdw?oc=5\" target=\"_blank\">Senate Passed SB 9 – Measure Now Awaits Governor Action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
     },
     {
       "id": "a30d30622166f0e9",
@@ -4153,6 +4163,16 @@
       "category": "legal"
     },
     {
+      "id": "643acec12552d4e8",
+      "title": "Your guide to L.A.’s ‘mansion tax’ proposal to build more housing, Ordinance ULA - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjFXRWwtRktBcXNMeUxlNHBsUmhpRGRSM0hOZmxldGJFWUx4WDNRWU9NUFpSMXh5Qmd1MHhWLTRfZFNGbG9MMlFaNjM0b1UtWVFUWUFhWVRfZkhaNFlBLTVtaHhBSWJ0dnIyV2NwN0R2ZGhzdE5vZ1pndFFUSG1WMG00dmhhR0VTYld0NjdmWUk5RlRsMlFqNmhqTmtDQ1dSVWVwVkdYLUp3NDFyTFRtc2NaMFNCTmVVc1E?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Thu, 03 Nov 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjFXRWwtRktBcXNMeUxlNHBsUmhpRGRSM0hOZmxldGJFWUx4WDNRWU9NUFpSMXh5Qmd1MHhWLTRfZFNGbG9MMlFaNjM0b1UtWVFUWUFhWVRfZkhaNFlBLTVtaHhBSWJ0dnIyV2NwN0R2ZGhzdE5vZ1pndFFUSG1WMG00dmhhR0VTYld0NjdmWUk5RlRsMlFqNmhqTmtDQ1dSVWVwVkdYLUp3NDFyTFRtc2NaMFNCTmVVc1E?oc=5\" target=\"_blank\">Your guide to L.A.’s ‘mansion tax’ proposal to build more housing, Ordinance ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "tax"
+    },
+    {
       "id": "6a08ed62cde75973",
       "title": "Landlords sue to end eviction moratoriums in Oakland and Alameda County - The Oaklandside",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUQ3VkdwY3MzdnRxNFItOHdxV255ZWZYZzltaU84RWp2aDRPaHNYV0JyNm5iSFBVQ0p1SElnNXdwYnFIa1Q0c19nZzZLTlFQS0NNSWg0S2g1d1NEUHdMOHBadDAwTWEyTVJqa3d6ZXFUN1k5Y0p5SS1VZXd5aEtxZTgza3ljeXQ5bThSRUtsWWdOXzlyUmxlZ3NOZmI?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcVF2MmxuaWpEMFBXRExWYkY1VXZvYWRnQWZzT2xvWmJ1YmlVenJ1VGpQSGpxTGNWVUhxeTUzZ25Lc1BBR1Iza3htR0V1ZkxFUnQ0Q3dkdmZVM25zRDRwTjZjQXZHN1N2dzBibFpsZ2R2XzBnXzFzVnJ2QkRITzlkU3hB?oc=5\" target=\"_blank\">California has a new law on eviction protections. What does it mean for tenants?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "9251eace386c8bd1",
-      "title": "California’s Eviction Moratorium Extension: What’s In It For Tenants And Landlords? - capradio.org",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGM4TURObG1sM3Z5ZTNmOHNlUDB5RERRX01ZRllucUNSNm0waUlHRzVFaFluOUItQThTcWd4djUyQnRyR1lld0JjVG9MQUdsOENVNXljeW9IZ2xQSjhaaUg2eldSdUpXRzFuc3FnUkZ3Rk51cHJGMi03VVFfQk5WVDN2NXpTb3RnMldGT2JNdmcxS3k0OXg1UXhkSTJsUkpKMVBUWEhBdmVnUkNuQm5Ma2FhdFR6aXQ4UXpmWEEtWkttWkk?oc=5",
-      "source": "capradio.org",
-      "published": "Mon, 28 Jun 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGM4TURObG1sM3Z5ZTNmOHNlUDB5RERRX01ZRllucUNSNm0waUlHRzVFaFluOUItQThTcWd4djUyQnRyR1lld0JjVG9MQUdsOENVNXljeW9IZ2xQSjhaaUg2eldSdUpXRzFuc3FnUkZ3Rk51cHJGMi03VVFfQk5WVDN2NXpTb3RnMldGT2JNdmcxS3k0OXg1UXhkSTJsUkpKMVBUWEhBdmVnUkNuQm5Ma2FhdFR6aXQ4UXpmWEEtWkttWkk?oc=5\" target=\"_blank\">California’s Eviction Moratorium Extension: What’s In It For Tenants And Landlords?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">capradio.org</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
-    },
-    {
-      "id": "376e8708fc18455c",
-      "title": "L.A. City Planning Commission signs off on DTLA 2040 - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qYXV0MHFmazNwV2QwQk1DUnpndExuNWhFSzVlMF9XMjA5T1VtUGVQMnowTjBvY2ZWeGd5UnFOeXkyVEtkMFJrNlBJcVQ4ajE0Z0tqRXpXckhYZVlxWFNtWEdnaGpkLTJBZG45NnhIQ1g1bFpTd3RhcEk1MmQtUQ?oc=5",
-      "source": "Urbanize LA",
-      "published": "Mon, 27 Sep 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1qYXV0MHFmazNwV2QwQk1DUnpndExuNWhFSzVlMF9XMjA5T1VtUGVQMnowTjBvY2ZWeGd5UnFOeXkyVEtkMFJrNlBJcVQ4ajE0Z0tqRXpXckhYZVlxWFNtWEdnaGpkLTJBZG45NnhIQ1g1bFpTd3RhcEk1MmQtUQ?oc=5\" target=\"_blank\">L.A. City Planning Commission signs off on DTLA 2040</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
