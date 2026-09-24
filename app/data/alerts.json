@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:53:53.843791+00:00",
+  "generated_at": "2026-09-24T23:38:01.817706+00:00",
   "total": 500,
   "alerts": [
     {
@@ -791,6 +791,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE43WmVNeXdlLWc5Zmg5YXhTblhyM0M5N0U3MzRCNTFWMUhLOUdSa3duMGlucFRTWnJnTWpNNnZiejRVYTRWTU95MW90WC1fYnpraGtZMmxjNGl3UkhOVEJfSzV5ZkF4R3Jsd0pHUzFlTV96LTjSAXhBVV95cUxNbVBPVVpIRV9EeGRKUnB4QjJjV3JWV0JXcGIycjZUMWdkYjhzWTNIVzM4U2szZ0VKOE9zclJRb19QSEZXQjJxbjZxV1FDTEMweFgtU0FOSmgwbjlWc2EyMEM5cm1qQ3FyejhiUXBvVVYtUGllNUd4Wlc?oc=5\" target=\"_blank\">You Can Build These Prefab ADUs Yourself, Which Start at $100 Per Square Foot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dwell</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
+    },
+    {
+      "id": "7c86c9f9419c6ec3",
+      "title": "Council passes ordinance requiring developers to pay for affordable housing - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQUNOYjFaclM1ZF9GNEVRSnZPS21ya2ZxZVRzMEUyYjBNQ0t4MVhYSHUwUmpIeG44SFpMU3ZGaUVZNXdETGNSSmVPdTlZeHZCa0ZqeGcyVG12cXdFQUhRd2Foc0RNR095SDRIMmgxNU84ZVd6OGZabUF6TG1HTVBERVpXRVlRX3UyZnI2SW5FWjh4UlphRS1hMDZ2QVZZaXNqS3NBbTFydzQwNDFhcmlGZGVKWGhoNGNvZ1RLMA?oc=5",
+      "source": "The Real Deal",
+      "published": "Wed, 13 Dec 2017 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQUNOYjFaclM1ZF9GNEVRSnZPS21ya2ZxZVRzMEUyYjBNQ0t4MVhYSHUwUmpIeG44SFpMU3ZGaUVZNXdETGNSSmVPdTlZeHZCa0ZqeGcyVG12cXdFQUhRd2Foc0RNR095SDRIMmgxNU84ZVd6OGZabUF6TG1HTVBERVpXRVlRX3UyZnI2SW5FWjh4UlphRS1hMDZ2QVZZaXNqS3NBbTFydzQwNDFhcmlGZGVKWGhoNGNvZ1RLMA?oc=5\" target=\"_blank\">Council passes ordinance requiring developers to pay for affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
     },
     {
       "id": "4bd8e8ca39af2863",
@@ -2881,6 +2891,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVG5CNFZJeGZTeHluaXU0NW8yUFRsaTN4WGpxUHFCc2E5UjRqc2F6N2VRWDY2T01ubHAzZVlUVmN5TElLMVVjOC1OZDBMSXpVbWQ5d1ZxTGxIeWN1VHFVS213LUNwVm9fY3BveTNvNU05STJqZXNYMng4ZVZ0OGQyQnNnNG41eVJGdzEzTjBMbThWajVmWGd5VXhuekJvenEwWXNWZlVBbkFGb0hrR3NxemtNYTlBMlpieUFIR2tYQW5QbDhBZENKby1TczV2aUFDZ3FXdFFlVTVMMVhkc2FoakpIOUpYUktZY284Yi1TOA?oc=5\" target=\"_blank\">Voters Will Decide Measure ULA Relief for Palisades Fire Survivors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "8d23b01aa1ca030a",
+      "title": "City Council Funds Plan to Replace LAHSA’s Role in Los Angeles - westsidecurrent.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONTdiOEVRTEs4bDNOd0YxQzhQYWEzWTRzVk5DWTZidkUzb3FnUEFOZTl6LTZ3cXluNVFCNERQLXMwbHc5VHlKOG51cFlTeEcxSnlwcGlHNlpaNDRQVGJtV1g2dXBTRGZicmVuZnBRNWlIZkc3NlN4MnEyVUpWc0JMZVRXU2NLS2pRc1NlOHdXMzRDM1FlZkF6SzV4NUxueUh0YUw1bHN6TUpCR0h6MUNfQTFZT0JYelNIeEVOWHdIV05Qdk5DQ0dIUE0yWGZFbkVmS0NGUlZ0dVJHRktLWThZTDZaQlpGZGpwQmJzQWdn?oc=5",
+      "source": "westsidecurrent.com",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxONTdiOEVRTEs4bDNOd0YxQzhQYWEzWTRzVk5DWTZidkUzb3FnUEFOZTl6LTZ3cXluNVFCNERQLXMwbHc5VHlKOG51cFlTeEcxSnlwcGlHNlpaNDRQVGJtV1g2dXBTRGZicmVuZnBRNWlIZkc3NlN4MnEyVUpWc0JMZVRXU2NLS2pRc1NlOHdXMzRDM1FlZkF6SzV4NUxueUh0YUw1bHN6TUpCR0h6MUNfQTFZT0JYelNIeEVOWHdIV05Qdk5DQ0dIUE0yWGZFbkVmS0NGUlZ0dVJHRktLWThZTDZaQlpGZGpwQmJzQWdn?oc=5\" target=\"_blank\">City Council Funds Plan to Replace LAHSA’s Role in Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "c1ddb2d0200f5a01",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxObGlvTXozV1EzVUZBLXJiNmNpczNPOGNOS3NOVmZXdDd4NGhGTGJJbUJsOXBzblFSLXBITGZMQjNDZWY5OGpra3RJenpZTEdZMkM1SUo1WGZ0OHZEQXVxWUppQm5SWkwxR1hUQ3ExSmNLTUF4ZGtkYU5jWWJoTHdCUW9KaFNpaXpSZHNhRWZIeG91MUNLRlE?oc=5\" target=\"_blank\">Supreme Court denies challenge to Covid eviction moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courthouse News</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
-    },
-    {
-      "id": "260482f0af593b34",
-      "title": "Planning Commission OK’s changes to Hollywood zoning, land use - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjA2ejV5RlZGejh1OENGZGJMOFU2NVc3X3ZHMDRuR3lsOHhFUlo5UXJyVndtTlJtaHEtWmkxMi0wUmlydDRQMk1VdGtWOUdvVTBYZ0R3Q2o0eXFIQzQxY3BnY0h5SzZnbFRlcHh5d0hGWXZYSVhIZHM2TzZLa3YydDdlWFNBekFYR0xUc0FoRjNJaTlVSExnNUxselJnWFVf?oc=5",
-      "source": "The Real Deal",
-      "published": "Mon, 29 Mar 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjA2ejV5RlZGejh1OENGZGJMOFU2NVc3X3ZHMDRuR3lsOHhFUlo5UXJyVndtTlJtaHEtWmkxMi0wUmlydDRQMk1VdGtWOUdvVTBYZ0R3Q2o0eXFIQzQxY3BnY0h5SzZnbFRlcHh5d0hGWXZYSVhIZHM2TzZLa3YydDdlWFNBekFYR0xUc0FoRjNJaTlVSExnNUxselJnWFVf?oc=5\" target=\"_blank\">Planning Commission OK’s changes to Hollywood zoning, land use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "c58ab9ea57f98b23",
-      "title": "City Planning Commission votes in favor of new zoning rules near three G Line stops - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWJnZzdTR0wwWU1WaEV5YWdIV2t0bDliUlV6Wkl6eXB6Ty1SWjVVZ2dGLUhWaXhDN1R5c0RHMVN1NEFzTThORG9iN05RT0NCMlZ4aTl1aG9SbVlqVjNUWEZiWkZGZ1dudEpDSmxkYktyZjQ5eDNyRzJteTNMMTJyR2JEcDRoX2w3bHA3UVVub0U5SmMyb3A3VjgtdHJyUWtnWGZIeFRjTXBoY28?oc=5",
-      "source": "Urbanize LA",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWJnZzdTR0wwWU1WaEV5YWdIV2t0bDliUlV6Wkl6eXB6Ty1SWjVVZ2dGLUhWaXhDN1R5c0RHMVN1NEFzTThORG9iN05RT0NCMlZ4aTl1aG9SbVlqVjNUWEZiWkZGZ1dudEpDSmxkYktyZjQ5eDNyRzJteTNMMTJyR2JEcDRoX2w3bHA3UVVub0U5SmMyb3A3VjgtdHJyUWtnWGZIeFRjTXBoY28?oc=5\" target=\"_blank\">City Planning Commission votes in favor of new zoning rules near three G Line stops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
     }
   ]
 }
