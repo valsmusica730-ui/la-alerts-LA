@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:17:12.708888+00:00",
+  "generated_at": "2026-09-25T14:15:54.919717+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1711,6 +1711,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkxxMkJreDktRzZBMWJiLTZGYmluU1N2a0MtcmJtejNTbm1TM0NhdUs1VnJDQ09Vc1UwTlBKNWZFaEdzd3dVYVNSYjFDY0VEdXF0Um1FbmppdWFQMWJacXhzRlJSN3QyOXdUMVo0LWo3RllmRnJjZ1hrLXloMmlETnZNc1lKYXVpQzNKdTNTM1NSZjVXM1FB?oc=5\" target=\"_blank\">Beverly Hills continues builder’s remedy streak as Planning Commission approves another high-rise project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "d7e249dd500cebd8",
+      "title": "LA County Moves Toward Requirement for Seismic Retrofit of Older Buildings - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXZKSlhCR2E4TkxvX2NjUEMzbUY3VC1zeFJNSUU4T0NKOFd0cEczenNWU0ZLQm02ZlZ0bkZlNHIyQms3S1VVQTRlQmlYVlRod01KVEZaNkdnSGh3LVlMQlZISW9qVjN4UGRwNnZ3bzdJcEJOcDJwX3A0MmJrMzJvTWxybWdpdVcwLUsxZHdhbmx2LUJZbmJrVEZBUXllazhmNDhGcmpDS3lPSlFmUmw5Y3dfbFlMV0IyclBFenJaSDBCZ9IBygFBVV95cUxQeFpiOHlkNm8xaXpJUlB1NEZydE1uTk9vY2JrbWJKQzE0ZV9xVm9qel9IS2VoR3VwRXNLa1pydUw4SzZpM3gweW5RcDhWOUd1a3ZwVkxZenB1U0dSZ05XMjljNGttSm1GcUdTVXRMQmE1TGdRWUw1cmZVVVVDV2Vfek5kU3NaZnBfdkZTeFlZbUpZSWtacTJxa3dRRll5aGJPd2NPdVZaMWlKVUlCVUVfNWNJdHhrUk9kbzZWNFo4NU0tWk04MXRBSXZn?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Tue, 28 Feb 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXZKSlhCR2E4TkxvX2NjUEMzbUY3VC1zeFJNSUU4T0NKOFd0cEczenNWU0ZLQm02ZlZ0bkZlNHIyQms3S1VVQTRlQmlYVlRod01KVEZaNkdnSGh3LVlMQlZISW9qVjN4UGRwNnZ3bzdJcEJOcDJwX3A0MmJrMzJvTWxybWdpdVcwLUsxZHdhbmx2LUJZbmJrVEZBUXllazhmNDhGcmpDS3lPSlFmUmw5Y3dfbFlMV0IyclBFenJaSDBCZ9IBygFBVV95cUxQeFpiOHlkNm8xaXpJUlB1NEZydE1uTk9vY2JrbWJKQzE0ZV9xVm9qel9IS2VoR3VwRXNLa1pydUw4SzZpM3gweW5RcDhWOUd1a3ZwVkxZenB1U0dSZ05XMjljNGttSm1GcUdTVXRMQmE1TGdRWUw1cmZVVVVDV2Vfek5kU3NaZnBfdkZTeFlZbUpZSWtacTJxa3dRRll5aGJPd2NPdVZaMWlKVUlCVUVfNWNJdHhrUk9kbzZWNFo4NU0tWk04MXRBSXZn?oc=5\" target=\"_blank\">LA County Moves Toward Requirement for Seismic Retrofit of Older Buildings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
+      "category": "construction"
     },
     {
       "id": "ec6d2287a3a04be5",
@@ -3883,6 +3893,16 @@
       "category": "zoning"
     },
     {
+      "id": "7484aba2e32fbf3d",
+      "title": "Lake on Wilshire Development Approved by L.A. City Planning Commission - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWVieUY1WnFCUTFhcWtFbHpuZWczSlJ5WTB6NDJDSk1jYURxb3Zpc2NMMkdMTklyVFJiM3hTYkE3MV9YNmdEM1psaXZVdGtTdy1sRWtrNEVpV0M4QURxTGFSeUdNWUgtdDhIandUQ3hsMW1lNmJlVFN6TnF4NnB5dWMyTWNwUWpodWRma3AyNUExVkxCSWtj?oc=5",
+      "source": "Urbanize LA",
+      "published": "Thu, 12 Oct 2017 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONWVieUY1WnFCUTFhcWtFbHpuZWczSlJ5WTB6NDJDSk1jYURxb3Zpc2NMMkdMTklyVFJiM3hTYkE3MV9YNmdEM1psaXZVdGtTdy1sRWtrNEVpV0M4QURxTGFSeUdNWUgtdDhIandUQ3hsMW1lNmJlVFN6TnF4NnB5dWMyTWNwUWpodWRma3AyNUExVkxCSWtj?oc=5\" target=\"_blank\">Lake on Wilshire Development Approved by L.A. City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "4b19eec5f3444c72",
       "title": "Wandering Courtyard House turns LA's zoning setbacks into the design itself - archpaper.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWlNNzJCWDVBaHozenY4LTlYY0lNLVltS2RzcUhpNVo3WVNORHBRY3NQclRPOVdDam5COGx6emo4UFljRHE2bjllc015YVVScy01SElERUl5NmE5N1dQcXVkemJscWZmcnJ4WElWSkNiQkpWSGQtam5QVjZibUM3dDJxcmJRVHg2WERyclM0TUt5UjlaSjNUVnkydw?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MdWxydE00aUdPM01pal9QeG1MaFpVRGVFUkVwRkI2Z2laV0s4ZGhCRF84QmRTaHhpZE9NNnpBTHg4cFFQekltY3REYW9ucmp5ZEppSWFJVzg?oc=5\" target=\"_blank\">Landlords: Ordinance Killing Us</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">labusinessjournal.com</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "rent"
-    },
-    {
-      "id": "02e3a3b4ee2d2f42",
-      "title": "City of Los Angeles announces historic coordinated proactive approach to protect tenants - City of Los Angeles (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEo4ZDZfQ3U0RnRBbm1STFZpakVKN29lX3Q5aXZDMURKUGtBQ1RJZ3ctbTZfSWVvUkxiNnlzb2dmSnE4eFFlTXdDTEdtZ0tjdUowNDlva2FyLVJDVm10UzBpRXZuVnRWbGFLaWZWQkl5M1hyNndHLVByeF8tQld0eWtIcWNQMVVtZ1hiVWJJenAyZGJVbmlXemdjaG1vWmcyMFFYdjA3WXZlRmxwZlUyOC13?oc=5",
-      "source": "City of Los Angeles (.gov)",
-      "published": "Mon, 31 Jul 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEo4ZDZfQ3U0RnRBbm1STFZpakVKN29lX3Q5aXZDMURKUGtBQ1RJZ3ctbTZfSWVvUkxiNnlzb2dmSnE4eFFlTXdDTEdtZ0tjdUowNDlva2FyLVJDVm10UzBpRXZuVnRWbGFLaWZWQkl5M1hyNndHLVByeF8tQld0eWtIcWNQMVVtZ1hiVWJJenAyZGJVbmlXemdjaG1vWmcyMFFYdjA3WXZlRmxwZlUyOC13?oc=5\" target=\"_blank\">City of Los Angeles announces historic coordinated proactive approach to protect tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "other"
-    },
-    {
-      "id": "de7d187a0dd417f0",
-      "title": "LA City Council pumps brakes on ambitious affordable housing law - calonews.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb2NvNnB3ZWFFbWNrQnEtS0VnSV9KZFlIRWxJNkF4TnhBaUVybV81ZzU4cGdQS1VQb1dEa2gxa1JyS0tIakcyR29SQ1Q0bHpvX0pRQnNRZ3NoZTdCYThwNDJNdEdsRi1Pd1RoV05Uakh3OHQtcVN5bEZUSmtSVlljYnpaMmZsZm1LcDAyZlJiUG02VndTRExKUU5mZW1nSHRHNGFUcTNMa3F4eVhsbWhSWTc4NEh5ZHl2QVBZU0dwb2hGQ3RvMjI5elV6MWU0Sl9FNjBYM01NNTFBVHVpX2dQaFZNcHpMdw?oc=5",
-      "source": "calonews.com",
-      "published": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb2NvNnB3ZWFFbWNrQnEtS0VnSV9KZFlIRWxJNkF4TnhBaUVybV81ZzU4cGdQS1VQb1dEa2gxa1JyS0tIakcyR29SQ1Q0bHpvX0pRQnNRZ3NoZTdCYThwNDJNdEdsRi1Pd1RoV05Uakh3OHQtcVN5bEZUSmtSVlljYnpaMmZsZm1LcDAyZlJiUG02VndTRExKUU5mZW1nSHRHNGFUcTNMa3F4eVhsbWhSWTc4NEh5ZHl2QVBZU0dwb2hGQ3RvMjI5elV6MWU0Sl9FNjBYM01NNTFBVHVpX2dQaFZNcHpMdw?oc=5\" target=\"_blank\">LA City Council pumps brakes on ambitious affordable housing law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calonews.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
     }
   ]
 }
