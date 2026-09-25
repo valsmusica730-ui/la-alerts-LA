@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:38:01.817706+00:00",
+  "generated_at": "2026-09-25T08:17:12.708888+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3763,6 +3763,16 @@
       "category": "other"
     },
     {
+      "id": "3b4c59bc9aec1237",
+      "title": "Plan To Demolish Beverly Plaza For 8-Story Building Approved - Patch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDVrSThpT2h6Y2x2bXZoMXBfUDlsWFlyclgxcEVPOE4zTjVUNXdPX2tnRGEtdmlmQVBTMHIwRGVYV29Pa0FXZFFWSTF0RlEzU2t1cVowQjZRXzlsSk10REJFRnFoeGhrcnlCd21LTUNOdC02MGc1QTVDVDN2Q195dElMWUtmemFyeGJiaFZWN1VtcFIwQUFEVmxB?oc=5",
+      "source": "Patch",
+      "published": "Thu, 14 Mar 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDVrSThpT2h6Y2x2bXZoMXBfUDlsWFlyclgxcEVPOE4zTjVUNXdPX2tnRGEtdmlmQVBTMHIwRGVYV29Pa0FXZFFWSTF0RlEzU2t1cVowQjZRXzlsSk10REJFRnFoeGhrcnlCd21LTUNOdC02MGc1QTVDVDN2Q195dElMWUtmemFyeGJiaFZWN1VtcFIwQUFEVmxB?oc=5\" target=\"_blank\">Plan To Demolish Beverly Plaza For 8-Story Building Approved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
+    },
+    {
       "id": "62dd70769ddd1cd1",
       "title": "City Planning Commission signs off on Lankershim Boulevard hotel - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGlydFZpMzM1TFdMMzdPa1poc19nREJrWUdIU0lfV1FhTndsNmdIT2tMMUU5VmVhYWxHU2lXd1VkeTNYY3FBa3ppT0lqUWVLSzBXeGM0WWxWWm1aOGt3dVNtYmRXRnV5eVhFSTExbHYzX0UyMmJWd3RRNVBua1lGYzI4SDNQdEJWWVBTajFkZV8?oc=5",
@@ -4433,6 +4443,16 @@
       "category": "other"
     },
     {
+      "id": "5f660a313b842c4c",
+      "title": "LA County issues temporary ban on data centers in unincorporated areas - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYndVNm4xM1RDVTRmS050MjBzVWFYN3BnRzRnUG5GOVRCbUJrVnhEUVNZTk50aEJ6ajdNZVhweS1uZlRGMXVuUmRnZWlkcmtKWW9aSHlkby14dGpERHk5bWFfOThZR2F1UzFmYjl5Mkd5UGwwOG1xX2ltcndVcDlwZEpWZWhhdllSRGxIUkYwTVl1ZzY3WGVyT3BVNlM?oc=5",
+      "source": "ABC7 Los Angeles",
+      "published": "Sun, 20 Sep 2026 17:57:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYndVNm4xM1RDVTRmS050MjBzVWFYN3BnRzRnUG5GOVRCbUJrVnhEUVNZTk50aEJ6ajdNZVhweS1uZlRGMXVuUmRnZWlkcmtKWW9aSHlkby14dGpERHk5bWFfOThZR2F1UzFmYjl5Mkd5UGwwOG1xX2ltcndVcDlwZEpWZWhhdllSRGxIUkYwTVl1ZzY3WGVyT3BVNlM?oc=5\" target=\"_blank\">LA County issues temporary ban on data centers in unincorporated areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "other"
+    },
+    {
       "id": "88155b85d421c2f3",
       "title": "California Enacts Historic Housing Reform Laws - Legal Planet",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWdkdkZsREpzVWd4NlprV2JuVDBzQTg1ZHlrUElJbWQ2cHh6Y0d3ZUVpU3J0RXY3ajN2Zkw1aTktMlhnVWFtUXR3dTkwZHliS0wwQW8yamg0OHFhdnBCaG1aZjN2TGlEXzFHWnFJR0JQb0dIS1l5d2MzUTFCcElYYUJoTU9PSXZPMDU0?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb2NvNnB3ZWFFbWNrQnEtS0VnSV9KZFlIRWxJNkF4TnhBaUVybV81ZzU4cGdQS1VQb1dEa2gxa1JyS0tIakcyR29SQ1Q0bHpvX0pRQnNRZ3NoZTdCYThwNDJNdEdsRi1Pd1RoV05Uakh3OHQtcVN5bEZUSmtSVlljYnpaMmZsZm1LcDAyZlJiUG02VndTRExKUU5mZW1nSHRHNGFUcTNMa3F4eVhsbWhSWTc4NEh5ZHl2QVBZU0dwb2hGQ3RvMjI5elV6MWU0Sl9FNjBYM01NNTFBVHVpX2dQaFZNcHpMdw?oc=5\" target=\"_blank\">LA City Council pumps brakes on ambitious affordable housing law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calonews.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "984e9aafe65c48d4",
-      "title": "Exposition Park-adjacent project approved at 900 MLK Boulevard - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUJOVGo3Mm15bVpITjFSNEE4dzlESzN1d0EzWF8zVDZ0WDZZZWpkVGEzOUp6WnBGUGx6MXVvV3p0RjBZLUtqNnFfcGdZM2xYTi15Wm51R1lQWW1qOXJDb1JSSThncHBLN1YzbTBXby1RNlhtTHUtOHFvQWkyQ0ZNTlowRTFRR3JpWnBWQlR2cEdNb1U?oc=5",
-      "source": "Urbanize LA",
-      "published": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUJOVGo3Mm15bVpITjFSNEE4dzlESzN1d0EzWF8zVDZ0WDZZZWpkVGEzOUp6WnBGUGx6MXVvV3p0RjBZLUtqNnFfcGdZM2xYTi15Wm51R1lQWW1qOXJDb1JSSThncHBLN1YzbTBXby1RNlhtTHUtOHFvQWkyQ0ZNTlowRTFRR3JpWnBWQlR2cEdNb1U?oc=5\" target=\"_blank\">Exposition Park-adjacent project approved at 900 MLK Boulevard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "other"
-    },
-    {
-      "id": "06212a18de01c776",
-      "title": "Supreme Court denies challenge to Covid eviction moratorium - Courthouse News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGlvTXozV1EzVUZBLXJiNmNpczNPOGNOS3NOVmZXdDd4NGhGTGJJbUJsOXBzblFSLXBITGZMQjNDZWY5OGpra3RJenpZTEdZMkM1SUo1WGZ0OHZEQXVxWUppQm5SWkwxR1hUQ3ExSmNLTUF4ZGtkYU5jWWJoTHdCUW9KaFNpaXpSZHNhRWZIeG91MUNLRlE?oc=5",
-      "source": "Courthouse News",
-      "published": "Mon, 30 Jun 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxObGlvTXozV1EzVUZBLXJiNmNpczNPOGNOS3NOVmZXdDd4NGhGTGJJbUJsOXBzblFSLXBITGZMQjNDZWY5OGpra3RJenpZTEdZMkM1SUo1WGZ0OHZEQXVxWUppQm5SWkwxR1hUQ3ExSmNLTUF4ZGtkYU5jWWJoTHdCUW9KaFNpaXpSZHNhRWZIeG91MUNLRlE?oc=5\" target=\"_blank\">Supreme Court denies challenge to Covid eviction moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courthouse News</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "legal"
     }
   ]
 }
