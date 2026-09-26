@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T18:48:30.964664+00:00",
+  "generated_at": "2026-09-26T21:41:20.666585+00:00",
   "total": 500,
   "alerts": [
     {
@@ -59,6 +59,16 @@
       "source": "cbsnews.com",
       "published": "Wed, 30 Jul 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGY3UjJOTzk1a1ZYRkVyVEljRjNQeWpLX2hTNlFUV3ZLYldEZUZQS0RXOXVYRFR2NUN6MnlvcU8tSDlMYUNjY0RDdmFBbGJrbDhkMWlhSktWREF2NEtNVDNpMGtGWVJhWHFuYk1XVVZGZ05CbHNkRS1OYm9jNF9hS1NtdURoMm1tVHFwMXRFVkV4LUtWcnpBZ2kzaWMxei1DNFJpUER0MzdwUdIBrwFBVV95cUxPeTNLOWlBS1ZOVEpjcVhDRDdiVEN5R3JXWWF1VFktZnZrNWx1QnNCOG05VG9aZEdfRGJmRzlpYzFydWxWU1hyblREQ0FtX3JZM1gtWDZvRGR4dFhQR2tiS1JYYkF2VUR0cEhTN2JMZzFTVnpZemlyb2MyUmdQSUw3aW9wMVF6NHM1VWMzNzFCWFdoaUpvOC1CVEozT3JXR3lTQTlkblBIelFzaWJET0w0?oc=5\" target=\"_blank\">Mayor Bass orders ban on SB 9 applications in Palisades Fire zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
+      "id": "26cfaea32d65c213",
+      "title": "Mayor Bass orders ban on SB 9 applications in Palisades Fire zone - cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGY3UjJOTzk1a1ZYRkVyVEljRjNQeWpLX2hTNlFUV3ZLYldEZUZQS0RXOXVYRFR2NUN6MnlvcU8tSDlMYUNjY0RDdmFBbGJrbDhkMWlhSktWREF2NEtNVDNpMGtGWVJhWHFuYk1XVVZGZ05CbHNkRS1OYm9jNF9hS1NtdURoMm1tVHFwMXRFVkV4LUtWcnpBZ2kzaWMxei1DNFJpUER0MzdwUQ?oc=5",
+      "source": "cbsnews.com",
+      "published": "Wed, 30 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGY3UjJOTzk1a1ZYRkVyVEljRjNQeWpLX2hTNlFUV3ZLYldEZUZQS0RXOXVYRFR2NUN6MnlvcU8tSDlMYUNjY0RDdmFBbGJrbDhkMWlhSktWREF2NEtNVDNpMGtGWVJhWHFuYk1XVVZGZ05CbHNkRS1OYm9jNF9hS1NtdURoMm1tVHFwMXRFVkV4LUtWcnpBZ2kzaWMxei1DNFJpUER0MzdwUQ?oc=5\" target=\"_blank\">Mayor Bass orders ban on SB 9 applications in Palisades Fire zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
     },
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1aWEhqWmhOU255NEFwcG13Y0M5OFJQczMzTVpBVUgwdEI4elJfVm1fRGpDRXBqcG1QVkxKbHVXSUs5Qkl0bkRaQll4TGtwMDdJaWpwV1VBVmNkOEhBT3RZOGZiMGNGWFdudkNKZHlZR2hkRDIySHphS0FR?oc=5\" target=\"_blank\">LA Court Finds SB 10 Constitutional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "legal"
-    },
-    {
-      "id": "f10bd87c3e3188b6",
-      "title": "Community Action Partnership OC offers relief as eviction moratorium ends - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTHBjLVBmWGt5YldLQnllQVJqa0FIM3JKLS1DaEdOMUJJckdfbFFrQnNERklzR0xILV85UWt2eWlxNnVpVWxhQU1BS29FUVdHbGhwSTBaUlZCVEJaMTJQTDZvdGN1emFSSUFxM2tMRm1GRUZpSkttRHBUMjJyR0h3NFhIdlFZRnJCc3M2Y3lyYUd6OU9RZm90VzNxd1N3LVI3UVluRWJiVWhvbTU4MWtpWVZqUDBvWS1nQ1o5LTBhRDNnMXI2ekM4czhXOVRUYklKMTBZ?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Sat, 09 Oct 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTHBjLVBmWGt5YldLQnllQVJqa0FIM3JKLS1DaEdOMUJJckdfbFFrQnNERklzR0xILV85UWt2eWlxNnVpVWxhQU1BS29FUVdHbGhwSTBaUlZCVEJaMTJQTDZvdGN1emFSSUFxM2tMRm1GRUZpSkttRHBUMjJyR0h3NFhIdlFZRnJCc3M2Y3lyYUd6OU9RZm90VzNxd1N3LVI3UVluRWJiVWhvbTU4MWtpWVZqUDBvWS1nQ1o5LTBhRDNnMXI2ekM4czhXOVRUYklKMTBZ?oc=5\" target=\"_blank\">Community Action Partnership OC offers relief as eviction moratorium ends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
