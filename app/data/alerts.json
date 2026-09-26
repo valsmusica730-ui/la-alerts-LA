@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T22:02:17.911759+00:00",
+  "generated_at": "2026-09-26T01:02:11.155257+00:00",
   "total": 500,
   "alerts": [
     {
@@ -719,6 +719,16 @@
       "source": "COUNTY OF LOS ANGELES (.gov)",
       "published": "Wed, 15 Apr 2020 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVnpqbm55Y1N3VXVWWHhnallpODhPSFFVamI3YUw2YWdLV2t3cnJzRUJvVTNENW5fbE9xbVZJTmJBWW1WWlV4OUdncDRMcWEyV282cGtZcENtYm1aYTd4NzdORjNWYW5yWmJvV0ZxSGNhR0NtTHFuSmFVY28yTVhkemgyemVWeTFqVUZlTFlPUEE5ajMxeDhrZGxONzNVVWloY3R0R2ZGZVJGR1lZWXVHdmFNVDdnM1cwcUItMHVhYWJsWkhIeDZSbWdHdWZVWjdSbm9KZDFTbTJkZm50VXZPeHVYbng0OUhGUldzWk43b0Q?oc=5\" target=\"_blank\">Board of Supervisors Expands Eviction Moratorium, Rent Freeze to Protect Additional Renters Across Los Angeles County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">COUNTY OF LOS ANGELES (.gov)</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
+      "id": "962665b069498ab2",
+      "title": "L.A. Eviction Moratorium has been adjusted to cover all of Los Angeles Region - lasentinel.net",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHUxZG5TTmdFcnB5aWtKS0pfZnNkU2VyVlE4LW42cEQyVkJiQ0lwZldVZEZDZGoycExHb3RSUEpuSXo3YUd3X0NvOGFMTUd3TE9oMGU1T2NXMFB6bGFGWHB2Sm84WUp0S1ZZN0hzZXVBdDdSU0pYNk5iOG1panRmMkpZSS15Y1kzVnl3UENXaThfTTdwYTR1ZFZIakhyY2FVbkJqZVBqbw?oc=5",
+      "source": "lasentinel.net",
+      "published": "Wed, 15 Apr 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHUxZG5TTmdFcnB5aWtKS0pfZnNkU2VyVlE4LW42cEQyVkJiQ0lwZldVZEZDZGoycExHb3RSUEpuSXo3YUd3X0NvOGFMTUd3TE9oMGU1T2NXMFB6bGFGWHB2Sm84WUp0S1ZZN0hzZXVBdDdSU0pYNk5iOG1panRmMkpZSS15Y1kzVnl3UENXaThfTTdwYTR1ZFZIakhyY2FVbkJqZVBqbw?oc=5\" target=\"_blank\">L.A. Eviction Moratorium has been adjusted to cover all of Los Angeles Region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lasentinel.net</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     },
@@ -2541,6 +2551,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnpZVS1INXp4WkZXYTMxdzdYQXJoaGVvYlV6djNhSEFVb21PcHRfN21HcTVTb0FuTW53dTlxTEVtczJmckJGa1RWMTRoZzJWeDN1bGpUMTZBNXlJOEZUR1RNblYxNDBIbjdIYkNVYThSem1nX1F5TWFnYmNLbnJZOTB4dktuT1cwWk5CYjFVcURTZHpGYThnSlQtbThyZnk2UFlEMzhYSUFMZk1GQzBwbThR?oc=5\" target=\"_blank\">New FAIR Plan data reveals problem with zoning restrictions in California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "zoning"
+    },
+    {
+      "id": "26e0323c9a315e01",
+      "title": "State Court of Appeals upholds ruling against Manhattan Beach’s short-term rental ban - Daily Breeze",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaG5yLU05LTQ5dVpkeFI4aEtpajJ0MlpnSnZSaDF5ZlV6UTV2Y3d5MUJuV3VESkJvc2Q2ZENEQUdRTmU4ZS1kYVZSaF9lVWdSQWZJMXVVNWxPZHAtNUE0VTJXUEhva1QwWmhtSjdGS3c3RWZjdTNQZ05Fc2lZUjhEc0NBRmoxSDY2ejVacmxHMnUxdjNTSk50RHFCY1BpZXBhYmpEaF92c2NUci1VekFZNVJWbnpoNjU0WW5tQTk0QnBmUQ?oc=5",
+      "source": "Daily Breeze",
+      "published": "Tue, 12 Apr 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaG5yLU05LTQ5dVpkeFI4aEtpajJ0MlpnSnZSaDF5ZlV6UTV2Y3d5MUJuV3VESkJvc2Q2ZENEQUdRTmU4ZS1kYVZSaF9lVWdSQWZJMXVVNWxPZHAtNUE0VTJXUEhva1QwWmhtSjdGS3c3RWZjdTNQZ05Fc2lZUjhEc0NBRmoxSDY2ejVacmxHMnUxdjNTSk50RHFCY1BpZXBhYmpEaF92c2NUci1VekFZNVJWbnpoNjU0WW5tQTk0QnBmUQ?oc=5\" target=\"_blank\">State Court of Appeals upholds ruling against Manhattan Beach’s short-term rental ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Breeze</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "legal"
     },
     {
       "id": "9f5168a9ddc1c4e9",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5pOFMydC1iU2VxaHprSFp6YUl2TkVOUWhTV3BRRm4tM05OckxpUU5TLWN3ZFhKSTEwVmJPSmVwelczODJmVktobk9WeExfUVVOUi0xNjU5STYzUVJhajVUWV9mU05odHV1SU82dU9rdFR0bmN3dXd5aFgycTZ1dw?oc=5\" target=\"_blank\">California affordable housing programs are on the chopping block after Supreme Court ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "legal"
-    },
-    {
-      "id": "3fe280e6c5a7948f",
-      "title": "Pasadena sues to keep UCLA football at the Rose Bowl, Glendale caves on ADU fight, and more - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pc2Z1b3JMUGFDaUNYLV9vRjR0SXgxTU5tSHBFa2VvdHpFdGZXckQtMlVVQlBjQkFHZmZxa1VFWEdUdHpUOFNDWXNYb0tzWWpRMEVPcDJ3TGxvc2hvNVd2S244bV9NMFZibmM0cEVPRQ?oc=5",
-      "source": "Urbanize LA",
-      "published": "Sat, 01 Nov 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9pc2Z1b3JMUGFDaUNYLV9vRjR0SXgxTU5tSHBFa2VvdHpFdGZXckQtMlVVQlBjQkFHZmZxa1VFWEdUdHpUOFNDWXNYb0tzWWpRMEVPcDJ3TGxvc2hvNVd2S244bV9NMFZibmM0cEVPRQ?oc=5\" target=\"_blank\">Pasadena sues to keep UCLA football at the Rose Bowl, Glendale caves on ADU fight, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "adu"
-    },
-    {
-      "id": "d41ff78f71bb2065",
-      "title": "Landlords: Ordinance Killing Us - labusinessjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MdWxydE00aUdPM01pal9QeG1MaFpVRGVFUkVwRkI2Z2laV0s4ZGhCRF84QmRTaHhpZE9NNnpBTHg4cFFQekltY3REYW9ucmp5ZEppSWFJVzg?oc=5",
-      "source": "labusinessjournal.com",
-      "published": "Mon, 31 Jul 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MdWxydE00aUdPM01pal9QeG1MaFpVRGVFUkVwRkI2Z2laV0s4ZGhCRF84QmRTaHhpZE9NNnpBTHg4cFFQekltY3REYW9ucmp5ZEppSWFJVzg?oc=5\" target=\"_blank\">Landlords: Ordinance Killing Us</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">labusinessjournal.com</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "rent"
     }
   ]
 }
