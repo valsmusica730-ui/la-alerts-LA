@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T01:02:11.155257+00:00",
+  "generated_at": "2026-09-26T06:47:26.557919+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1459,6 +1459,16 @@
       "source": "ABC4 Utah",
       "published": "Wed, 01 May 2024 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPS3ltZ3o4aTVaQ1FtQ1cyUVpDdGloMnNzQlJVanpoQ3ZWRTFWdWVvNzZkWTJObUtfSVI2VFNld2xseHNlc3ZOQTR0ZjhlVXN2Y0NoRXc4ZXo4aW5ocW9GRjEyNUJsY1JHcXJ0bFJ0R3NnVWl4dGFzTk8zLWVMZ1Vsa2VSQWJ5UXpfaGRDRGNwVUczajJZaUN1aTBpOVpwNDc1VDBoRndn0gGrAUFVX3lxTFByN2VRNEk1VHRQd2htWTNNckJnUFdpc0lobkN2UFdsdnhPT1B5YTVsREdiVWl3OEhkUDNpa2ZwalBKblROcm1Mbk1URGtoVm9HTEwwVTVfa1h4TjgxRWNXZ2ZmdzFLZ0JhemNMQW5mMGdCWUNwcnlJcHVKTUoya01UVE1kQV96ekwwbmhWaFpIVEdOQTNPdU5kVFYtN2RaMWx3Y0Nndll2OEtHYw?oc=5\" target=\"_blank\">Portland’s Airbnb Fiasco Shows Why Regulation Often Fails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
+      "id": "8c1241f53e018d72",
+      "title": "Portland’s Airbnb Fiasco Shows Why Regulation Often Fails - Seattlepi.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd242Mm9NX21scmFDbkR5OTlSNm84cEo1MUFuQWl6c1d2QmdqbGRIMi1yTDd0RkdJRW1OM19ZNjc3QjYwa3c0ZG9jYWFhcWlicFh4SzlMSEhNMFZfZWs1dkdjZVkzTVJaM1BmUUdCY0pOTktKd1RhUHpyOWVnVmN1ZmQwSW5IVXMybkc4NlRPc3M5cl94SXREb1VPUVlxV3JXZjZ4cFRneUhXR0g2TlE4bDRJb0JFLUFu?oc=5",
+      "source": "Seattlepi.com",
+      "published": "Wed, 01 May 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd242Mm9NX21scmFDbkR5OTlSNm84cEo1MUFuQWl6c1d2QmdqbGRIMi1yTDd0RkdJRW1OM19ZNjc3QjYwa3c0ZG9jYWFhcWlicFh4SzlMSEhNMFZfZWs1dkdjZVkzTVJaM1BmUUdCY0pOTktKd1RhUHpyOWVnVmN1ZmQwSW5IVXMybkc4NlRPc3M5cl94SXREb1VPUVlxV3JXZjZ4cFRneUhXR0g2TlE4bDRJb0JFLUFu?oc=5\" target=\"_blank\">Portland’s Airbnb Fiasco Shows Why Regulation Often Fails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seattlepi.com</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
     },
@@ -3563,6 +3573,16 @@
       "category": "rent"
     },
     {
+      "id": "6fd0a3762f82b4e8",
+      "title": "New Report Indicates Controversial California Housing Law Is a Bust - LAmag",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzNwX181Slk1ajdPYVE0OTk1bF80enNmekppMEdEQkQwWXRhVURaMVo3M1V3QkxXX21INWw0clZGUWZWVmFTQUtoN1NxWmZOeHhLbG1VTVlMd295X0cyNDZNODBhWDkyZXN0VWFZM3RMRm42M1gwYjdBaEJKZEVLWDFpZ0R3aFI5dWxIMlRMdlltdTByamc?oc=5",
+      "source": "LAmag",
+      "published": "Thu, 19 Jan 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzNwX181Slk1ajdPYVE0OTk1bF80enNmekppMEdEQkQwWXRhVURaMVo3M1V3QkxXX21INWw0clZGUWZWVmFTQUtoN1NxWmZOeHhLbG1VTVlMd295X0cyNDZNODBhWDkyZXN0VWFZM3RMRm42M1gwYjdBaEJKZEVLWDFpZ0R3aFI5dWxIMlRMdlltdTByamc?oc=5\" target=\"_blank\">New Report Indicates Controversial California Housing Law Is a Bust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "other"
+    },
+    {
       "id": "79753ee62e739264",
       "title": "California’s housing crisis: How much difference will a new zoning law make? - CalMatters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV25Zck1VM0dhN2Jtb2NGM1FzU0NlYjVqV2hXRVhEejhTM3ptTFJhTTQ1QV82aGo0ZUh4UlJQZl9oNjUwWHBIc0FjaGprWTZxUnR0M0RXZTJYX2dabnlmazVtZ0xFUDdDWFFmSVJKQzZiUW9xc0ZTR3FJYVhtQmFyQ1FaTQ?oc=5",
@@ -4261,6 +4281,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMG1QNUI3Wm14eUNWSktLQXdCZUYwVDNLdmdha2RSTmJmS0lJd29yRHBTTXlPaG1wZHgwUURvaFR4SGg0UUtfLUlwMTVNUG94VnBadVMxTmdicEFlVVl5bDNCTlBralA0amZzc1h6RG9INVpKV1VIeWxMU1NlZ0pRZWFuNlhUel85TWRqWFNCdWhXWXpXYnhLcnRVN3AwNWhTLVFDYXNhalE5TWxWbzdwdm51NGNWQ1pHaUhRdG9jWmxWV1dibC1NN293LTFqX0ZkS2tUZVVzMA?oc=5\" target=\"_blank\">Costa Mesa City Council passes affordable housing ordinance, but much work remains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
+    },
+    {
+      "id": "c6c4ea1b7c649e44",
+      "title": "Controversial artist work/live project inches forward in Laguna Beach after Planning Commission keeps city permit alive - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXNTVjZ6cGJIT3hPWno3RHZBWktfRHpId2tlOFpJMG5NVDNVSTVjMlJyREVNSlBxYXBYbnN0cFVxT1VWOXlzX1A4MHk3eWxhVkdEclpnckpqRWQyNk9PbFdUWnlJNVQtMzNSZzBWSXBTMFRmejExLWs1eUxnTENlbzhzVVFiWjlvTTFFTFdwX3MzejRCWTBLckJqOEM2dUczTTk3VlZFN3kyUGpMQlE0?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Thu, 04 Apr 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXNTVjZ6cGJIT3hPWno3RHZBWktfRHpId2tlOFpJMG5NVDNVSTVjMlJyREVNSlBxYXBYbnN0cFVxT1VWOXlzX1A4MHk3eWxhVkdEclpnckpqRWQyNk9PbFdUWnlJNVQtMzNSZzBWSXBTMFRmejExLWs1eUxnTENlbzhzVVFiWjlvTTFFTFdwX3MzejRCWTBLckJqOEM2dUczTTk3VlZFN3kyUGpMQlE0?oc=5\" target=\"_blank\">Controversial artist work/live project inches forward in Laguna Beach after Planning Commission keeps city permit alive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
     },
     {
       "id": "2e40f214d061a619",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNLUZrcFo2V2dTQ1ZlaWRSVkhxcVhhVGdrVEhsbk1NMFlZOV92Q0liUWR4Uy1kTzVOSkxDN3pNV3ZTRlR1bkZneERFVDR0bVpsUWQ5YmNaTjBZUTJpc3JjY3l2NWJSU0gtS09PRVZPY0c2cFZ0NEsxOWdUMFNwS2dwckdB?oc=5\" target=\"_blank\">SB 79 takes effect, Measure ULA to remain, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "c64aec0ca7a2c16b",
-      "title": "Airbnb regulation deal with London and Amsterdam marks dramatic policy shift - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnZud1IxanE4S2VTUUZ5dmV3RlJTUE9CTG1sSFdQYjM0Y3NxWjZtd2h5YjJoTWVadjJmVi1udzJEMExoallVVTJlYXVSNWwtS1VCcnZLZzdZWV9hOWM5Vi0zUkVFSEQ4X240WVozbHpoU2RjZzl4bUhMMzgycFFWeS1jOXlKR2xaNjlxdHJ2UzZYT1duSUpCaA?oc=5",
-      "source": "The Guardian",
-      "published": "Sat, 03 Dec 2016 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnZud1IxanE4S2VTUUZ5dmV3RlJTUE9CTG1sSFdQYjM0Y3NxWjZtd2h5YjJoTWVadjJmVi1udzJEMExoallVVTJlYXVSNWwtS1VCcnZLZzdZWV9hOWM5Vi0zUkVFSEQ4X240WVozbHpoU2RjZzl4bUhMMzgycFFWeS1jOXlKR2xaNjlxdHJ2UzZYT1duSUpCaA?oc=5\" target=\"_blank\">Airbnb regulation deal with London and Amsterdam marks dramatic policy shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "aeccea3922c540b6",
-      "title": "Airbnb touts good talks with New York City mayor candidates on rental ban - The Business Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDdyUmI1eEJLOEdOV2lycUlwb28tZUN6dEF6eHBNSVNrVXFxMVRRQkg4RmxpdDl4MWJQR01qTHZiN0NUM2p0QmpuY1NUSDV3VFV1RFA2OVFCTXplU3NfekwyWjR0M25zWjVVTzI5LXRCNHVkeEN0Z3VaZjNoNW5GMTNkeTljX1dPQ1hXc0FRam5ndWRtSnRlTDdpQXkxV19qR3NBRUdKVzNPSjA?oc=5",
-      "source": "The Business Times",
-      "published": "Sat, 02 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDdyUmI1eEJLOEdOV2lycUlwb28tZUN6dEF6eHBNSVNrVXFxMVRRQkg4RmxpdDl4MWJQR01qTHZiN0NUM2p0QmpuY1NUSDV3VFV1RFA2OVFCTXplU3NfekwyWjR0M25zWjVVTzI5LXRCNHVkeEN0Z3VaZjNoNW5GMTNkeTljX1dPQ1hXc0FRam5ndWRtSnRlTDdpQXkxV19qR3NBRUdKVzNPSjA?oc=5\" target=\"_blank\">Airbnb touts good talks with New York City mayor candidates on rental ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "63c6fd1f1982ac9b",
-      "title": "California affordable housing programs are on the chopping block after Supreme Court ruling - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pOFMydC1iU2VxaHprSFp6YUl2TkVOUWhTV3BRRm4tM05OckxpUU5TLWN3ZFhKSTEwVmJPSmVwelczODJmVktobk9WeExfUVVOUi0xNjU5STYzUVJhajVUWV9mU05odHV1SU82dU9rdFR0bmN3dXd5aFgycTZ1dw?oc=5",
-      "source": "CalMatters",
-      "published": "Sat, 02 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5pOFMydC1iU2VxaHprSFp6YUl2TkVOUWhTV3BRRm4tM05OckxpUU5TLWN3ZFhKSTEwVmJPSmVwelczODJmVktobk9WeExfUVVOUi0xNjU5STYzUVJhajVUWV9mU05odHV1SU82dU9rdFR0bmN3dXd5aFgycTZ1dw?oc=5\" target=\"_blank\">California affordable housing programs are on the chopping block after Supreme Court ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "legal"
     }
   ]
 }
