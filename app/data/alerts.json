@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:55:09.254310+00:00",
+  "generated_at": "2026-09-26T15:17:49.690486+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2863,6 +2863,16 @@
       "category": "rent"
     },
     {
+      "id": "a3e7a522bbafc94a",
+      "title": "LA City Council unanimously votes to end COVID-19 eviction moratorium - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXYzU19hclpLNUU3c0RKdlVYazNsVWdudnRRNTRpMUZTaWFidy1tWGYzNk1jaloyNWcxRHhnNjlEV01Lam5MN1AxZHBqUklWMEVsNzZaQzVPRVdfTmxIclQ5X2Nmc0hlN1h0QU1PYkpaYmpKOUk0b3lXTTRERnFpUDdLSko0THk5WkhxTUk0ZVpWVWNvN1R4VnJRUEhCWVR3bGVvbGRlaUh3TUljeE5Yaw?oc=5",
+      "source": "CBS News",
+      "published": "Tue, 04 Oct 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXYzU19hclpLNUU3c0RKdlVYazNsVWdudnRRNTRpMUZTaWFidy1tWGYzNk1jaloyNWcxRHhnNjlEV01Lam5MN1AxZHBqUklWMEVsNzZaQzVPRVdfTmxIclQ5X2Nmc0hlN1h0QU1PYkpaYmpKOUk0b3lXTTRERnFpUDdLSko0THk5WkhxTUk0ZVpWVWNvN1R4VnJRUEhCWVR3bGVvbGRlaUh3TUljeE5Yaw?oc=5\" target=\"_blank\">LA City Council unanimously votes to end COVID-19 eviction moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "b4506caaf51cb18e",
       "title": "Upzoning Was Meant To Fix L.A.’s Housing Crisis—Is It Making It Worse? - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOODAxR2s5UENjV24ybWVzcHR1OWFyZ01SdzZtWVNOU2VzdGo4N0FnWGtRYkRzaFZXSDZXS0g2cWxkeWFwUWo2Rmlfa2oyNUpqMWhGSUVnRkZHLUoxRzV5ZTMtcHZ3a1Y0VVNCRE9PSV9QSG1mTVozYVJ4MEh5MDFNTzhzRDBPVFItb1ZjZw?oc=5",
@@ -4813,6 +4823,16 @@
       "category": "rent"
     },
     {
+      "id": "168c3cf93fe05e08",
+      "title": "LA councilwoman blasts city for letting valuable properties sit empty - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHRiRnItU0t4M0t2Qm1MOXo2OFlrLTdLWTZ1c1VKTE8yLW5acjVKOFYtMk5FR1FxenFkdTdBU2JZT2JnWWloTENFdkhSRmNqVjZ2eEQzdksxay1UYjJGM3FZbEUtTDdfdkJXWnFWZDZJVmZYRjV0X1NaNFFKS29SZHIzWDVGLXdEUU5yWVhHNk45eXo5OElBNEFHZDQzb2d3YjdEN0l2cUdkMzRRemtLeWNvaUY?oc=5",
+      "source": "New York Post",
+      "published": "Sat, 26 Sep 2026 14:35:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHRiRnItU0t4M0t2Qm1MOXo2OFlrLTdLWTZ1c1VKTE8yLW5acjVKOFYtMk5FR1FxenFkdTdBU2JZT2JnWWloTENFdkhSRmNqVjZ2eEQzdksxay1UYjJGM3FZbEUtTDdfdkJXWnFWZDZJVmZYRjV0X1NaNFFKS29SZHIzWDVGLXdEUU5yWVhHNk45eXo5OElBNEFHZDQzb2d3YjdEN0l2cUdkMzRRemtLeWNvaUY?oc=5\" target=\"_blank\">LA councilwoman blasts city for letting valuable properties sit empty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
       "id": "b55cffa1bedca382",
       "title": "Geoff Palmer’s lawsuit over tenant protections tossed by judge - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjYtVmtSbmZSS3ZjQ1Y0b3NxaXhhVUluLTJPd3hQc2tyYUIzal85SGVPWkdnWGZNS1RhMERDenFLZmdoZjJoUGIyaVZ0clA3bG9XbWltX2hSUE5nd1dxQmpiOC1zcmxVU2duMUdNTnN5aENfMzZFdThFc2ExWTROOHB6OUViWGRqOS1MZnExYXFUQkVQQ3JTSjl5ZTl5Xy1sN0E?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNdnMwNEo4dF9GREMzcDA2TDNVNGhkU09NQUdRd3BSWktISEpHcmpQS2NmclBKbjg3UFNJN1IxbTFHM214cERvbW1JRzNhbEQ5TXdHTkEtczNlMXdpUEJvV1JpcFdwR293a3ZiSW9uQzZsaXFBa3VDaTJfNkJreUhUcE54dEdiME9MZ0tZaFN5dXR3bEVKbV9tdDVfdzlReXVTU0t1NnIzRjN3WUZqRUdRQ1lkNHoxSkhYbkNsejFPVVllOExSRGpka2N0UzhJZTdLYmlYLWFBVXNBVUs3RkdJM2szaUcwc0pKSDRWS0FyWjV0NEFhenNiazNwOU80NFB3MUE?oc=5\" target=\"_blank\">Monrovia council adopts final FY25-26 budget adjustments, citing one-time settlement revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizenportal.ai</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "legal"
-    },
-    {
-      "id": "48ab92be54451099",
-      "title": "Will banning Airbnb’s provide affordable housing? A new report says no - Long Beach Watchdog",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0prcDJxVFpZR1hoVjBWbXdqM1IwS1JncFR3SGFQLThfaGVuRzBweU4tbnVyVHRpWVVNczhhQjk5cGhKaEN3WUJpdlFha3BEdW41S2lLNjN1NmxPeElsTllGVGV2cmpKem9fWHZaNGRlNTJjTWJldVdJVC1OMjM4cXJ3WUd5ZzBhTGVGLVl5UGpKMzB0YXVaZFpR?oc=5",
-      "source": "Long Beach Watchdog",
-      "published": "Sat, 06 Jul 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0prcDJxVFpZR1hoVjBWbXdqM1IwS1JncFR3SGFQLThfaGVuRzBweU4tbnVyVHRpWVVNczhhQjk5cGhKaEN3WUJpdlFha3BEdW41S2lLNjN1NmxPeElsTllGVGV2cmpKem9fWHZaNGRlNTJjTWJldVdJVC1OMjM4cXJ3WUd5ZzBhTGVGLVl5UGpKMzB0YXVaZFpR?oc=5\" target=\"_blank\">Will banning Airbnb’s provide affordable housing? A new report says no</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Long Beach Watchdog</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "eeae64a5f48b68fe",
-      "title": "SB 79 takes effect, Measure ULA to remain, and more - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLUZrcFo2V2dTQ1ZlaWRSVkhxcVhhVGdrVEhsbk1NMFlZOV92Q0liUWR4Uy1kTzVOSkxDN3pNV3ZTRlR1bkZneERFVDR0bVpsUWQ5YmNaTjBZUTJpc3JjY3l2NWJSU0gtS09PRVZPY0c2cFZ0NEsxOWdUMFNwS2dwckdB?oc=5",
-      "source": "Urbanize LA",
-      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNLUZrcFo2V2dTQ1ZlaWRSVkhxcVhhVGdrVEhsbk1NMFlZOV92Q0liUWR4Uy1kTzVOSkxDN3pNV3ZTRlR1bkZneERFVDR0bVpsUWQ5YmNaTjBZUTJpc3JjY3l2NWJSU0gtS09PRVZPY0c2cFZ0NEsxOWdUMFNwS2dwckdB?oc=5\" target=\"_blank\">SB 79 takes effect, Measure ULA to remain, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
