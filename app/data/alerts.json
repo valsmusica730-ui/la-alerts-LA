@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:17:49.690486+00:00",
+  "generated_at": "2026-09-26T18:48:30.964664+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2131,6 +2131,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXpEcGk2bmVyb0RkTkZsTC1FT0dCWmZOVXM3TnF6SHZiUVhZUGdRcVZzLXowanQ1UDJfZml3VUllRWhnQ051Nlk2ODBJVGVpbjlqOFFScjZWWGxrQVFQZU1XSVk4bnB4bGN4ZWxSRFVNekpna1JkTm5XMXVQS05qUXlZMkhfSnRXR2V0dXY5eWhNMEU?oc=5\" target=\"_blank\">A Major Property Rights Case Idles on Supreme Court Docket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
+    },
+    {
+      "id": "c4123b5e498fc484",
+      "title": "LA County extends pandemic-spurred eviction moratorium until end of January - Los Angeles Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE9FbmFUaW9TSnJDX2JINXotWVNydTY3ZnFrZmd3TzdRR19TVjM1bkpGcVpUYkVVYVU1QjB3UEFOazd6NTYtVzI0bkhJX3B3SDRwaElwOUZYNW02UkZ6bEI5dWZKZ3llUkFUTGdJUFg5T0NKQ2JzTHZvdmNXY3hwYzFjODRlanc3Wkd0Y3dhTDlCOGtXbkU1dTBZR0NTY21ETWVwQ3pHMzBmY3Vic2FmVkpTZw?oc=5",
+      "source": "Los Angeles Daily News",
+      "published": "Tue, 20 Dec 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE9FbmFUaW9TSnJDX2JINXotWVNydTY3ZnFrZmd3TzdRR19TVjM1bkpGcVpUYkVVYVU1QjB3UEFOazd6NTYtVzI0bkhJX3B3SDRwaElwOUZYNW02UkZ6bEI5dWZKZ3llUkFUTGdJUFg5T0NKQ2JzTHZvdmNXY3hwYzFjODRlanc3Wkd0Y3dhTDlCOGtXbkU1dTBZR0NTY21ETWVwQ3pHMzBmY3Vic2FmVkpTZw?oc=5\" target=\"_blank\">LA County extends pandemic-spurred eviction moratorium until end of January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "774ffda3c373417e",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTHBjLVBmWGt5YldLQnllQVJqa0FIM3JKLS1DaEdOMUJJckdfbFFrQnNERklzR0xILV85UWt2eWlxNnVpVWxhQU1BS29FUVdHbGhwSTBaUlZCVEJaMTJQTDZvdGN1emFSSUFxM2tMRm1GRUZpSkttRHBUMjJyR0h3NFhIdlFZRnJCc3M2Y3lyYUd6OU9RZm90VzNxd1N3LVI3UVluRWJiVWhvbTU4MWtpWVZqUDBvWS1nQ1o5LTBhRDNnMXI2ekM4czhXOVRUYklKMTBZ?oc=5\" target=\"_blank\">Community Action Partnership OC offers relief as eviction moratorium ends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "ba098cee3cbe989b",
-      "title": "Monrovia council adopts final FY25-26 budget adjustments, citing one-time settlement revenue - citizenportal.ai",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdnMwNEo4dF9GREMzcDA2TDNVNGhkU09NQUdRd3BSWktISEpHcmpQS2NmclBKbjg3UFNJN1IxbTFHM214cERvbW1JRzNhbEQ5TXdHTkEtczNlMXdpUEJvV1JpcFdwR293a3ZiSW9uQzZsaXFBa3VDaTJfNkJreUhUcE54dEdiME9MZ0tZaFN5dXR3bEVKbV9tdDVfdzlReXVTU0t1NnIzRjN3WUZqRUdRQ1lkNHoxSkhYbkNsejFPVVllOExSRGpka2N0UzhJZTdLYmlYLWFBVXNBVUs3RkdJM2szaUcwc0pKSDRWS0FyWjV0NEFhenNiazNwOU80NFB3MUE?oc=5",
-      "source": "citizenportal.ai",
-      "published": "Sat, 09 May 2026 06:16:47 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNdnMwNEo4dF9GREMzcDA2TDNVNGhkU09NQUdRd3BSWktISEpHcmpQS2NmclBKbjg3UFNJN1IxbTFHM214cERvbW1JRzNhbEQ5TXdHTkEtczNlMXdpUEJvV1JpcFdwR293a3ZiSW9uQzZsaXFBa3VDaTJfNkJreUhUcE54dEdiME9MZ0tZaFN5dXR3bEVKbV9tdDVfdzlReXVTU0t1NnIzRjN3WUZqRUdRQ1lkNHoxSkhYbkNsejFPVVllOExSRGpka2N0UzhJZTdLYmlYLWFBVXNBVUs3RkdJM2szaUcwc0pKSDRWS0FyWjV0NEFhenNiazNwOU80NFB3MUE?oc=5\" target=\"_blank\">Monrovia council adopts final FY25-26 budget adjustments, citing one-time settlement revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizenportal.ai</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "legal"
     }
   ]
 }
