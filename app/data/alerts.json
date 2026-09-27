@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T21:41:20.666585+00:00",
+  "generated_at": "2026-09-27T00:00:16.422859+00:00",
   "total": 500,
   "alerts": [
     {
@@ -489,6 +489,16 @@
       "source": "ABC7 Los Angeles",
       "published": "Wed, 21 Dec 2022 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxONDV6a0lzVmxUejdDNmQwZTJFdmlGT3NoSDFhdTBlRFRxWHdjTlZLZ1NTQ05naEhOT0otYWYyLWRwNXdWR0phT0hvc2VhVnpwdVZSUzJtZ21PR2p2OVhweVJiTGNmc0hlYjFod2xuVVQwcTdkZmhMRWJZcWNrWUZSQ0g4d2_SAYoBQVVfeXFMTnBoemw0QnptUHRNMlZlRGhRcG1IbHd6cGVjdzEzb0Z5TkNGUVFlanBtV2VBbHhKRk55Zmdnd3VROEFwWkI4ZkRkWGNLUVRlQTdaNFZlMzItWVpqdlZ6ZnBfbDBqWGQ4WDBOekhvalN5cEhDYTBTYUh5bUxUU0phT1dCTkVUZ0JOSEVR?oc=5\" target=\"_blank\">Los Angeles County extends eviction moratorium until end of January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
+      "id": "528321c5b617cc51",
+      "title": "LA County Extends Eviction Moratorium Until the End of January - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlg1dTYzYXlSMXFBclNkUl83U2xoVHhGSzQxMmNZcG1pdkZVMDJEblplVEZGZFRLRXRUQl9nMjQ0NDBCVXhhVkQxSTRJcG5PTHFuR3g0a05Vd29vbXlBNnZVTjZxa2ZyYzRNenpha0VwSUM3R0lFREY3bWV6Q2s5RTRBbVhHWmRUN2tPMNIBlAFBVV95cUxOdTV3WFVtMkRkeDlyYmUyOWpDQ1lfM0duRTNIMnE5cV81anY4aC15bFZEeEhYc0Q1X0h0YUFSaXJjb25rY1RUZXV1bU5Gc3R6LVJTYng0ZWVUZEZRSy1mQk5zdWVSbzRLWEo4MjgwQU1hay11RUYwTzVQcjVEN09nUWRWVnY3bGIxeFBSTHFudGdlbTRz?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Wed, 21 Dec 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlg1dTYzYXlSMXFBclNkUl83U2xoVHhGSzQxMmNZcG1pdkZVMDJEblplVEZGZFRLRXRUQl9nMjQ0NDBCVXhhVkQxSTRJcG5PTHFuR3g0a05Vd29vbXlBNnZVTjZxa2ZyYzRNenpha0VwSUM3R0lFREY3bWV6Q2s5RTRBbVhHWmRUN2tPMNIBlAFBVV95cUxOdTV3WFVtMkRkeDlyYmUyOWpDQ1lfM0duRTNIMnE5cV81anY4aC15bFZEeEhYc0Q1X0h0YUFSaXJjb25rY1RUZXV1bU5Gc3R6LVJTYng0ZWVUZEZRSy1mQk5zdWVSbzRLWEo4MjgwQU1hay11RUYwTzVQcjVEN09nUWRWVnY3bGIxeFBSTHFudGdlbTRz?oc=5\" target=\"_blank\">LA County Extends Eviction Moratorium Until the End of January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     },
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUEg3cDZ3STFXWTBlb1dNNjlMR3NmQjJiUEdmZ09HTVVDcGRULVE3WGI5Z01Zcmp2dG9yd0RoRFRWVXJIXzhhUEYxaVRIRzNLdXNrNG9tRmY5akxIVS1CTnFlWElvcjQ3VmJ4OEFuYjZLckZqbGpfNktCTHRvMWFETXdpMnZscUZhSHEwaXVscFppMXRJcEluMkVmSXVEcmVCcFlnMmhGMkFuTDZoZWJGU0YxcVFUODh5Z2Jva05Db2ZfQUxVZGR1NE5abExlTVRxN0RvZFFKc2NJa0pkcUNQRWFvYnk?oc=5\" target=\"_blank\">A new law allows homeowner to sell ADUs like condos, boosting homeownership. Here's how AB 1033 works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "adu"
-    },
-    {
-      "id": "d7e3172cedcc1f95",
-      "title": "LA Court Finds SB 10 Constitutional - Davis Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aWEhqWmhOU255NEFwcG13Y0M5OFJQczMzTVpBVUgwdEI4elJfVm1fRGpDRXBqcG1QVkxKbHVXSUs5Qkl0bkRaQll4TGtwMDdJaWpwV1VBVmNkOEhBT3RZOGZiMGNGWFdudkNKZHlZR2hkRDIySHphS0FR?oc=5",
-      "source": "Davis Vanguard",
-      "published": "Sat, 14 May 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1aWEhqWmhOU255NEFwcG13Y0M5OFJQczMzTVpBVUgwdEI4elJfVm1fRGpDRXBqcG1QVkxKbHVXSUs5Qkl0bkRaQll4TGtwMDdJaWpwV1VBVmNkOEhBT3RZOGZiMGNGWFdudkNKZHlZR2hkRDIySHphS0FR?oc=5\" target=\"_blank\">LA Court Finds SB 10 Constitutional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "legal"
     }
   ]
 }
