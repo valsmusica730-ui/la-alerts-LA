@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T19:23:30.258370+00:00",
+  "generated_at": "2026-09-27T22:39:05.132074+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4203,6 +4203,16 @@
       "category": "policy"
     },
     {
+      "id": "33d73e6522393254",
+      "title": "Housing In Brief: L.A.’s Anti-Harassment Law Was Set Up To Fail - Next City",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWJWLWJnblFKeUhjd2k2T1NxWU9Ybm9lSnlkVjl2dzR4MXd5T1V5U3pQdkFrNGRkRzRpa2l4U3E3LUtqaUxJRXpicDRiMTNya1JSNHNfd2NyaXlucGlhSkFvUElXNGxhdlhKRkFmeXEtcmFNSEZ3Rk1lYm45ZE9ZYlFRTnZoMkVDNHFrVkpidEc5WlJ3TnlEdGxzdG1pbTlCcG5nVA?oc=5",
+      "source": "Next City",
+      "published": "Thu, 06 Oct 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWJWLWJnblFKeUhjd2k2T1NxWU9Ybm9lSnlkVjl2dzR4MXd5T1V5U3pQdkFrNGRkRzRpa2l4U3E3LUtqaUxJRXpicDRiMTNya1JSNHNfd2NyaXlucGlhSkFvUElXNGxhdlhKRkFmeXEtcmFNSEZ3Rk1lYm45ZE9ZYlFRTnZoMkVDNHFrVkpidEc5WlJ3TnlEdGxzdG1pbTlCcG5nVA?oc=5\" target=\"_blank\">Housing In Brief: L.A.’s Anti-Harassment Law Was Set Up To Fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Next City</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "other"
+    },
+    {
       "id": "92bb15eae7d0a227",
       "title": "L.A. Council committee advances proposal to tighten rent control formula - The California Apartment Association",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUE42eTY1N0RoUnp4S0Vnc0dVZlhVbUV6ZUJjSzVKVWxsTk9rMzdLTmt6NzR1Q2IxaS1XWVEtaENpQnBybGRpRW9iWi1KaTFlVktlc1lJVlllNUhOYXdYVzNNb3R3ZlVfNUEyU0RKemtqVU9QOGRXSGJQZVFKYTZXQnFaLUNJTXRmT0FLREViU0lfZU96eEE?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1JIWlQ1MVhGUENPV3MtYVpxaVdzYmZUN09RR1E3c2YxeXdjaDZ1a1lyZ00tSllrbzF4ZkVfS1loQURJeDJEUnFZdlhMelk1MVNQMWxyUEFyNUJTNEZOd0dPR0JVMTNrTjhfckdjUlVSOXAwS01PQWt6Z09vS3lDRVJoTW43YnFz0gGOAUFVX3lxTE0wdWFTSFUtWjBLaWJ4ZDhPemhocHNNUU9yei0yZm13ZDdsTm15WkpPWDVQOWY1T1JJRGNSajV4cksxdzhaTDE4Vzk2bXNET0NvVTREaUNpSEZpVi01bi1KU0I2ZjhXbGtVRGJnbUNDX3VKcGVNU1lJVEMxbzRLU00ydWktT04zXy1UcUFGUXc?oc=5\" target=\"_blank\">LA to invest $360M in affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "a1425aca2b3bcc06",
-      "title": "SB 9: Walnut Creek Asks for Feedback on Single-Family Residential Zones - Contra Costa News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTNycDQ5U29TOWdEdGZiTFM0djRGYWloak1YU2d5OUhmazF5dW1JNGxvc3Z6cG5FV0tGRnNoeE4wdG5jT0MtcHY5cWVfT1U5b0FIY1B2Z2RaYWlMQVFLdjZpQ0NLSkUwUDNrbmZSYUI0Y3RZMXFzbTdpdEtqQ2FLUHB2M2VXcnN1Y0hhV1pqY2JnWDJneGNKNXNfdmRVaWV6Wi03aTVoTGhJeFk?oc=5",
-      "source": "Contra Costa News",
-      "published": "Sat, 15 Jul 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTNycDQ5U29TOWdEdGZiTFM0djRGYWloak1YU2d5OUhmazF5dW1JNGxvc3Z6cG5FV0tGRnNoeE4wdG5jT0MtcHY5cWVfT1U5b0FIY1B2Z2RaYWlMQVFLdjZpQ0NLSkUwUDNrbmZSYUI0Y3RZMXFzbTdpdEtqQ2FLUHB2M2VXcnN1Y0hhV1pqY2JnWDJneGNKNXNfdmRVaWV6Wi03aTVoTGhJeFk?oc=5\" target=\"_blank\">SB 9: Walnut Creek Asks for Feedback on Single-Family Residential Zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Contra Costa News</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
