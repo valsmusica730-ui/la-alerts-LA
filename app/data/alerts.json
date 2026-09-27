@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T10:16:07.981738+00:00",
+  "generated_at": "2026-09-27T15:26:09.916669+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2241,6 +2241,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbndCQS0xblJTN2FFMXltbHY1TVR4ZjZ0XzFCOU43ckF2Y3RuMkpKUENIRVJvWktVcHhtQVAxX3R5em93YW1ZNEwyemZlY0Z0Z2gyWWNnOWpZdlh5WUR0VDVsS1V0R3piOWtsLUpnVDRkWGV5VktHRjhjRTMwTVB6TXIyaWlnZWVXYTdROXFJY1YxVEZJTlJPOTFuSWNQMkEyNmJFZ1k2X003Y2REVkRTXzFMRDZ2TzdWYzBZRzlaUmR4UXE0NEE?oc=5\" target=\"_blank\">Why the LA City Council is canceling homelessness anti-camping rules in some neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
+    },
+    {
+      "id": "e7a5fa1c58577a22",
+      "title": "Gravity-defying 5th and Hill tower with cantilevering pools approved for construction - The Architect’s Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqdlVSN1o0c3pJdzVYMDNpUU5xdkFBTUcxYlNJMTd2azBILW9QSlkxMW9TNTVxS0JaRzMyWmY1SjYyZGhXOW5SbzhObmhlWWs1c3lncldoTVVDNklvTzI0Y3FBMUN4WmxxODZIQUJJcGFLVTg0TXdVQnRn?oc=5",
+      "source": "The Architect’s Newspaper",
+      "published": "Tue, 17 Sep 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBqdlVSN1o0c3pJdzVYMDNpUU5xdkFBTUcxYlNJMTd2azBILW9QSlkxMW9TNTVxS0JaRzMyWmY1SjYyZGhXOW5SbzhObmhlWWs1c3lncldoTVVDNklvTzI0Y3FBMUN4WmxxODZIQUJJcGFLVTg0TXdVQnRn?oc=5\" target=\"_blank\">Gravity-defying 5th and Hill tower with cantilevering pools approved for construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Architect’s Newspaper</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
     },
     {
       "id": "2a86db450747fcbf",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTNycDQ5U29TOWdEdGZiTFM0djRGYWloak1YU2d5OUhmazF5dW1JNGxvc3Z6cG5FV0tGRnNoeE4wdG5jT0MtcHY5cWVfT1U5b0FIY1B2Z2RaYWlMQVFLdjZpQ0NLSkUwUDNrbmZSYUI0Y3RZMXFzbTdpdEtqQ2FLUHB2M2VXcnN1Y0hhV1pqY2JnWDJneGNKNXNfdmRVaWV6Wi03aTVoTGhJeFk?oc=5\" target=\"_blank\">SB 9: Walnut Creek Asks for Feedback on Single-Family Residential Zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Contra Costa News</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
-    },
-    {
-      "id": "37419eba05c316d3",
-      "title": "Los Angeles City Council Bans Traditional Vacation Rentals - VRM Intel",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUtkN1l6V0FXWEtnVjJWYlhRWTc0MjRUT3hWdElPcmpUOGFyS0hnaVp0dEZfM2x5bUFWTFZsLTVTLXZZdDBpeDFaRnlWN2ZVMkl6MklycmZRYTVGWlVCSjVUbjFCZWhTb3RrU0MxSHViT2tGVTVhR0lYR3hXT0Vmb3c2VEdqRWM?oc=5",
-      "source": "VRM Intel",
-      "published": "Sat, 15 Dec 2018 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUtkN1l6V0FXWEtnVjJWYlhRWTc0MjRUT3hWdElPcmpUOGFyS0hnaVp0dEZfM2x5bUFWTFZsLTVTLXZZdDBpeDFaRnlWN2ZVMkl6MklycmZRYTVGWlVCSjVUbjFCZWhTb3RrU0MxSHViT2tGVTVhR0lYR3hXT0Vmb3c2VEdqRWM?oc=5\" target=\"_blank\">Los Angeles City Council Bans Traditional Vacation Rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VRM Intel</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
     }
   ]
 }
