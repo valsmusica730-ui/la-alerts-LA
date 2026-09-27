@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:18:40.018052+00:00",
+  "generated_at": "2026-09-27T10:16:07.981738+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4633,6 +4633,16 @@
       "category": "other"
     },
     {
+      "id": "e85201247e013c1d",
+      "title": "First city in Southeast Los Angeles to win rent stabilization and just cause ordinance - Liberation News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFJyY3hXemlqZTZHOEk5UG1FNnNTSllvV1g3QmVUeXU4bl83WHJOOHNES0NqenhhdDRLbnFTaEZCRjhXNkJpY3VIVjUwNWhEZFVFa01UQnpUOHF3TnFYQ2U5YjZOZWZmZ2t0UGhmZGV2REVfUFhIN3dMWlRKMWhqNFZyMXJEemZNMFBjcW1rT2dkekJrUVJlMTNjXzh6N1M5eWExX3I0bm1rSkU2bGlpUjRqeWM?oc=5",
+      "source": "Liberation News",
+      "published": "Sun, 11 Sep 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFJyY3hXemlqZTZHOEk5UG1FNnNTSllvV1g3QmVUeXU4bl83WHJOOHNES0NqenhhdDRLbnFTaEZCRjhXNkJpY3VIVjUwNWhEZFVFa01UQnpUOHF3TnFYQ2U5YjZOZWZmZ2t0UGhmZGV2REVfUFhIN3dMWlRKMWhqNFZyMXJEemZNMFBjcW1rT2dkekJrUVJlMTNjXzh6N1M5eWExX3I0bm1rSkU2bGlpUjRqeWM?oc=5\" target=\"_blank\">First city in Southeast Los Angeles to win rent stabilization and just cause ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Liberation News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "c5179e9b8dc29f55",
       "title": "LADBS: Helping restaurateurs navigate the permitting process - lacity.gov",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEctSGxJUFpPZTdDNmlqS1ZXa2NsUlJEdmZvM3ZsNW04dkZibU9yRmJSMTVHYzdaclQ4V1NtRFFDRGRoYWZteTNTSThoVm9uLTlDZHRtdmR4ZHVjTnVvZGd6Q3h2U2VMWncxM0ltS0JXREh4R1BRUUhKLVc4X3BETWc2dThOQQ?oc=5",
@@ -4990,16 +5000,6 @@
       "published": "Sat, 15 Dec 2018 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUtkN1l6V0FXWEtnVjJWYlhRWTc0MjRUT3hWdElPcmpUOGFyS0hnaVp0dEZfM2x5bUFWTFZsLTVTLXZZdDBpeDFaRnlWN2ZVMkl6MklycmZRYTVGWlVCSjVUbjFCZWhTb3RrU0MxSHViT2tGVTVhR0lYR3hXT0Vmb3c2VEdqRWM?oc=5\" target=\"_blank\">Los Angeles City Council Bans Traditional Vacation Rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VRM Intel</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "7640b7ccb70e6719",
-      "title": "Nithya Raman says she’s being punished. L.A.’s City Council president says that’s not true - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd1lFRzJSaURFaXR1SDJwcmh1eTFkMUl0eDg0c2M2UHNtV1FFMlc3WVJYVnFtTW9wT21HclpBUTZaZ29JYk5UblpJVVFZU2p1My1vb0tEb0c1R2Jpalg0UlpJVUxSVU42T25STkphNzRiUUhMNC0zQ3JHU3k4a0RKNURxTFZOMjBaUjJBaTJPVkNBLUsxeWkzeFRuN3FFaU8wNE9jS2lYWG9WQm01c3VDdm5IOHktYTBDZWl2VEx1RU55Z2Z2VXFVUWpPaUk?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQd1lFRzJSaURFaXR1SDJwcmh1eTFkMUl0eDg0c2M2UHNtV1FFMlc3WVJYVnFtTW9wT21HclpBUTZaZ29JYk5UblpJVVFZU2p1My1vb0tEb0c1R2Jpalg0UlpJVUxSVU42T25STkphNzRiUUhMNC0zQ3JHU3k4a0RKNURxTFZOMjBaUjJBaTJPVkNBLUsxeWkzeFRuN3FFaU8wNE9jS2lYWG9WQm01c3VDdm5IOHktYTBDZWl2VEx1RU55Z2Z2VXFVUWpPaUk?oc=5\" target=\"_blank\">Nithya Raman says she’s being punished. L.A.’s City Council president says that’s not true</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     }
   ]
