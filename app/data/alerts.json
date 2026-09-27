@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:00:16.422859+00:00",
+  "generated_at": "2026-09-27T04:18:40.018052+00:00",
   "total": 500,
   "alerts": [
     {
@@ -941,6 +941,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaU93OTV0X2hJc3pCZGtzWkU5a1l0NzVoVWdYQ3M0X3pJMW54LTVWSWZUZkNONHpzaFFtdkxTaWRSSnZxakJGSThpQkJzS2hNU0w4T2xBakVQSm1nNi1GQ2M1dUVmT0JVdktjTUhGSmpBQlo4YlFSUkZZTXNDYjV3YjZucnNhZWVvRE4zbF9wMUlBQ08zQm5UcU1BTjZQR1FoaFpPVA?oc=5\" target=\"_blank\">What California's 2026 ADU Law Changes Mean for LA Homeowners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityWatch LA</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
+    },
+    {
+      "id": "af0d2c99772fda73",
+      "title": "Watts: How racist housing policy helped light the flame - kcrw.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWdjSUF2YVNYZkoyR29WRm5vZ2ljeHFoSDZDcEJaMWg2cjZpVFJOcnQwNWJhbGp6UEpQVy1ZSW9jZF9oMVRnb2Rad0VqZVFpcVJTUXJaSGwtY2VObHZfVURHUnlJMVViOFZCTFN4LXE2ajNVMzZjOUFPc0dmTzl6SU5DWFhYMVk0WXkw?oc=5",
+      "source": "kcrw.com",
+      "published": "Wed, 12 Aug 2015 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWdjSUF2YVNYZkoyR29WRm5vZ2ljeHFoSDZDcEJaMWg2cjZpVFJOcnQwNWJhbGp6UEpQVy1ZSW9jZF9oMVRnb2Rad0VqZVFpcVJTUXJaSGwtY2VObHZfVURHUnlJMVViOFZCTFN4LXE2ajNVMzZjOUFPc0dmTzl6SU5DWFhYMVk0WXkw?oc=5\" target=\"_blank\">Watts: How racist housing policy helped light the flame</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kcrw.com</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
     },
     {
       "id": "0d2433882f38f4f8",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQd1lFRzJSaURFaXR1SDJwcmh1eTFkMUl0eDg0c2M2UHNtV1FFMlc3WVJYVnFtTW9wT21HclpBUTZaZ29JYk5UblpJVVFZU2p1My1vb0tEb0c1R2Jpalg0UlpJVUxSVU42T25STkphNzRiUUhMNC0zQ3JHU3k4a0RKNURxTFZOMjBaUjJBaTJPVkNBLUsxeWkzeFRuN3FFaU8wNE9jS2lYWG9WQm01c3VDdm5IOHktYTBDZWl2VEx1RU55Z2Z2VXFVUWpPaUk?oc=5\" target=\"_blank\">Nithya Raman says she’s being punished. L.A.’s City Council president says that’s not true</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "62283bd33777065a",
-      "title": "A new law allows homeowner to sell ADUs like condos, boosting homeownership. Here's how AB 1033 works - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUEg3cDZ3STFXWTBlb1dNNjlMR3NmQjJiUEdmZ09HTVVDcGRULVE3WGI5Z01Zcmp2dG9yd0RoRFRWVXJIXzhhUEYxaVRIRzNLdXNrNG9tRmY5akxIVS1CTnFlWElvcjQ3VmJ4OEFuYjZLckZqbGpfNktCTHRvMWFETXdpMnZscUZhSHEwaXVscFppMXRJcEluMkVmSXVEcmVCcFlnMmhGMkFuTDZoZWJGU0YxcVFUODh5Z2Jva05Db2ZfQUxVZGR1NE5abExlTVRxN0RvZFFKc2NJa0pkcUNQRWFvYnk?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Sat, 14 Oct 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUEg3cDZ3STFXWTBlb1dNNjlMR3NmQjJiUEdmZ09HTVVDcGRULVE3WGI5Z01Zcmp2dG9yd0RoRFRWVXJIXzhhUEYxaVRIRzNLdXNrNG9tRmY5akxIVS1CTnFlWElvcjQ3VmJ4OEFuYjZLckZqbGpfNktCTHRvMWFETXdpMnZscUZhSHEwaXVscFppMXRJcEluMkVmSXVEcmVCcFlnMmhGMkFuTDZoZWJGU0YxcVFUODh5Z2Jva05Db2ZfQUxVZGR1NE5abExlTVRxN0RvZFFKc2NJa0pkcUNQRWFvYnk?oc=5\" target=\"_blank\">A new law allows homeowner to sell ADUs like condos, boosting homeownership. Here's how AB 1033 works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "adu"
     }
   ]
 }
