@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:16:19.383852+00:00",
+  "generated_at": "2026-09-28T16:11:12.742469+00:00",
   "total": 500,
   "alerts": [
     {
@@ -71,6 +71,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGY3UjJOTzk1a1ZYRkVyVEljRjNQeWpLX2hTNlFUV3ZLYldEZUZQS0RXOXVYRFR2NUN6MnlvcU8tSDlMYUNjY0RDdmFBbGJrbDhkMWlhSktWREF2NEtNVDNpMGtGWVJhWHFuYk1XVVZGZ05CbHNkRS1OYm9jNF9hS1NtdURoMm1tVHFwMXRFVkV4LUtWcnpBZ2kzaWMxei1DNFJpUER0MzdwUQ?oc=5\" target=\"_blank\">Mayor Bass orders ban on SB 9 applications in Palisades Fire zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "b11abcbffde8de34",
+      "title": "California eviction moratorium ends - Beverly Press & Park Labrea News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NM3FHc2ZHdUNONmUtSWY5MHdLc01HNGVwOW1ZWHFya0ptVUJIZVZDM1VuSVI5Vld3bk82YkdRWGFLZVg5RnA4T3hyX290VWE5YVdydzYzMG0wa0dTV1g5ZjluZUVqejJVemlNVW9GVWhXVndNR0hxVA?oc=5",
+      "source": "Beverly Press & Park Labrea News",
+      "published": "Wed, 29 Sep 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9NM3FHc2ZHdUNONmUtSWY5MHdLc01HNGVwOW1ZWHFya0ptVUJIZVZDM1VuSVI5Vld3bk82YkdRWGFLZVg5RnA4T3hyX290VWE5YVdydzYzMG0wa0dTV1g5ZjluZUVqejJVemlNVW9GVWhXVndNR0hxVA?oc=5\" target=\"_blank\">California eviction moratorium ends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "e5f43a93a54ad8f1",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDN2V0tlbTFLMnJNaTFNc3pTdjA0R1ZBb3Zkc05BSEF3U0E2U2pGMDJ2b0hpQkFqVDNIZ2E5Y1h4ZnFKd05ib3hYRHpfZENYbzZHbnlnRE13RDRNQ0NxQ25qZEI0a0Z6UlNjQVpaa1FIQjJUOERMLXVRUWtwMHMwT3ZyY3lrYUd6MEJScGRLY2NMbGxN?oc=5\" target=\"_blank\">She wants S.F. to legalize her in-law rental units. City rules could trigger $1 million in costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "other"
-    },
-    {
-      "id": "8df1a8919e7750cb",
-      "title": "Labor, religious leaders square off over City Hall’s affordable housing rules - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDNDOUxDLWNMNGlLZmlzVzVXVDdVYTNoWXp1Z3Z1ZVROWUZUbkMzV3B0aWpINFd0MF9mamUxbWEzRjNJZjl4eWxxWHUtZHMzaXZjTV9NZkRoaE9TTFdIUEtuQUhrS3haNHlaeGZQdkJRMzZXaVpLQ1l4VG5aNVBSSlZ3cml1WFB4QTJFbUpycjFkeHU3UnZFMjY1OWt6ZTcyRWxyZHhKb1RzcWZ6VGdXUF8tenkxSXItUWxRSlVzRUY0eHdtWHc?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Sat, 19 Oct 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDNDOUxDLWNMNGlLZmlzVzVXVDdVYTNoWXp1Z3Z1ZVROWUZUbkMzV3B0aWpINFd0MF9mamUxbWEzRjNJZjl4eWxxWHUtZHMzaXZjTV9NZkRoaE9TTFdIUEtuQUhrS3haNHlaeGZQdkJRMzZXaVpLQ1l4VG5aNVBSSlZ3cml1WFB4QTJFbUpycjFkeHU3UnZFMjY1OWt6ZTcyRWxyZHhKb1RzcWZ6VGdXUF8tenkxSXItUWxRSlVzRUY0eHdtWHc?oc=5\" target=\"_blank\">Labor, religious leaders square off over City Hall’s affordable housing rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
     }
   ]
 }
