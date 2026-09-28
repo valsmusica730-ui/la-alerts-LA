@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:39:05.132074+00:00",
+  "generated_at": "2026-09-28T01:16:19.383852+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1143,6 +1143,16 @@
       "category": "rent"
     },
     {
+      "id": "1355d82a1d62f860",
+      "title": "Council OKs new tower in Hollywood - Beverly Press & Park Labrea News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pcWNWTzloT0NOakNMMEg3Y2JackpmMFczanZWcmVQT1V6d1BudThlZEhpZ3BOSFpPZ3pQQVlTc0hnR0lPYWxmdU1lMGRydUVpNkJCcUw2b004RFdYNXVsQmhtMGpFYUp0bjIxRmVGSTFKUnJfbkRr?oc=5",
+      "source": "Beverly Press & Park Labrea News",
+      "published": "Wed, 09 Oct 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9pcWNWTzloT0NOakNMMEg3Y2JackpmMFczanZWcmVQT1V6d1BudThlZEhpZ3BOSFpPZ3pQQVlTc0hnR0lPYWxmdU1lMGRydUVpNkJCcUw2b004RFdYNXVsQmhtMGpFYUp0bjIxRmVGSTFKUnJfbkRr?oc=5\" target=\"_blank\">Council OKs new tower in Hollywood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
+    },
+    {
       "id": "031024c8ece172cc",
       "title": "Huntington Beach Planning Commission approves permits for new PCH homes - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORjM5ZDdQR2diUkloWDI1SDMwZ1BsV0ltWmxDZUhSdHJqZk4zbEk1LXUwWGVLT2FIRExKbkg2Q3gzby1jaE8wQmhuZUJDbWxBemF0RjVRUnZseWJUSEY0NXBKLUpTa05BZU1kTDNYV2xMRXVhSXFkcWQxcWJSWWtaT0JfYkhuTGpxUFlWZkVUNkxqSVJaLTZkODB6RkVGcmtKTldmczV4bEIzSEpOT241djh6bUwzQWJpNXlINFpCWkdHZXlvLUgxS203Q2dOOXM?oc=5",
@@ -1711,6 +1721,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHAyTmd3ZEZMUU4xT0trV1Z3Y0k4aTllaU5sOUc0dzNUYWx3WHE5NFNSLXdZQXRGTWRDdXFsNVJ3ODhHM255LXFUZmoycmpLNkhkbUVkUDZpRkNhVnNfWXF0R05JSnJ0dTNiZ3Ffbm10UnlzYmlTVEU5cEpXam5NVkJ2em9ZSW1PcVE?oc=5\" target=\"_blank\">L.A. City Planning Commission Rejects Five TOC Appeals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "legal"
+    },
+    {
+      "id": "9e78d5d4134e3b93",
+      "title": "California Passes Six-Year Freeze on Building Code Modifications - Pro Builder",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjdtcEdjQlV1djI5ZFZGTmMtbFpNNDVLeWhlN1lQV0NSVXBEZ2xtaE9BUlJyc2IxT0FER1ZmS21yaHRJVWJUcHdZWDlYRUpvdXlYVDNRcXRjejVYbUprMkNTc1lrTEdpVzN2LWF6YlVUdWVPS3VQSHRGNnlUanRRMHJGd0Y2VXV0VnFhSktPTXlxMjRZNHN1RV9vMVZRSjFwSjllWDVxSW5qS1UzblRwNVQwOA?oc=5",
+      "source": "Pro Builder",
+      "published": "Tue, 29 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjdtcEdjQlV1djI5ZFZGTmMtbFpNNDVLeWhlN1lQV0NSVXBEZ2xtaE9BUlJyc2IxT0FER1ZmS21yaHRJVWJUcHdZWDlYRUpvdXlYVDNRcXRjejVYbUprMkNTc1lrTEdpVzN2LWF6YlVUdWVPS3VQSHRGNnlUanRRMHJGd0Y2VXV0VnFhSktPTXlxMjRZNHN1RV9vMVZRSjFwSjllWDVxSW5qS1UzblRwNVQwOA?oc=5\" target=\"_blank\">California Passes Six-Year Freeze on Building Code Modifications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pro Builder</font>",
+      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
+      "category": "construction"
     },
     {
       "id": "563e092ca8d29bf6",
@@ -4980,26 +5000,6 @@
       "published": "Sat, 19 Oct 2024 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDNDOUxDLWNMNGlLZmlzVzVXVDdVYTNoWXp1Z3Z1ZVROWUZUbkMzV3B0aWpINFd0MF9mamUxbWEzRjNJZjl4eWxxWHUtZHMzaXZjTV9NZkRoaE9TTFdIUEtuQUhrS3haNHlaeGZQdkJRMzZXaVpLQ1l4VG5aNVBSSlZ3cml1WFB4QTJFbUpycjFkeHU3UnZFMjY1OWt6ZTcyRWxyZHhKb1RzcWZ6VGdXUF8tenkxSXItUWxRSlVzRUY0eHdtWHc?oc=5\" target=\"_blank\">Labor, religious leaders square off over City Hall’s affordable housing rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
-    },
-    {
-      "id": "a115b0678e5bd109",
-      "title": "New Rule Requires Officials To Report Free Tickets - cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdURNOWlqZGVpaVJLT0lnVWpVdmg3UjFlWjI5eXVZU08wNmlTbGJVaUJ0RWZfNlZtOFphMGp5SDJKSkpoNjFBTE1hbGVSalVvSjR4OERZbHgzdVhBUHdWV19OZEdhNzJMV0tNVHhFTHoyckZmZGw1eUxmX3NmWUptWDMwMV8zRkN2bVlxQmNULUpOVU91anc?oc=5",
-      "source": "cbsnews.com",
-      "published": "Sat, 18 Sep 2010 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdURNOWlqZGVpaVJLT0lnVWpVdmg3UjFlWjI5eXVZU08wNmlTbGJVaUJ0RWZfNlZtOFphMGp5SDJKSkpoNjFBTE1hbGVSalVvSjR4OERZbHgzdVhBUHdWV19OZEdhNzJMV0tNVHhFTHoyckZmZGw1eUxmX3NmWUptWDMwMV8zRkN2bVlxQmNULUpOVU91anc?oc=5\" target=\"_blank\">New Rule Requires Officials To Report Free Tickets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "other"
-    },
-    {
-      "id": "84ab2e320f5fe26b",
-      "title": "LA to invest $360M in affordable housing - FOX 11 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1JIWlQ1MVhGUENPV3MtYVpxaVdzYmZUN09RR1E3c2YxeXdjaDZ1a1lyZ00tSllrbzF4ZkVfS1loQURJeDJEUnFZdlhMelk1MVNQMWxyUEFyNUJTNEZOd0dPR0JVMTNrTjhfckdjUlVSOXAwS01PQWt6Z09vS3lDRVJoTW43YnFz0gGOAUFVX3lxTE0wdWFTSFUtWjBLaWJ4ZDhPemhocHNNUU9yei0yZm13ZDdsTm15WkpPWDVQOWY1T1JJRGNSajV4cksxdzhaTDE4Vzk2bXNET0NvVTREaUNpSEZpVi01bi1KU0I2ZjhXbGtVRGJnbUNDX3VKcGVNU1lJVEMxbzRLU00ydWktT04zXy1UcUFGUXc?oc=5",
-      "source": "FOX 11 Los Angeles",
-      "published": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1JIWlQ1MVhGUENPV3MtYVpxaVdzYmZUN09RR1E3c2YxeXdjaDZ1a1lyZ00tSllrbzF4ZkVfS1loQURJeDJEUnFZdlhMelk1MVNQMWxyUEFyNUJTNEZOd0dPR0JVMTNrTjhfckdjUlVSOXAwS01PQWt6Z09vS3lDRVJoTW43YnFz0gGOAUFVX3lxTE0wdWFTSFUtWjBLaWJ4ZDhPemhocHNNUU9yei0yZm13ZDdsTm15WkpPWDVQOWY1T1JJRGNSajV4cksxdzhaTDE4Vzk2bXNET0NvVTREaUNpSEZpVi01bi1KU0I2ZjhXbGtVRGJnbUNDX3VKcGVNU1lJVEMxbzRLU00ydWktT04zXy1UcUFGUXc?oc=5\" target=\"_blank\">LA to invest $360M in affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     }
   ]
