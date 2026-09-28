@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:11:12.742469+00:00",
+  "generated_at": "2026-09-28T22:19:06.353366+00:00",
   "total": 500,
   "alerts": [
     {
@@ -111,6 +111,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVZNUjlTOXJsZjJKbktZMlh5NkVNRnNYNmNyYWRrRDVLRDJVd1hWc0lTWEFYNUhjYlhXWnpqMURKeXpXM280UkVsTTlrUmxNU1NlN0dvU3JJOUZYYWRlLWt2dVBRcS14WGVBbndodF94VlFEc1kwTjBXejhiR1VpbENn0gGHAUFVX3lxTFBBQ1JXVnVJQWx4ZUNWTGFOaGYxS192bHFOS2lWdlYzRmllUFd3ZnpPNGR3WXBaQXZKSXQ3aXF2Q0tQRkF3S0JsZFVWSnpJSjRLYkF0WVpkellZS09oZS0yUHFWZmZsUTJ1U3kxMjhOX1NyOHhaV3VzSUJEWFNBaXVaUFlhRE5GVQ?oc=5\" target=\"_blank\">LA City Council approves ordinance that would limit rent increases for rent-controlled units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "rent"
+    },
+    {
+      "id": "fc80e614930eb0f1",
+      "title": "LA City Council moves forward with policy requiring short-term rental hosts to obtain police permit - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVVZmYkJMcXlHbUZBTWZqbzBjOF95MmRxUDBWdGdnV2JzMTVmZWJ5ckY2LXU3UnRFNEVKTWREbWNXdFVEWXM1NGEzMVpVNWg0akhEcWNxWXJ3MFE1YkxVTGlnNDNRTVpaNl9WX1RXVTl3Uk5QLXoxZHJNdFRQSThUTGxxa3RHUkVhdUl1NUZSbWhwaHY5SHhBSDNMWEJoYkxfU0I4Tk82cDYtOVZjcVlKV3FsRXkxT0x6bTBtbHM1WHM5aXJuLXFLUTlDNzNxbEhKTjc3WmE4TQ?oc=5",
+      "source": "CBS News",
+      "published": "Wed, 29 Nov 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVVZmYkJMcXlHbUZBTWZqbzBjOF95MmRxUDBWdGdnV2JzMTVmZWJ5ckY2LXU3UnRFNEVKTWREbWNXdFVEWXM1NGEzMVpVNWg0akhEcWNxWXJ3MFE1YkxVTGlnNDNRTVpaNl9WX1RXVTl3Uk5QLXoxZHJNdFRQSThUTGxxa3RHUkVhdUl1NUZSbWhwaHY5SHhBSDNMWEJoYkxfU0I4Tk82cDYtOVZjcVlKV3FsRXkxT0x6bTBtbHM1WHM5aXJuLXFLUTlDNzNxbEhKTjc3WmE4TQ?oc=5\" target=\"_blank\">LA City Council moves forward with policy requiring short-term rental hosts to obtain police permit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "0b7fd8170b9c9781",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMDJXc2hYVGNZRzNhZUF4RnVLUEZuVTZYLTZLemhtUEJKVVRZSWtXNE9MOXJ5WUhkUXh6WmRtNjJpQmd6eE4xZ2tlXzA5RWlFaDN6R3Q1NEdMRENTNUZpZ2R5aU5JcWNhZU9YVDdjdXQtNlVMenpteWluaWUzRGl0bndxNWMzZ290MGFaY2VyX2xPbUk1RHdmUm1NUnotZw?oc=5\" target=\"_blank\">Measure ULA reform goes to the ballot, Remembering Lorcan O'Herlihy, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "d07ddac51f9a175a",
-      "title": "She wants S.F. to legalize her in-law rental units. City rules could trigger $1 million in costs - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDN2V0tlbTFLMnJNaTFNc3pTdjA0R1ZBb3Zkc05BSEF3U0E2U2pGMDJ2b0hpQkFqVDNIZ2E5Y1h4ZnFKd05ib3hYRHpfZENYbzZHbnlnRE13RDRNQ0NxQ25qZEI0a0Z6UlNjQVpaa1FIQjJUOERMLXVRUWtwMHMwT3ZyY3lrYUd6MEJScGRLY2NMbGxN?oc=5",
-      "source": "San Francisco Chronicle",
-      "published": "Sat, 20 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDN2V0tlbTFLMnJNaTFNc3pTdjA0R1ZBb3Zkc05BSEF3U0E2U2pGMDJ2b0hpQkFqVDNIZ2E5Y1h4ZnFKd05ib3hYRHpfZENYbzZHbnlnRE13RDRNQ0NxQ25qZEI0a0Z6UlNjQVpaa1FIQjJUOERMLXVRUWtwMHMwT3ZyY3lrYUd6MEJScGRLY2NMbGxN?oc=5\" target=\"_blank\">She wants S.F. to legalize her in-law rental units. City rules could trigger $1 million in costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "other"
     }
   ]
 }
