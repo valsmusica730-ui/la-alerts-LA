@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T16:12:04.850587+00:00",
+  "generated_at": "2026-09-29T21:07:46.358825+00:00",
   "total": 500,
   "alerts": [
     {
@@ -851,6 +851,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQUNOYjFaclM1ZF9GNEVRSnZPS21ya2ZxZVRzMEUyYjBNQ0t4MVhYSHUwUmpIeG44SFpMU3ZGaUVZNXdETGNSSmVPdTlZeHZCa0ZqeGcyVG12cXdFQUhRd2Foc0RNR095SDRIMmgxNU84ZVd6OGZabUF6TG1HTVBERVpXRVlRX3UyZnI2SW5FWjh4UlphRS1hMDZ2QVZZaXNqS3NBbTFydzQwNDFhcmlGZGVKWGhoNGNvZ1RLMA?oc=5\" target=\"_blank\">Council passes ordinance requiring developers to pay for affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
+    },
+    {
+      "id": "b75c59eeb2bddf8b",
+      "title": "New FAIR Plan Data Reveals Problem with Zoning Restrictions in California: News Article - Independent Institute",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHptbk9zaHVWRUcwWE11SEw4VUVXM3JEV1Z3d1UyQ0VTVENFUHNDSXN4MmNVM2ROSjZMaEVCWVFPOXlScjl4dGU4UVJNaVFCUjF1R1UwUVJna19fcXZKOGU1Nmc1Wk1zbVF5eXFsTlJEZHVSeFp4MEk1UWlKekVYSTA2UEhILWFMOUE?oc=5",
+      "source": "Independent Institute",
+      "published": "Wed, 13 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHptbk9zaHVWRUcwWE11SEw4VUVXM3JEV1Z3d1UyQ0VTVENFUHNDSXN4MmNVM2ROSjZMaEVCWVFPOXlScjl4dGU4UVJNaVFCUjF1R1UwUVJna19fcXZKOGU1Nmc1Wk1zbVF5eXFsTlJEZHVSeFp4MEk1UWlKekVYSTA2UEhILWFMOUE?oc=5\" target=\"_blank\">New FAIR Plan Data Reveals Problem with Zoning Restrictions in California: News Article</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Independent Institute</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "zoning"
     },
     {
       "id": "4bd8e8ca39af2863",
@@ -3613,6 +3623,16 @@
       "category": "tax"
     },
     {
+      "id": "e4b4535e78f3279c",
+      "title": "L.A. City Planning Commission Approves Mission Hills Apartments - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS3hWeExnTXFtNTdsYU0zQ25JQ3lpc2ZoU2VoekR0TFdFdnlHOGFKRVM0OWRUcVhGeU9KOXVxem5uRkNaN1REY3U1Rk4xcjFRck5ib2JDdDFVLUhheHVnSWluQ1FaVGl5OUdWNlpHcU5FdklkX1l0N1lIYU90RXBGT1V5QzBKQjZOM0hhal9KN2NUTGVqSEE?oc=5",
+      "source": "Urbanize LA",
+      "published": "Thu, 22 Aug 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPS3hWeExnTXFtNTdsYU0zQ25JQ3lpc2ZoU2VoekR0TFdFdnlHOGFKRVM0OWRUcVhGeU9KOXVxem5uRkNaN1REY3U1Rk4xcjFRck5ib2JDdDFVLUhheHVnSWluQ1FaVGl5OUdWNlpHcU5FdklkX1l0N1lIYU90RXBGT1V5QzBKQjZOM0hhal9KN2NUTGVqSEE?oc=5\" target=\"_blank\">L.A. City Planning Commission Approves Mission Hills Apartments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "a9029d09cfe8df85",
       "title": "With the federal eviction moratorium over, many call Las Vegas’ Desert Moon Motel home - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVTbVNNMFQyd28xWmNjLXF0VF9FdUI0eEVNZVhGanN4T3hodWtOdG5WVG9KcElzTGZmcndhT3dZWnpKa2x2azdYTW0wY1hnSjBsT2NhNHY2dUVJWU13ZDFWU2pFOEdHVFF1RDBXMWQzcFltMXlPSTQydWF0VVFwRk1HR3JHbTA3VnlTcFlXbGVoek1CMDhEeVZHOW1NMzltaWk1T3ZyR0I2dUhOd3RUTThWQQ?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1o5R3FIUEFHQU85NEU1NDlBVkd0Q3hlWWV5MFYwVVdoelJwdWVWRWE3T0E3VmFDMzJKYXp6Mjc5ZGl3cVlSR1FRN3ZWaE9LX1FoMW52dDVCZVFQaVZYUEROWmNtZlR5cm1JUVBUak9KQmwxaTBzSmp3ZUFhWE9KTnNjcUVYTFJTZkJUZ09BblcwRzY5cExzNXFRcw?oc=5\" target=\"_blank\">LA City Council Votes 11-1 To Keep Eviction Moratorium in Place</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Globe</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "168c3cf93fe05e08",
-      "title": "LA councilwoman blasts city for letting valuable properties sit empty - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHRiRnItU0t4M0t2Qm1MOXo2OFlrLTdLWTZ1c1VKTE8yLW5acjVKOFYtMk5FR1FxenFkdTdBU2JZT2JnWWloTENFdkhSRmNqVjZ2eEQzdksxay1UYjJGM3FZbEUtTDdfdkJXWnFWZDZJVmZYRjV0X1NaNFFKS29SZHIzWDVGLXdEUU5yWVhHNk45eXo5OElBNEFHZDQzb2d3YjdEN0l2cUdkMzRRemtLeWNvaUY?oc=5",
-      "source": "New York Post",
-      "published": "Sat, 26 Sep 2026 14:35:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHRiRnItU0t4M0t2Qm1MOXo2OFlrLTdLWTZ1c1VKTE8yLW5acjVKOFYtMk5FR1FxenFkdTdBU2JZT2JnWWloTENFdkhSRmNqVjZ2eEQzdksxay1UYjJGM3FZbEUtTDdfdkJXWnFWZDZJVmZYRjV0X1NaNFFKS29SZHIzWDVGLXdEUU5yWVhHNk45eXo5OElBNEFHZDQzb2d3YjdEN0l2cUdkMzRRemtLeWNvaUY?oc=5\" target=\"_blank\">LA councilwoman blasts city for letting valuable properties sit empty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "b55cffa1bedca382",
-      "title": "Geoff Palmer’s lawsuit over tenant protections tossed by judge - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjYtVmtSbmZSS3ZjQ1Y0b3NxaXhhVUluLTJPd3hQc2tyYUIzal85SGVPWkdnWGZNS1RhMERDenFLZmdoZjJoUGIyaVZ0clA3bG9XbWltX2hSUE5nd1dxQmpiOC1zcmxVU2duMUdNTnN5aENfMzZFdThFc2ExWTROOHB6OUViWGRqOS1MZnExYXFUQkVQQ3JTSjl5ZTl5Xy1sN0E?oc=5",
-      "source": "The Real Deal",
-      "published": "Sat, 26 Nov 2022 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjYtVmtSbmZSS3ZjQ1Y0b3NxaXhhVUluLTJPd3hQc2tyYUIzal85SGVPWkdnWGZNS1RhMERDenFLZmdoZjJoUGIyaVZ0clA3bG9XbWltX2hSUE5nd1dxQmpiOC1zcmxVU2duMUdNTnN5aENfMzZFdThFc2ExWTROOHB6OUViWGRqOS1MZnExYXFUQkVQQ3JTSjl5ZTl5Xy1sN0E?oc=5\" target=\"_blank\">Geoff Palmer’s lawsuit over tenant protections tossed by judge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "legal"
     }
   ]
 }
