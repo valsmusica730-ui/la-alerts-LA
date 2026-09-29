@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T02:22:14.988414+00:00",
+  "generated_at": "2026-09-29T09:12:36.441783+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1721,6 +1721,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVFhRk5jbWQ3Ty10T09ydHVsQjhydUhmaEpmVi16N3FfbmUtRWRzTHp0X3FDd0QyUkR0Nk1lTXZ1MXg2cEktVkNhTjR1ZkVLdnZFS3ZBcUZkc2NiLUFwYWc4S1Q3U204WWFYSy1feE1hZTc4TkhiNklPb0pNal9TdklvbDh1eWdIYlRhTEVFSE1ZMl83dFpwQVFwSnFmN3Z6QmNmOWJR?oc=5\" target=\"_blank\">Building Code Changes Add Nearly 10% To Apartment Construction Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Globest</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "construction"
+    },
+    {
+      "id": "2a84bd61f86d0e6d",
+      "title": "Measure ULA’s Second Round - Los Angeles Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PbTNzRTd4eHY3eXdpLWdCVFcxWmhJcFNSWDBvV0c2d0NqT1ZkWkcwM0FYZFQyWTVpaW1rQXFTQzVFSVJiTE9UUm1jeGU2WGFsdjgxbF80MURQMkhOS2p1STdPdThnZVc5a2pkTmZNMWZ3Rlk?oc=5",
+      "source": "Los Angeles Business Journal",
+      "published": "Tue, 29 Sep 2026 05:39:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1PbTNzRTd4eHY3eXdpLWdCVFcxWmhJcFNSWDBvV0c2d0NqT1ZkWkcwM0FYZFQyWTVpaW1rQXFTQzVFSVJiTE9UUm1jeGU2WGFsdjgxbF80MURQMkhOS2p1STdPdThnZVc5a2pkTmZNMWZ3Rlk?oc=5\" target=\"_blank\">Measure ULA’s Second Round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Business Journal</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
     },
     {
       "id": "b47fbcf75f38a4c7",
@@ -4473,6 +4483,16 @@
       "category": "policy"
     },
     {
+      "id": "8db81758c846ab0b",
+      "title": "LA councilmembers propose law for replacement of housing lost to new hotel developments - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCTEFEVE85a0NCdjIydzV6TFpkQmhEdDQzS1h1QVN2SHFlTS1weFV5Njk5ZUg5VHFvVXExM1lJUUpQNlYtbUhjRDIzSlZmS3BPZWVnQTBoX2N4M25wdU80UGkzbUgzX1p1RGhSVDZlcFNYQdIBd0FVX3lxTE9zbXRDSklBZ01sQ05ITjR1MGJWeElLbnR2WEpFczctYUZjN0tLS3VONlhPMmFVZlRLUGQ5ZU1Bb0QxakhEZ25jRUJHRlM3dzdmVkZkWFBkYURVdDFZZFg5dGswNFdwelp3SUxkYkhhb0RMQk5QdF9Z?oc=5",
+      "source": "ABC7 Los Angeles",
+      "published": "Thu, 02 Nov 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBCTEFEVE85a0NCdjIydzV6TFpkQmhEdDQzS1h1QVN2SHFlTS1weFV5Njk5ZUg5VHFvVXExM1lJUUpQNlYtbUhjRDIzSlZmS3BPZWVnQTBoX2N4M25wdU80UGkzbUgzX1p1RGhSVDZlcFNYQdIBd0FVX3lxTE9zbXRDSklBZ01sQ05ITjR1MGJWeElLbnR2WEpFczctYUZjN0tLS3VONlhPMmFVZlRLUGQ5ZU1Bb0QxakhEZ25jRUJHRlM3dzdmVkZkWFBkYURVdDFZZFg5dGswNFdwelp3SUxkYkhhb0RMQk5QdF9Z?oc=5\" target=\"_blank\">LA councilmembers propose law for replacement of housing lost to new hotel developments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "other"
+    },
+    {
       "id": "2abb6d62b7e1bcb9",
       "title": "As court overturns a lot-splitting law, SB 9, one early adopter asks why - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeElZYUc3cXotYXM1cGFSeXlMMTFtSjd1VGlSVy01a2RSaVo1a3VfbTA5dDBWbXZLVWVzcU5rWm1SRldrZnlxU25RV21wSGxnYTZYUWlSMXR0dGNxbGhvR3Z0d0dBWU1UYzFxUnZ4M3hIM1JaNUNpRXF3dURCQk1YQzQ2SFJ1djg2MmYtN0g2bUdCVVo0OUJYb25ZdXVJMDR5X2M3YTVqMnZyREdEZFNZNmhncTYxR3VuNS1zS1FxOA?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlVZSVo5UlRJdlliVzVxcWxxb01YYUJhSEtEVUpjWnlDZmtaNlB4ei1VVVMzQ0prNHEzcEhSQXRzS1l1dVpOX25BNGJpa2NwLWdyVXFybzFKYTVLbFV1WXlUS3h3STlZa0lkU3JlSzQzaDNrM09vdEJ5dm5ZTjMzRXYtMVhVSTlzbGxNc2VVaEoxNVl3VnoxXw?oc=5\" target=\"_blank\">Council Approves Regulations for Short-Term Rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fullerton Observer</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
-    },
-    {
-      "id": "c3382a3b1dab28ee",
-      "title": "Rent Board Moves Toward Asking City Council to Set an Indoor Heat Cap - Pasadena Now",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmtGWjJiU213TXBkMXIyUHU4Tjc2bkJkeGdiRWRXRHZuSEhEcHF2UnZ3SVZPQ3dkcVNEdk9iOFlld0ZpLTFVbUxMODVLTGh0LVZuNlVTUGxFaGNmQXRtaU1vZ25IclZGQVpsV05qNzJkX2RCRk5jZ2E3d0ZiRTFyX2loNnBZejEyWmQtelQzcnFPOGZNVDBQTko5MU1OWlk?oc=5",
-      "source": "Pasadena Now",
-      "published": "Sat, 22 Aug 2026 12:47:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmtGWjJiU213TXBkMXIyUHU4Tjc2bkJkeGdiRWRXRHZuSEhEcHF2UnZ3SVZPQ3dkcVNEdk9iOFlld0ZpLTFVbUxMODVLTGh0LVZuNlVTUGxFaGNmQXRtaU1vZ25IclZGQVpsV05qNzJkX2RCRk5jZ2E3d0ZiRTFyX2loNnBZejEyWmQtelQzcnFPOGZNVDBQTko5MU1OWlk?oc=5\" target=\"_blank\">Rent Board Moves Toward Asking City Council to Set an Indoor Heat Cap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Now</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "policy"
-    },
-    {
-      "id": "5d2afd2199a60381",
-      "title": "Woodland Hills Country Club Faces LA Council Roadblock to Build 400 Homes - MyNewsLA.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2lCb2hiXzVmcW8yWUZ0U3VJb0pER3A2VUxNbzlBZmdmRjI0b0MwOGwxd28zVG14RVo4aUQ1SXlUc3VPcXZ5MW56UDBVajVGcGxGanYzTGxfX1dYT2NLcVBMRFVTTlhvZEhKNXVoQ3pOVmN6cGoxQm9pb0FQTDFFdEZsa3ZWYlRJVnBqNnoxY1BmcWw5ZHhHR0F1WmVOa3RzR1JXOHliaTF3Z1JrN01rTWNKMml5SkFQUkY0?oc=5",
-      "source": "MyNewsLA.com",
-      "published": "Sat, 22 Aug 2026 03:42:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2lCb2hiXzVmcW8yWUZ0U3VJb0pER3A2VUxNbzlBZmdmRjI0b0MwOGwxd28zVG14RVo4aUQ1SXlUc3VPcXZ5MW56UDBVajVGcGxGanYzTGxfX1dYT2NLcVBMRFVTTlhvZEhKNXVoQ3pOVmN6cGoxQm9pb0FQTDFFdEZsa3ZWYlRJVnBqNnoxY1BmcWw5ZHhHR0F1WmVOa3RzR1JXOHliaTF3Z1JrN01rTWNKMml5SkFQUkY0?oc=5\" target=\"_blank\">Woodland Hills Country Club Faces LA Council Roadblock to Build 400 Homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
     }
   ]
 }
