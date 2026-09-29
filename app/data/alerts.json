@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T22:19:06.353366+00:00",
+  "generated_at": "2026-09-29T02:22:14.988414+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3043,6 +3043,16 @@
       "category": "policy"
     },
     {
+      "id": "91a71a46c93a7ea1",
+      "title": "Measure exempting Pacific Palisades from LA mansion tax headed for November ballot - Los Angeles Daily News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZG8tSlBQU21vZEFlbkpPWGZ1bU5pRGxtTk90RVdNcjhpMllUcnRhSVZDbWJYRldHdGI3b25wSjRjTV9lRjVQT2h0Z0g4c2J4dzdNR0dSdjF1d0U2d19ySnFEenRmaVJTV0hObTJRUXpBWUh0RXFyS1J4ZFpJNW9zN1BHVWRUTkF6TVBlME5rdElBX0J1X21VcGJWVzJ4QXhScnhyRkNXUFhhMXR5dHR2Q1kxWW1vajBPcFJOag?oc=5",
+      "source": "Los Angeles Daily News",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNZG8tSlBQU21vZEFlbkpPWGZ1bU5pRGxtTk90RVdNcjhpMllUcnRhSVZDbWJYRldHdGI3b25wSjRjTV9lRjVQT2h0Z0g4c2J4dzdNR0dSdjF1d0U2d19ySnFEenRmaVJTV0hObTJRUXpBWUh0RXFyS1J4ZFpJNW9zN1BHVWRUTkF6TVBlME5rdElBX0J1X21VcGJWVzJ4QXhScnhyRkNXUFhhMXR5dHR2Q1kxWW1vajBPcFJOag?oc=5\" target=\"_blank\">Measure exempting Pacific Palisades from LA mansion tax headed for November ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "c1ddb2d0200f5a01",
       "title": "LA County RV Parking Restrictions Explained - LA Local",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTktkOEpJVmRHb3pEekRCeEdWaHZ0eTZxZmdtUC1mWW9yTWRFNzVZS0RvWGF3VHo0YVhsUXBBbTM2aXNJNjVyZEQzaldhV05zbjh0d202NUV6YkgxZXYtT3MzdldoQldTb3lWOEVxckNUS056S0VxUndzanlvLURsYVhDeFhoNHBGdmNvRmxVekVXOVJkTUZwcEtRVElLSUlWTEVjSjN3MGJXV0tlU2Y2VDhQT0hFd1NhNllycjB3OEdXdHpP?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2lCb2hiXzVmcW8yWUZ0U3VJb0pER3A2VUxNbzlBZmdmRjI0b0MwOGwxd28zVG14RVo4aUQ1SXlUc3VPcXZ5MW56UDBVajVGcGxGanYzTGxfX1dYT2NLcVBMRFVTTlhvZEhKNXVoQ3pOVmN6cGoxQm9pb0FQTDFFdEZsa3ZWYlRJVnBqNnoxY1BmcWw5ZHhHR0F1WmVOa3RzR1JXOHliaTF3Z1JrN01rTWNKMml5SkFQUkY0?oc=5\" target=\"_blank\">Woodland Hills Country Club Faces LA Council Roadblock to Build 400 Homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "other"
-    },
-    {
-      "id": "6b8be6b1400bbb85",
-      "title": "Measure ULA reform goes to the ballot, Remembering Lorcan O'Herlihy, and more - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDJXc2hYVGNZRzNhZUF4RnVLUEZuVTZYLTZLemhtUEJKVVRZSWtXNE9MOXJ5WUhkUXh6WmRtNjJpQmd6eE4xZ2tlXzA5RWlFaDN6R3Q1NEdMRENTNUZpZ2R5aU5JcWNhZU9YVDdjdXQtNlVMenpteWluaWUzRGl0bndxNWMzZ290MGFaY2VyX2xPbUk1RHdmUm1NUnotZw?oc=5",
-      "source": "Urbanize LA",
-      "published": "Sat, 20 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMDJXc2hYVGNZRzNhZUF4RnVLUEZuVTZYLTZLemhtUEJKVVRZSWtXNE9MOXJ5WUhkUXh6WmRtNjJpQmd6eE4xZ2tlXzA5RWlFaDN6R3Q1NEdMRENTNUZpZ2R5aU5JcWNhZU9YVDdjdXQtNlVMenpteWluaWUzRGl0bndxNWMzZ290MGFaY2VyX2xPbUk1RHdmUm1NUnotZw?oc=5\" target=\"_blank\">Measure ULA reform goes to the ballot, Remembering Lorcan O'Herlihy, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
