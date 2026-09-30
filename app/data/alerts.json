@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T21:07:46.358825+00:00",
+  "generated_at": "2026-09-30T06:06:48.587225+00:00",
   "total": 500,
   "alerts": [
     {
@@ -21,6 +21,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHpHYTRGZHcwa1ZhNlNYVnQtd2RiTmJQdnljVVhVWVhubWJCZFZDYmIxakdlMHk2dldNNDAyVW5LUXBYX21sOEJydFZMY200am00RW9OZ1lVWmpkNG02NmFGUjgtSWl2ZGhhc0hMdTRFV0xOeDJ5RjhJN3ZIU0hFOFRUNzY0WlBLd0U1WmN6RVR2T2hBODBsUjNkY2hsTmlfZTdTeg?oc=5\" target=\"_blank\">10 new California laws you should know about in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "81c8ce8aaf997455",
+      "title": "Former LA City Councilman Woo Joins County Ethics Commission - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmQ4SHR2Vm94NndfcHhOM2oxYkRZWF91RWJJY0xHcEQ1b1ZxdEtxYmE2NlMzc1BlWEVnQ1FEazdGbm9OYzVPNk9sZEQzcWZwclA0a2FvYXJidDZiQzZSNWMyV0UzV1pLb05YZzRjNlVVX3JxZnJCWEtBMm1pNzY2am9sQ3BnZUh3Q3A4WGxsam1UTUNfallGcl9lODNGaVJTeVd4RTNMbw?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Wed, 30 Sep 2026 01:42:09 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmQ4SHR2Vm94NndfcHhOM2oxYkRZWF91RWJJY0xHcEQ1b1ZxdEtxYmE2NlMzc1BlWEVnQ1FEazdGbm9OYzVPNk9sZEQzcWZwclA0a2FvYXJidDZiQzZSNWMyV0UzV1pLb05YZzRjNlVVX3JxZnJCWEtBMm1pNzY2am9sQ3BnZUh3Q3A4WGxsam1UTUNfallGcl9lODNGaVJTeVd4RTNMbw?oc=5\" target=\"_blank\">Former LA City Councilman Woo Joins County Ethics Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "policy"
     },
     {
       "id": "50f0998897c69d34",
@@ -1843,6 +1853,16 @@
       "category": "rent"
     },
     {
+      "id": "ea1b433d8aefecdc",
+      "title": "A plan to cut a California tax is going to voters. Why LA’s ‘mansion tax’ is at the center of it - Daylight San Diego",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYy16ZDFnem5JZmxJcUNuTG9UNEVIcm1GTFRRZXhhendvMTYxd3NrQ05FYkdoVUZ0N3ZXSGI0YV9hUVBmQ182eThhTnViSlM5ZmJkdDhUM0pGcWlhUkhrY2hjNGo0MU1hM19zUFBtUmdmcHlKM0ZHVVVEMURYeU5XSUFvczFQMkU2cnVKQVJMMzhvQTBkNjFFN0dGRHk5YXh5eU5JZVJUbWRISTNZNHhLeUUzVzZ5QURDek9zSmloV3dITEV2?oc=5",
+      "source": "Daylight San Diego",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYy16ZDFnem5JZmxJcUNuTG9UNEVIcm1GTFRRZXhhendvMTYxd3NrQ05FYkdoVUZ0N3ZXSGI0YV9hUVBmQ182eThhTnViSlM5ZmJkdDhUM0pGcWlhUkhrY2hjNGo0MU1hM19zUFBtUmdmcHlKM0ZHVVVEMURYeU5XSUFvczFQMkU2cnVKQVJMMzhvQTBkNjFFN0dGRHk5YXh5eU5JZVJUbWRISTNZNHhLeUUzVzZ5QURDek9zSmloV3dITEV2?oc=5\" target=\"_blank\">A plan to cut a California tax is going to voters. Why LA’s ‘mansion tax’ is at the center of it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daylight San Diego</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "8f75e5f2578084d0",
       "title": "Mayor Bass Issues Statement on Measure ULA Reform - City of Los Angeles (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeXQzYU0yZm9HOTNjQkx4c3JvcTFGZEFUc3AxdXo5Ym1RbkZHUHNGWGdFZVU5cV9ma29vN0RNeWk3blUwbTJVM0Nfd1hWWEkyVEszWWVIb0cwZTBmZHJ5SE9xOG1aVWNHdFpfUTBxa2V2djlNeWE1am12Z3dUNXd3dW93?oc=5",
@@ -2100,6 +2120,16 @@
       "published": "Tue, 23 Jul 2019 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONUc1OFI4Vzk3Y2hDRFc5bUdqMmJMRHpGenlJMzhQckoxaUVxTENieTBVdGR3eXpScjhQZ3RrMS1wdHMxMzUwTjZ2UTVaX1FNeXpiaEh6ajVSUmxtMDhCNXp6Yi1GMk1kdm9jSGdwV0d5ZjVQUmpDX1BBdjcyV3E0RGwtQk9HYXFfbm5hYVBjZUVKTVBsalVrbw?oc=5\" target=\"_blank\">Glendale could implement Airbnb rules this fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
+      "id": "5b5fd996bd022b61",
+      "title": "Costa Mesa council begins to lay foundation for affordable housing ordinance - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXNvdWhNbTJXX0Z2QUtlM29qNm9JT3lPRk12cmNiTF9sa1dwa1BxeTFFZEM4Q0xvOVIxTkNydmE0MjlaYnBFX2tpeGlJNzcwbXBiOXVDc2h3djhUYWFJbHJtSDY2TmtLRWRhdzFNMzdhelpXcGZHOFhKTVdXOXZoa2pwbTNuTkY0TFVfeHFST2NhUE9HYWZaU3FHYjRudGFrOXBYMl8wMExYRDljM1RJSklOSm1DV2VMZzZUNHhzUnFCSXFPb0h3X25NNzlDRk5BNW9FNDRQQWQ?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Tue, 23 Jan 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXNvdWhNbTJXX0Z2QUtlM29qNm9JT3lPRk12cmNiTF9sa1dwa1BxeTFFZEM4Q0xvOVIxTkNydmE0MjlaYnBFX2tpeGlJNzcwbXBiOXVDc2h3djhUYWFJbHJtSDY2TmtLRWRhdzFNMzdhelpXcGZHOFhKTVdXOXZoa2pwbTNuTkY0TFVfeHFST2NhUE9HYWZaU3FHYjRudGFrOXBYMl8wMExYRDljM1RJSklOSm1DV2VMZzZUNHhzUnFCSXFPb0h3X25NNzlDRk5BNW9FNDRQQWQ?oc=5\" target=\"_blank\">Costa Mesa council begins to lay foundation for affordable housing ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
     },
     {
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJlZDNJZEFLbE5FcFBVdzBsYW0xaFl6SDEyME9jX01HclNRQ2w2NDR0X091Q0o0YVpNSUdjSk5yQlhvUUREckJvMjFzb3RRTGYtVm1WdWdza25Ha1hVVjNlZ0x4dmZoV2wtem9TUXFPQ050MjlLbGt2U09oR1I2NnNsa3VSN0lZVnZyY3hPNzFleENlejh6aUU5M3l4ZExLM1NaTTNVV1RpcF9xX1JwSklRVFc?oc=5\" target=\"_blank\">LA Council Committee Holds Off On Ballot Proposal to Reform Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "c7071fb8956b9ece",
-      "title": "RAND reviews ULA impacts, Mayor's race focuses on housing, and more - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnoyTi1KSHdLLXphbjR3b2Q1VVp0M1QxdVBfby1hc1BIWkZwc2dHQjNsMm10c01qTFNfVkI2SGRBSVloamp6TEctc0tvVGdOc0dEOEMtdllkS1QxMUs1aktBNFJ2RmVIQlBiQnFaODdyWU44c2lfVU1BQVlULWdsWjYyNjJMQzBRMjNvVy1KUmpYcGJiRUE?oc=5",
-      "source": "Urbanize LA",
-      "published": "Sat, 30 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnoyTi1KSHdLLXphbjR3b2Q1VVp0M1QxdVBfby1hc1BIWkZwc2dHQjNsMm10c01qTFNfVkI2SGRBSVloamp6TEctc0tvVGdOc0dEOEMtdllkS1QxMUs1aktBNFJ2RmVIQlBiQnFaODdyWU44c2lfVU1BQVlULWdsWjYyNjJMQzBRMjNvVy1KUmpYcGJiRUE?oc=5\" target=\"_blank\">RAND reviews ULA impacts, Mayor's race focuses on housing, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "policy"
-    },
-    {
-      "id": "7d7a86b802c78d27",
-      "title": "Malibu Taking Couple to State Supreme Court Over Backyard Tiny Home - businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXl4OEQxeUN1TFdXS0swbU8wSUlqblVSeVAta09IUUNYRUFrNkpNb0pxTkFYankxR1pYVkVpZG9PMFdFbmExZ2d4ZVpkUXl6XzcycjltbkJpQ0tRN3FDUmF4NEJPelJFRlJtNDRWOEdpVDBHekZJWlhLT3N6S19IUkN5SnpvNENZM2M5OFlzSkRNZ0lHd2RRdDd4SmVwMEFFMGlqckNFODZuNGFSRlpV?oc=5",
-      "source": "businessinsider.com",
-      "published": "Sat, 30 Mar 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObXl4OEQxeUN1TFdXS0swbU8wSUlqblVSeVAta09IUUNYRUFrNkpNb0pxTkFYankxR1pYVkVpZG9PMFdFbmExZ2d4ZVpkUXl6XzcycjltbkJpQ0tRN3FDUmF4NEJPelJFRlJtNDRWOEdpVDBHekZJWlhLT3N6S19IUkN5SnpvNENZM2M5OFlzSkRNZ0lHd2RRdDd4SmVwMEFFMGlqckNFODZuNGFSRlpV?oc=5\" target=\"_blank\">Malibu Taking Couple to State Supreme Court Over Backyard Tiny Home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">businessinsider.com</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "legal"
-    },
-    {
-      "id": "ba454b480a4bb2fd",
-      "title": "LA City Council Votes 11-1 To Keep Eviction Moratorium in Place - California Globe",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1o5R3FIUEFHQU85NEU1NDlBVkd0Q3hlWWV5MFYwVVdoelJwdWVWRWE3T0E3VmFDMzJKYXp6Mjc5ZGl3cVlSR1FRN3ZWaE9LX1FoMW52dDVCZVFQaVZYUEROWmNtZlR5cm1JUVBUak9KQmwxaTBzSmp3ZUFhWE9KTnNjcUVYTFJTZkJUZ09BblcwRzY5cExzNXFRcw?oc=5",
-      "source": "California Globe",
-      "published": "Sat, 30 Jul 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1o5R3FIUEFHQU85NEU1NDlBVkd0Q3hlWWV5MFYwVVdoelJwdWVWRWE3T0E3VmFDMzJKYXp6Mjc5ZGl3cVlSR1FRN3ZWaE9LX1FoMW52dDVCZVFQaVZYUEROWmNtZlR5cm1JUVBUak9KQmwxaTBzSmp3ZUFhWE9KTnNjcUVYTFJTZkJUZ09BblcwRzY5cExzNXFRcw?oc=5\" target=\"_blank\">LA City Council Votes 11-1 To Keep Eviction Moratorium in Place</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Globe</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
