@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:40:11.349755+00:00",
+  "generated_at": "2026-09-30T22:41:46.358372+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2041,6 +2041,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVGdSNmZyQ0MzYXpoUlR1WDlFdWFaNWVKMWRNRzBPSGV6UmZMckxEZDV5aXlLMVlPZF9HN2EzNDlMUG1fNGZPbTYwd2lFcS13Z3BrN2ZrMk5XWWV2WW5wdk1DOUpsbWZNWUtQS1o1c1NBNDk1Nno0NkNnUkJpQmdFZmVLRUNhMnVvSTZrUXdQdUVFVFQ5dWhvb1p4cHZGX3R2cGh4RU45Nl95dzNtcGpnWVZQSy1HelUzSjhkOURKNktQZzFaVlhJNGFXZjRNTDV0TU9kOU5R?oc=5\" target=\"_blank\">LA County leaders vote to extend housing price-gouging protections for another month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "34f847abcc07acba",
+      "title": "LA Tenants Union calls for eviction moratorium amid mass immigration enforcement operations - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdlpFWG02WEVRT1B1UHJra0hIa1l1THcxSmpHcHRaaF9LdmJ3SDVTek5BRkhBbUkzajVTck1oMC04aU9PZXF5SzFoVDFETXRUb1JmbGFTYjVHSVRNWlJpamNKR1pkb1BSbXNjOWJoMXVIRklRNzktNmIwSVRsWUVlOUZaZVBpdEdISHdPQ21TQlM2bEJCYXA3UVM1WjY4Q1kzZnNjVEMyQUFMQQ?oc=5",
+      "source": "CBS News",
+      "published": "Tue, 24 Jun 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdlpFWG02WEVRT1B1UHJra0hIa1l1THcxSmpHcHRaaF9LdmJ3SDVTek5BRkhBbUkzajVTck1oMC04aU9PZXF5SzFoVDFETXRUb1JmbGFTYjVHSVRNWlJpamNKR1pkb1BSbXNjOWJoMXVIRklRNzktNmIwSVRsWUVlOUZaZVBpdEdISHdPQ21TQlM2bEJCYXA3UVM1WjY4Q1kzZnNjVEMyQUFMQQ?oc=5\" target=\"_blank\">LA Tenants Union calls for eviction moratorium amid mass immigration enforcement operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "1df6a7d6ba5e87e8",
@@ -4989,16 +4999,6 @@
       "source": "Patch",
       "published": "Sun, 03 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VhN2hIV1lsMDJiaWtZc2NRbGc0Sll6NDFCcUxjc3lzRFpEYkFUWWlxbEJwamM3azR0WmQzMEdDNlFoN2RZOUZmSXZaYkU4Zk0zcVJhQ3dsc1Zjb29Ed3phWHdTT1R2SGdMVFQ2UVl3Smpua0RlUjB4aXJYeFNnMUljRmpfQmYzOWd6TlMyU1I4RlVlcWxIX1hjbk54TE9CQ25reVRTU2w1Z0RFLVl3?oc=5\" target=\"_blank\">Meet Maria Lou Calanche, Candidate For Los Angeles City Council District 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "1a503dd56e962c3b",
-      "title": "Meet Jordan Rivers, Candidate For Los Angeles City Council District 15 - Patch",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHp2dEJFUmg3emlyOHQ4bl9KQ3VxSmQxbVRjMHkzZV9iYmx3OTlYMzQ1MXdBZEFsMHdWQzhoNzgyYm80Si1pWUZWd01DeGFfLTk4Qnd0blYwaFNDNEdwQVdPeDJBYzk4Z0E0U1VXLVlyUmJZRG1ZQzhHaUF4SXBUZ0gxdmFlbTEwdWFhZFd5bzVZaGdfeVRlbWpqMWsxeThtUmtoXzhrVGZfZw?oc=5",
-      "source": "Patch",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHp2dEJFUmg3emlyOHQ4bl9KQ3VxSmQxbVRjMHkzZV9iYmx3OTlYMzQ1MXdBZEFsMHdWQzhoNzgyYm80Si1pWUZWd01DeGFfLTk4Qnd0blYwaFNDNEdwQVdPeDJBYzk4Z0E0U1VXLVlyUmJZRG1ZQzhHaUF4SXBUZ0gxdmFlbTEwdWFhZFd5bzVZaGdfeVRlbWpqMWsxeThtUmtoXzhrVGZfZw?oc=5\" target=\"_blank\">Meet Jordan Rivers, Candidate For Los Angeles City Council District 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     }
