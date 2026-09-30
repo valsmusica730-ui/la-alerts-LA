@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:07:54.172920+00:00",
+  "generated_at": "2026-09-30T18:40:11.349755+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1241,6 +1241,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNMDg3LXF4MTE2cGp6WXdkbEpMLXEyQnpURFNTek9XckllNEIxSTV6WWJTa29BNHlWeVZwbUhYVDFoWmxPX1ltOGtNaUFYMlh5alA1UDVxZjlvQjlJRWVxSnlTUWlpbWJxRi1jaWFyMEpueEFxOWpXTThCVXlGSFlKMlJEY0R6eFBsTHhYTTZOZGNUQQ?oc=5\" target=\"_blank\">City Council Advances Push for Commercial Tenant Protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Sentinel</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "48854dbda1c9c97c",
+      "title": "Los Angeles’ rezoning plan is too little, too late - Pacific Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODYwMXRHWks1bXNUYlZ2dmhtNWhTTnRyWEFiR2VTM2VnRzlVNm9jZkVaMXVsNnppWHdtSmt5eXRGc0I4Ry1idU01bnVlcVpDTHR5UTdBZFZLcnNmNnJXaGlvTmV6SUdKQ2c2UzFpemVackVXTldYTGpKa1YydkZaQnVseFZWdUlj?oc=5",
+      "source": "Pacific Research Institute",
+      "published": "Wed, 08 Jan 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODYwMXRHWks1bXNUYlZ2dmhtNWhTTnRyWEFiR2VTM2VnRzlVNm9jZkVaMXVsNnppWHdtSmt5eXRGc0I4Ry1idU01bnVlcVpDTHR5UTdBZFZLcnNmNnJXaGlvTmV6SUdKQ2c2UzFpemVackVXTldYTGpKa1YydkZaQnVseFZWdUlj?oc=5\" target=\"_blank\">Los Angeles’ rezoning plan is too little, too late</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pacific Research Institute</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "zoning"
     },
     {
       "id": "13c07a289774a25d",
@@ -4853,6 +4863,16 @@
       "category": "other"
     },
     {
+      "id": "3f743b07f98a8b32",
+      "title": "L.A. Homeowners Can Now Legalize Pre-2020 Unpermitted ADUs Under New City Rules - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXRCMkV5V3d2NEpYN0ZvZlZxZjA4ajVGU2V2cm5jVlRJc2YwUkJQNUFzYjYxQ0RWY1lESFFzd0JtaGdmaDhBWTg0aS1ROE9xTWF3QXZvU1lqUXZla29pZExFZVVGYlZtLVN1MklkZFdpN3g0ZXYydmhCY1NjR2Z2YXd2RnRGbENOMEFEdHNCMjdoLVE?oc=5",
+      "source": "Realtor.com",
+      "published": "Sun, 09 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXRCMkV5V3d2NEpYN0ZvZlZxZjA4ajVGU2V2cm5jVlRJc2YwUkJQNUFzYjYxQ0RWY1lESFFzd0JtaGdmaDhBWTg0aS1ROE9xTWF3QXZvU1lqUXZla29pZExFZVVGYlZtLVN1MklkZFdpN3g0ZXYydmhCY1NjR2Z2YXd2RnRGbENOMEFEdHNCMjdoLVE?oc=5\" target=\"_blank\">L.A. Homeowners Can Now Legalize Pre-2020 Unpermitted ADUs Under New City Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realtor.com</font>",
+      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
+      "category": "adu"
+    },
+    {
       "id": "c56095714b8aa820",
       "title": "Santa Fe Springs planning commission approves Dutch Bros drive‑through with traffic conditions - citizenportal.ai",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNnVRTDl2R1RDemJmenhkaFdmOTdDYk1EZ0FKWU1KSHhqcmxWeW1pVFBOajMwc21WV0EyY19rQVdtX2xUS0k2RFQyWG0zNUlEQ2dQR3FXOUlMTFg1N3ZpYXp3RzQweklzMVIxTEFQUURONFhuS21EZXFWV3lJTnlHRVg2QzcyZmdnMm90ZzlGYkloSEZTOTVhUzdEakExNGRlTXRqQ3BxVjZ2MGZtUDJxZ19kbENnaXBNYUNINlV2WkRpWUM0ZXZPc19JazYwU2VpeTJfU3cyMWY3YXdQZV9IQUMzS3ppdmdLRkVCcTRERGIxQnA3cW12UEhaVlhpQnJ2QmtBNzMxMHktdVRRNktxZmw3ZU5qdw?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHp2dEJFUmg3emlyOHQ4bl9KQ3VxSmQxbVRjMHkzZV9iYmx3OTlYMzQ1MXdBZEFsMHdWQzhoNzgyYm80Si1pWUZWd01DeGFfLTk4Qnd0blYwaFNDNEdwQVdPeDJBYzk4Z0E0U1VXLVlyUmJZRG1ZQzhHaUF4SXBUZ0gxdmFlbTEwdWFhZFd5bzVZaGdfeVRlbWpqMWsxeThtUmtoXzhrVGZfZw?oc=5\" target=\"_blank\">Meet Jordan Rivers, Candidate For Los Angeles City Council District 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "06b72cafbdc53c7b",
-      "title": "Meet Jorge Hernandez Rosas, Candidate For Los Angeles City Council District 9 - patch.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjVDU29VYU5YVlZMa3NocU5BYmQ5OGU2eWlXaElKazB5THBFaWpIZnFsRFQ2V2UzenItTkhSdGZjSHNLN0lhdFQ2cTJuT2V0VjUzdVBlX2dlYTRMYlg2b2pMZ2lfQWVLdWhFci1MenZxWllaWGpYMmZOdlRsajZPeU1neElYX2VoM3NDb19kejQtQTBpMEd5TWx1a3hEQ2ZXcUxQUUZjUnZZOHZENkgtNmJ5cw?oc=5",
-      "source": "patch.com",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjVDU29VYU5YVlZMa3NocU5BYmQ5OGU2eWlXaElKazB5THBFaWpIZnFsRFQ2V2UzenItTkhSdGZjSHNLN0lhdFQ2cTJuT2V0VjUzdVBlX2dlYTRMYlg2b2pMZ2lfQWVLdWhFci1MenZxWllaWGpYMmZOdlRsajZPeU1neElYX2VoM3NDb19kejQtQTBpMEd5TWx1a3hEQ2ZXcUxQUUZjUnZZOHZENkgtNmJ5cw?oc=5\" target=\"_blank\">Meet Jorge Hernandez Rosas, Candidate For Los Angeles City Council District 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">patch.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "a8b0bf5779cf4ac7",
-      "title": "LA Council Committee Holds Off On Ballot Proposal to Reform Measure ULA - MyNewsLA.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJlZDNJZEFLbE5FcFBVdzBsYW0xaFl6SDEyME9jX01HclNRQ2w2NDR0X091Q0o0YVpNSUdjSk5yQlhvUUREckJvMjFzb3RRTGYtVm1WdWdza25Ha1hVVjNlZ0x4dmZoV2wtem9TUXFPQ050MjlLbGt2U09oR1I2NnNsa3VSN0lZVnZyY3hPNzFleENlejh6aUU5M3l4ZExLM1NaTTNVV1RpcF9xX1JwSklRVFc?oc=5",
-      "source": "MyNewsLA.com",
-      "published": "Sat, 30 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJlZDNJZEFLbE5FcFBVdzBsYW0xaFl6SDEyME9jX01HclNRQ2w2NDR0X091Q0o0YVpNSUdjSk5yQlhvUUREckJvMjFzb3RRTGYtVm1WdWdza25Ha1hVVjNlZ0x4dmZoV2wtem9TUXFPQ050MjlLbGt2U09oR1I2NnNsa3VSN0lZVnZyY3hPNzFleENlejh6aUU5M3l4ZExLM1NaTTNVV1RpcF9xX1JwSklRVFc?oc=5\" target=\"_blank\">LA Council Committee Holds Off On Ballot Proposal to Reform Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
