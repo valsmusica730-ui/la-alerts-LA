@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:41:46.358372+00:00",
+  "generated_at": "2026-10-01T01:39:24.914192+00:00",
   "total": 500,
   "alerts": [
     {
@@ -21,6 +21,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHpHYTRGZHcwa1ZhNlNYVnQtd2RiTmJQdnljVVhVWVhubWJCZFZDYmIxakdlMHk2dldNNDAyVW5LUXBYX21sOEJydFZMY200am00RW9OZ1lVWmpkNG02NmFGUjgtSWl2ZGhhc0hMdTRFV0xOeDJ5RjhJN3ZIU0hFOFRUNzY0WlBLd0U1WmN6RVR2T2hBODBsUjNkY2hsTmlfZTdTeg?oc=5\" target=\"_blank\">10 new California laws you should know about in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "f81dcb37ac65c2fc",
+      "title": "Former LA City Councilman Woo Joins County Ethics Commission - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU1zXzhNQ2JseFNxMFpzQlY2RE05N2E2UnMyem03dXRBajNmNTJWRG9EcFBDcUt5UXZ0amNONndjRVhtV2pSeF90WnkwZDZJeDR6dTBNVjhJc3I4NkFYNW80dndIQktsR09kc2pXakhVdU4yWHkzdXhfYzcxbGlKdEl3NzRuSmN0R3Rock8wVkNsanVGSV8tMTM3LXp3M0hVa0Zj0gG0AUFVX3lxTFBoUUJZMXdWbVhuQW9IU0JPN0dpZEJkVEJrS2dVT0tmdlVkM2IxbUlnQmhCNVlSUV9hck04YjJNRVVhTlJaVTlHaHRfaWEyQ3VVX1lBTFR3aFVhZk0tZWVuMFV2SEM5X2RHVllHTC1TMjEzOFdJSEh3UXFDejdMQkk0SHl5M2sxZzBka2p5MG5MTUxmcGdtMDF2TDVSY3BiQjkwR0g3cy1fbUlYb29ZTERFLXluRA?oc=5",
+      "source": "Patch",
+      "published": "Wed, 30 Sep 2026 19:50:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxONU1zXzhNQ2JseFNxMFpzQlY2RE05N2E2UnMyem03dXRBajNmNTJWRG9EcFBDcUt5UXZ0amNONndjRVhtV2pSeF90WnkwZDZJeDR6dTBNVjhJc3I4NkFYNW80dndIQktsR09kc2pXakhVdU4yWHkzdXhfYzcxbGlKdEl3NzRuSmN0R3Rock8wVkNsanVGSV8tMTM3LXp3M0hVa0Zj0gG0AUFVX3lxTFBoUUJZMXdWbVhuQW9IU0JPN0dpZEJkVEJrS2dVT0tmdlVkM2IxbUlnQmhCNVlSUV9hck04YjJNRVVhTlJaVTlHaHRfaWEyQ3VVX1lBTFR3aFVhZk0tZWVuMFV2SEM5X2RHVllHTC1TMjEzOFdJSEh3UXFDejdMQkk0SHl5M2sxZzBka2p5MG5MTUxmcGdtMDF2TDVSY3BiQjkwR0g3cy1fbUlYb29ZTERFLXluRA?oc=5\" target=\"_blank\">Former LA City Councilman Woo Joins County Ethics Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "policy"
     },
     {
       "id": "81c8ce8aaf997455",
@@ -3183,6 +3193,16 @@
       "category": "rent"
     },
     {
+      "id": "64786d0043486605",
+      "title": "LA Council Contemplates Slight Increase for Rent Hikes - mynewsla.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBwSVFRZnU4Mlc4WXFVanBEQlFnbUJKdzRsMUF5ZnRaZlFtM1hQdDR2TVRHLXItY2VXU0V1Wm1NRW1VRkJPTEgxVkZHOXNPUlg3bXc2Qld3R1RBZkNxc3plSHU2TTAxa0E1OHdZd01YcFF0YUFldnJWeFExbTRxWFlleVJqN3JibktRRzBOTTF2N3ZvUXNnaThDTHdHREh6dHM1SlUyaXFHdUNucnJyZXFqcXlrQQ?oc=5",
+      "source": "mynewsla.com",
+      "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBwSVFRZnU4Mlc4WXFVanBEQlFnbUJKdzRsMUF5ZnRaZlFtM1hQdDR2TVRHLXItY2VXU0V1Wm1NRW1VRkJPTEgxVkZHOXNPUlg3bXc2Qld3R1RBZkNxc3plSHU2TTAxa0E1OHdZd01YcFF0YUFldnJWeFExbTRxWFlleVJqN3JibktRRzBOTTF2N3ZvUXNnaThDTHdHREh6dHM1SlUyaXFHdUNucnJyZXFqcXlrQQ?oc=5\" target=\"_blank\">LA Council Contemplates Slight Increase for Rent Hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mynewsla.com</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "other"
+    },
+    {
       "id": "9f9ffbcaf66a321e",
       "title": "From Scarcity to Abundance: Research and Strategies for Housing Policy - Terner Center",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenFCaFhFdVByU3NQeUJ5YUEyMUhwcGJtMktBZU15MC1kc05hSWp6ZkVkTUxIMTJqLV9CUkNrOE82QW5uQ3I0X2lPc0p3c21rc0JkZk9kZ3RMLTNRSjFkdmtLckJ3V1loOTZ4cldiWnlGRzMwM3NfOExWUzlrbFVMcGFnMjBrbjByQkdsZjBnTF9XUlpSMmlQemlMUlB5RGQxVkVoY25menRlcElfVWc?oc=5",
@@ -4293,6 +4313,16 @@
       "category": "zoning"
     },
     {
+      "id": "a31cda67f7e7a156",
+      "title": "City Planning Commission green lights Junction Gateway development - la.urbanize.city",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWtYR0dIWEZRbTljSV9CSGZ6ZWVEcUJhUzU0Um5ETVVtRUdncGd4R3dDVFRsbkNzSVFNQVVYWG1mSF9DeURnSGdZVDBGc1YwVEd0c1dndDhSc0NDeFVXVE5Yb1M5MjZLMlNpdFhIREhwZHEyVUdFTk8yV0JuTzFTQzZqQXVuUGJfTU1IUEhqS2NuQldzbEJvQkNGbGI?oc=5",
+      "source": "la.urbanize.city",
+      "published": "Thu, 09 Dec 2021 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWtYR0dIWEZRbTljSV9CSGZ6ZWVEcUJhUzU0Um5ETVVtRUdncGd4R3dDVFRsbkNzSVFNQVVYWG1mSF9DeURnSGdZVDBGc1YwVEd0c1dndDhSc0NDeFVXVE5Yb1M5MjZLMlNpdFhIREhwZHEyVUdFTk8yV0JuTzFTQzZqQXVuUGJfTU1IUEhqS2NuQldzbEJvQkNGbGI?oc=5\" target=\"_blank\">City Planning Commission green lights Junction Gateway development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">la.urbanize.city</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "5a21bc2e09dd0ed6",
       "title": "Karen Bass seeks council approval of $360-million allocation for affordable housing - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTXZjbURaR1FTVEJvWTUxVTRwN0YybWRxdUYxVkFEMGc1ZFF1bHhrdzN5OFJkVVJONjFFSUpMc0ZVVjhoTDhVSkRwRjkxUF92cXNISTVuN2txTUoxT0ZEdjJQWHEzdkRELVk0cE9fSm5ocUFVQ2NFYlNvM1BMZkUwSHcxS1pvMVNhanMtejBXbV9QTEdieUdVVkx2NXprbXRtYXYtRThPbnVGeEt1UzloU3dyWUx4a090enNzN2cwcGNWS3l3TkxvS2pQOFdaMlljOUo0RHYwS3FXMjd6MHFFcElUWXgzUQ?oc=5",
@@ -4969,36 +4999,6 @@
       "source": "Patch",
       "published": "Sun, 03 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0hlcG8tTkNuWklRd01aYktVOW9Lc2VPNkVGZHM4TlQ3SXF5QVMtbVNWcXJRZ3l2MTVpMWlTLXZJelRScnNldmQxclJaN09rdlJmZ1hQWGV2YzlqSGRTN3lfU0UydVlFd3poY2xRNFZDQ19BVXJtel9kaDV1UmlpbGs1WWFwaFdCeld1a3VpOEppUlE5bTF5dGNleG9obktfa3E5aXJBYw?oc=5\" target=\"_blank\">Meet Morgan Oyler, Candidate For Los Angeles City Council District 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "45409b185042dd24",
-      "title": "Meet Traci Park, Candidate For Los Angeles City Council District 11 - Patch",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeW1CVFQ0dFZnN0JDNHlsUER0NlpkX2FNVnlWVV9QRGdrblVUc3NSaU0zdXVWR3hoQmNDUWlObk5tSXUzT1lydEtkWlpxbEVXZ2x2NWhIbWViVXQzc3lhZmFibVZWNDZvYmJuX0todnhpYjdKXzlCeXNoX0FrRDlDdURmQ1BxWDkyZlc1OC1KbkJzdzc1akhzUHB3ZkpBaXRaeFp2LVhB?oc=5",
-      "source": "Patch",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQeW1CVFQ0dFZnN0JDNHlsUER0NlpkX2FNVnlWVV9QRGdrblVUc3NSaU0zdXVWR3hoQmNDUWlObk5tSXUzT1lydEtkWlpxbEVXZ2x2NWhIbWViVXQzc3lhZmFibVZWNDZvYmJuX0todnhpYjdKXzlCeXNoX0FrRDlDdURmQ1BxWDkyZlc1OC1KbkJzdzc1akhzUHB3ZkpBaXRaeFp2LVhB?oc=5\" target=\"_blank\">Meet Traci Park, Candidate For Los Angeles City Council District 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "982e484aab5ff197",
-      "title": "Meet Eunisses Hernandez, Candidate For Los Angeles City Council District 1 - Patch",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzZycHA3Wm8xUnQ0d1puMGZVcER3WFBtX3p3MnJ5cEVlcHBCcjBZRnF3SmI2WWxUem1kcnRtMnFsSzlCQnBYYlo4SGJ5U2MydGktVUd2ZzBubjFFQUpmTVBtWDVWTjVDWVJ0UUs4N1VTWVp4MVlFVlIwTGhPNHhaWEpLNWsyLXY5emFkbktpSldZcWpqVnVod3hqWnB5RFhpSU12QmxlZ1VxU3p3N19v?oc=5",
-      "source": "Patch",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzZycHA3Wm8xUnQ0d1puMGZVcER3WFBtX3p3MnJ5cEVlcHBCcjBZRnF3SmI2WWxUem1kcnRtMnFsSzlCQnBYYlo4SGJ5U2MydGktVUd2ZzBubjFFQUpmTVBtWDVWTjVDWVJ0UUs4N1VTWVp4MVlFVlIwTGhPNHhaWEpLNWsyLXY5emFkbktpSldZcWpqVnVod3hqWnB5RFhpSU12QmxlZ1VxU3p3N19v?oc=5\" target=\"_blank\">Meet Eunisses Hernandez, Candidate For Los Angeles City Council District 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "ece2f427624159ea",
-      "title": "Meet Maria Lou Calanche, Candidate For Los Angeles City Council District 1 - Patch",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VhN2hIV1lsMDJiaWtZc2NRbGc0Sll6NDFCcUxjc3lzRFpEYkFUWWlxbEJwamM3azR0WmQzMEdDNlFoN2RZOUZmSXZaYkU4Zk0zcVJhQ3dsc1Zjb29Ed3phWHdTT1R2SGdMVFQ2UVl3Smpua0RlUjB4aXJYeFNnMUljRmpfQmYzOWd6TlMyU1I4RlVlcWxIX1hjbk54TE9CQ25reVRTU2w1Z0RFLVl3?oc=5",
-      "source": "Patch",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VhN2hIV1lsMDJiaWtZc2NRbGc0Sll6NDFCcUxjc3lzRFpEYkFUWWlxbEJwamM3azR0WmQzMEdDNlFoN2RZOUZmSXZaYkU4Zk0zcVJhQ3dsc1Zjb29Ed3phWHdTT1R2SGdMVFQ2UVl3Smpua0RlUjB4aXJYeFNnMUljRmpfQmYzOWd6TlMyU1I4RlVlcWxIX1hjbk54TE9CQ25reVRTU2w1Z0RFLVl3?oc=5\" target=\"_blank\">Meet Maria Lou Calanche, Candidate For Los Angeles City Council District 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     }
