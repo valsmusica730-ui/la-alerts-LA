@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:56:37.980478+00:00",
+  "generated_at": "2026-10-01T14:58:13.853757+00:00",
   "total": 500,
   "alerts": [
     {
@@ -31,6 +31,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxONU1zXzhNQ2JseFNxMFpzQlY2RE05N2E2UnMyem03dXRBajNmNTJWRG9EcFBDcUt5UXZ0amNONndjRVhtV2pSeF90WnkwZDZJeDR6dTBNVjhJc3I4NkFYNW80dndIQktsR09kc2pXakhVdU4yWHkzdXhfYzcxbGlKdEl3NzRuSmN0R3Rock8wVkNsanVGSV8tMTM3LXp3M0hVa0Zj0gG0AUFVX3lxTFBoUUJZMXdWbVhuQW9IU0JPN0dpZEJkVEJrS2dVT0tmdlVkM2IxbUlnQmhCNVlSUV9hck04YjJNRVVhTlJaVTlHaHRfaWEyQ3VVX1lBTFR3aFVhZk0tZWVuMFV2SEM5X2RHVllHTC1TMjEzOFdJSEh3UXFDejdMQkk0SHl5M2sxZzBka2p5MG5MTUxmcGdtMDF2TDVSY3BiQjkwR0g3cy1fbUlYb29ZTERFLXluRA?oc=5\" target=\"_blank\">Former LA City Councilman Woo Joins County Ethics Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "policy"
+    },
+    {
+      "id": "d6b8f86d25bc1074",
+      "title": "ADU construction in LA — 4x Increase in Permits Over 8 Years - The Korea Daily",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WZWlwa2JEU2toQkdxRDB6T2FzMkZ2WkZCR29XNEg0clJfWmNfRVVWOHhvRWM5NVNZUE44ZHJrYUxHOXhLMkRzVGkwZFhBTEE3WDB3TjN0WlAwQzVoU2c?oc=5",
+      "source": "The Korea Daily",
+      "published": "Wed, 30 Sep 2026 17:18:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WZWlwa2JEU2toQkdxRDB6T2FzMkZ2WkZCR29XNEg0clJfWmNfRVVWOHhvRWM5NVNZUE44ZHJrYUxHOXhLMkRzVGkwZFhBTEE3WDB3TjN0WlAwQzVoU2c?oc=5\" target=\"_blank\">ADU construction in LA — 4x Increase in Permits Over 8 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Daily</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
     },
     {
       "id": "81c8ce8aaf997455",
@@ -3323,6 +3333,16 @@
       "category": "zoning"
     },
     {
+      "id": "ae4a64fa479cf4cf",
+      "title": "Proposed L.A. Ordinance Would Require Airbnb Hosts To Get Police Permission To Operate - Reason Magazine",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHl6TS1LMVlDNk5MMU1BWG9fU0xMNERjMUFWeEpzREpaYjdOZWZoNVVJZThMR0V2aEZLQW9OUE9SVVBPSHBsLTdfQU1Sem1vanZjQ0FDOEdfVWhVeFRLSzB4ZVZzWjhNdzJGRTgzOFE2RjJDYjVaYjBQdDB4MlFLV3ZjTTVxd013eXo4RmcwTEFvNTlzM3djNGhCdzR2b3hMM2ZCNVowNWs2am1DUHY1bDZ2YjdtUms?oc=5",
+      "source": "Reason Magazine",
+      "published": "Thu, 30 Nov 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHl6TS1LMVlDNk5MMU1BWG9fU0xMNERjMUFWeEpzREpaYjdOZWZoNVVJZThMR0V2aEZLQW9OUE9SVVBPSHBsLTdfQU1Sem1vanZjQ0FDOEdfVWhVeFRLSzB4ZVZzWjhNdzJGRTgzOFE2RjJDYjVaYjBQdDB4MlFLV3ZjTTVxd013eXo4RmcwTEFvNTlzM3djNGhCdzR2b3hMM2ZCNVowNWs2am1DUHY1bDZ2YjdtUms?oc=5\" target=\"_blank\">Proposed L.A. Ordinance Would Require Airbnb Hosts To Get Police Permission To Operate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "70e94ebf7c829ef0",
       "title": "Huntington Beach Planning Commission green-lights Edinger townhome development - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVpncXM2c0ZkM2lXcGR1QkdqNmRZMFdjUjRkNktObGdjMVVIOFJFcHh5MHo2M2pmNW16emRCUXZIR1BpTFktb2VsVGpiZGN6T2NtVnFKeTdlclZBSFFYdkhFZ2JVc0dFRlYwb0M2RVZ1TEtldXRYNlJ3dDlZcVF3b29qOVRyaHFzSng2SXYtX24wb1FhQlJOZnBCdFB4LVNscW9FWWd6X1g0Sm0yOFZ3MXRKdTQ1Yk9XWEVHcEFlOFg2TFdxWFBlbUZ0T2czU1BSZlNQVw?oc=5",
@@ -4693,6 +4713,36 @@
       "category": "other"
     },
     {
+      "id": "c1da0484bb8edae9",
+      "title": "Your guide to Proposition TE: Exempting fire victims from the ‘mansion tax’ - latimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclRONEgtWnNBNUw4TzhtcXBUeTFISnVoMGRtYjBSam1TalpLcHJOLWdyc2hxcE1GclJmVEVyLVJFRWtUdzl4VDlRbGxlWXV4QU9GSkhwdnVkYVIxMV9SWFpKaWV1WXl5aWVrcUl6bWYzcU1OVlVOTDVJQTRTUzNhUFhxWFZvMi1TS00zTlpqbWhLQ1EtWC0yc01QTzBib00wR0xSdUJLT1lhS2pTd2pPZHF5Q2RmU3N6ME80N3djTFpGSVh2dnlzWGd2WHR2Rnh0V0tZ?oc=5",
+      "source": "latimes.com",
+      "published": "Thu, 01 Oct 2026 10:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclRONEgtWnNBNUw4TzhtcXBUeTFISnVoMGRtYjBSam1TalpLcHJOLWdyc2hxcE1GclJmVEVyLVJFRWtUdzl4VDlRbGxlWXV4QU9GSkhwdnVkYVIxMV9SWFpKaWV1WXl5aWVrcUl6bWYzcU1OVlVOTDVJQTRTUzNhUFhxWFZvMi1TS00zTlpqbWhLQ1EtWC0yc01QTzBib00wR0xSdUJLT1lhS2pTd2pPZHF5Q2RmU3N6ME80N3djTFpGSVh2dnlzWGd2WHR2Rnh0V0tZ?oc=5\" target=\"_blank\">Your guide to Proposition TE: Exempting fire victims from the ‘mansion tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
+      "id": "fe2a8013584e0d93",
+      "title": "Your guide to L.A. City Charter Amendment PL: Streamlining Planning Department processes - latimes.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3VGazBwUzFtTlFXUkwtUTRWa28yYnUtZDJfVHZGMUJYckloaHJ4OGpZQlhFcmp1OWNmRnhKYVNQT2wtSzlLUy1CLU9KN2ZJQXNOcWVPcTE1ZEtNM0VmUEpFYlR3b1BDS1J1WEZ3ZjJsS0YyNXR1TG9IdWxBMTgyZVZ4TWJWSnU5ZE1SRF9LUjR3TkwtSzlyNjlXS0tWc0ZjeHFXNGxpSThudlpDUEU4OThmVGtqWmtGbjFXYm8xcW42WUdE?oc=5",
+      "source": "latimes.com",
+      "published": "Thu, 01 Oct 2026 10:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3VGazBwUzFtTlFXUkwtUTRWa28yYnUtZDJfVHZGMUJYckloaHJ4OGpZQlhFcmp1OWNmRnhKYVNQT2wtSzlLUy1CLU9KN2ZJQXNOcWVPcTE1ZEtNM0VmUEpFYlR3b1BDS1J1WEZ3ZjJsS0YyNXR1TG9IdWxBMTgyZVZ4TWJWSnU5ZE1SRF9LUjR3TkwtSzlyNjlXS0tWc0ZjeHFXNGxpSThudlpDUEU4OThmVGtqWmtGbjFXYm8xcW42WUdE?oc=5\" target=\"_blank\">Your guide to L.A. City Charter Amendment PL: Streamlining Planning Department processes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
+      "id": "edeec1a77d94ca4c",
+      "title": "Your guide to the L.A. City Council District 3 race: Gaspar vs. Worth Girvan - latimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXBMV2FpWFFqeUx3T0VFcktlVGRINVJjWmdJM09xb0R1TDFVU2d5YTRlV1MzRlhEMWJzRHNneU5NcDdLbmc3S1lxVVQxLVFnSzkwMkh3ajBqeFNZdk1rSnc1UW40QXA2MExYNVpFcnowWTlWWTF0Y09BenlPOWowNGdpRE5ZcmNDV3lsQ2tETWp6S0lqU1pseUxCVl9tZEo0bmVRYUtuM0JFWHI3ODlURmNlLWotRDctaGg1VC1KRHlSb2ljNGx6NnR1MUdlZDNWdnJQd0pUQUN3dGw1?oc=5",
+      "source": "latimes.com",
+      "published": "Thu, 01 Oct 2026 10:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXBMV2FpWFFqeUx3T0VFcktlVGRINVJjWmdJM09xb0R1TDFVU2d5YTRlV1MzRlhEMWJzRHNneU5NcDdLbmc3S1lxVVQxLVFnSzkwMkh3ajBqeFNZdk1rSnc1UW40QXA2MExYNVpFcnowWTlWWTF0Y09BenlPOWowNGdpRE5ZcmNDV3lsQ2tETWp6S0lqU1pseUxCVl9tZEo0bmVRYUtuM0JFWHI3ODlURmNlLWotRDctaGg1VC1KRHlSb2ljNGx6NnR1MUdlZDNWdnJQd0pUQUN3dGw1?oc=5\" target=\"_blank\">Your guide to the L.A. City Council District 3 race: Gaspar vs. Worth Girvan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "1c70e585453fc829",
       "title": "Where are tenants falling through the cracks of California eviction ban? - CalMatters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXlJOUFrZ0gwX2Yxc2xYTE5LVUtySDBjMUFrNHNBWXZicU9yYldZN1JrbDJYbUlhZi03cmFvbDV2RWJZWUdfdUt5Sl9PVEhLSFUxVlZ4cnA4RVZ6TUVCdmU3R1c4OEJIdXRRZTNaSkZ3X2NNdzZkd3VrWFJ1X0gyVWlpYmg?oc=5",
@@ -4950,56 +5000,6 @@
       "published": "Sun, 03 Nov 2019 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkp2RG1nR2phdW0zczNueU9hRFFBeV8tTV9hV0FsWGdQTkpFYmxxWWJGS2szOHBRaTZHVkRKOFFRRUhCczBROG1DeGZaNDl5cFExMTRZdll6RE9LZXU4eTVFdngtR1RIQzNjczNSZHh3VTlVWXIyNzZITWtRTHZrRTM4YnU2QUFUb3pwZ1ZtM3RKMlZILUN3bmdTeW1yN2J2Y0Y5cFNQMUpJZWpuV0VLZkFBVjAyak5xTnpFRndMUUVEaXI0b3JHMlNR?oc=5\" target=\"_blank\">Airbnb says it’s banning ‘party houses’ after deadly Halloween shooting in Orinda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "5f9c14adb34c14ce",
-      "title": "Meet Faizah Malik, Candidate For Los Angeles City Council District 11 - Patch",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaGtLWi10R1Jwd0c5NU9GbWhhcTNkMmNsR1pjUVExLVM4dmhVN19TNGsxTlBRMDFSUXhqV1V5ODRCSG5wWnplVEh2VjBaRUNmX2YzOHR0RnBUUURTODVQb19YQ05USDFnRHZSRmZqWUZtRXYtT2ttWXNMbl85c1RfUHAyR19Ub1k3ZVRrVzlvWnBtMnFKOGhWcjM0TkUwbGJYSVRaMEhLT2Q?oc=5",
-      "source": "Patch",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaGtLWi10R1Jwd0c5NU9GbWhhcTNkMmNsR1pjUVExLVM4dmhVN19TNGsxTlBRMDFSUXhqV1V5ODRCSG5wWnplVEh2VjBaRUNmX2YzOHR0RnBUUURTODVQb19YQ05USDFnRHZSRmZqWUZtRXYtT2ttWXNMbl85c1RfUHAyR19Ub1k3ZVRrVzlvWnBtMnFKOGhWcjM0TkUwbGJYSVRaMEhLT2Q?oc=5\" target=\"_blank\">Meet Faizah Malik, Candidate For Los Angeles City Council District 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "73a4b91f3bd32d2f",
-      "title": "Meet Elmer Roldan, Candidate For Los Angeles City Council District 9 - Patch",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnhValMxcFZnVm14UXVrckh4MExycTNHQ0JvTHcxZzVtY2JBUWdjcW9fdkhnR3JPWkt6QURpSHoySzVZajZIR2tsRDBFQUwwZ1ZTTHRWMU1CVW5TZnNqanVVUWtPUlZnaU1mc0lXak9TS2xoajNyVXZiNFNaWUlvZ05YOGM1c0MxUWtWcEw5eWFQb1F0eFprYTNWMHZVVzVWeXlZWlN1NA?oc=5",
-      "source": "Patch",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxObnhValMxcFZnVm14UXVrckh4MExycTNHQ0JvTHcxZzVtY2JBUWdjcW9fdkhnR3JPWkt6QURpSHoySzVZajZIR2tsRDBFQUwwZ1ZTTHRWMU1CVW5TZnNqanVVUWtPUlZnaU1mc0lXak9TS2xoajNyVXZiNFNaWUlvZ05YOGM1c0MxUWtWcEw5eWFQb1F0eFprYTNWMHZVVzVWeXlZWlN1NA?oc=5\" target=\"_blank\">Meet Elmer Roldan, Candidate For Los Angeles City Council District 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "6a583c3931733253",
-      "title": "Meet Dylan Kendall, Candidate For Los Angeles City Council District 13 - Patch",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWV1S2xYUDhGT1lqMVMtN1lmWEVEUmg2ZURTMWdpODVXUF8zMDRrc05wcXoxR3hHaGUyVldhRVRLUUIxZGZteUNYTjdxamJMREE4S2tHWVJQNVhkOWxOUFBoaEx1cms1Yi1uQmY4TjQzYkE4Si11NUFNd2Q0MGhUd1Z2SUpBY3BzR2NCZmxhdTktZjBRX2c1bElVRUpMU2VqczAxWmdfWDZKUQ?oc=5",
-      "source": "Patch",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWV1S2xYUDhGT1lqMVMtN1lmWEVEUmg2ZURTMWdpODVXUF8zMDRrc05wcXoxR3hHaGUyVldhRVRLUUIxZGZteUNYTjdxamJMREE4S2tHWVJQNVhkOWxOUFBoaEx1cms1Yi1uQmY4TjQzYkE4Si11NUFNd2Q0MGhUd1Z2SUpBY3BzR2NCZmxhdTktZjBRX2c1bElVRUpMU2VqczAxWmdfWDZKUQ?oc=5\" target=\"_blank\">Meet Dylan Kendall, Candidate For Los Angeles City Council District 13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "83b0af2bbddd5600",
-      "title": "Meet Henry Mantel, Candidate For Los Angeles City Council District 5 - Patch",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObkZlblM1bTBTMERGbG01N0ltVWZ2aFN6VUw2S1RId2ZUMzl1dl9BRnlGbFJpZWRHZ01iWnY1N1hXWDdzTmZ4QnZuSVhscERLTkNiQmRvdjVvR1N4V0J1bXdQRDctS00tYTJPa0xFcmtpVXRBanFwZUI2OXFxdnhnTnA3eEh5enJkcG9JdHJ1dFJPdEFDYkprT2lIX0tUaFEtSjYzMUVWNA?oc=5",
-      "source": "Patch",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxObkZlblM1bTBTMERGbG01N0ltVWZ2aFN6VUw2S1RId2ZUMzl1dl9BRnlGbFJpZWRHZ01iWnY1N1hXWDdzTmZ4QnZuSVhscERLTkNiQmRvdjVvR1N4V0J1bXdQRDctS00tYTJPa0xFcmtpVXRBanFwZUI2OXFxdnhnTnA3eEh5enJkcG9JdHJ1dFJPdEFDYkprT2lIX0tUaFEtSjYzMUVWNA?oc=5\" target=\"_blank\">Meet Henry Mantel, Candidate For Los Angeles City Council District 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "36190b7ac632fdb1",
-      "title": "Meet Hugo Soto-Martinez, Candidate For Los Angeles City Council District 13 - Patch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnUyXzdXX2pCdHBvMmh6ZVRnSXFSUmFjZlpkMHhRelozNHpCS0JsUEFvVHFCZDFnaXdxaWlkekdrTnFWTEVkYWxaWkc0ZlRXNENTNVFkV24yOVdlNTlpRGxlTXVWVElsTXBLd2hoNUlKMk5HSEpSc05NcjMxMWNTWkpLb3pMQU11YU51T1ZIYU1BVHlLQ0hXenRPbElPTlRZSUtvM1c0eWpTaEtpWlNHdg?oc=5",
-      "source": "Patch",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnUyXzdXX2pCdHBvMmh6ZVRnSXFSUmFjZlpkMHhRelozNHpCS0JsUEFvVHFCZDFnaXdxaWlkekdrTnFWTEVkYWxaWkc0ZlRXNENTNVFkV24yOVdlNTlpRGxlTXVWVElsTXBLd2hoNUlKMk5HSEpSc05NcjMxMWNTWkpLb3pMQU11YU51T1ZIYU1BVHlLQ0hXenRPbElPTlRZSUtvM1c0eWpTaEtpWlNHdg?oc=5\" target=\"_blank\">Meet Hugo Soto-Martinez, Candidate For Los Angeles City Council District 13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     }
   ]
