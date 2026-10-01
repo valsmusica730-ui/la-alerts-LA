@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:39:24.914192+00:00",
+  "generated_at": "2026-10-01T07:56:37.980478+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4103,6 +4103,16 @@
       "category": "rent"
     },
     {
+      "id": "0e5999e09a146db8",
+      "title": "Los Angeles Passes Major Rent Control Overhaul - LAmag",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTVUpZNVBHLW1xWGNhMFpoOFhIdkdDTjZlc1ptTWdqSjI0TndjcnBtVFpLQjRsQldRY3dLSGdGbVFUenQ1dWtmbmdQT3l5T3dYZ1lVV1ZrRkZ3c0lxQ0k1WXhXTGZPaFQ3UjZJZWlTakFBdw?oc=5",
+      "source": "LAmag",
+      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBTVUpZNVBHLW1xWGNhMFpoOFhIdkdDTjZlc1ptTWdqSjI0TndjcnBtVFpLQjRsQldRY3dLSGdGbVFUenQ1dWtmbmdQT3l5T3dYZ1lVV1ZrRkZ3c0lxQ0k1WXhXTGZPaFQ3UjZJZWlTakFBdw?oc=5\" target=\"_blank\">Los Angeles Passes Major Rent Control Overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "rent"
+    },
+    {
       "id": "930546a679a6026d",
       "title": "City Planning Commission approves high-rise at 1105 S. Olive Street in DTLA - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFdhWDNQODJUUWpFS3FQVE9fSVZ0MWRGZnVyc3JhejNuakNuT3lSNndTMjlnb3M3OU1NYzB4NE5yeDNqZzlqdTM2RkpkaHdaSF95QUtmV3FUa1JuZHNYck9fRVBTeVpyV3Z1ekIwWnloYUk0dUFkYV93UmNsbWx3MEIwcjV3WEpRdnZ2SWNXbVBVNnA4QS13YTFjcmg0azQ?oc=5",
@@ -4989,16 +4999,6 @@
       "source": "Patch",
       "published": "Sun, 03 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnUyXzdXX2pCdHBvMmh6ZVRnSXFSUmFjZlpkMHhRelozNHpCS0JsUEFvVHFCZDFnaXdxaWlkekdrTnFWTEVkYWxaWkc0ZlRXNENTNVFkV24yOVdlNTlpRGxlTXVWVElsTXBLd2hoNUlKMk5HSEpSc05NcjMxMWNTWkpLb3pMQU11YU51T1ZIYU1BVHlLQ0hXenRPbElPTlRZSUtvM1c0eWpTaEtpWlNHdg?oc=5\" target=\"_blank\">Meet Hugo Soto-Martinez, Candidate For Los Angeles City Council District 13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "665f97dd70c483b5",
-      "title": "Meet Morgan Oyler, Candidate For Los Angeles City Council District 5 - Patch",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0hlcG8tTkNuWklRd01aYktVOW9Lc2VPNkVGZHM4TlQ3SXF5QVMtbVNWcXJRZ3l2MTVpMWlTLXZJelRScnNldmQxclJaN09rdlJmZ1hQWGV2YzlqSGRTN3lfU0UydVlFd3poY2xRNFZDQ19BVXJtel9kaDV1UmlpbGs1WWFwaFdCeld1a3VpOEppUlE5bTF5dGNleG9obktfa3E5aXJBYw?oc=5",
-      "source": "Patch",
-      "published": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0hlcG8tTkNuWklRd01aYktVOW9Lc2VPNkVGZHM4TlQ3SXF5QVMtbVNWcXJRZ3l2MTVpMWlTLXZJelRScnNldmQxclJaN09rdlJmZ1hQWGV2YzlqSGRTN3lfU0UydVlFd3poY2xRNFZDQ19BVXJtel9kaDV1UmlpbGs1WWFwaFdCeld1a3VpOEppUlE5bTF5dGNleG9obktfa3E5aXJBYw?oc=5\" target=\"_blank\">Meet Morgan Oyler, Candidate For Los Angeles City Council District 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     }
