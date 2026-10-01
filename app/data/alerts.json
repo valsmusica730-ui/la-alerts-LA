@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:58:13.853757+00:00",
+  "generated_at": "2026-10-01T20:05:04.452514+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1330,6 +1330,16 @@
       "published": "Wed, 06 Mar 2019 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQY181dnBZWWxZbzBCaEI3elI1RV9jZkVLUkhNNlNSRlgwVWF4S2t0ZVhHOEVEYURjbXJIVXlYQzZrWVFYUFJhNWtOaWVKbXQ2Q2lPWF9aLUZQdzgxMUc3MmVSRnNrQWU0R0RGUUhnTUEycFIyQV9IMF9jSnQ2dW93R1EwWkpBVnNDSmlGRHhXVXV5X245b3BXZ1NQNGHSAaIBQVVfeXFMUExGNktEeGRwM04zbVBTeGQySjNyQTJsbFp3eUEyZTAxTmNNQTBySk4xTnJHZ05xYVdCSnp4UEtOQU93akg0U0ZFcmc5YjVVcUEzcDlWRmdXS0xqR1k5VmNmOXRtVVZzLVlPcDNwaV9pc0NTbzByaElzenZRWE9KdnV4ZC1aMEdqSld4aW1BdE1RTHJWYnRLb3otTTRHNnlWSTJ3?oc=5\" target=\"_blank\">Inglewood passes temporary rent control ordinance amid rent hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "rent"
+    },
+    {
+      "id": "784f7fc6529442a3",
+      "title": "What California renters can do now with eviction moratorium expired - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNblpBUXB0WmdRTjc1UnJxUWpEb2FPam96OWRTNW4tU0Z2Y3NrVG8xbFIxejVTTGtkZzdQd2c2U2JqS194Z1BHajdQaktEb1VhclhiSkdjVVRnZmhlT21HWFNkZlRjU1dBaExWLUlPaFlSRTJUR1c0T0RwcDFQY1dpZml3bGlEUlRwV3dSc3AxZ2E2eDUtSE4zei1sS0c4aDNESnhGRURYZw?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Wed, 06 Jul 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNblpBUXB0WmdRTjc1UnJxUWpEb2FPam96OWRTNW4tU0Z2Y3NrVG8xbFIxejVTTGtkZzdQd2c2U2JqS194Z1BHajdQaktEb1VhclhiSkdjVVRnZmhlT21HWFNkZlRjU1dBaExWLUlPaFlSRTJUR1c0T0RwcDFQY1dpZml3bGlEUlRwV3dSc3AxZ2E2eDUtSE4zei1sS0c4aDNESnhGRURYZw?oc=5\" target=\"_blank\">What California renters can do now with eviction moratorium expired</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     },
     {
@@ -4713,6 +4723,26 @@
       "category": "other"
     },
     {
+      "id": "0d3c2afa33771549",
+      "title": "A Guide to Preapproved ADU Plans in Your City - Dwell",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fQmNUR0o1Mzc3REwydXJjTUJ5U2ZuV1pvaUJnUFhTSjhuSzl2d3BKczZWUGE3M0M5Tm1jSThFajhOVXFpekJmSEpwQUFTeVZ2b1dJVG82WnFRcjl2SEN5WU0wMkZzbTNTMmJsU2czWUpIMkJSTFVKZEloTVFkQdIBgwFBVV95cUxQUjVfUWctUm9kMDA1WUtiNDBYbEpMRHBQczByaERycjRwLVpyaVBXcGdoakxZUGR5RUVwRTg0S1Q5MUkzSW80WXNVazY0VHlrUW5PWG05THN5X1RxQWRQVjl6RFRMMGRlakJwZkI2ajAtaFZkOHlfWFBhVHh5NVoycTdIVQ?oc=5",
+      "source": "Dwell",
+      "published": "Thu, 01 Oct 2026 16:03:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1fQmNUR0o1Mzc3REwydXJjTUJ5U2ZuV1pvaUJnUFhTSjhuSzl2d3BKczZWUGE3M0M5Tm1jSThFajhOVXFpekJmSEpwQUFTeVZ2b1dJVG82WnFRcjl2SEN5WU0wMkZzbTNTMmJsU2czWUpIMkJSTFVKZEloTVFkQdIBgwFBVV95cUxQUjVfUWctUm9kMDA1WUtiNDBYbEpMRHBQczByaERycjRwLVpyaVBXcGdoakxZUGR5RUVwRTg0S1Q5MUkzSW80WXNVazY0VHlrUW5PWG05THN5X1RxQWRQVjl6RFRMMGRlakJwZkI2ajAtaFZkOHlfWFBhVHh5NVoycTdIVQ?oc=5\" target=\"_blank\">A Guide to Preapproved ADU Plans in Your City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dwell</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
+    },
+    {
+      "id": "20ad9b4c0782e74f",
+      "title": "$467M affordable housing funding round gets LA City Council sign-off - Smart Cities Dive",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0Vta3JRamYxQ3lYdm1hMlI5ZWVzb1J1VUpzX1RlU3FnQ1c0QXIxSVE1VTJCT3NfaExaQzdfeHlvVDBzV09PeHp5YmtHem9tQ2JpR1lEY0NOSTd2NERqNmNmaTFlQy1RTnBkN2R1dWYxdmp5LXBHSWxINVU0OXJ4YUhLRTNNWnFvTFNNbWJvRGdKejBGdmtBdWZBVUw?oc=5",
+      "source": "Smart Cities Dive",
+      "published": "Thu, 01 Oct 2026 15:27:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0Vta3JRamYxQ3lYdm1hMlI5ZWVzb1J1VUpzX1RlU3FnQ1c0QXIxSVE1VTJCT3NfaExaQzdfeHlvVDBzV09PeHp5YmtHem9tQ2JpR1lEY0NOSTd2NERqNmNmaTFlQy1RTnBkN2R1dWYxdmp5LXBHSWxINVU0OXJ4YUhLRTNNWnFvTFNNbWJvRGdKejBGdmtBdWZBVUw?oc=5\" target=\"_blank\">$467M affordable housing funding round gets LA City Council sign-off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities Dive</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "c1da0484bb8edae9",
       "title": "Your guide to Proposition TE: Exempting fire victims from the ‘mansion tax’ - latimes.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclRONEgtWnNBNUw4TzhtcXBUeTFISnVoMGRtYjBSam1TalpLcHJOLWdyc2hxcE1GclJmVEVyLVJFRWtUdzl4VDlRbGxlWXV4QU9GSkhwdnVkYVIxMV9SWFpKaWV1WXl5aWVrcUl6bWYzcU1OVlVOTDVJQTRTUzNhUFhxWFZvMi1TS00zTlpqbWhLQ1EtWC0yc01QTzBib00wR0xSdUJLT1lhS2pTd2pPZHF5Q2RmU3N6ME80N3djTFpGSVh2dnlzWGd2WHR2Rnh0V0tZ?oc=5",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXRCMkV5V3d2NEpYN0ZvZlZxZjA4ajVGU2V2cm5jVlRJc2YwUkJQNUFzYjYxQ0RWY1lESFFzd0JtaGdmaDhBWTg0aS1ROE9xTWF3QXZvU1lqUXZla29pZExFZVVGYlZtLVN1MklkZFdpN3g0ZXYydmhCY1NjR2Z2YXd2RnRGbENOMEFEdHNCMjdoLVE?oc=5\" target=\"_blank\">L.A. Homeowners Can Now Legalize Pre-2020 Unpermitted ADUs Under New City Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realtor.com</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "adu"
-    },
-    {
-      "id": "c56095714b8aa820",
-      "title": "Santa Fe Springs planning commission approves Dutch Bros drive‑through with traffic conditions - citizenportal.ai",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNnVRTDl2R1RDemJmenhkaFdmOTdDYk1EZ0FKWU1KSHhqcmxWeW1pVFBOajMwc21WV0EyY19rQVdtX2xUS0k2RFQyWG0zNUlEQ2dQR3FXOUlMTFg1N3ZpYXp3RzQweklzMVIxTEFQUURONFhuS21EZXFWV3lJTnlHRVg2QzcyZmdnMm90ZzlGYkloSEZTOTVhUzdEakExNGRlTXRqQ3BxVjZ2MGZtUDJxZ19kbENnaXBNYUNINlV2WkRpWUM0ZXZPc19JazYwU2VpeTJfU3cyMWY3YXdQZV9IQUMzS3ppdmdLRkVCcTRERGIxQnA3cW12UEhaVlhpQnJ2QmtBNzMxMHktdVRRNktxZmw3ZU5qdw?oc=5",
-      "source": "citizenportal.ai",
-      "published": "Sun, 07 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxPNnVRTDl2R1RDemJmenhkaFdmOTdDYk1EZ0FKWU1KSHhqcmxWeW1pVFBOajMwc21WV0EyY19rQVdtX2xUS0k2RFQyWG0zNUlEQ2dQR3FXOUlMTFg1N3ZpYXp3RzQweklzMVIxTEFQUURONFhuS21EZXFWV3lJTnlHRVg2QzcyZmdnMm90ZzlGYkloSEZTOTVhUzdEakExNGRlTXRqQ3BxVjZ2MGZtUDJxZ19kbENnaXBNYUNINlV2WkRpWUM0ZXZPc19JazYwU2VpeTJfU3cyMWY3YXdQZV9IQUMzS3ppdmdLRkVCcTRERGIxQnA3cW12UEhaVlhpQnJ2QmtBNzMxMHktdVRRNktxZmw3ZU5qdw?oc=5\" target=\"_blank\">Santa Fe Springs planning commission approves Dutch Bros drive‑through with traffic conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizenportal.ai</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "7c8a83da725e0ccd",
-      "title": "Solis Moves to Strengthen Enforcement of Los Angeles County Short-Term Rental Ordinance - Santa Monica Daily Press",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0VEbHVDeERwczNBeEhOcTBLOEpDS3VBMURVZzRCR09NSGVpVk5MZkdRZmFOaTFXX1ZnNXpBS2JZUXhDUm9Nd0JqeEx3cFlDbEkwaGJTVXZLV3RqcVVoUWpPQUpCWnhWMk5YbEtDcjRhM25GWk5GVk0yNUpRak5jOWNXYjd4alFNNXZrTUdTZGlfRi0zU1NzaElqZVFtUUVaY0M3aXEyX3lYTF9tY0E?oc=5",
-      "source": "Santa Monica Daily Press",
-      "published": "Sun, 06 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0VEbHVDeERwczNBeEhOcTBLOEpDS3VBMURVZzRCR09NSGVpVk5MZkdRZmFOaTFXX1ZnNXpBS2JZUXhDUm9Nd0JqeEx3cFlDbEkwaGJTVXZLV3RqcVVoUWpPQUpCWnhWMk5YbEtDcjRhM25GWk5GVk0yNUpRak5jOWNXYjd4alFNNXZrTUdTZGlfRi0zU1NzaElqZVFtUUVaY0M3aXEyX3lYTF9tY0E?oc=5\" target=\"_blank\">Solis Moves to Strengthen Enforcement of Los Angeles County Short-Term Rental Ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "policy"
-    },
-    {
-      "id": "ed38617cb16449fb",
-      "title": "Airbnb says it’s banning ‘party houses’ after deadly Halloween shooting in Orinda - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkp2RG1nR2phdW0zczNueU9hRFFBeV8tTV9hV0FsWGdQTkpFYmxxWWJGS2szOHBRaTZHVkRKOFFRRUhCczBROG1DeGZaNDl5cFExMTRZdll6RE9LZXU4eTVFdngtR1RIQzNjczNSZHh3VTlVWXIyNzZITWtRTHZrRTM4YnU2QUFUb3pwZ1ZtM3RKMlZILUN3bmdTeW1yN2J2Y0Y5cFNQMUpJZWpuV0VLZkFBVjAyak5xTnpFRndMUUVEaXI0b3JHMlNR?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Sun, 03 Nov 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkp2RG1nR2phdW0zczNueU9hRFFBeV8tTV9hV0FsWGdQTkpFYmxxWWJGS2szOHBRaTZHVkRKOFFRRUhCczBROG1DeGZaNDl5cFExMTRZdll6RE9LZXU4eTVFdngtR1RIQzNjczNSZHh3VTlVWXIyNzZITWtRTHZrRTM4YnU2QUFUb3pwZ1ZtM3RKMlZILUN3bmdTeW1yN2J2Y0Y5cFNQMUpJZWpuV0VLZkFBVjAyak5xTnpFRndMUUVEaXI0b3JHMlNR?oc=5\" target=\"_blank\">Airbnb says it’s banning ‘party houses’ after deadly Halloween shooting in Orinda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
     }
   ]
 }
