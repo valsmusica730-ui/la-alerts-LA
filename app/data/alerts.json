@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:17:50.879173+00:00",
+  "generated_at": "2026-10-02T06:23:36.847174+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2593,6 +2593,16 @@
       "category": "other"
     },
     {
+      "id": "cb5baacee204dea5",
+      "title": "Wireless ordinance gets go-ahead from Costa Mesa Planning Commission - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0QwbE9OLUtUY2FwSmxUeGdCUHBQUWhfTFNab0JyMUViWVhlcFg4NjF4ckRKVFJQU2Y1NUtfam96c3ZENmQzZjZNSmFkTEF0Y0FZM251MTU3dTgzaks3U21idUdBWTRLVFQ1RmR1cHBneUZUZFJRbXFMT2k2RzdTc0dycU1oOURuOHJrTk5PNjNsNEdpM3dybk5laHk3N2c?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Tue, 14 Jan 2020 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0QwbE9OLUtUY2FwSmxUeGdCUHBQUWhfTFNab0JyMUViWVhlcFg4NjF4ckRKVFJQU2Y1NUtfam96c3ZENmQzZjZNSmFkTEF0Y0FZM251MTU3dTgzaks3U21idUdBWTRLVFQ1RmR1cHBneUZUZFJRbXFMT2k2RzdTc0dycU1oOURuOHJrTk5PNjNsNEdpM3dybk5laHk3N2c?oc=5\" target=\"_blank\">Wireless ordinance gets go-ahead from Costa Mesa Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "5cbb23a0e33218d0",
       "title": "Los Angeles City Council commissioned reports to understand impacts of Measure ULA - dailynews.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVjV5WWlkeC13VnVYYlotaDZPT0I3aUFPNWNDS0F2RW1kcUpOamRwaEQ5ZTNyQjNNSnd5ajVhQ0R3dS1wUzZQZ1Ztb3ZNOEZTcDc3MktndjcxR1NFRGFSOXh0TW44bFlqTHZ4WEZ5SzNHdWxTX3RiMVRCZVo1cnpLcFZxdWJQZ1RFZUxHdThzcGhQNmE4dVBrZ214MmJ6X0h3QlBDYVp1SDhGQ25McmxrY3d5YW0xQnNPV1VQWg?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWZUanBiUUNROGZvXzVZNnZma2doTnhmSzh5bDZLY0JfVDJWVG1zRVVCZzA1SEtuSFdTU3FVVHZRSXIzS2tUb0NZSEg2dmZ2RGZmaVRPSDBHMmhGTGV2Y3M0ZmlSWi1UelFpYmdfTll0aGF4ZGhmeVpVa0Qwbmw1cWhGQ1EtRHJyU2ZJMEVweERtZVU4TG9SaTNMcFFZMmctOGRLVWZUaXU2aXNxYi1oNDQwbzJWdw?oc=5\" target=\"_blank\">Terner Center and ABAG Present: Best Practices to Implement SB 9 and Missing Middle Housing in the Bay Area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terner Center</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
-    },
-    {
-      "id": "27ac21493c95b265",
-      "title": "LA voters hold Pacific Palisades’ ULA fate in hands - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVEFQaWp6VmJIT2hvNFBLd3loeDc5QVZSa1VFRVZpLU1vUEtWNlJ5NzNiOHVDYUgxSC1MWGJBaEg0Z3JYbFU4Sm1fUGxDVVdoTnI3OVg4NG10ejZreGhpaWJ6SnA5a1VXZldUX1JFVGxXY0VLWmMwMUNJNWlKSE9QcHdaWTRXS3lLR2Z0ck5PdzFkM1FYcWJPakhXNGxVUQ?oc=5",
-      "source": "The Real Deal",
-      "published": "Sun, 09 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVEFQaWp6VmJIT2hvNFBLd3loeDc5QVZSa1VFRVZpLU1vUEtWNlJ5NzNiOHVDYUgxSC1MWGJBaEg0Z3JYbFU4Sm1fUGxDVVdoTnI3OVg4NG10ejZreGhpaWJ6SnA5a1VXZldUX1JFVGxXY0VLWmMwMUNJNWlKSE9QcHdaWTRXS3lLR2Z0ck5PdzFkM1FYcWJPakhXNGxVUQ?oc=5\" target=\"_blank\">LA voters hold Pacific Palisades’ ULA fate in hands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "other"
     }
   ]
 }
