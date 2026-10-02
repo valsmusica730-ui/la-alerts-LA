@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:18:35.642013+00:00",
+  "generated_at": "2026-10-02T18:46:37.465810+00:00",
   "total": 500,
   "alerts": [
     {
@@ -241,6 +241,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkFRVVlEbmhuRldyNGNJU1BMZjBQblB1WXVCSmp5SFg3Zl9hS0JmNGpfOFRTN1BWNU04THRPV2tPT0VneHp6Mkg1WEJnWllkc0hfVXhubUZoblNsS2xtclUwSW94TTk0WXNnZU1wbnFMUnpYNElISVRBLWtCOU5MQnl3TjNMc0paeGRCaGtoQWlCOFBKUlJzWFprTGxvcGg4bzdxNnNjTQ?oc=5\" target=\"_blank\">L.A. County looks to add supportive housing at Metropolitan State Hospital in Norwalk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "49c371ee8961411f",
+      "title": "Inside L.A.’s Chaotic, Highest-Paid City Council - LAmag",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQlVqZ1IxUHJobmFSNTYySmFtMXdsWGNSbkJIN0ZDcHpfRWwwNFRIXzV2T0lUR3FzR3htOENidWh2WWd6Wnd6WGxGV2toN255TkVhRlpIOGhfVGFVMUI3bVBDalVaMzM3TFZ0aXNQWU84TjZ3eExFX1YzenhPTmVjcURreEhTMWdHWFFfY1BMS1ZyUQ?oc=5",
+      "source": "LAmag",
+      "published": "Wed, 27 May 2026 14:51:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQlVqZ1IxUHJobmFSNTYySmFtMXdsWGNSbkJIN0ZDcHpfRWwwNFRIXzV2T0lUR3FzR3htOENidWh2WWd6Wnd6WGxGV2toN255TkVhRlpIOGhfVGFVMUI3bVBDalVaMzM3TFZ0aXNQWU84TjZ3eExFX1YzenhPTmVjcURreEhTMWdHWFFfY1BMS1ZyUQ?oc=5\" target=\"_blank\">Inside L.A.’s Chaotic, Highest-Paid City Council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "eef153852ac898a4",
@@ -661,6 +671,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxObk85MlBNbHI1YTlfYmlZbHhqYnNWeUdFemxmODN2QjdPNDZ4aEItcXV6ZEZRVW1ERmFqeFVDZEZNR3hrNURxTjlvazFVZXpCUDRKNDdrcV9tQUpBYnhsZFVCamlIY1drZVhVOXZGVXFPeFozMDJJclhacjhzaTBEbUVFQ2RtY2RkM3ZrXzk3emxWU1hlR1o0aFlxUzRFR0JCTFJyYzlQRDNJWTZwTmd0MmJndlpjMVdBemdvVHNFYngtb1JPVWFVLWtR0gGqAUFVX3lxTE9XSV9fVk5GREt4RzFkQy1qYWI5Q2YxMTVGeFVTMHIzd2ZQSEZGc0lMNUM2ZVh4Rk42ckVRYkItTC1EcmVVYS14ZzFsQ2RUUm54aFNUVmw4UXN5b1d2eHJ2RWVmS0FIRFFuMi1MTUg1WDd0S3dPQUd0TnpTZGVQeW9PbmFzQ29FYjRMWmMxSDRGc3lUaFRFVmJqc0NqNUlvTktDZjA5ZFNMZGdB?oc=5\" target=\"_blank\">LA County Supervisors Call for Pet Housing Ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFI AM 640</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
+    },
+    {
+      "id": "720f8baddfa7e117",
+      "title": "A Little or A Lot: SB 9 & the Promise of New Housing - spur.org",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUt1Nk5lcGJzQklwSzNqTmlXMnBXSXVha3FYbGF4ZnBHSFFWRW4yZ3hTSkFvZjhXTnlzalpBaGdKOWY1MkRCckRJVHpiYUoxMjkzUnpKU0hHY29PallVQVJRRkNZM0ViVVhfZXJTOXNmSnhwdzkzWnBSQU9mSUZzLXR0dw?oc=5",
+      "source": "spur.org",
+      "published": "Wed, 18 Aug 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUt1Nk5lcGJzQklwSzNqTmlXMnBXSXVha3FYbGF4ZnBHSFFWRW4yZ3hTSkFvZjhXTnlzalpBaGdKOWY1MkRCckRJVHpiYUoxMjkzUnpKU0hHY29PallVQVJRRkNZM0ViVVhfZXJTOXNmSnhwdzkzWnBSQU9mSUZzLXR0dw?oc=5\" target=\"_blank\">A Little or A Lot: SB 9 & the Promise of New Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spur.org</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
     },
     {
       "id": "e9d755096d953bfe",
@@ -3773,6 +3793,16 @@
       "category": "policy"
     },
     {
+      "id": "a7bdc3c3657c3245",
+      "title": "Los Angeles Halts SB 9 Light-Density Housing in Fire Zones - HousingWire",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkNwUXFNUG1za25RMDlTWE14NS1QeXItZDBQazV2dEFkY2JfdHRBMkU0MHFROTJTR0FRblRRc0toZ2MtS3VHc19CNGJzb1BMM1FFY2R3dlV0NVU5Yk9KYlNZaGpTVVVHQWZneUktRFRiN2poVVRJVnduSDBTUTNvMjMyLXZDV3ExZ1N1bFhhMVpfWGlmN0ZzVk95Q3E?oc=5",
+      "source": "HousingWire",
+      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkNwUXFNUG1za25RMDlTWE14NS1QeXItZDBQazV2dEFkY2JfdHRBMkU0MHFROTJTR0FRblRRc0toZ2MtS3VHc19CNGJzb1BMM1FFY2R3dlV0NVU5Yk9KYlNZaGpTVVVHQWZneUktRFRiN2poVVRJVnduSDBTUTNvMjMyLXZDV3ExZ1N1bFhhMVpfWGlmN0ZzVk95Q3E?oc=5\" target=\"_blank\">Los Angeles Halts SB 9 Light-Density Housing in Fire Zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HousingWire</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
       "id": "64ba964a8ed1ef75",
       "title": "Long Beach moves to approve citywide inclusionary housing rules - Long Beach Post",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0xLME9ZMFlWQWF5QUNIbzB1Q1FLQlNwdmU0SXNnOER1NmJiQkhydDFJYUN0UGJTemhpbEpqZ0ZGMVFmRm9FSDFqdkxIVkkzVS1ENjBBVFNxNTFEMWpKTTlvY29MSmZnS2Q0U2RUdGVpVWpwNkVwdkhiRkdlWHN5bXJpQ015NUljWUNQYWJoa0QxY2R1dWtJM1BEZWZOUk05U1pwYjFtZzVnZw?oc=5",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEctSGxJUFpPZTdDNmlqS1ZXa2NsUlJEdmZvM3ZsNW04dkZibU9yRmJSMTVHYzdaclQ4V1NtRFFDRGRoYWZteTNTSThoVm9uLTlDZHRtdmR4ZHVjTnVvZGd6Q3h2U2VMWncxM0ltS0JXREh4R1BRUUhKLVc4X3BETWc2dThOQQ?oc=5\" target=\"_blank\">LADBS: Helping restaurateurs navigate the permitting process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lacity.gov</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "construction"
-    },
-    {
-      "id": "2609215b9d187b10",
-      "title": "How does Los Angeles pay for toughest seismic regulations in the country? - Construction Dive",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnV4ZHMtcTZxeEhnNnJyRmp4OWhvMFlQcmpsOU5GLXpoS2xJekJDRzlyTXNnTm1sbnNhSDhtdEZ3ckZYajFPZmx3WWdmQVktWklBQUtRVE90a1puRGZ2RmlJYk8yOUh0NjlwNm1VdWFadDJXMTdhN2dsYjdwVVN4cU54TGJsRm5XdnBfWFlCblJDQTRtaVhxT0QxM1lrRG9uNE94NC1Sc1c0ZFRVVGd1SW1NTEpZd2tPR2c?oc=5",
-      "source": "Construction Dive",
-      "published": "Sun, 11 Oct 2015 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnV4ZHMtcTZxeEhnNnJyRmp4OWhvMFlQcmpsOU5GLXpoS2xJekJDRzlyTXNnTm1sbnNhSDhtdEZ3ckZYajFPZmx3WWdmQVktWklBQUtRVE90a1puRGZ2RmlJYk8yOUh0NjlwNm1VdWFadDJXMTdhN2dsYjdwVVN4cU54TGJsRm5XdnBfWFlCblJDQTRtaVhxT0QxM1lrRG9uNE94NC1Sc1c0ZFRVVGd1SW1NTEpZd2tPR2c?oc=5\" target=\"_blank\">How does Los Angeles pay for toughest seismic regulations in the country?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Dive</font>",
-      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
-      "category": "other"
-    },
-    {
-      "id": "765af41919c73303",
-      "title": "Early Impacts of New York City's 'De Facto Ban' on Airbnbs - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMFMwOUpNMkU2dFpzZC1mZlZrOWF1YU1UUmJGZnJUSkg2WHRTRW53SHpKdlVvMXhKZ3pYUnFuRzFGLWY1aGRlTEpRcDkzX09SdXpuaDByTjNNSkhhai1LUEZMNlA3VGFUcEU4bDF0bEtlbzYzazRoZWtQUWZlS1JjUTI5YmRWRlhZakFn?oc=5",
-      "source": "Investopedia",
-      "published": "Sun, 10 Sep 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMFMwOUpNMkU2dFpzZC1mZlZrOWF1YU1UUmJGZnJUSkg2WHRTRW53SHpKdlVvMXhKZ3pYUnFuRzFGLWY1aGRlTEpRcDkzX09SdXpuaDByTjNNSkhhai1LUEZMNlA3VGFUcEU4bDF0bEtlbzYzazRoZWtQUWZlS1JjUTI5YmRWRlhZakFn?oc=5\" target=\"_blank\">Early Impacts of New York City's 'De Facto Ban' on Airbnbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "5435450bd07634f9",
-      "title": "Terner Center and ABAG Present: Best Practices to Implement SB 9 and Missing Middle Housing in the Bay Area - Terner Center",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWZUanBiUUNROGZvXzVZNnZma2doTnhmSzh5bDZLY0JfVDJWVG1zRVVCZzA1SEtuSFdTU3FVVHZRSXIzS2tUb0NZSEg2dmZ2RGZmaVRPSDBHMmhGTGV2Y3M0ZmlSWi1UelFpYmdfTll0aGF4ZGhmeVpVa0Qwbmw1cWhGQ1EtRHJyU2ZJMEVweERtZVU4TG9SaTNMcFFZMmctOGRLVWZUaXU2aXNxYi1oNDQwbzJWdw?oc=5",
-      "source": "Terner Center",
-      "published": "Sun, 09 Oct 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWZUanBiUUNROGZvXzVZNnZma2doTnhmSzh5bDZLY0JfVDJWVG1zRVVCZzA1SEtuSFdTU3FVVHZRSXIzS2tUb0NZSEg2dmZ2RGZmaVRPSDBHMmhGTGV2Y3M0ZmlSWi1UelFpYmdfTll0aGF4ZGhmeVpVa0Qwbmw1cWhGQ1EtRHJyU2ZJMEVweERtZVU4TG9SaTNMcFFZMmctOGRLVWZUaXU2aXNxYi1oNDQwbzJWdw?oc=5\" target=\"_blank\">Terner Center and ABAG Present: Best Practices to Implement SB 9 and Missing Middle Housing in the Bay Area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terner Center</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
