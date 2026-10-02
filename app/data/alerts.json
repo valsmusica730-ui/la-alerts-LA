@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:05:04.452514+00:00",
+  "generated_at": "2026-10-02T00:17:50.879173+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4723,6 +4723,16 @@
       "category": "other"
     },
     {
+      "id": "32819647a343dbae",
+      "title": "We asked WeHo City Council candidates your most pressing questions - Los Angeles Blade",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDRESzdycjdIVE5Gd1lTWDRNN195MTVKc2RveDhxaUVWQmJuUTlLdkRfYkdLejBJSl9CZFd3MTJDZU9XQXUwM01PT25ZVk5HNEVGbFJyaVdab3hTZ1JYREloUFlWNmowbko0RG9BbW4xQll0MzhTNVFXb2xsYWpqNnVFSHRHVkQ0R3YyVg?oc=5",
+      "source": "Los Angeles Blade",
+      "published": "Thu, 01 Oct 2026 20:23:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDRESzdycjdIVE5Gd1lTWDRNN195MTVKc2RveDhxaUVWQmJuUTlLdkRfYkdLejBJSl9CZFd3MTJDZU9XQXUwM01PT25ZVk5HNEVGbFJyaVdab3hTZ1JYREloUFlWNmowbko0RG9BbW4xQll0MzhTNVFXb2xsYWpqNnVFSHRHVkQ0R3YyVg?oc=5\" target=\"_blank\">We asked WeHo City Council candidates your most pressing questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Blade</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "0d3c2afa33771549",
       "title": "A Guide to Preapproved ADU Plans in Your City - Dwell",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fQmNUR0o1Mzc3REwydXJjTUJ5U2ZuV1pvaUJnUFhTSjhuSzl2d3BKczZWUGE3M0M5Tm1jSThFajhOVXFpekJmSEpwQUFTeVZ2b1dJVG82WnFRcjl2SEN5WU0wMkZzbTNTMmJsU2czWUpIMkJSTFVKZEloTVFkQdIBgwFBVV95cUxQUjVfUWctUm9kMDA1WUtiNDBYbEpMRHBQczByaERycjRwLVpyaVBXcGdoakxZUGR5RUVwRTg0S1Q5MUkzSW80WXNVazY0VHlrUW5PWG05THN5X1RxQWRQVjl6RFRMMGRlakJwZkI2ajAtaFZkOHlfWFBhVHh5NVoycTdIVQ?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVEFQaWp6VmJIT2hvNFBLd3loeDc5QVZSa1VFRVZpLU1vUEtWNlJ5NzNiOHVDYUgxSC1MWGJBaEg0Z3JYbFU4Sm1fUGxDVVdoTnI3OVg4NG10ejZreGhpaWJ6SnA5a1VXZldUX1JFVGxXY0VLWmMwMUNJNWlKSE9QcHdaWTRXS3lLR2Z0ck5PdzFkM1FYcWJPakhXNGxVUQ?oc=5\" target=\"_blank\">LA voters hold Pacific Palisades’ ULA fate in hands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "other"
-    },
-    {
-      "id": "3f743b07f98a8b32",
-      "title": "L.A. Homeowners Can Now Legalize Pre-2020 Unpermitted ADUs Under New City Rules - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXRCMkV5V3d2NEpYN0ZvZlZxZjA4ajVGU2V2cm5jVlRJc2YwUkJQNUFzYjYxQ0RWY1lESFFzd0JtaGdmaDhBWTg0aS1ROE9xTWF3QXZvU1lqUXZla29pZExFZVVGYlZtLVN1MklkZFdpN3g0ZXYydmhCY1NjR2Z2YXd2RnRGbENOMEFEdHNCMjdoLVE?oc=5",
-      "source": "Realtor.com",
-      "published": "Sun, 09 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXRCMkV5V3d2NEpYN0ZvZlZxZjA4ajVGU2V2cm5jVlRJc2YwUkJQNUFzYjYxQ0RWY1lESFFzd0JtaGdmaDhBWTg0aS1ROE9xTWF3QXZvU1lqUXZla29pZExFZVVGYlZtLVN1MklkZFdpN3g0ZXYydmhCY1NjR2Z2YXd2RnRGbENOMEFEdHNCMjdoLVE?oc=5\" target=\"_blank\">L.A. Homeowners Can Now Legalize Pre-2020 Unpermitted ADUs Under New City Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realtor.com</font>",
-      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
-      "category": "adu"
     }
   ]
 }
