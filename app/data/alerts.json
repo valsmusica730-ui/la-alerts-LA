@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:13:38.991176+00:00",
+  "generated_at": "2026-10-03T12:49:13.140180+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3313,6 +3313,16 @@
       "category": "rent"
     },
     {
+      "id": "1aa9a60dc14796b9",
+      "title": "LA passes ‘Right to Counsel’ law, but many tenants facing eviction won’t get a lawyer yet - LAist",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG5uclFuTTNDM1ZDMy1ZZ1BNc2JDMW9MVWNhSXlzZi1SMlBDR2tmWUJRZXo4dnczLXlrb3Vzems0RlZ0d3NuSU1sSkNpU3FqaVdnRmxYT0dMaVZBUFQ5ZUJLY3RpbVFGR2pqa1NiTTZBTE5tUnllRUlESmdZTEZGdmowdktYVDR1Y2RKUzI2SVI4LS13S3MwS2c3aGhQMThsTDkxZXhjV3hab0ZIaDdISHAycWtYbDYzakRr?oc=5",
+      "source": "LAist",
+      "published": "Tue, 01 Apr 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG5uclFuTTNDM1ZDMy1ZZ1BNc2JDMW9MVWNhSXlzZi1SMlBDR2tmWUJRZXo4dnczLXlrb3Vzems0RlZ0d3NuSU1sSkNpU3FqaVdnRmxYT0dMaVZBUFQ5ZUJLY3RpbVFGR2pqa1NiTTZBTE5tUnllRUlESmdZTEZGdmowdktYVDR1Y2RKUzI2SVI4LS13S3MwS2c3aGhQMThsTDkxZXhjV3hab0ZIaDdISHAycWtYbDYzakRr?oc=5\" target=\"_blank\">LA passes ‘Right to Counsel’ law, but many tenants facing eviction won’t get a lawyer yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "rent"
+    },
+    {
       "id": "829e57ce694f1b5d",
       "title": "4 Cities Sue to Stop New California Law Permitting More Homes in Single-Family Neighborhoods - Times of San Diego",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWRlRGNWXzB1WVJkZTF3bDd2NzFoemNwZy1jd094bEs2djU0S0hJLU1UNnZJZXFFVkhieHNleHNUcnlvSkRsUXBES3BxSWctVHFHU3JINEQzSnhmandTOEpqWmN1VVc5TVl0ZmNzZWdCSlA2ZVBfZTY1bTdQZjZPdEsxWmtIa0RQUWtrMHk3MS1iOURRRmJ1bGFXcnUxb1dQNWFZNTA1dEVkaWJFZ0tqaTdsN3NnVnhXYk5HMWVHY2JPZGw1Qk5LUHhqZ3NsOTlzbXM4RmNhdXE?oc=5",
@@ -3581,6 +3591,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPSE9HZFNUV1I2OVJFRXVsXzlFYXZiMG0tT2NaYml4bFFlVkZ4aEJyeDQyY1NyT0lkd0laREhwRGdqRFU4MURhSzBNdHhhM1NkTUplQUREemk2UW5UdWNkWVRhdU5QRy1LRk5kTUNKSlNPejIxV3BIdFBodHNROGgxQ0QxVnBsZDFMZThNS3VfU2lNUmc5anU0?oc=5\" target=\"_blank\">State leaders to unveil eviction moratorium on Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "27fbcca63b982bf7",
+      "title": "Al Fresco Outdoor Dining Ordinance Receives Approval from City Commission - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2w5amx3R0g2RFVZQlJUd3YteG1TMEczanFwb0laVXRhWUYxTnVjbjdwdzE1enlMLWJoRDhwM29JOFVETDRBSV90YjFPX01zbTJ2SUpUV1phbk9obHRoNWY4UTBra1JTY2Q4ZXBtRTVyOHdIZVVqRTAxdmFJM1BtSWxPTVZNZXN6UEdBOW9lWU1LM1loYVdsdHV2TGJiOHV5MFQtUU1XUzFjQVVGYWtKNjNLVTM1dGlxV2RRVXVoZUHSAcgBQVVfeXFMTUEwSE4zenJuLUc0SkNTaW94TXpnMFJtRFE0UWhLdV84UkNMM1k1OEp0RGo2THpFNFctSVVhWThuQ3RXZWNQYjhYZ2htNUo0VjMwUVBfdlk3YjZMNVFDcTA0SkM1eFpWekRqMlYwM0k4LUhtdGpGY19TUi1OSVA0VmZxTElUeUktZFBoRk5JTjFnLW9jT1M1cVcxdXo2TWF6UXRuck13MTdORHFBLXdoN3Q4T1JYSkl0aXFMdGtPYmpDV0dGSUhBOEc?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Thu, 27 Apr 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2w5amx3R0g2RFVZQlJUd3YteG1TMEczanFwb0laVXRhWUYxTnVjbjdwdzE1enlMLWJoRDhwM29JOFVETDRBSV90YjFPX01zbTJ2SUpUV1phbk9obHRoNWY4UTBra1JTY2Q4ZXBtRTVyOHdIZVVqRTAxdmFJM1BtSWxPTVZNZXN6UEdBOW9lWU1LM1loYVdsdHV2TGJiOHV5MFQtUU1XUzFjQVVGYWtKNjNLVTM1dGlxV2RRVXVoZUHSAcgBQVVfeXFMTUEwSE4zenJuLUc0SkNTaW94TXpnMFJtRFE0UWhLdV84UkNMM1k1OEp0RGo2THpFNFctSVVhWThuQ3RXZWNQYjhYZ2htNUo0VjMwUVBfdlk3YjZMNVFDcTA0SkM1eFpWekRqMlYwM0k4LUhtdGpGY19TUi1OSVA0VmZxTElUeUktZFBoRk5JTjFnLW9jT1M1cVcxdXo2TWF6UXRuck13MTdORHFBLXdoN3Q4T1JYSkl0aXFMdGtPYmpDV0dGSUhBOEc?oc=5\" target=\"_blank\">Al Fresco Outdoor Dining Ordinance Receives Approval from City Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "policy"
     },
     {
       "id": "21bd96ef51964402",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB6YkUtbVl3Z2oyWm9kYnRPRE1nQTFjc29oaFVsVi1UdGxsNEdReWEwTmFuU0xuYkFrUWpXVVV0R1JEUkhBVGhQZ3dVenlwX01aLWRlcFFZbGg4amhYbkdIQkpzd0ZlWFA0enVxTUQ3ODlQdw?oc=5\" target=\"_blank\">New Study Finds California Inclusionary Zoning Rules Reduce Housing Construction by Nearly One-Third</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "zoning"
-    },
-    {
-      "id": "b629a5583fa7d416",
-      "title": "Airbnb Bans Guest Who Booked Pittsburgh Rental Tied To Deadly Shooting - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV205RHh2S3hTb1JIN2x1ZUl6U0VhRlRGaGw3LW55NXVXemZsdjlvNjdxVVczczZvVHJHaUFGU2xNU1IyNUNSWnEtaGYzakVaNUsydVVYcTYwaHpwd21fVXcyZFFERF85YTVsbUZjOUtUTVVsRDRBVjlrV2FKQlo0Zl9FbDZFcW5fRjJmR3Foa3RBZ0tZckxqZTN0cG8wUDEwaU91RERNVGJINHB3TkJSblRTaTNjLUlSQnBnd3duSjVKdw?oc=5",
-      "source": "Forbes",
-      "published": "Sun, 17 Apr 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV205RHh2S3hTb1JIN2x1ZUl6U0VhRlRGaGw3LW55NXVXemZsdjlvNjdxVVczczZvVHJHaUFGU2xNU1IyNUNSWnEtaGYzakVaNUsydVVYcTYwaHpwd21fVXcyZFFERF85YTVsbUZjOUtUTVVsRDRBVjlrV2FKQlo0Zl9FbDZFcW5fRjJmR3Foa3RBZ0tZckxqZTN0cG8wUDEwaU91RERNVGJINHB3TkJSblRTaTNjLUlSQnBnd3duSjVKdw?oc=5\" target=\"_blank\">Airbnb Bans Guest Who Booked Pittsburgh Rental Tied To Deadly Shooting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "fe4d6087418804ee",
-      "title": "Los Angeles County's first compact lot houses are coming to East L.A. - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX01nelotUFAwa1FLM3FnbnptdFJpZlpUbGNxdThTV1RaeS1HRk9vMldXbFlBRHZ0Mlh4UGUyTmtycjFIVGVKR1FWeFR4VXRINUJsdmctS3FTYXVaMVRzbk1KQ1Z1VWhYRTBEM0dtaW5jUVptbFlfcWlXajhyYXlkalAxNUt4eURka0JTdE1LeEswZjczT1RTQg?oc=5",
-      "source": "Urbanize LA",
-      "published": "Sun, 16 Oct 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNX01nelotUFAwa1FLM3FnbnptdFJpZlpUbGNxdThTV1RaeS1HRk9vMldXbFlBRHZ0Mlh4UGUyTmtycjFIVGVKR1FWeFR4VXRINUJsdmctS3FTYXVaMVRzbk1KQ1Z1VWhYRTBEM0dtaW5jUVptbFlfcWlXajhyYXlkalAxNUt4eURka0JTdE1LeEswZjczT1RTQg?oc=5\" target=\"_blank\">Los Angeles County's first compact lot houses are coming to East L.A.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "other"
     }
   ]
 }
