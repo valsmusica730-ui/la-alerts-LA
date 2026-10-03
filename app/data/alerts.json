@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:50:28.811462+00:00",
+  "generated_at": "2026-10-03T19:34:35.845721+00:00",
   "total": 500,
   "alerts": [
     {
@@ -221,6 +221,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDRRVG55U2d0TF9FdDFOOTNfMXAyakdWX1g3VUozbWVoTU5ta2RhUEdHQ0FWOXpjODhZQjI1UDJNdVJ6RDhOV3MtOE5ZdVJ3dGMzR2N5NVZPWGd1X1VibXZKSVpyUzM5VzFJSmdmVjZwMDRacXlMVDEwVGxuNTBWSFVUb0V5RkNvSkRBZXVtcDUtWExXa1F5QUJ0VWJIN1FTc09SdXozN3RQeWtZYzYwR3QzUU5HTHQwdmpzeDZ5MDVSSS1nMmpMZmRCT2l2Zw?oc=5\" target=\"_blank\">A Year Into New Los Angeles Law to Protect Renters, City Has Taken Zero Landlords to Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "legal"
+    },
+    {
+      "id": "041779ea6c116979",
+      "title": "Council Committee Backs End Date for LA's COVID-19 Eviction Moratorium - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFI5YUFBMXJEUVdwVWVlTHIzZWNHS1NtTFptdlcxaG1VanBkUHRLQ2loVXhsYnRPWFhOVENhUXVmWndXMS1mbTVzUURiSHdRMFhib21CSUtfYmpQeUgtTUUzNGJWdURVaWlFZnBFZVdjWTFXMWtHdmZ2QmJVMVNyTFo3eXUwM1hQcXBvYXBOTk5KVHM4b0dYTXphbEtJUnhFTU8wRmZlaDM4TXQyLTI5WkxaMnUtWHplb25N0gHDAUFVX3lxTE1PUXZKTENIZDR4TWV3QnZvOGRDbnNCVjBlSnNlWFlaN05vMmNMRjlISnhYUGFZcnlEMzBrNmM0Z2paWl9vVElPMDlMWXVEeHpTNTk4UDBqRXVKNmp4Sl9IcWxHNFh6dmsxRDA2WGhLOWdYRU1ObTdJZ2RzX2tpR2VWUWhMWEhVTjVEMG1RX2dycEswR0pzVnR3U0VDb2RyQUtDWHNuY1RvS0F6cENiYk1jWW8zc1EzVjJBTWgtdGZ4OFd1WQ?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Wed, 28 Sep 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFI5YUFBMXJEUVdwVWVlTHIzZWNHS1NtTFptdlcxaG1VanBkUHRLQ2loVXhsYnRPWFhOVENhUXVmWndXMS1mbTVzUURiSHdRMFhib21CSUtfYmpQeUgtTUUzNGJWdURVaWlFZnBFZVdjWTFXMWtHdmZ2QmJVMVNyTFo3eXUwM1hQcXBvYXBOTk5KVHM4b0dYTXphbEtJUnhFTU8wRmZlaDM4TXQyLTI5WkxaMnUtWHplb25N0gHDAUFVX3lxTE1PUXZKTENIZDR4TWV3QnZvOGRDbnNCVjBlSnNlWFlaN05vMmNMRjlISnhYUGFZcnlEMzBrNmM0Z2paWl9vVElPMDlMWXVEeHpTNTk4UDBqRXVKNmp4Sl9IcWxHNFh6dmsxRDA2WGhLOWdYRU1ObTdJZ2RzX2tpR2VWUWhMWEhVTjVEMG1RX2dycEswR0pzVnR3U0VDb2RyQUtDWHNuY1RvS0F6cENiYk1jWW8zc1EzVjJBTWgtdGZ4OFd1WQ?oc=5\" target=\"_blank\">Council Committee Backs End Date for LA's COVID-19 Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "6c29bcf664b89542",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWdkdkZsREpzVWd4NlprV2JuVDBzQTg1ZHlrUElJbWQ2cHh6Y0d3ZUVpU3J0RXY3ajN2Zkw1aTktMlhnVWFtUXR3dTkwZHliS0wwQW8yamg0OHFhdnBCaG1aZjN2TGlEXzFHWnFJR0JQb0dIS1l5d2MzUTFCcElYYUJoTU9PSXZPMDU0?oc=5\" target=\"_blank\">California Enacts Historic Housing Reform Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legal Planet</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "other"
-    },
-    {
-      "id": "836caf85d42c8e8f",
-      "title": "New Study Finds California Inclusionary Zoning Rules Reduce Housing Construction by Nearly One-Third - Davis Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6YkUtbVl3Z2oyWm9kYnRPRE1nQTFjc29oaFVsVi1UdGxsNEdReWEwTmFuU0xuYkFrUWpXVVV0R1JEUkhBVGhQZ3dVenlwX01aLWRlcFFZbGg4amhYbkdIQkpzd0ZlWFA0enVxTUQ3ODlQdw?oc=5",
-      "source": "Davis Vanguard",
-      "published": "Sun, 19 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB6YkUtbVl3Z2oyWm9kYnRPRE1nQTFjc29oaFVsVi1UdGxsNEdReWEwTmFuU0xuYkFrUWpXVVV0R1JEUkhBVGhQZ3dVenlwX01aLWRlcFFZbGg4amhYbkdIQkpzd0ZlWFA0enVxTUQ3ODlQdw?oc=5\" target=\"_blank\">New Study Finds California Inclusionary Zoning Rules Reduce Housing Construction by Nearly One-Third</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
     }
   ]
 }
