@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T01:31:46.765186+00:00",
+  "generated_at": "2026-10-03T07:13:38.991176+00:00",
   "total": 500,
   "alerts": [
     {
@@ -711,6 +711,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVI1SDlTQkhIUnVQdjVkckNjcnNXS3dvY2U1WnlWX1NPQkRhcHNCNUdUUFBHdGM5S3oxRTA5bTN6YWNiLUNSWDEzQ0xaRllpWnNlMVF4T0hXSnpCRm9mdldaWkVudnBaYkprMk5EZ1h5a0hUdHd1cDAyV1p1a1YxaVV3MEI4bEJJeDA3YXBuNlBpWk1aNVE?oc=5\" target=\"_blank\">LA Council Advances Proposal to Amend Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "5d157ebddf559eeb",
+      "title": "City Council Forms Infrastructure Financing District to Fund Major Development Projects - Pasadena Now",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0JpNWR3V0RwcV9aa29mcTlhUjlzRFFQaDNKQWkwWmZwRUVHcG5yTEZkb3gtSWtBV1hDMm8zUUdzR2lsbjFyUmFXbnFRUGt1QUgtbExmYlllZFZURVNEZzQ5YVVhcTM2ZHBNTHByaVgxdU02WllpbHRsVEJfWnItTTNHcmw4cENjTWZfRmRTbHpZMXFEU2ZKNy1EcW1mbDhsT2ZFcnU0MXEtLTJCOFVKZmxhOWFqalk?oc=5",
+      "source": "Pasadena Now",
+      "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0JpNWR3V0RwcV9aa29mcTlhUjlzRFFQaDNKQWkwWmZwRUVHcG5yTEZkb3gtSWtBV1hDMm8zUUdzR2lsbjFyUmFXbnFRUGt1QUgtbExmYlllZFZURVNEZzQ5YVVhcTM2ZHBNTHByaVgxdU02WllpbHRsVEJfWnItTTNHcmw4cENjTWZfRmRTbHpZMXFEU2ZKNy1EcW1mbDhsT2ZFcnU0MXEtLTJCOFVKZmxhOWFqalk?oc=5\" target=\"_blank\">City Council Forms Infrastructure Financing District to Fund Major Development Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Now</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "f73de493e0c675c3",
@@ -3113,6 +3123,16 @@
       "category": "rent"
     },
     {
+      "id": "9e643631f67096ff",
+      "title": "LA City Council votes to end COVID-19 eviction moratorium - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSktwOXBKNHZFakxxTHBUY0w2UUxsQ3lEY2FNSU9iN2JibjRlejJBTGIxeVlwVVEzVkhQbkdLMEUzbzUyNklCS1dIeGdZSlFfVEM4RHJINTJqTjR4X3ZNSjdzQjQ1U043emp0ckczeDRKbTAtT3d4d0hiQ1VnOFRNU3Y5Ql9jb21xb1pTdG1KMXpXQ3dRYUdibXQxMEhWZlVE?oc=5",
+      "source": "CBS News",
+      "published": "Tue, 04 Oct 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQSktwOXBKNHZFakxxTHBUY0w2UUxsQ3lEY2FNSU9iN2JibjRlejJBTGIxeVlwVVEzVkhQbkdLMEUzbzUyNklCS1dIeGdZSlFfVEM4RHJINTJqTjR4X3ZNSjdzQjQ1U043emp0ckczeDRKbTAtT3d4d0hiQ1VnOFRNU3Y5Ql9jb21xb1pTdG1KMXpXQ3dRYUdibXQxMEhWZlVE?oc=5\" target=\"_blank\">LA City Council votes to end COVID-19 eviction moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "b4506caaf51cb18e",
       "title": "Upzoning Was Meant To Fix L.A.’s Housing Crisis—Is It Making It Worse? - Realtor.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOODAxR2s5UENjV24ybWVzcHR1OWFyZ01SdzZtWVNOU2VzdGo4N0FnWGtRYkRzaFZXSDZXS0g2cWxkeWFwUWo2Rmlfa2oyNUpqMWhGSUVnRkZHLUoxRzV5ZTMtcHZ3a1Y0VVNCRE9PSV9QSG1mTVozYVJ4MEh5MDFNTzhzRDBPVFItb1ZjZw?oc=5",
@@ -4980,26 +5000,6 @@
       "published": "Sun, 16 Oct 2022 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNX01nelotUFAwa1FLM3FnbnptdFJpZlpUbGNxdThTV1RaeS1HRk9vMldXbFlBRHZ0Mlh4UGUyTmtycjFIVGVKR1FWeFR4VXRINUJsdmctS3FTYXVaMVRzbk1KQ1Z1VWhYRTBEM0dtaW5jUVptbFlfcWlXajhyYXlkalAxNUt4eURka0JTdE1LeEswZjczT1RTQg?oc=5\" target=\"_blank\">Los Angeles County's first compact lot houses are coming to East L.A.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "other"
-    },
-    {
-      "id": "0e3d37cd671a1b5e",
-      "title": "Will resi get relief as Measure ULA goes under review? - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeUFRZFZ0OUpPVTU0V3l4LTNocHBCbmxDWUQ1cy1EbzBIeklKa3UxUkpyeFB2RUpYckNoMGxGOFpvZHdXc0M1a25SYTJJV0ZFRndKOUdVdFNOYTU1UjZzNXlXX2VkYlZ0N1Y2emFLUExiaThOUmpORHlxclpKRk15Z0huVzA3ajlKVmNV?oc=5",
-      "source": "The Real Deal",
-      "published": "Sun, 15 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeUFRZFZ0OUpPVTU0V3l4LTNocHBCbmxDWUQ1cy1EbzBIeklKa3UxUkpyeFB2RUpYckNoMGxGOFpvZHdXc0M1a25SYTJJV0ZFRndKOUdVdFNOYTU1UjZzNXlXX2VkYlZ0N1Y2emFLUExiaThOUmpORHlxclpKRk15Z0huVzA3ajlKVmNV?oc=5\" target=\"_blank\">Will resi get relief as Measure ULA goes under review?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "5ca4e69267a6890e",
-      "title": "Hearing on 4th & Central Project Postponed - Rafu Shimpo",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44aWhRa0pOTm85QmZKTkE0UW1wWWJ3RzNOdmQ3ekxSM2RXTjY3T3dQOERDbDVJMTR4TzNLRXh5c0YzUkpZb01GUEc2M1psNGctOHlzZzE3Ry1xbkJKY1piMlBlakpUNTZMdlVvN2lBYmxZRFg2?oc=5",
-      "source": "Rafu Shimpo",
-      "published": "Sun, 12 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE44aWhRa0pOTm85QmZKTkE0UW1wWWJ3RzNOdmQ3ekxSM2RXTjY3T3dQOERDbDVJMTR4TzNLRXh5c0YzUkpZb01GUEc2M1psNGctOHlzZzE3Ry1xbkJKY1piMlBlakpUNTZMdlVvN2lBYmxZRFg2?oc=5\" target=\"_blank\">Hearing on 4th & Central Project Postponed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rafu Shimpo</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "other"
     }
   ]
