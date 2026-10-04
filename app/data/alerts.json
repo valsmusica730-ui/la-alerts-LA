@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:26:26.141296+00:00",
+  "generated_at": "2026-10-04T22:04:00.243032+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1773,6 +1773,16 @@
       "category": "tax"
     },
     {
+      "id": "ccff19844b797095",
+      "title": "Council Holds Off On Measure ULA Exemption for New Housing - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGdsQ2xacGxDdXRDbVA2ZFBnZnJLTEhfcXZPRGVXTXplVk1wSk4zN3Vhd0tQbVJaN1FHeFQ0VzRuRVZMQkw1VVlxdFJUdVdCU1h3dHdFU201eGdyajREaFZLRFVZa2xlZUhGZG1rLVh3YV9MbEItRE5fa1lVZzMzRVJCRzhZeWUyVlJRRm5aSjdKZ2NHM0FrT2I5N0M1QXpDRkY4YVNhbw?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGdsQ2xacGxDdXRDbVA2ZFBnZnJLTEhfcXZPRGVXTXplVk1wSk4zN3Vhd0tQbVJaN1FHeFQ0VzRuRVZMQkw1VVlxdFJUdVdCU1h3dHdFU201eGdyajREaFZLRFVZa2xlZUhGZG1rLVh3YV9MbEItRE5fa1lVZzMzRVJCRzhZeWUyVlJRRm5aSjdKZ2NHM0FrT2I5N0M1QXpDRkY4YVNhbw?oc=5\" target=\"_blank\">Council Holds Off On Measure ULA Exemption for New Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "tax"
+    },
+    {
       "id": "5732486ee066844b",
       "title": "Coronavirus: Gov. Newsom extends state eviction moratorium through September - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNejJ4cDV5YXFmcDE2a0MxNlVEbkJHTlozb1lGU3ZkbUlzSERtVFY4RjdkakJkYkw4cmE5cHhTNi10bTZUM09IUkhfQUxMazdnM2JCZU95MFR2SWMwajVSMk5yZkhqWExNaFUzOVFFNVBwc2NheTBjTWpFbkV3V1QzSGpSWXkyLTctenVQSnVfVzNpck3SAZgBQVVfeXFMUHJKOG5mazIyY0JHUi0xczBUNmlBM3R4ZTU4RmtJZjdKTkNvOGc3UGZPanVVMVJSRDlOVnRkaGJTLVRsQi1uSDFZWVZRZVUzdmk3NGFmVk9FTEhYSXFUWVQzeXdzN2U4S2NZS1lwNmFZNXBEY0pmNjNnWmdJWkkxZkc4ZU0tVXdaNmhOTmpmaXZjOEdnNlJyU0I?oc=5",
@@ -3393,6 +3403,16 @@
       "category": "other"
     },
     {
+      "id": "15cb87100992f161",
+      "title": "Calif. extends eviction moratorium through June - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakhQUUp3RGhKY21kRDBGRUxyaUJGdXBnN25xS2tuS0hDU21iTVpyXzlJZlgxaDU0NU5MZGxYZ2xoa2tWOGdaTzhET1ktaUs0TWt5R0xlTmtVVHRMdmtHVXBHZ2gyWGwtVlRhcTJxekNZdTExTjVFZTlGZjlPM0xHZmNrMXR2OGJzaU5HRnNaMVM?oc=5",
+      "source": "CBS News",
+      "published": "Thu, 31 Mar 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNakhQUUp3RGhKY21kRDBGRUxyaUJGdXBnN25xS2tuS0hDU21iTVpyXzlJZlgxaDU0NU5MZGxYZ2xoa2tWOGdaTzhET1ktaUs0TWt5R0xlTmtVVHRMdmtHVXBHZ2gyWGwtVlRhcTJxekNZdTExTjVFZTlGZjlPM0xHZmNrMXR2OGJzaU5HRnNaMVM?oc=5\" target=\"_blank\">Calif. extends eviction moratorium through June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "adu"
+    },
+    {
       "id": "d956a5e364850fc5",
       "title": "Bend approves rule change to allow 2 ADUs per property - Central Oregon Daily",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSW1qS1ZKMS16MDBtb1pqcTZoNVNHMV95bDFzeXlVMkxHMnUyVy04cmNUQnFGZ0xPWDJqaHRPcHF0UWlZcVNRdUhlbnVaRnRWOHRQYkU0My1sNkpWSzU3RXRxelR1VVJoUFBPRlVSLUxDTlIyQlRRSEJsdzNLRktUeEhqY3kzaTRzeWtON3laZ194S2NVUUxuLVlIVnZ3OXF5M3RJb3BVZXR1aWVUenZYcE9NMlZXbi1OeU5yMVFURXB2UmZMWXlyTA?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU0lyREJNOVRBYWphLXN4R2c5Qi1BbkFfUFJBaVpxc3gybjRUZHpHYmJ4MzlwQm9FRUJ1ckVZUWZNeThVa0plZmM5Wng5QVB6LU5SUDNNN3hadHdDbWlOY0lEYzlFOVN5ZE84RFhvQVVzLTJRQzZZQ1U5dTZVRlZESm5jWjYtU3dpQjZXQ29zYVBFNlBSTm5jb1JsbmFqQnpIeFkxSTA1Ny12d3B4MFZXZEtZM3d3V1h2X1N0Z2lNMmkxckdLd21wamdDRHJxczdNQzZkSTR4c24zYVhKcGdJbmd3?oc=5\" target=\"_blank\">LA County’s inclusionary housing ordinance is a step forward in the fight against California’s housing shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">firsttuesday Journal</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
-    },
-    {
-      "id": "6cc88db494c8da14",
-      "title": "Measure ULA tax forces homeowners to think twice about selling - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODdHaWtTNHJLcXBkaUFpaDd0VlFMQlFCM2ZGMTJ0N0JDcWg1eHZCczVoOEVEZkRzbDlwYk0yYlBrNkRkWnU4ckE4Slc5Y05UMG9ENXhmcDRoNjJocFpsSnNYQU9iUmJnRGZHSWRheTNuMkQtMllKM3BINUVsQnRFYW81cl9ab2lfR0hFNDlSR1Z6MlhSY25VNg?oc=5",
-      "source": "The Real Deal",
-      "published": "Sun, 26 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPODdHaWtTNHJLcXBkaUFpaDd0VlFMQlFCM2ZGMTJ0N0JDcWg1eHZCczVoOEVEZkRzbDlwYk0yYlBrNkRkWnU4ckE4Slc5Y05UMG9ENXhmcDRoNjJocFpsSnNYQU9iUmJnRGZHSWRheTNuMkQtMllKM3BINUVsQnRFYW81cl9ab2lfR0hFNDlSR1Z6MlhSY25VNg?oc=5\" target=\"_blank\">Measure ULA tax forces homeowners to think twice about selling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "c65e2c9736e7582f",
-      "title": "Townhome-style apartments approved at 9335 Noble Ave. in North Hills - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVpTTFNWZGhaTHhkUmpTaDE3dG0yODhueWFMV3FrS2ViTDhMNUhoazVPR2pXczBvbVdhdUJnelpXRVBlNFNRSTF1SEYtWkJXbHI2VmhvV3RnTVlsczJTcE5hejh2N0l0RVpBd3VzQXNJMzJTd3ZIZ3drZlpyeXFBWF9TcHU3bkxGZFYzYTgzV1FtTlhGQ3c?oc=5",
-      "source": "Urbanize LA",
-      "published": "Sun, 25 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVpTTFNWZGhaTHhkUmpTaDE3dG0yODhueWFMV3FrS2ViTDhMNUhoazVPR2pXczBvbVdhdUJnelpXRVBlNFNRSTF1SEYtWkJXbHI2VmhvV3RnTVlsczJTcE5hejh2N0l0RVpBd3VzQXNJMzJTd3ZIZ3drZlpyeXFBWF9TcHU3bkxGZFYzYTgzV1FtTlhGQ3c?oc=5\" target=\"_blank\">Townhome-style apartments approved at 9335 Noble Ave. in North Hills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "other"
     }
   ]
 }
