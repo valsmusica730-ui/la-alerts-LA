@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T22:32:18.638524+00:00",
+  "generated_at": "2026-10-04T02:12:36.246735+00:00",
   "total": 500,
   "alerts": [
     {
@@ -449,6 +449,16 @@
       "source": "CBS News",
       "published": "Wed, 23 Nov 2022 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdGxDa3VnSUJxWXJVLWlXTnEyaWpNRGNYVVNhWFlNY2ItOEUxanhsckpydGhzQzJsc3c2UDdGMjFoTjY2aGItMUkyNVBjTUw5YVBTUmNDMWhOTzhzdUhDZnFYYUlHM0RMYVVmUERoNXBrSkpSMDl2d09WdFpHMVE1aWRHT0Y0REFpdVdIZk5Pc3JXYlgtZ213T2dOSGtXd9IBowFBVV95cUxNV3JEZTVURURZVUdEWUFJbzJVbU5lTVQwZm5fYkpEaFd4a0tfQ1ZHY0ZLaDhRRGVsb0QybDFSclh0ak1fNm95MU54TF9RbnIydjVuMzF5aWFuX1VrcTJRZjhpMUI2RHpONDFTdDRuWGg1NUNtTTRrc0ZWUVlDOWlGTnM0dmZ1ZGQ1Q0txZmlNencyU1hZM0FOb2hRZUl5dHdsTW1z?oc=5\" target=\"_blank\">Judge tosses lawsuit against LA over eviction moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "legal"
+    },
+    {
+      "id": "ed59881d958fdd5a",
+      "title": "Judge tosses lawsuit against LA over eviction moratorium - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGxDa3VnSUJxWXJVLWlXTnEyaWpNRGNYVVNhWFlNY2ItOEUxanhsckpydGhzQzJsc3c2UDdGMjFoTjY2aGItMUkyNVBjTUw5YVBTUmNDMWhOTzhzdUhDZnFYYUlHM0RMYVVmUERoNXBrSkpSMDl2d09WdFpHMVE1aWRHT0Y0REFpdVdIZk5Pc3JXYlgtZ213T2dOSGtXdw?oc=5",
+      "source": "CBS News",
+      "published": "Wed, 23 Nov 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdGxDa3VnSUJxWXJVLWlXTnEyaWpNRGNYVVNhWFlNY2ItOEUxanhsckpydGhzQzJsc3c2UDdGMjFoTjY2aGItMUkyNVBjTUw5YVBTUmNDMWhOTzhzdUhDZnFYYUlHM0RMYVVmUERoNXBrSkpSMDl2d09WdFpHMVE1aWRHT0Y0REFpdVdIZk5Pc3JXYlgtZ213T2dOSGtXdw?oc=5\" target=\"_blank\">Judge tosses lawsuit against LA over eviction moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
     },
@@ -2539,6 +2549,16 @@
       "source": "smmirror.com",
       "published": "Tue, 16 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTBIOWpuak1abl9lN3Nna0hiZzlXbEIzZjhpbnUwVW9xb2dIUHRmb0w3X01NSVN3TEk2cGVsVmdSRDlKSjU0RkN6Zl8tX090bzU3akJNWXprU21kdlItem1Fdmp1X21sUWxLODdKdzdsUHFPNXJVQXZXQWNjc0V1aWZOblo0eGdGd0VGY3BPOTFEcTJPZktfWWZxUkRsUmEzdFhJeHNzTWxvSmYzTU1DM3V6UFhxalBTRlJoemx1dl9EQmxlWC1zQ29Mb3kxUQ?oc=5\" target=\"_blank\">This Venice Housing Project Has Been Fought Off for Years. Will a New Court Win Pave the Way for its Development?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smmirror.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "legal"
+    },
+    {
+      "id": "3bd888ae10dfd01e",
+      "title": "This Venice Housing Project Has Been Fought Off for Years. Will a New Court Win Pave the Way for its Development? - Palisades News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY2N4alA0WXd5S0RRZzhNTUs0V2E3cFFXc3ZiVExFaWd0eXBDd0dBbVl2VUhyQnY4NF9fcDBENXE1UndScmVnWTRKbU5kM0JlM2Qxb1NjbENOSXg0Z1NBc1Bwc3A4OHVFRl84RVJjbFlTRVVMSWN3UFdkc2FXU0ZwclpiTnR0SGdQakpuTElXV1ZBTms4LWhEYXA2aGNfM2M2Nk5vMFFqSEJfMFQ1M2FyUWtZYVByTDMyZ1c0Smt3U3Z1UGQ2ekxZc1NmQm1xREpZVklLSQ?oc=5",
+      "source": "Palisades News",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY2N4alA0WXd5S0RRZzhNTUs0V2E3cFFXc3ZiVExFaWd0eXBDd0dBbVl2VUhyQnY4NF9fcDBENXE1UndScmVnWTRKbU5kM0JlM2Qxb1NjbENOSXg0Z1NBc1Bwc3A4OHVFRl84RVJjbFlTRVVMSWN3UFdkc2FXU0ZwclpiTnR0SGdQakpuTElXV1ZBTms4LWhEYXA2aGNfM2M2Nk5vMFFqSEJfMFQ1M2FyUWtZYVByTDMyZ1c0Smt3U3Z1UGQ2ekxZc1NmQm1xREpZVklLSQ?oc=5\" target=\"_blank\">This Venice Housing Project Has Been Fought Off for Years. Will a New Court Win Pave the Way for its Development?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palisades News</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "legal"
     },
@@ -4980,26 +5000,6 @@
       "published": "Sun, 20 Sep 2026 17:57:13 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYndVNm4xM1RDVTRmS050MjBzVWFYN3BnRzRnUG5GOVRCbUJrVnhEUVNZTk50aEJ6ajdNZVhweS1uZlRGMXVuUmRnZWlkcmtKWW9aSHlkby14dGpERHk5bWFfOThZR2F1UzFmYjl5Mkd5UGwwOG1xX2ltcndVcDlwZEpWZWhhdllSRGxIUkYwTVl1ZzY3WGVyT3BVNlPSAaIBQVVfeXFMTms2blRYeWFtVUtvenpfRkExV1BNUXhzMFNac0Jfd0F0Q25hM0F3TDUzU1ZiNzczVVM2Wl9uQzBpZjUzTXZ3RE9JcXZqX3FxY1VEVU96SHNwMTg2T3dZWWoxTVBZZ1JpdU9yVG9vX1NFTGJxQWg4Tlo1NmRfNnlHX0gyamVxUmdSVWpXd1A2WVVqYjFSX3hGYXJHS1FFQVdOZkF3?oc=5\" target=\"_blank\">LA County issues temporary ban on data centers in unincorporated areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "other"
-    },
-    {
-      "id": "5f660a313b842c4c",
-      "title": "LA County issues temporary ban on data centers in unincorporated areas - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYndVNm4xM1RDVTRmS050MjBzVWFYN3BnRzRnUG5GOVRCbUJrVnhEUVNZTk50aEJ6ajdNZVhweS1uZlRGMXVuUmRnZWlkcmtKWW9aSHlkby14dGpERHk5bWFfOThZR2F1UzFmYjl5Mkd5UGwwOG1xX2ltcndVcDlwZEpWZWhhdllSRGxIUkYwTVl1ZzY3WGVyT3BVNlM?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published": "Sun, 20 Sep 2026 17:57:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYndVNm4xM1RDVTRmS050MjBzVWFYN3BnRzRnUG5GOVRCbUJrVnhEUVNZTk50aEJ6ajdNZVhweS1uZlRGMXVuUmRnZWlkcmtKWW9aSHlkby14dGpERHk5bWFfOThZR2F1UzFmYjl5Mkd5UGwwOG1xX2ltcndVcDlwZEpWZWhhdllSRGxIUkYwTVl1ZzY3WGVyT3BVNlM?oc=5\" target=\"_blank\">LA County issues temporary ban on data centers in unincorporated areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "other"
-    },
-    {
-      "id": "88155b85d421c2f3",
-      "title": "California Enacts Historic Housing Reform Laws - Legal Planet",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWdkdkZsREpzVWd4NlprV2JuVDBzQTg1ZHlrUElJbWQ2cHh6Y0d3ZUVpU3J0RXY3ajN2Zkw1aTktMlhnVWFtUXR3dTkwZHliS0wwQW8yamg0OHFhdnBCaG1aZjN2TGlEXzFHWnFJR0JQb0dIS1l5d2MzUTFCcElYYUJoTU9PSXZPMDU0?oc=5",
-      "source": "Legal Planet",
-      "published": "Sun, 19 Sep 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWdkdkZsREpzVWd4NlprV2JuVDBzQTg1ZHlrUElJbWQ2cHh6Y0d3ZUVpU3J0RXY3ajN2Zkw1aTktMlhnVWFtUXR3dTkwZHliS0wwQW8yamg0OHFhdnBCaG1aZjN2TGlEXzFHWnFJR0JQb0dIS1l5d2MzUTFCcElYYUJoTU9PSXZPMDU0?oc=5\" target=\"_blank\">California Enacts Historic Housing Reform Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legal Planet</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "other"
     }
   ]
