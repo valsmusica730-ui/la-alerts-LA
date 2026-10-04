@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T14:31:44.426367+00:00",
+  "generated_at": "2026-10-04T18:26:26.141296+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4553,6 +4553,16 @@
       "category": "policy"
     },
     {
+      "id": "47e0a83a6e7235f8",
+      "title": "LA Planning Commission Approves of Wildlife District in Santa Monica Mountains - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV0c3ZnpoTmN1X3J5ZUxzS1FJVnZ0eWtGWjBPT0VCYzFLR3JSVlh4bG93VHNnT05rV05WcldEWnhNUkJUcTFjQlFMWjVrRmhIQlplVzJ2MnYtTWJpaHhTaTBXQXNLSC16bjdja1BZUzRKUlRpM21mbUp5YTZYWjFpY3p6TjNXUGw2ODBwdkNlbVQtSmY2cmlMdl83cUFFc3dOZ3B6SWJLS240VXpPZnVmY054VWVJbXFxUE9wSHV4MjE4WlEwRkJ30gHPAUFVX3lxTE03ZldaaHgtOXRhckozMFkxTEhzTEdFOG1tbFlWM1NXVnlRaWFCLWp3bFNjQ1dia1RHLXNuZ3d2WkIzR2o4SDhTV0xYbzk3ZGtwbUpzLTRyZUVPSjVxQ0JBWktrZDJWRnhnWW9ERjZ1Sm03dThYZlA1LXAtenY5ZDM5SGNiU2doRjdtSmdjU3RRWWZSNThEZXBLc2xmb3ZCZ21kald1V2psVlp0TGlGX3U2cmk5MDlyRXIwSFZXZTd0MXB2TGY0bzh6VzdhTm5CYw?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Thu, 08 Dec 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNV0c3ZnpoTmN1X3J5ZUxzS1FJVnZ0eWtGWjBPT0VCYzFLR3JSVlh4bG93VHNnT05rV05WcldEWnhNUkJUcTFjQlFMWjVrRmhIQlplVzJ2MnYtTWJpaHhTaTBXQXNLSC16bjdja1BZUzRKUlRpM21mbUp5YTZYWjFpY3p6TjNXUGw2ODBwdkNlbVQtSmY2cmlMdl83cUFFc3dOZ3B6SWJLS240VXpPZnVmY054VWVJbXFxUE9wSHV4MjE4WlEwRkJ30gHPAUFVX3lxTE03ZldaaHgtOXRhckozMFkxTEhzTEdFOG1tbFlWM1NXVnlRaWFCLWp3bFNjQ1dia1RHLXNuZ3d2WkIzR2o4SDhTV0xYbzk3ZGtwbUpzLTRyZUVPSjVxQ0JBWktrZDJWRnhnWW9ERjZ1Sm03dThYZlA1LXAtenY5ZDM5SGNiU2doRjdtSmdjU3RRWWZSNThEZXBLc2xmb3ZCZ21kald1V2psVlp0TGlGX3U2cmk5MDlyRXIwSFZXZTd0MXB2TGY0bzh6VzdhTm5CYw?oc=5\" target=\"_blank\">LA Planning Commission Approves of Wildlife District in Santa Monica Mountains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "ec025d5466378340",
       "title": "Bound to Fail: Pawning off Urban Reaganomics as ‘Progressive’ Housing Policy - CityWatch LA",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHEyVlg0WDhSNklrMUt5RWliRUU4RGdMdTNfYndpSWtZME96NW54eFpnTXQzMy1UTEdGbDVsN29lNHE0b205ZDFtZ2tVdm5Ya0ZpMmVJM2UzMHdwckM3M1diLTZhOE5xdHJQMGRoVE5jYmRxZVFrUU5nbEJxWFc1S254R0wtQzR4VHhZb1VBM2RXbk5PblRLWEZ6d2VEbjM2N2tfcDZNZUpaOHFiYThnWElnZVFmZ05aTWlV?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVpTTFNWZGhaTHhkUmpTaDE3dG0yODhueWFMV3FrS2ViTDhMNUhoazVPR2pXczBvbVdhdUJnelpXRVBlNFNRSTF1SEYtWkJXbHI2VmhvV3RnTVlsczJTcE5hejh2N0l0RVpBd3VzQXNJMzJTd3ZIZ3drZlpyeXFBWF9TcHU3bkxGZFYzYTgzV1FtTlhGQ3c?oc=5\" target=\"_blank\">Townhome-style apartments approved at 9335 Noble Ave. in North Hills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "other"
-    },
-    {
-      "id": "3578fb08aa93f263",
-      "title": "Commentary: California’s Housing Crisis Demands More Than Symbolic Legislation Like SB 9 - Davis Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNallmc1JkcVlQeklGUFVmODBQbEFiQjhWR00yNHpSZ0EzbFVMV05waEtjbUl2dmJNQ1dxWHdGWVQ2MDE2YUoySmtwTHhMY2FwYVNWeXdyMHRnTWMyQmhVaW5YdWRwVFUxTkNNSjU2UzBTRVNLR25vM2hDVFdlazU2SFY1OGJUb3FJdDFaMV9ETWZkcVJpamlBMEQ2bFo2cnY0cVRkd3JoSTRDajktUUlZYndlWGtEWFcwWkN2dXB3?oc=5",
-      "source": "Davis Vanguard",
-      "published": "Sun, 23 Feb 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNallmc1JkcVlQeklGUFVmODBQbEFiQjhWR00yNHpSZ0EzbFVMV05waEtjbUl2dmJNQ1dxWHdGWVQ2MDE2YUoySmtwTHhMY2FwYVNWeXdyMHRnTWMyQmhVaW5YdWRwVFUxTkNNSjU2UzBTRVNLR25vM2hDVFdlazU2SFY1OGJUb3FJdDFaMV9ETWZkcVJpamlBMEQ2bFo2cnY0cVRkd3JoSTRDajktUUlZYndlWGtEWFcwWkN2dXB3?oc=5\" target=\"_blank\">Commentary: California’s Housing Crisis Demands More Than Symbolic Legislation Like SB 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
