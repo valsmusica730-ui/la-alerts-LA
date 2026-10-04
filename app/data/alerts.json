@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T02:12:36.246735+00:00",
+  "generated_at": "2026-10-04T14:31:44.426367+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2393,6 +2393,16 @@
       "category": "policy"
     },
     {
+      "id": "94695a269f99f6aa",
+      "title": "LA City Planning Commission Green-Lights 30-Unit Mixed-Use Development in Venice - whatnow.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVBnNnRhNEFlSS1kQ1N0cm9TbERaeWgtX3RtM2hDUEtQRWlhcUtfZnF4YjZUZHYzMHlaalZqc3ZFcHRmMjgya0lYS3RZTlozNnkyT1c4MGNvUEZKLWVoMXc4UzZpR0pfbUxvUVRObXFfYVd0ZWdsTl9tRUt4Vm1KQ3BJdUxZRXRNVTJoOFFyR0pHdTlvc2dqazN4bXBObTZvUFo1M2JoTFB4TFViWHliNkhZNjd5bmZlTUFuR1M3ekJQN3c?oc=5",
+      "source": "whatnow.com",
+      "published": "Tue, 19 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVBnNnRhNEFlSS1kQ1N0cm9TbERaeWgtX3RtM2hDUEtQRWlhcUtfZnF4YjZUZHYzMHlaalZqc3ZFcHRmMjgya0lYS3RZTlozNnkyT1c4MGNvUEZKLWVoMXc4UzZpR0pfbUxvUVRObXFfYVd0ZWdsTl9tRUt4Vm1KQ3BJdUxZRXRNVTJoOFFyR0pHdTlvc2dqazN4bXBObTZvUFo1M2JoTFB4TFViWHliNkhZNjd5bmZlTUFuR1M3ekJQN3c?oc=5\" target=\"_blank\">LA City Planning Commission Green-Lights 30-Unit Mixed-Use Development in Venice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">whatnow.com</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "1885a4468b83fbcc",
       "title": "Santa Clarita Building Owners Eyeing New L.A. Seismic Retrofit Law - hometownstation.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeERMOC1fQmk2cmNZT1FKbVVhNG9pWEkzMzRTRDZUSDJJU19tRDAtZXRSR1hoZ2hQT3pEWFZxRWxiUW04X3JJSjg0aWQ5eS0wcmt5SHUzcHI0Z0xfTlUzSjBDT0NtbFItLVlpU1g1T0NfVktNWVNlei1OenRfX1FjaEJDZGhXeGlPY2gxdURZYWdsRG82VndKZ0ZTeHZieGpGM3pmc2t5OGh4eHB2dWtQYVVvMXRDbnBVQk9KdDQ5ems?oc=5",
@@ -4363,6 +4373,16 @@
       "category": "policy"
     },
     {
+      "id": "c0fe8a8d4e82edb0",
+      "title": "Hawaii House Unanimously Passes Bill to Block Building Code Restrictions on Hempcrete - The Marijuana Herald",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGk5cV82d1Y1bWx2Ui1jVTNyZzNQdE5PWS10blRZSjFGdjA2amNZMVBxaG9QNXJUYkFhSEJQcmRzM2ZiZExkNWpKMUJyelNpd1NZVjVrUXZDYnd2VUJaZmE1S1p2bTJ2dWhHWG1VR2Z3N0RtTXRLc2k3VnU4eldLYUwyeHZmWkZXeWg1bEFMY0I4U3d4TFI3NmhUUzc1REFuYVJVSFA1aTkyeUpNRVpyM0syRzVaVXZnaDY5T20zVUxtV1U?oc=5",
+      "source": "The Marijuana Herald",
+      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGk5cV82d1Y1bWx2Ui1jVTNyZzNQdE5PWS10blRZSjFGdjA2amNZMVBxaG9QNXJUYkFhSEJQcmRzM2ZiZExkNWpKMUJyelNpd1NZVjVrUXZDYnd2VUJaZmE1S1p2bTJ2dWhHWG1VR2Z3N0RtTXRLc2k3VnU4eldLYUwyeHZmWkZXeWg1bEFMY0I4U3d4TFI3NmhUUzc1REFuYVJVSFA1aTkyeUpNRVpyM0syRzVaVXZnaDY5T20zVUxtV1U?oc=5\" target=\"_blank\">Hawaii House Unanimously Passes Bill to Block Building Code Restrictions on Hempcrete</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Marijuana Herald</font>",
+      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
+      "category": "construction"
+    },
+    {
       "id": "ca256c2e03217807",
       "title": "LAHD releases first “mansion tax” funds to jumpstart affordable housing construction - archpaper.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDlDSjlMSkp2dXpRbV9kV21QRkVkQ3ZCWk5CWWFka0FGNDgyS1R4d0xjbDlUVGFUNTVZUDJyZWdVd29NQlZrRVllc2lXUUlnUDRYREhrT21VNjIxZEUzbTlYbTZUQlg2LThzbVpHenZrTlEwZWd4eGFtSmlJUTFkVDd6WTRZV3dMdTlKX2VDMnJidmw0a0pCdHFIWGg1QmhS?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNallmc1JkcVlQeklGUFVmODBQbEFiQjhWR00yNHpSZ0EzbFVMV05waEtjbUl2dmJNQ1dxWHdGWVQ2MDE2YUoySmtwTHhMY2FwYVNWeXdyMHRnTWMyQmhVaW5YdWRwVFUxTkNNSjU2UzBTRVNLR25vM2hDVFdlazU2SFY1OGJUb3FJdDFaMV9ETWZkcVJpamlBMEQ2bFo2cnY0cVRkd3JoSTRDajktUUlZYndlWGtEWFcwWkN2dXB3?oc=5\" target=\"_blank\">Commentary: California’s Housing Crisis Demands More Than Symbolic Legislation Like SB 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
-    },
-    {
-      "id": "554d7d7132ec50a9",
-      "title": "California’s housing crisis: Would SB 9 zoning bill make a big impact? - Victorville Daily Press",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVZlTHA1QTBNVzhEdHZpRjdDeEUxMERhMmp0N3BtdkVfZ3ZlY044VDc2U3ZYOGtxLUV5WWpKYkdOejczdFE2V29qV0hhZ0Z4TEtYVklUYUF3RjRKVHdNNXpGbVpRb1k2WHRUMGdRZW9UbzVQb1pXVFpJalVvSHpwY1FOMmJxWVEyM09lOW9lVEtOR0J3RFg2LVRHSzFEbzlzcGtqY2RyWmotM0JhX09qbEdaSFlISGhWa2I5OThoWVF2RWI5alBtMDR3UjhwNWlnNlE?oc=5",
-      "source": "Victorville Daily Press",
-      "published": "Sun, 22 Aug 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVZlTHA1QTBNVzhEdHZpRjdDeEUxMERhMmp0N3BtdkVfZ3ZlY044VDc2U3ZYOGtxLUV5WWpKYkdOejczdFE2V29qV0hhZ0Z4TEtYVklUYUF3RjRKVHdNNXpGbVpRb1k2WHRUMGdRZW9UbzVQb1pXVFpJalVvSHpwY1FOMmJxWVEyM09lOW9lVEtOR0J3RFg2LVRHSzFEbzlzcGtqY2RyWmotM0JhX09qbEdaSFlISGhWa2I5OThoWVF2RWI5alBtMDR3UjhwNWlnNlE?oc=5\" target=\"_blank\">California’s housing crisis: Would SB 9 zoning bill make a big impact?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Victorville Daily Press</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "fe685134b628103c",
-      "title": "LA County issues temporary ban on data centers in unincorporated areas - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYndVNm4xM1RDVTRmS050MjBzVWFYN3BnRzRnUG5GOVRCbUJrVnhEUVNZTk50aEJ6ajdNZVhweS1uZlRGMXVuUmRnZWlkcmtKWW9aSHlkby14dGpERHk5bWFfOThZR2F1UzFmYjl5Mkd5UGwwOG1xX2ltcndVcDlwZEpWZWhhdllSRGxIUkYwTVl1ZzY3WGVyT3BVNlPSAaIBQVVfeXFMTms2blRYeWFtVUtvenpfRkExV1BNUXhzMFNac0Jfd0F0Q25hM0F3TDUzU1ZiNzczVVM2Wl9uQzBpZjUzTXZ3RE9JcXZqX3FxY1VEVU96SHNwMTg2T3dZWWoxTVBZZ1JpdU9yVG9vX1NFTGJxQWg4Tlo1NmRfNnlHX0gyamVxUmdSVWpXd1A2WVVqYjFSX3hGYXJHS1FFQVdOZkF3?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published": "Sun, 20 Sep 2026 17:57:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYndVNm4xM1RDVTRmS050MjBzVWFYN3BnRzRnUG5GOVRCbUJrVnhEUVNZTk50aEJ6ajdNZVhweS1uZlRGMXVuUmRnZWlkcmtKWW9aSHlkby14dGpERHk5bWFfOThZR2F1UzFmYjl5Mkd5UGwwOG1xX2ltcndVcDlwZEpWZWhhdllSRGxIUkYwTVl1ZzY3WGVyT3BVNlPSAaIBQVVfeXFMTms2blRYeWFtVUtvenpfRkExV1BNUXhzMFNac0Jfd0F0Q25hM0F3TDUzU1ZiNzczVVM2Wl9uQzBpZjUzTXZ3RE9JcXZqX3FxY1VEVU96SHNwMTg2T3dZWWoxTVBZZ1JpdU9yVG9vX1NFTGJxQWg4Tlo1NmRfNnlHX0gyamVxUmdSVWpXd1A2WVVqYjFSX3hGYXJHS1FFQVdOZkF3?oc=5\" target=\"_blank\">LA County issues temporary ban on data centers in unincorporated areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "other"
     }
   ]
 }
