@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:51:01.405727+00:00",
+  "generated_at": "2026-10-05T16:32:20.323999+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1493,6 +1493,16 @@
       "category": "tax"
     },
     {
+      "id": "6e2a06dc7d22d708",
+      "title": "Malibu, Pasadena settle SB 9 lawsuit, clearing way for added housing in fire zones - The Malibu Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOERWM3BrbmhwSHZMMng1TzJVS1BYX2xJMm5mR3Btemgxc0czY0JFRUZ4WDMzSW5GMEFNME5OUTJDemsyb2RUZ1NmY01CTDYtT3h5OWpMZmVSakdpMFo1MkFzOU5CUU9TOEpDQWZiZEQyUVhySGtpTjdqQkVnVDFFcFFtUy00ZkJWbXF1ODVmT3drME9QTElzMU0xZWJ3a0paeUM4UVNuMA?oc=5",
+      "source": "The Malibu Times",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOOERWM3BrbmhwSHZMMng1TzJVS1BYX2xJMm5mR3Btemgxc0czY0JFRUZ4WDMzSW5GMEFNME5OUTJDemsyb2RUZ1NmY01CTDYtT3h5OWpMZmVSakdpMFo1MkFzOU5CUU9TOEpDQWZiZEQyUVhySGtpTjdqQkVnVDFFcFFtUy00ZkJWbXF1ODVmT3drME9QTElzMU0xZWJ3a0paeUM4UVNuMA?oc=5\" target=\"_blank\">Malibu, Pasadena settle SB 9 lawsuit, clearing way for added housing in fire zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Malibu Times</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "legal"
+    },
+    {
       "id": "b5d038a2d1327332",
       "title": "L.A. County Supervisors Sign Off on Inclusionary Housing Policy - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1pDNGZaRWtYLTE2M1A4dWxXMGJGY2xyZ0k5RWdYbk5lWm4ya3hrUnd0blJmclpaazNaUVNaWmhBbmVhZGF2RTZIdGMwdk02U0haTjdvZFRLVDBKVklxbl9pR09leVV2MjZ2c0Q4T0NEMERsUS1xNU1sQ1hnamRteUk3bXByaTlMUkpwWQ?oc=5",
@@ -2719,6 +2729,16 @@
       "source": "orfonline.org",
       "published": "Tue, 14 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXc1QlYxVE43dVBQNDlCMHpqS291SWxXM0YwWWt5TDhaNmNnaDRHeWU1OTljSVFCYnBaYmUwZXN0dXJQQnZaZy1RYll2NGlRci04M25oNGVYZktwZDlEZjljWDNtSnVQTjU4RWdtOHpqX1MwOTcwYkw3TmRhWUxpOTdHZ2U4UQ?oc=5\" target=\"_blank\">LA’s Mansion Tax: Lessons for Urban India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">orfonline.org</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
+      "id": "c0cc396eb9cf7fa9",
+      "title": "LA Council Commissions Reports on Mansion Tax Impact - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3k0eVV1dFJDVDNfeTFKb2tDMDhHZkk2NlNhNmdVM01tMFU1VTlrbE1EUVkyWXYyeGwteFBEekpnbHR5aVp2aVBzalVPbUNnNXZmcjZlSXQ2LS16R2gxUDExWWRYT251OWE5SGFDT0dXNGpiZV9xSDk1bUVka3g3eTVmbFBzNDFRSTRpWVFSYll1SHZOcktRQjlpdHFWNk0?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3k0eVV1dFJDVDNfeTFKb2tDMDhHZkk2NlNhNmdVM01tMFU1VTlrbE1EUVkyWXYyeGwteFBEekpnbHR5aVp2aVBzalVPbUNnNXZmcjZlSXQ2LS16R2gxUDExWWRYT251OWE5SGFDT0dXNGpiZV9xSDk1bUVka3g3eTVmbFBzNDFRSTRpWVFSYll1SHZOcktRQjlpdHFWNk0?oc=5\" target=\"_blank\">LA Council Commissions Reports on Mansion Tax Impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
     },
@@ -4233,6 +4253,16 @@
       "category": "other"
     },
     {
+      "id": "3cfe4fa0c789365f",
+      "title": "LA Area Chamber Calls on City Council to Reform Measure ULA - Culver City Observer",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGZMU2g2eEx4dDdiQmlSbF9LU3JpRk1Id1BqQXAtaHRmS3Fhc0RTTXJONFMtMGRRY244MmVQTHJXSmhfVFJLWjFPTXVlWXctQ2REU2hLSjNmOUQtZFZ6WUNxWHFMUDJjM1pzQ05oc2FwX2lUTDVDRUtrdWVmbXNDZGtFS0t1Yk5RODM4VXNUSzh0aWZLM3plQ3pSZm1KZ2g0dkcySk40elN0bEJEelIwY0VzZEFuQ3hyRjFtSWdad0pOZGFCVkE?oc=5",
+      "source": "Culver City Observer",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGZMU2g2eEx4dDdiQmlSbF9LU3JpRk1Id1BqQXAtaHRmS3Fhc0RTTXJONFMtMGRRY244MmVQTHJXSmhfVFJLWjFPTXVlWXctQ2REU2hLSjNmOUQtZFZ6WUNxWHFMUDJjM1pzQ05oc2FwX2lUTDVDRUtrdWVmbXNDZGtFS0t1Yk5RODM4VXNUSzh0aWZLM3plQ3pSZm1KZ2g0dkcySk40elN0bEJEelIwY0VzZEFuQ3hyRjFtSWdad0pOZGFCVkE?oc=5\" target=\"_blank\">LA Area Chamber Calls on City Council to Reform Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Culver City Observer</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "3b4c59bc9aec1237",
       "title": "Plan To Demolish Beverly Plaza For 8-Story Building Approved - Patch",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDVrSThpT2h6Y2x2bXZoMXBfUDlsWFlyclgxcEVPOE4zTjVUNXdPX2tnRGEtdmlmQVBTMHIwRGVYV29Pa0FXZFFWSTF0RlEzU2t1cVowQjZRXzlsSk10REJFRnFoeGhrcnlCd21LTUNOdC02MGc1QTVDVDN2Q195dElMWUtmemFyeGJiaFZWN1VtcFIwQUFEVmxB?oc=5",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXBMV2FpWFFqeUx3T0VFcktlVGRINVJjWmdJM09xb0R1TDFVU2d5YTRlV1MzRlhEMWJzRHNneU5NcDdLbmc3S1lxVVQxLVFnSzkwMkh3ajBqeFNZdk1rSnc1UW40QXA2MExYNVpFcnowWTlWWTF0Y09BenlPOWowNGdpRE5ZcmNDV3lsQ2tETWp6S0lqU1pseUxCVl9tZEo0bmVRYUtuM0JFWHI3ODlURmNlLWotRDctaGg1VC1KRHlSb2ljNGx6NnR1MUdlZDNWdnJQd0pUQUN3dGw1?oc=5\" target=\"_blank\">Your guide to the L.A. City Council District 3 race: Gaspar vs. Worth Girvan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "1c70e585453fc829",
-      "title": "Where are tenants falling through the cracks of California eviction ban? - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXlJOUFrZ0gwX2Yxc2xYTE5LVUtySDBjMUFrNHNBWXZicU9yYldZN1JrbDJYbUlhZi03cmFvbDV2RWJZWUdfdUt5Sl9PVEhLSFUxVlZ4cnA4RVZ6TUVCdmU3R1c4OEJIdXRRZTNaSkZ3X2NNdzZkd3VrWFJ1X0gyVWlpYmg?oc=5",
-      "source": "CalMatters",
-      "published": "Thu, 01 Jul 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXlJOUFrZ0gwX2Yxc2xYTE5LVUtySDBjMUFrNHNBWXZicU9yYldZN1JrbDJYbUlhZi03cmFvbDV2RWJZWUdfdUt5Sl9PVEhLSFUxVlZ4cnA4RVZ6TUVCdmU3R1c4OEJIdXRRZTNaSkZ3X2NNdzZkd3VrWFJ1X0gyVWlpYmg?oc=5\" target=\"_blank\">Where are tenants falling through the cracks of California eviction ban?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
-    },
-    {
-      "id": "d0cb2a9f9a269252",
-      "title": "14 percent of `soft-story’ structures compliant with 2015 L.A. seismic retrofit law - dailynews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHAxRjhZRWgyU2xEeTZwOFMtZGNyV0dwVXFURThMenJFWk4zOHlkM3hndk5UM2s0QnFJbkJTTWc0bHZaLWJobmNpV2tabHFkRHM0a0VjT3BFeGFKWUprZHl1RGFScER6eHFhd2JXREt5U3Vlajk2Y3JXYkVxMVdlNUlNSVB3ZEFZQkRXWl9NMWNFRGtkRDkyVWUwMjBhR3FDOFBPZzlRUHRwR1E?oc=5",
-      "source": "dailynews.com",
-      "published": "Sun, 31 Mar 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHAxRjhZRWgyU2xEeTZwOFMtZGNyV0dwVXFURThMenJFWk4zOHlkM3hndk5UM2s0QnFJbkJTTWc0bHZaLWJobmNpV2tabHFkRHM0a0VjT3BFeGFKWUprZHl1RGFScER6eHFhd2JXREt5U3Vlajk2Y3JXYkVxMVdlNUlNSVB3ZEFZQkRXWl9NMWNFRGtkRDkyVWUwMjBhR3FDOFBPZzlRUHRwR1E?oc=5\" target=\"_blank\">14 percent of `soft-story’ structures compliant with 2015 L.A. seismic retrofit law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
-      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
-      "category": "construction"
-    },
-    {
-      "id": "c217a0b18b99178d",
-      "title": "Where is real estate as Measure ULA battle tees up - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3pmUW9oaEtZZU11c3V1UEw5ZW1BdU5Da3huSWI1NGxFeDVxLUtlRjh4YVBkY1V6Qi1fbUZ4eXZQRDNrWjJBakpic2U3eVpFR0JjVHFYOVJJcDFXLVhkd2dmSXJRYklSNklkM05ua0FOVXdxLVhDOXZxM1NDZXdZRW8zdTJ4Q2FzTG1mNkRyaWNZZl9MRUlvX2RwVWd5UQ?oc=5",
-      "source": "The Real Deal",
-      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPT3pmUW9oaEtZZU11c3V1UEw5ZW1BdU5Da3huSWI1NGxFeDVxLUtlRjh4YVBkY1V6Qi1fbUZ4eXZQRDNrWjJBakpic2U3eVpFR0JjVHFYOVJJcDFXLVhkd2dmSXJRYklSNklkM05ua0FOVXdxLVhDOXZxM1NDZXdZRW8zdTJ4Q2FzTG1mNkRyaWNZZl9MRUlvX2RwVWd5UQ?oc=5\" target=\"_blank\">Where is real estate as Measure ULA battle tees up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
