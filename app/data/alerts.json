@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T22:04:00.243032+00:00",
+  "generated_at": "2026-10-05T07:51:01.405727+00:00",
   "total": 500,
   "alerts": [
     {
@@ -231,6 +231,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFI5YUFBMXJEUVdwVWVlTHIzZWNHS1NtTFptdlcxaG1VanBkUHRLQ2loVXhsYnRPWFhOVENhUXVmWndXMS1mbTVzUURiSHdRMFhib21CSUtfYmpQeUgtTUUzNGJWdURVaWlFZnBFZVdjWTFXMWtHdmZ2QmJVMVNyTFo3eXUwM1hQcXBvYXBOTk5KVHM4b0dYTXphbEtJUnhFTU8wRmZlaDM4TXQyLTI5WkxaMnUtWHplb25N0gHDAUFVX3lxTE1PUXZKTENIZDR4TWV3QnZvOGRDbnNCVjBlSnNlWFlaN05vMmNMRjlISnhYUGFZcnlEMzBrNmM0Z2paWl9vVElPMDlMWXVEeHpTNTk4UDBqRXVKNmp4Sl9IcWxHNFh6dmsxRDA2WGhLOWdYRU1ObTdJZ2RzX2tpR2VWUWhMWEhVTjVEMG1RX2dycEswR0pzVnR3U0VDb2RyQUtDWHNuY1RvS0F6cENiYk1jWW8zc1EzVjJBTWgtdGZ4OFd1WQ?oc=5\" target=\"_blank\">Council Committee Backs End Date for LA's COVID-19 Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "3c5142b9aeac9261",
+      "title": "California court blocks tenant protections for fired employees in company housing - hcamag.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ1J3Z1pNcTJUb0Q0dnhrOTh1NEFHY3htb1d5TElBZm1XX1lEeEhHRTdPNHJ6bmlfaDlUb3d2b2VOalU1WnVfbGV4WlkzRGFncExBeUp2cmJwcm01Y29zYVUzR0tYVjJDeWoyLW9mM28zWExad2ZSUlZkOVFLSGZkckpHbzVoZXFRVXNVNGJmajJ5SXRHQTVZT1p3YnNlRUowam1XbDhfX3JxdGxRR0xBa0tmTkRYM1BKWkFyNzVEUmVVODJKN1RjTTdtX1J4SC1sdl9ZRDd4OWtrWDZF?oc=5",
+      "source": "hcamag.com",
+      "published": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ1J3Z1pNcTJUb0Q0dnhrOTh1NEFHY3htb1d5TElBZm1XX1lEeEhHRTdPNHJ6bmlfaDlUb3d2b2VOalU1WnVfbGV4WlkzRGFncExBeUp2cmJwcm01Y29zYVUzR0tYVjJDeWoyLW9mM28zWExad2ZSUlZkOVFLSGZkckpHbzVoZXFRVXNVNGJmajJ5SXRHQTVZT1p3YnNlRUowam1XbDhfX3JxdGxRR0xBa0tmTkRYM1BKWkFyNzVEUmVVODJKN1RjTTdtX1J4SC1sdl9ZRDd4OWtrWDZF?oc=5\" target=\"_blank\">California court blocks tenant protections for fired employees in company housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hcamag.com</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "legal"
     },
     {
       "id": "6c29bcf664b89542",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPT3pmUW9oaEtZZU11c3V1UEw5ZW1BdU5Da3huSWI1NGxFeDVxLUtlRjh4YVBkY1V6Qi1fbUZ4eXZQRDNrWjJBakpic2U3eVpFR0JjVHFYOVJJcDFXLVhkd2dmSXJRYklSNklkM05ua0FOVXdxLVhDOXZxM1NDZXdZRW8zdTJ4Q2FzTG1mNkRyaWNZZl9MRUlvX2RwVWd5UQ?oc=5\" target=\"_blank\">Where is real estate as Measure ULA battle tees up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "fd71361de62f1720",
-      "title": "LA County’s inclusionary housing ordinance is a step forward in the fight against California’s housing shortage - firsttuesday Journal",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU0lyREJNOVRBYWphLXN4R2c5Qi1BbkFfUFJBaVpxc3gybjRUZHpHYmJ4MzlwQm9FRUJ1ckVZUWZNeThVa0plZmM5Wng5QVB6LU5SUDNNN3hadHdDbWlOY0lEYzlFOVN5ZE84RFhvQVVzLTJRQzZZQ1U5dTZVRlZESm5jWjYtU3dpQjZXQ29zYVBFNlBSTm5jb1JsbmFqQnpIeFkxSTA1Ny12d3B4MFZXZEtZM3d3V1h2X1N0Z2lNMmkxckdLd21wamdDRHJxczdNQzZkSTR4c24zYVhKcGdJbmd3?oc=5",
-      "source": "firsttuesday Journal",
-      "published": "Sun, 28 Feb 2021 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU0lyREJNOVRBYWphLXN4R2c5Qi1BbkFfUFJBaVpxc3gybjRUZHpHYmJ4MzlwQm9FRUJ1ckVZUWZNeThVa0plZmM5Wng5QVB6LU5SUDNNN3hadHdDbWlOY0lEYzlFOVN5ZE84RFhvQVVzLTJRQzZZQ1U5dTZVRlZESm5jWjYtU3dpQjZXQ29zYVBFNlBSTm5jb1JsbmFqQnpIeFkxSTA1Ny12d3B4MFZXZEtZM3d3V1h2X1N0Z2lNMmkxckdLd21wamdDRHJxczdNQzZkSTR4c24zYVhKcGdJbmd3?oc=5\" target=\"_blank\">LA County’s inclusionary housing ordinance is a step forward in the fight against California’s housing shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">firsttuesday Journal</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
     }
   ]
 }
