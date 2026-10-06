@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:21:25.336183+00:00",
+  "generated_at": "2026-10-06T21:20:55.077299+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2853,6 +2853,16 @@
       "category": "zoning"
     },
     {
+      "id": "c8e3a748f20ecbb1",
+      "title": "Accessory Dwelling Units (ADUs) in California - Bipartisan Policy Center",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnhVS19oYTBRbkNNbTc3WmczeUQ3cjFQTnBjWW1XTlk2VER0RkU4aElRRXlkbnRIZzhZZm8tQlg0NU1SNUVRNUwtVkdiSnJVMlB2NWROSlBhV2xhWlhObDc0N3BaTUw5bFgyUVhEdWREcS1MdVhienpleDRlNW12eUZsQUV0QjFy?oc=5",
+      "source": "Bipartisan Policy Center",
+      "published": "Tue, 12 Sep 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnhVS19oYTBRbkNNbTc3WmczeUQ3cjFQTnBjWW1XTlk2VER0RkU4aElRRXlkbnRIZzhZZm8tQlg0NU1SNUVRNUwtVkdiSnJVMlB2NWROSlBhV2xhWlhObDc0N3BaTUw5bFgyUVhEdWREcS1MdVhienpleDRlNW12eUZsQUV0QjFy?oc=5\" target=\"_blank\">Accessory Dwelling Units (ADUs) in California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bipartisan Policy Center</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
+    },
+    {
       "id": "e75b61fa14d74dc5",
       "title": "Supervisor Kathryn Barger Champions Updates to County Housing Rules to Balance Alignment with State Laws and Community Density Concerns - COUNTY OF LOS ANGELES (.gov)",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeWhRQi1YbDl3dGhrbzhnUVlzdTVHUEMxOWRTbm5ZLUZqRGtjTThGdjdSVl9fdlBPaTJJdDZOMG9VdWljU0lGUjhwelVuM2g4cGF0NE5JU3ZaeFBoUjhKZkxOcUJXeFhGZVZ2RXlyNk9pb1pCVUVBQVNqbnk3NGYtYUdTQTh3dHVGbjZsd19NcU95TWw0Q3FSNC1lcU94OG9OOGwtc0Z5TDhDUHFZbU1iRFdVZG9uT2VoZ28ydVRMaGdGbGlKa3Q5dThhMUZQNDBlY2UyV1JucGZQeVBBSG5xYmxtUnR5cU9Nb3JseHAzNVBPQUt1VG8zOGVEejhmNHdy?oc=5",
@@ -3553,6 +3563,16 @@
       "category": "zoning"
     },
     {
+      "id": "32590aa2df9cb575",
+      "title": "Despite Statewide Eviction Moratorium Expiration, City Leaders And Activists Insist LA Renters Are Protected - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa2NwbmdqOTFfTE1TczlRbWZKVXZGa2huVmUtQWc5bDJ0Nk5UcldVVmNZa1JzZXZEZmFYQ1RsR3RpSXVsbm9OZ3R6T0ZmRWhFSDg0b2wyTXZ1WHR0ck5SdGNRdGVGd3dSUUdsUzNuM2dNRW5wSllTX3A2UHlaQ1hFNnA0NnJweTZqbTN2MVZOVUNndk0wMnR2MzViYjZ6UVM2SmRuY19YbENsRG1kNnBDZDdiWTM1NGZPeENIUDVrUzBjMm9KLWdVMVowMFEtQQ?oc=5",
+      "source": "CBS News",
+      "published": "Thu, 30 Sep 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPa2NwbmdqOTFfTE1TczlRbWZKVXZGa2huVmUtQWc5bDJ0Nk5UcldVVmNZa1JzZXZEZmFYQ1RsR3RpSXVsbm9OZ3R6T0ZmRWhFSDg0b2wyTXZ1WHR0ck5SdGNRdGVGd3dSUUdsUzNuM2dNRW5wSllTX3A2UHlaQ1hFNnA0NnJweTZqbTN2MVZOVUNndk0wMnR2MzViYjZ6UVM2SmRuY19YbENsRG1kNnBDZDdiWTM1NGZPeENIUDVrUzBjMm9KLWdVMVowMFEtQQ?oc=5\" target=\"_blank\">Despite Statewide Eviction Moratorium Expiration, City Leaders And Activists Insist LA Renters Are Protected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "d3acbabaf7cb6d60",
       "title": "Planning Commission Continues Hearing on Burton Way Project - Beverly Hills Courier",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZktBenFEYWRWdDc1SVRXd253eEVPZmZtTXgyU2gtektCMDdwZm91VEo1d2o4ZlVfMTJOUkJjamREclZ3M3o2NmJxNjFmWXFGVXZSM3VDQi1Uc0FpZjhQZXBSbXJIZXhwbHZZRHFVd1lNaDd2MTMyX0RmRnozX0Y0cHp5V00zRGo5aWo3aTVMSFFUU2lrcWxJWGFKWFptb3RRT1l3dUdB?oc=5",
@@ -4041,6 +4061,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkZxbDYwQmxGZ05XYVUyNGxrblpNVEVKOTUtSTRhSjJnX1NkVlBGQl9JN0J5VUZ5QjhCb19lS28xbHNaQXpCb2VMSUVERlpVNnZ4MmliMXpMMmxaNGdvUzJHak5mbkF4ZzdZOHNhRmhZVlVhLUVPQUdCZ3FVOWtjdjA4VDRvVDU1VlNydUJwdnUyNThKNG9oX2l2MDR6QXhGdnBZZWNjWERQeXJu?oc=5\" target=\"_blank\">L.A.’s bitter mayoral race between Karen Bass and Nithya Raman isn’t serving voters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
+    },
+    {
+      "id": "a870c262f5dcbda1",
+      "title": "Judge says voter initiative on housing in Newport Beach can go to ballot - Orange County Register",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmY2QXJmWjJHN1UtOGNLNy1oWEp2MU4zR2dLZ19FajMxM0pDYUxydmVfczBuR1V3dkJCVFNrWk9OVHNYR3RZc3A0dlluXy1rclBBRnQzdEF1WXR0dmFmaDg0YjhKOFlOeW1nSzY5NFJKbFVSR1hqWVZjN1RpU0dlUDFDNnRubXVnQVcyandpWHZmcEp4VGxZUmM4aW8yeHIzT21hQlliQmJ4QkxSNHN0WA?oc=5",
+      "source": "Orange County Register",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmY2QXJmWjJHN1UtOGNLNy1oWEp2MU4zR2dLZ19FajMxM0pDYUxydmVfczBuR1V3dkJCVFNrWk9OVHNYR3RZc3A0dlluXy1rclBBRnQzdEF1WXR0dmFmaDg0YjhKOFlOeW1nSzY5NFJKbFVSR1hqWVZjN1RpU0dlUDFDNnRubXVnQVcyandpWHZmcEp4VGxZUmM4aW8yeHIzT21hQlliQmJ4QkxSNHN0WA?oc=5\" target=\"_blank\">Judge says voter initiative on housing in Newport Beach can go to ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
     },
     {
       "id": "fb705e9804d913c8",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZGF4RWFBNzkzdjA1c00wMWp1NUpEZklFTjAxanB4bzBFZ09Qb2VDNTNMMXpuQkZqRWplSmlPb3V1TDRWMlZiNTBHNVNpRFFkcVJhcGpHZDVXN09XWmdmaVYwREdvNW9iaGF2b3JZSWUta3I4UTJfbnd4UXlrb2xJSHMyZ1F3TmZibzh4SDVzbVJnSFhROUFNZGNibldKWVJoZ2RMaC1CeGZ3RXJCTmJhWmhTTDB5aWVOOGt4N0ZsMFNOWVlz0gHKAUFVX3lxTE5QejVMY01oM3hOOWJweVo4MnZIdnpLSVBscFpFVlFzWlNUczh0dGYzb2I5a3JCZGFMWTdtQkZ1SjlIVkw0aHR1aURFdzl2NDJrb1pHa1pGaTd1Rkx3cmF4OF9CV1E5d0ViXzBBOUdsUDNGOERWMDJQdVlTd0FSbzdrVGtxNU5nRVpFOVFmWGVKMUoteFYyVW9mb1hteUVVbkFuRWR6TnoxTTN6X0l0bE9CZlJSc2NCODFBaEZkRlQ2QW9nUEhPVVNjeHc?oc=5\" target=\"_blank\">Los Angeles Is Giving Away Plans for a Pre-Approved ADU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dwell</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "adu"
-    },
-    {
-      "id": "6394d825d8c5c865",
-      "title": "LA City Attorney Candidates Reject Proposed Vacation Rental Ordinance, Challenge City to Enforce Existing Home Sharing Ordinance - UNITE HERE Local 11",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HWlpCVGRGOWJoTFJSdGZyZ0xRcERtT2kzZVhoeHRCNDV3VVN6OTI2Zm1GMGFHMngtWlVFb0dtSFltNWUyajFGdUJSRjZEQUhqQno5TUVkemR1WmZT?oc=5",
-      "source": "UNITE HERE Local 11",
-      "published": "Thu, 02 Sep 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HWlpCVGRGOWJoTFJSdGZyZ0xRcERtT2kzZVhoeHRCNDV3VVN6OTI2Zm1GMGFHMngtWlVFb0dtSFltNWUyajFGdUJSRjZEQUhqQno5TUVkemR1WmZT?oc=5\" target=\"_blank\">LA City Attorney Candidates Reject Proposed Vacation Rental Ordinance, Challenge City to Enforce Existing Home Sharing Ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNITE HERE Local 11</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "8db81758c846ab0b",
-      "title": "LA councilmembers propose law for replacement of housing lost to new hotel developments - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCTEFEVE85a0NCdjIydzV6TFpkQmhEdDQzS1h1QVN2SHFlTS1weFV5Njk5ZUg5VHFvVXExM1lJUUpQNlYtbUhjRDIzSlZmS3BPZWVnQTBoX2N4M25wdU80UGkzbUgzX1p1RGhSVDZlcFNYQdIBd0FVX3lxTE9zbXRDSklBZ01sQ05ITjR1MGJWeElLbnR2WEpFczctYUZjN0tLS3VONlhPMmFVZlRLUGQ5ZU1Bb0QxakhEZ25jRUJHRlM3dzdmVkZkWFBkYURVdDFZZFg5dGswNFdwelp3SUxkYkhhb0RMQk5QdF9Z?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published": "Thu, 02 Nov 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBCTEFEVE85a0NCdjIydzV6TFpkQmhEdDQzS1h1QVN2SHFlTS1weFV5Njk5ZUg5VHFvVXExM1lJUUpQNlYtbUhjRDIzSlZmS3BPZWVnQTBoX2N4M25wdU80UGkzbUgzX1p1RGhSVDZlcFNYQdIBd0FVX3lxTE9zbXRDSklBZ01sQ05ITjR1MGJWeElLbnR2WEpFczctYUZjN0tLS3VONlhPMmFVZlRLUGQ5ZU1Bb0QxakhEZ25jRUJHRlM3dzdmVkZkWFBkYURVdDFZZFg5dGswNFdwelp3SUxkYkhhb0RMQk5QdF9Z?oc=5\" target=\"_blank\">LA councilmembers propose law for replacement of housing lost to new hotel developments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "other"
-    },
-    {
-      "id": "2abb6d62b7e1bcb9",
-      "title": "As court overturns a lot-splitting law, SB 9, one early adopter asks why - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeElZYUc3cXotYXM1cGFSeXlMMTFtSjd1VGlSVy01a2RSaVo1a3VfbTA5dDBWbXZLVWVzcU5rWm1SRldrZnlxU25RV21wSGxnYTZYUWlSMXR0dGNxbGhvR3Z0d0dBWU1UYzFxUnZ4M3hIM1JaNUNpRXF3dURCQk1YQzQ2SFJ1djg2MmYtN0g2bUdCVVo0OUJYb25ZdXVJMDR5X2M3YTVqMnZyREdEZFNZNmhncTYxR3VuNS1zS1FxOA?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 02 May 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeElZYUc3cXotYXM1cGFSeXlMMTFtSjd1VGlSVy01a2RSaVo1a3VfbTA5dDBWbXZLVWVzcU5rWm1SRldrZnlxU25RV21wSGxnYTZYUWlSMXR0dGNxbGhvR3Z0d0dBWU1UYzFxUnZ4M3hIM1JaNUNpRXF3dURCQk1YQzQ2SFJ1djg2MmYtN0g2bUdCVVo0OUJYb25ZdXVJMDR5X2M3YTVqMnZyREdEZFNZNmhncTYxR3VuNS1zS1FxOA?oc=5\" target=\"_blank\">As court overturns a lot-splitting law, SB 9, one early adopter asks why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "legal"
     }
   ]
 }
