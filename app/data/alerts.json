@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T02:40:40.787368+00:00",
+  "generated_at": "2026-10-06T09:32:52.520711+00:00",
   "total": 500,
   "alerts": [
     {
@@ -101,6 +101,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGY3UjJOTzk1a1ZYRkVyVEljRjNQeWpLX2hTNlFUV3ZLYldEZUZQS0RXOXVYRFR2NUN6MnlvcU8tSDlMYUNjY0RDdmFBbGJrbDhkMWlhSktWREF2NEtNVDNpMGtGWVJhWHFuYk1XVVZGZ05CbHNkRS1OYm9jNF9hS1NtdURoMm1tVHFwMXRFVkV4LUtWcnpBZ2kzaWMxei1DNFJpUER0MzdwUQ?oc=5\" target=\"_blank\">Mayor Bass orders ban on SB 9 applications in Palisades Fire zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "4f724d17443ceb93",
+      "title": "Unprecedented vote shows Dems fractured over housing policy - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MRFkzRDRvaUtzREVGeWN1aDhnZzk1SnNwcTlIUzVvclR4RU9ZeTlpY3RRckZvVXdrdHFrWE4yTVg3a1pDTTRsNU1nblA2MS1iNFpocm1feHJrYXRBQkx0eHZQbm9TWlFjRmlOSzU3TW4temw5azYyS28tdw?oc=5",
+      "source": "CalMatters",
+      "published": "Wed, 30 Apr 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5MRFkzRDRvaUtzREVGeWN1aDhnZzk1SnNwcTlIUzVvclR4RU9ZeTlpY3RRckZvVXdrdHFrWE4yTVg3a1pDTTRsNU1nblA2MS1iNFpocm1feHJrYXRBQkx0eHZQbm9TWlFjRmlOSzU3TW4temw5azYyS28tdw?oc=5\" target=\"_blank\">Unprecedented vote shows Dems fractured over housing policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
     },
     {
       "id": "b11abcbffde8de34",
@@ -2063,6 +2073,16 @@
       "category": "policy"
     },
     {
+      "id": "d679cd64b1a82b59",
+      "title": "COUNCILMEMBER RAMAN ISSUES STATEMENT ON THE COUNCIL’S VOTE TO EXPLORE REMOVING CITY CONTRACTS FROM THE LOS ANGELES HOMELESS SERVICES AUTHORITY (LAHSA) - City of Los Angeles (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFFidWRrWC1yaXpVcEp4TDdNaHZnbWVIVzN1UllzNXBFM1QxUnlsb1ByZGJhR0hNZUMwLVdMNWxRemtHaFF0QkJQMl9ZVFkxNS1fS0c1WG5iOGl5dHRGTXRRd2lTa2pnS2xJS1ZmSzZveUVHeGZSVEZnQ2ZjYmtuTjVBbGR2SGpIdm9Td3A3Zjh3aUE?oc=5",
+      "source": "City of Los Angeles (.gov)",
+      "published": "Tue, 25 Mar 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFFidWRrWC1yaXpVcEp4TDdNaHZnbWVIVzN1UllzNXBFM1QxUnlsb1ByZGJhR0hNZUMwLVdMNWxRemtHaFF0QkJQMl9ZVFkxNS1fS0c1WG5iOGl5dHRGTXRRd2lTa2pnS2xJS1ZmSzZveUVHeGZSVEZnQ2ZjYmtuTjVBbGR2SGpIdm9Td3A3Zjh3aUE?oc=5\" target=\"_blank\">COUNCILMEMBER RAMAN ISSUES STATEMENT ON THE COUNCIL’S VOTE TO EXPLORE REMOVING CITY CONTRACTS FROM THE LOS ANGELES HOMELESS SERVICES AUTHORITY (LAHSA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "other"
+    },
+    {
       "id": "2b775c5c5e513f4a",
       "title": "Planning Around Measure ULA: What the Sacramento Compromise Means for Los Angeles Real Estate Transactions - Law.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbzZ6cjM0U0dES2I1bk83cjc4VVpfUVhrSVMya0JfYkVnVUpOQ3BZdW9uSE55eTlxWm81Q0RTZTQyZm95NkF4cTJmSTd6alZZbGRYbWR2NVU0STJjdFhiVDVZdWRWQW40VUlROVVCVTJBN0dOcDE0bjNTVHUtMEhhbUJaX0ZObDRFOEVvM0RsR0pxSlJDa29YMl8ycng3alBiVXdaakZ5YWR3QVhUZUJDWGx6QndFdFJzRXNEZ3NaRGpzTHBkZkVmNHFpa1ktazZvbFozeW8wbmViZ05walNIWlQ3Yw?oc=5",
@@ -3973,6 +3993,16 @@
       "category": "adu"
     },
     {
+      "id": "f2d930613048800c",
+      "title": "L.A.’s bitter mayoral race between Karen Bass and Nithya Raman isn’t serving voters - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkZxbDYwQmxGZ05XYVUyNGxrblpNVEVKOTUtSTRhSjJnX1NkVlBGQl9JN0J5VUZ5QjhCb19lS28xbHNaQXpCb2VMSUVERlpVNnZ4MmliMXpMMmxaNGdvUzJHak5mbkF4ZzdZOHNhRmhZVlVhLUVPQUdCZ3FVOWtjdjA4VDRvVDU1VlNydUJwdnUyNThKNG9oX2l2MDR6QXhGdnBZZWNjWERQeXJu?oc=5",
+      "source": "San Francisco Chronicle",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkZxbDYwQmxGZ05XYVUyNGxrblpNVEVKOTUtSTRhSjJnX1NkVlBGQl9JN0J5VUZ5QjhCb19lS28xbHNaQXpCb2VMSUVERlpVNnZ4MmliMXpMMmxaNGdvUzJHak5mbkF4ZzdZOHNhRmhZVlVhLUVPQUdCZ3FVOWtjdjA4VDRvVDU1VlNydUJwdnUyNThKNG9oX2l2MDR6QXhGdnBZZWNjWERQeXJu?oc=5\" target=\"_blank\">L.A.’s bitter mayoral race between Karen Bass and Nithya Raman isn’t serving voters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "fb705e9804d913c8",
       "title": "Airbnb bans house parties in its rented properties around the world due to coronavirus restrictions - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0tQRWxiZnRaZ2QyVnNIWVRlUUhQTXZ0MXVGaF9sVjFMN1o0Q09ybWFsSnU2N0VkZ05ZYThFRkhpRWYzMWNzT1F2bTU4bm9wUzQyajl0VkN3OWxXaG92eHFsdEZLYlZoM1Q5blJiN3BueG8tY3JGTWkzOW50MXJlXzJJZ0hmVTJDUzVFa0UxT0lxbkFxOWxWQU5sNHFnSDRVZFhRUg?oc=5",
@@ -4041,6 +4071,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPV25Zck1VM0dhN2Jtb2NGM1FzU0NlYjVqV2hXRVhEejhTM3ptTFJhTTQ1QV82aGo0ZUh4UlJQZl9oNjUwWHBIc0FjaGprWTZxUnR0M0RXZTJYX2dabnlmazVtZ0xFUDdDWFFmSVJKQzZiUW9xc0ZTR3FJYVhtQmFyQ1FaTQ?oc=5\" target=\"_blank\">California’s housing crisis: How much difference will a new zoning law make?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "266870b85df51e28",
+      "title": "Bend Chamber unveils pre-approved ADU plans for homeowners - Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVVUb3B4QUYwLTZLZDdJVVpKUDd2d3R0TVJyc1JwRWUwaWJSeG4zY2kzX3VYNWotemNNLUx1VUZfUkdQbjVuX3BwUDAwNE1rUm5tNnhGLXM3VkRvMHdOYVFOaFNmV0pnUzB5Nk12Q29mTUdrMmJvekhOY0lYT2ZxbGtlOGE3YjRfd3VrVDFUM0lvcHQya2Q1UkxadFplRlNFRnF3YVBqc20yOUdKUXYySnZfVUVmc2s5ZUk3cUQ0WQ?oc=5",
+      "source": "Central Oregon Daily",
+      "published": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVVUb3B4QUYwLTZLZDdJVVpKUDd2d3R0TVJyc1JwRWUwaWJSeG4zY2kzX3VYNWotemNNLUx1VUZfUkdQbjVuX3BwUDAwNE1rUm5tNnhGLXM3VkRvMHdOYVFOaFNmV0pnUzB5Nk12Q29mTUdrMmJvekhOY0lYT2ZxbGtlOGE3YjRfd3VrVDFUM0lvcHQya2Q1UkxadFplRlNFRnF3YVBqc20yOUdKUXYySnZfVUVmc2s5ZUk3cUQ0WQ?oc=5\" target=\"_blank\">Bend Chamber unveils pre-approved ADU plans for homeowners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Central Oregon Daily</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
     },
     {
       "id": "318f6f8c86471af2",
@@ -4163,6 +4203,16 @@
       "category": "zoning"
     },
     {
+      "id": "9dea3cd3084de8a0",
+      "title": "California lawmakers move to speed up rebuilding, recovery in Los Angeles with new legislation - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1hlYmowNzFRckhIakNydjU4Z1dZc0dLWm9aeHBxUks1bDMzY0RSYlU0OW5MLVh3dlpVdXpDaGU5ZnZvQ1BfSDF0d0x5RlY4b2hrTlhLN29ZaGZkTXU4WDFiNHNneWg3aGJLa2lJTUZfRUFSSDczZlRYQW9UOGs4WEV6Ykt0aWxOVmxGVUJ4Sk4?oc=5",
+      "source": "CBS News",
+      "published": "Thu, 16 Jan 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1hlYmowNzFRckhIakNydjU4Z1dZc0dLWm9aeHBxUks1bDMzY0RSYlU0OW5MLVh3dlpVdXpDaGU5ZnZvQ1BfSDF0d0x5RlY4b2hrTlhLN29ZaGZkTXU4WDFiNHNneWg3aGJLa2lJTUZfRUFSSDczZlRYQW9UOGs4WEV6Ykt0aWxOVmxGVUJ4Sk4?oc=5\" target=\"_blank\">California lawmakers move to speed up rebuilding, recovery in Los Angeles with new legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "other"
+    },
+    {
       "id": "2c4069921eb6768c",
       "title": "As a new state housing bill, SB 9, goes into effect Jan. 1, Seaside looks to limit its impact. - montereycountynow.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSGEtVVV2YXBBa0o5NjlVTmY3cXR0cDdnOXJYd3RmUE8wZjBUNDJwOEs4S0pEcmpKcTFPY3dXU2VLVmh1aWEwMXRLbEVONVVaSkJIOUxDdkZjZnNSSHdqNUw5Y0YxakxfcGRhMkJ3dHpDWXJ3VTFYTFdJd1JTS0FXYnlVVzltRmlkUi1RYkp4anBzck1fVExfRnI0VXFGdDl0bHkzY0d0VV96UnBJY3lTVVhCeVhJUGFaYWMtNHZyMzd1WWxVTmlnRnVTVVIwY2FxTTFBQjlfOTJJWVN4ckdiMDJ2US1Vdm1XeDhJa1dtWk1IY3dVOENuYklTR005UdIBgwJBVV95cUxNVHdIM3JmMjhZV1RSRVg0M2JHaFlRSUJEMUcxRm1lSWYtLWFWM3RxUWcxRWpJT3oyTlVKTzM4bjNIdDFldG5EVlRwVDRmTkRKalBTTGJTTEwyUFFESTJBRnhuREcyODFDVVhKRzFxNW9peG8tblhmbVl2NVdfb1NjZmtvMWUzS2hNU051NDJxY3lFOG9vVXN1WnpBcjBLQXE4azVQbWdES0EzYUR0cWtyRkw1QVc0ckU4T2hQNFpNZ1d3YkZEY0hUWnVEdHh3NE9VUG11cDkxTTA3Z1Bubm80LVg2R3RxbWQyOFlXaDQ0ay0xNm9MbTFTUkwyY2o5bDBDOFNJ?oc=5",
@@ -4231,6 +4281,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEUyc3k3bHl1TW83WHM5VThiMEpsT3NmN01haThjQlBKcGNZYnA3NlNVNHJod1ZTUkJCSVNZakUzVF8zbEFLRW1mZDNMNzhzSGVYdE92YzN4NHdpY1E0OWUxS2tlOEdsNEJjblN2QVJlSUUxZWM4eVRmY0gzRDdLcHZVWEZZS00tUHNfcjk5YXFkbWZEbl9EZnpyWE5ITENpaXVkeVNCQW1NUzNCbHlFZXlsNmVjTWczSFIwYm1oTEtiRWdhQ0U3SWx3amw1a3NicG5SaDBHTVQ0d9IBwwFBVV95cUxNWExJVXNleWh6UVhpakxqc2s2WFhoMk9iZV94R2llRjAwbmtxal92Q0tPR1gzZk0xUHp0OXNfdUNNRHhxQlNfN24yblFZTXRFUkZOdWZPZEFDZVMwekhmc2ZJWGIyMl9oTVJVY28wY3oxbG50UmlTYV84d0xKVFdJdDZYRTNzNHhfWVNfWEhUZElaMFhoeExJU2E0UmtJdXBGTC03RDBwX0hqdmNRcnZ5Ukw1RWwxRTM1cGFxMXYyYUh3QVU?oc=5\" target=\"_blank\">LA City Planning Commission OKs USC Plans to Develop New Sports Stadium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFI AM 640</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "e89547858bcc08eb",
+      "title": "California lawmakers vote to ban mandatory evictions for arrested tenants - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXNWU28xQ1d5eFM0X1NNZ0VsV1hMT1djOXhibTM1NEpHSndiMGxRdEwxc3p5QllpeUJWM0RpU0NfNnp6UmQyUkl0N0YxS3VPVzFQXzFRRTBxTmc3a2lhWUlwZVFqQjd6SDBLdjJIcTVDdkJTNkpKWllwWGd6cnNDNHJOcXdqaXBTLTROOGl0MW5VclMyU3B1a0NrWEh1RnhCYlFZeU1MMjZQbHd5Y0xnazVZTFZNRHlabzZKX28xYVBVdVFoZTRwTE1URQ?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Thu, 14 Sep 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXNWU28xQ1d5eFM0X1NNZ0VsV1hMT1djOXhibTM1NEpHSndiMGxRdEwxc3p5QllpeUJWM0RpU0NfNnp6UmQyUkl0N0YxS3VPVzFQXzFRRTBxTmc3a2lhWUlwZVFqQjd6SDBLdjJIcTVDdkJTNkpKWllwWGd6cnNDNHJOcXdqaXBTLTROOGl0MW5VclMyU3B1a0NrWEh1RnhCYlFZeU1MMjZQbHd5Y0xnazVZTFZNRHlabzZKX28xYVBVdVFoZTRwTE1URQ?oc=5\" target=\"_blank\">California lawmakers vote to ban mandatory evictions for arrested tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "rent"
     },
     {
       "id": "d6806c44a9784bbf",
@@ -4633,6 +4693,16 @@
       "category": "zoning"
     },
     {
+      "id": "36571c9d401db14e",
+      "title": "California lawmakers put funding for ADUs in flux. What you need to know - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXpyQXowVXRkSUxucURFd3VxRnYwa05vUDVLcmx1Z1NScjNRLTFaalo4NXQ5em5pOUUwTlI2MUMwdE12c0lnZGNKQTJvdWFia1VFWGNlUkhKWjVfWnZrNEd6MDUyMlB1aEpHaTBna09zSkFFdXlKbW9DSDhMQ1VULTIwQjU0VGhKQmJaTFJmUTd0R1BrcGNrVTZGQ0Z0LVdReTNkMFl2WUNtZw?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Thu, 07 Sep 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXpyQXowVXRkSUxucURFd3VxRnYwa05vUDVLcmx1Z1NScjNRLTFaalo4NXQ5em5pOUUwTlI2MUMwdE12c0lnZGNKQTJvdWFia1VFWGNlUkhKWjVfWnZrNEd6MDUyMlB1aEpHaTBna09zSkFFdXlKbW9DSDhMQ1VULTIwQjU0VGhKQmJaTFJmUTd0R1BrcGNrVTZGQ0Z0LVdReTNkMFl2WUNtZw?oc=5\" target=\"_blank\">California lawmakers put funding for ADUs in flux. What you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
+    },
+    {
       "id": "ec025d5466378340",
       "title": "Bound to Fail: Pawning off Urban Reaganomics as ‘Progressive’ Housing Policy - CityWatch LA",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHEyVlg0WDhSNklrMUt5RWliRUU4RGdMdTNfYndpSWtZME96NW54eFpnTXQzMy1UTEdGbDVsN29lNHE0b205ZDFtZ2tVdm5Ya0ZpMmVJM2UzMHdwckM3M1diLTZhOE5xdHJQMGRoVE5jYmRxZVFrUU5nbEJxWFc1S254R0wtQzR4VHhZb1VBM2RXbk5PblRLWEZ6d2VEbjM2N2tfcDZNZUpaOHFiYThnWElnZVFmZ05aTWlV?oc=5",
@@ -4929,76 +4999,6 @@
       "source": "FOX 11 Los Angeles",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFZyd0tzaUNENjFhRDFIVUdFeGZzTU1vazBMRmFPdGFHVjlXb0RnTFlHT3dWRE9JQkZBSF8yUjV3ZnE5WUJueHRiMUNEdjRSakVTYWl2ZmF1eFFiZU9fVUlLZkRpQUI5c2RLV2Rjc0ZCc0VPMkdaZFRjOWdhcWJuWm5QLWJYUdIBiwFBVV95cUxQbnQzRUgyR3hjVFNJdlk2UE1iWkxaSTRqZ3FxdmdFUnJJem5fWkdJTGp2Q2VCUWxRZkFtMGV3S1VBLUUtdFltRHBTWjVZSTdKNVNaRWo5aEFZQm43RUhDMktleWxfVU9XR3ZPMWZvVG5jZDh6N0JWSFp2RDItM29QU2ZSZlktbEF4czNN?oc=5\" target=\"_blank\">LA City approves massive development project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "2d411afadba3ccdb",
-      "title": "LA City Council Approves $2-Billion Fourth & Central Mixed-Use Project - Connect CRE",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmJNT1FXMGNVZzYtYXNQWk1Bd2ZBN0htREZPOW43dFhnUG9ubkFzdkFfTW5CU05PeGFUUE93OU5kYkxBSjIxSkFaODBSR1FRb3JURzkwSVItYzFzbVdhNjVQaC1qeW9NR1BvUW14TnA0ZDhiQk8xdG1RQlpXN3h4UWJhS0RjWkVpSlVtSnJyYTNycGdzY1JLVE90cGdPNmZaZjJnRDBB?oc=5",
-      "source": "Connect CRE",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmJNT1FXMGNVZzYtYXNQWk1Bd2ZBN0htREZPOW43dFhnUG9ubkFzdkFfTW5CU05PeGFUUE93OU5kYkxBSjIxSkFaODBSR1FRb3JURzkwSVItYzFzbVdhNjVQaC1qeW9NR1BvUW14TnA0ZDhiQk8xdG1RQlpXN3h4UWJhS0RjWkVpSlVtSnJyYTNycGdzY1JLVE90cGdPNmZaZjJnRDBB?oc=5\" target=\"_blank\">LA City Council Approves $2-Billion Fourth & Central Mixed-Use Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Connect CRE</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "zoning"
-    },
-    {
-      "id": "6065a63da56c1f90",
-      "title": "Changes to federal regulation open pathway for veterans to get housing in Los Angeles - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFFJajRuOUtjbjViZnhUbGgwX3dYcnNvdlh2UkwzaXFVTWRuYlI3czZEc2VJSkF2aFU3UjBKZE9pdldxV0VUaDlzODdoMG84MktEbUNMZVJ0S1hrY0Fwemc2VGgtcjBURWNRYW1hNVhnSzNHR1liZGFqWG1ZTksxODZ5bm9MSFowYktzSUZJOVFDcEVMTE9hUVpaSHNxUE5ESlNRUlpmZ9IBrAFBVV95cUxPZ0h3bDM2RnNsa1A4ZVpVQzdubEd2NjFjRE9YRzQwalE0ekZDUmRIWVFiRWY2dzltMmJMR1lZdUVkQ0UtSmt1d0RCSmc3MGRqZmhYczVzUHYtWS05ejBpa2VMRUFNS2dZSm9KbkpvM0hxRzV4QU12SHNVUlI1dWxVTmp1WTZKeXhWZkJ1NWw3eUF2bDl3UmZuTTh2QzdKMEEtbGhzbVRJQ0VJRHFF?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published": "Thu, 02 Jan 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFFJajRuOUtjbjViZnhUbGgwX3dYcnNvdlh2UkwzaXFVTWRuYlI3czZEc2VJSkF2aFU3UjBKZE9pdldxV0VUaDlzODdoMG84MktEbUNMZVJ0S1hrY0Fwemc2VGgtcjBURWNRYW1hNVhnSzNHR1liZGFqWG1ZTksxODZ5bm9MSFowYktzSUZJOVFDcEVMTE9hUVpaSHNxUE5ESlNRUlpmZ9IBrAFBVV95cUxPZ0h3bDM2RnNsa1A4ZVpVQzdubEd2NjFjRE9YRzQwalE0ekZDUmRIWVFiRWY2dzltMmJMR1lZdUVkQ0UtSmt1d0RCSmc3MGRqZmhYczVzUHYtWS05ejBpa2VMRUFNS2dZSm9KbkpvM0hxRzV4QU12SHNVUlI1dWxVTmp1WTZKeXhWZkJ1NWw3eUF2bDl3UmZuTTh2QzdKMEEtbGhzbVRJQ0VJRHFF?oc=5\" target=\"_blank\">Changes to federal regulation open pathway for veterans to get housing in Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "other"
-    },
-    {
-      "id": "32819647a343dbae",
-      "title": "We asked WeHo City Council candidates your most pressing questions - Los Angeles Blade",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDRESzdycjdIVE5Gd1lTWDRNN195MTVKc2RveDhxaUVWQmJuUTlLdkRfYkdLejBJSl9CZFd3MTJDZU9XQXUwM01PT25ZVk5HNEVGbFJyaVdab3hTZ1JYREloUFlWNmowbko0RG9BbW4xQll0MzhTNVFXb2xsYWpqNnVFSHRHVkQ0R3YyVg?oc=5",
-      "source": "Los Angeles Blade",
-      "published": "Thu, 01 Oct 2026 20:23:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDRESzdycjdIVE5Gd1lTWDRNN195MTVKc2RveDhxaUVWQmJuUTlLdkRfYkdLejBJSl9CZFd3MTJDZU9XQXUwM01PT25ZVk5HNEVGbFJyaVdab3hTZ1JYREloUFlWNmowbko0RG9BbW4xQll0MzhTNVFXb2xsYWpqNnVFSHRHVkQ0R3YyVg?oc=5\" target=\"_blank\">We asked WeHo City Council candidates your most pressing questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Blade</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "0d3c2afa33771549",
-      "title": "A Guide to Preapproved ADU Plans in Your City - Dwell",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fQmNUR0o1Mzc3REwydXJjTUJ5U2ZuV1pvaUJnUFhTSjhuSzl2d3BKczZWUGE3M0M5Tm1jSThFajhOVXFpekJmSEpwQUFTeVZ2b1dJVG82WnFRcjl2SEN5WU0wMkZzbTNTMmJsU2czWUpIMkJSTFVKZEloTVFkQdIBgwFBVV95cUxQUjVfUWctUm9kMDA1WUtiNDBYbEpMRHBQczByaERycjRwLVpyaVBXcGdoakxZUGR5RUVwRTg0S1Q5MUkzSW80WXNVazY0VHlrUW5PWG05THN5X1RxQWRQVjl6RFRMMGRlakJwZkI2ajAtaFZkOHlfWFBhVHh5NVoycTdIVQ?oc=5",
-      "source": "Dwell",
-      "published": "Thu, 01 Oct 2026 16:03:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1fQmNUR0o1Mzc3REwydXJjTUJ5U2ZuV1pvaUJnUFhTSjhuSzl2d3BKczZWUGE3M0M5Tm1jSThFajhOVXFpekJmSEpwQUFTeVZ2b1dJVG82WnFRcjl2SEN5WU0wMkZzbTNTMmJsU2czWUpIMkJSTFVKZEloTVFkQdIBgwFBVV95cUxQUjVfUWctUm9kMDA1WUtiNDBYbEpMRHBQczByaERycjRwLVpyaVBXcGdoakxZUGR5RUVwRTg0S1Q5MUkzSW80WXNVazY0VHlrUW5PWG05THN5X1RxQWRQVjl6RFRMMGRlakJwZkI2ajAtaFZkOHlfWFBhVHh5NVoycTdIVQ?oc=5\" target=\"_blank\">A Guide to Preapproved ADU Plans in Your City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dwell</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "adu"
-    },
-    {
-      "id": "20ad9b4c0782e74f",
-      "title": "$467M affordable housing funding round gets LA City Council sign-off - Smart Cities Dive",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0Vta3JRamYxQ3lYdm1hMlI5ZWVzb1J1VUpzX1RlU3FnQ1c0QXIxSVE1VTJCT3NfaExaQzdfeHlvVDBzV09PeHp5YmtHem9tQ2JpR1lEY0NOSTd2NERqNmNmaTFlQy1RTnBkN2R1dWYxdmp5LXBHSWxINVU0OXJ4YUhLRTNNWnFvTFNNbWJvRGdKejBGdmtBdWZBVUw?oc=5",
-      "source": "Smart Cities Dive",
-      "published": "Thu, 01 Oct 2026 15:27:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0Vta3JRamYxQ3lYdm1hMlI5ZWVzb1J1VUpzX1RlU3FnQ1c0QXIxSVE1VTJCT3NfaExaQzdfeHlvVDBzV09PeHp5YmtHem9tQ2JpR1lEY0NOSTd2NERqNmNmaTFlQy1RTnBkN2R1dWYxdmp5LXBHSWxINVU0OXJ4YUhLRTNNWnFvTFNNbWJvRGdKejBGdmtBdWZBVUw?oc=5\" target=\"_blank\">$467M affordable housing funding round gets LA City Council sign-off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities Dive</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "c1da0484bb8edae9",
-      "title": "Your guide to Proposition TE: Exempting fire victims from the ‘mansion tax’ - latimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclRONEgtWnNBNUw4TzhtcXBUeTFISnVoMGRtYjBSam1TalpLcHJOLWdyc2hxcE1GclJmVEVyLVJFRWtUdzl4VDlRbGxlWXV4QU9GSkhwdnVkYVIxMV9SWFpKaWV1WXl5aWVrcUl6bWYzcU1OVlVOTDVJQTRTUzNhUFhxWFZvMi1TS00zTlpqbWhLQ1EtWC0yc01QTzBib00wR0xSdUJLT1lhS2pTd2pPZHF5Q2RmU3N6ME80N3djTFpGSVh2dnlzWGd2WHR2Rnh0V0tZ?oc=5",
-      "source": "latimes.com",
-      "published": "Thu, 01 Oct 2026 10:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclRONEgtWnNBNUw4TzhtcXBUeTFISnVoMGRtYjBSam1TalpLcHJOLWdyc2hxcE1GclJmVEVyLVJFRWtUdzl4VDlRbGxlWXV4QU9GSkhwdnVkYVIxMV9SWFpKaWV1WXl5aWVrcUl6bWYzcU1OVlVOTDVJQTRTUzNhUFhxWFZvMi1TS00zTlpqbWhLQ1EtWC0yc01QTzBib00wR0xSdUJLT1lhS2pTd2pPZHF5Q2RmU3N6ME80N3djTFpGSVh2dnlzWGd2WHR2Rnh0V0tZ?oc=5\" target=\"_blank\">Your guide to Proposition TE: Exempting fire victims from the ‘mansion tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "fe2a8013584e0d93",
-      "title": "Your guide to L.A. City Charter Amendment PL: Streamlining Planning Department processes - latimes.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3VGazBwUzFtTlFXUkwtUTRWa28yYnUtZDJfVHZGMUJYckloaHJ4OGpZQlhFcmp1OWNmRnhKYVNQT2wtSzlLUy1CLU9KN2ZJQXNOcWVPcTE1ZEtNM0VmUEpFYlR3b1BDS1J1WEZ3ZjJsS0YyNXR1TG9IdWxBMTgyZVZ4TWJWSnU5ZE1SRF9LUjR3TkwtSzlyNjlXS0tWc0ZjeHFXNGxpSThudlpDUEU4OThmVGtqWmtGbjFXYm8xcW42WUdE?oc=5",
-      "source": "latimes.com",
-      "published": "Thu, 01 Oct 2026 10:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3VGazBwUzFtTlFXUkwtUTRWa28yYnUtZDJfVHZGMUJYckloaHJ4OGpZQlhFcmp1OWNmRnhKYVNQT2wtSzlLUy1CLU9KN2ZJQXNOcWVPcTE1ZEtNM0VmUEpFYlR3b1BDS1J1WEZ3ZjJsS0YyNXR1TG9IdWxBMTgyZVZ4TWJWSnU5ZE1SRF9LUjR3TkwtSzlyNjlXS0tWc0ZjeHFXNGxpSThudlpDUEU4OThmVGtqWmtGbjFXYm8xcW42WUdE?oc=5\" target=\"_blank\">Your guide to L.A. City Charter Amendment PL: Streamlining Planning Department processes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "other"
     }
