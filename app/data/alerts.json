@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:32:52.520711+00:00",
+  "generated_at": "2026-10-06T16:21:25.336183+00:00",
   "total": 500,
   "alerts": [
     {
@@ -453,6 +453,16 @@
       "category": "adu"
     },
     {
+      "id": "951dedff61fb8a2e",
+      "title": "How some cities are looking to in-law units to ease the housing crunch and build more diverse neighborhoods - Shareable",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOekdWS1JVSGNmaVFrYWZkVGtOam5yWVR2b0RNOFRlX21YeV9oVlNWX1RlTlZ1M01HZTdQWGViYlhoaVZiQkM1NkpWNHctU3R5TFpUMjRueDFoMWlDTFF1MllOOHZ0enlPUWttVHVsbFZiQmoyX1kyNENpZzNRd2c5N1pmVDRsRnJSaVNXX3pmMnFISkI3bHFESXNkY2JZd1BkYk9zTEkzeUl4SEVfdGdta1BYMXpWTW85ZWJ4ZkJPbTZCNDJsYjVDbmExWVEySmVWTG1feVdNMm94T0s1LU5hZUF6ZkVmRkZOQzFYaGxtZzdxUS00WEE?oc=5",
+      "source": "Shareable",
+      "published": "Wed, 23 Oct 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOekdWS1JVSGNmaVFrYWZkVGtOam5yWVR2b0RNOFRlX21YeV9oVlNWX1RlTlZ1M01HZTdQWGViYlhoaVZiQkM1NkpWNHctU3R5TFpUMjRueDFoMWlDTFF1MllOOHZ0enlPUWttVHVsbFZiQmoyX1kyNENpZzNRd2c5N1pmVDRsRnJSaVNXX3pmMnFISkI3bHFESXNkY2JZd1BkYk9zTEkzeUl4SEVfdGdta1BYMXpWTW85ZWJ4ZkJPbTZCNDJsYjVDbmExWVEySmVWTG1feVdNMm94T0s1LU5hZUF6ZkVmRkZOQzFYaGxtZzdxUS00WEE?oc=5\" target=\"_blank\">How some cities are looking to in-law units to ease the housing crunch and build more diverse neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shareable</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "other"
+    },
+    {
       "id": "322b04cc5a354d25",
       "title": "Judge rules against developer and in favor of L.A. on emergency eviction protections - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZk5OWTdFRXJ1SGJKTGwyc2FSaEVOTTRmMjRCMmtfMUpOVGJpSklfcndmTUcwYmFJbDhtZU1oNUJIMTg1WjJGQVdkbkk2c1JZMzI2VXhoaFc2V0doVzZPYklsTXAxdG1ITERaTGV4MlRoV2h5aWhWZGtkcElDemE4ODlnbk5ha2xHRUxOUzlXNnJNcS1veVpxYmhDN09CRnhGRVRlMVY0RDhEVERVOVVaMDZvejZqS2tjbFJkOXhMcllmUC1YSUE?oc=5",
@@ -569,6 +579,16 @@
       "source": "slowboring.com",
       "published": "Wed, 22 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE81d1lvU3JrYjRWc0R2V0cyZ0pXTW01Q1BMaHEwMWlxdEtmMnMzRzFRV1NtdFBDTEFwR3NRUkxaT015LWJFVkc5X2ltWkliWkR2aFY3US1VdUd2VExNNF9raVZxZnNGWXBONHpGd1lnNA?oc=5\" target=\"_blank\">Housing policy keeps running into the same problems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">slowboring.com</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
+    },
+    {
+      "id": "2257000828ea713e",
+      "title": "Losing ground: How the Trump administration has reversed U.S. housing policy - Street Roots",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMmtFaWpBVi1SMkFZMTZXUURGVG82aVcxZjdURk14X1NrVk5lam15Z1ExUEN4bktmWUppY1lleGR6ekZtUDVGd3ozZWdIREh1WlJWeWNPQThGaElfNFdVWm9WOGpqOUV5NFJaZ3hMcC1sWWlab0w3cHFCM2ZiQVJhWmpES3Vmc0NiX2FMRmszYTI5R3Z3N1dzM0h5ajExaFlvT3d4M0pvTzBSNVdWLV84UlBiZ1Z3NGlm?oc=5",
+      "source": "Street Roots",
+      "published": "Wed, 21 Oct 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMmtFaWpBVi1SMkFZMTZXUURGVG82aVcxZjdURk14X1NrVk5lam15Z1ExUEN4bktmWUppY1lleGR6ekZtUDVGd3ozZWdIREh1WlJWeWNPQThGaElfNFdVWm9WOGpqOUV5NFJaZ3hMcC1sWWlab0w3cHFCM2ZiQVJhWmpES3Vmc0NiX2FMRmszYTI5R3Z3N1dzM0h5ajExaFlvT3d4M0pvTzBSNVdWLV84UlBiZ1Z3NGlm?oc=5\" target=\"_blank\">Losing ground: How the Trump administration has reversed U.S. housing policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Street Roots</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
     },
@@ -3153,6 +3173,16 @@
       "category": "zoning"
     },
     {
+      "id": "6e492da5689625ad",
+      "title": "LA County supervisors to consider developing data center ban - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0lrbFVrb3pfODZNd2sxWFNJQlpGdDlXN0lfTmE3R0F3UTFwaVpVWnlTa3NHcXRfdUl5Tzg4MlFBZ2Vtc2c2UEMyQWJyWG50Q1l0SGNUZGdNVWRXdWNYR0dOSTRGY1lkLVktbE1IMlFWTjczRThsbWJHVTBOWWlwR0ZRQllKWDQyZ1VsZDhlZXdEd256bnNHOUtsTG9iY25ySV9GTWxwenJaVlN5WExodWplRHRuQ0HSAbcBQVVfeXFMT2tJa2xVa296Xzg2TXdrMVhTSUJaRnQ5VzdJX05hN0dBd1ExcGlaVVp5U2tzR3F0X3VJeU84ODJRQWdlbXNnNlBDMkFiclhudENZdEhjVGRnTVVkV3VjWEdHTkk0RmNZZC1ZLWxNSDJRVk43M0U4bG1iR1UwTllpcEdGUUJZSlg0MmdVbGQ4ZWV3RHduem5zRzlLbExvYmNucklfRk1scHpyWlZTeVhMaHVqZUR0bkNB?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Tue, 06 Oct 2026 13:49:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0lrbFVrb3pfODZNd2sxWFNJQlpGdDlXN0lfTmE3R0F3UTFwaVpVWnlTa3NHcXRfdUl5Tzg4MlFBZ2Vtc2c2UEMyQWJyWG50Q1l0SGNUZGdNVWRXdWNYR0dOSTRGY1lkLVktbE1IMlFWTjczRThsbWJHVTBOWWlwR0ZRQllKWDQyZ1VsZDhlZXdEd256bnNHOUtsTG9iY25ySV9GTWxwenJaVlN5WExodWplRHRuQ0HSAbcBQVVfeXFMT2tJa2xVa296Xzg2TXdrMVhTSUJaRnQ5VzdJX05hN0dBd1ExcGlaVVp5U2tzR3F0X3VJeU84ODJRQWdlbXNnNlBDMkFiclhudENZdEhjVGRnTVVkV3VjWEdHTkk0RmNZZC1ZLWxNSDJRVk43M0U4bG1iR1UwTllpcEdGUUJZSlg0MmdVbGQ4ZWV3RHduem5zRzlLbExvYmNucklfRk1scHpyWlZTeVhMaHVqZUR0bkNB?oc=5\" target=\"_blank\">LA County supervisors to consider developing data center ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "other"
+    },
+    {
       "id": "8240ccf5209bb711",
       "title": "LA City Councilwoman seeks amnesty program for unpermitted ADUs - spectrumlocalnews.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlZOS3gyeklyY2Q5X18yZjlaN255VFcySkljOHpjMXdHQ2t1c0FsVmlzbnhjRXMxUGo0c2o2LWNHSHJfRUNUVm1pdHJoUkRyd25EUUFVeXBYcHYtT0c0ZTk4ektSOWNnWmdHa1BMWktuSVdpNjhiQ3RoSGFMZE1DU2JVYmFtZE14S0t2S05uVUVPSFphNTBsRTE5Y1hDUkhkRzFPYmprblBVVXd3ZDlVODI4YS02a2t3Y2gwRjdvc2FibEZmQ0E?oc=5",
@@ -3941,6 +3971,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVTbVNNMFQyd28xWmNjLXF0VF9FdUI0eEVNZVhGanN4T3hodWtOdG5WVG9KcElzTGZmcndhT3dZWnpKa2x2azdYTW0wY1hnSjBsT2NhNHY2dUVJWU13ZDFWU2pFOEdHVFF1RDBXMWQzcFltMXlPSTQydWF0VVFwRk1HR3JHbTA3VnlTcFlXbGVoek1CMDhEeVZHOW1NMzltaWk1T3ZyR0I2dUhOd3RUTThWQQ?oc=5\" target=\"_blank\">With the federal eviction moratorium over, many call Las Vegas’ Desert Moon Motel home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "6e83b0046af03573",
+      "title": "Here Are the Rules for Short-Term Rentals in Your City - Dwell",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYm1MQlFNTjVMbUZBQ042RHlGdWdEMXJfQWdmUkxNMGZSTjZuQ3B0Y2RSbF9JQ1cyNE44Rld1Nzc5NjdUNXZ2ZFhIelNENTFKWnM3bWJOZnZaaUhicWw4ZFUyeWdSWE1wWmk1cXRYa0NqMHZ5ck9IT2Vmb0JTT1dVd20zNmdRd9IBiwFBVV95cUxNNFhiOGY5WGpvSy1FM2EtVkZXd3Y4aEc5ZV9xU1JNOXVmaVlKdm9WRDZoV2toNVdhNjZIZnJGU2dieHh0U0ltNFdSUkN3RFlueUdCOWhOdEFiYjJpUU15N1N3YjNnVktkVEYyRHdqaEhNQ3hmU3ZfQzZDblVENGRhVGJBdTFlNFkyVXlB?oc=5",
+      "source": "Dwell",
+      "published": "Thu, 21 Mar 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQYm1MQlFNTjVMbUZBQ042RHlGdWdEMXJfQWdmUkxNMGZSTjZuQ3B0Y2RSbF9JQ1cyNE44Rld1Nzc5NjdUNXZ2ZFhIelNENTFKWnM3bWJOZnZaaUhicWw4ZFUyeWdSWE1wWmk1cXRYa0NqMHZ5ck9IT2Vmb0JTT1dVd20zNmdRd9IBiwFBVV95cUxNNFhiOGY5WGpvSy1FM2EtVkZXd3Y4aEc5ZV9xU1JNOXVmaVlKdm9WRDZoV2toNVdhNjZIZnJGU2dieHh0U0ltNFdSUkN3RFlueUdCOWhOdEFiYjJpUU15N1N3YjNnVktkVEYyRHdqaEhNQ3hmU3ZfQzZDblVENGRhVGJBdTFlNFkyVXlB?oc=5\" target=\"_blank\">Here Are the Rules for Short-Term Rentals in Your City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dwell</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "a9dd4b1b0e808e4f",
@@ -4961,46 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeElZYUc3cXotYXM1cGFSeXlMMTFtSjd1VGlSVy01a2RSaVo1a3VfbTA5dDBWbXZLVWVzcU5rWm1SRldrZnlxU25RV21wSGxnYTZYUWlSMXR0dGNxbGhvR3Z0d0dBWU1UYzFxUnZ4M3hIM1JaNUNpRXF3dURCQk1YQzQ2SFJ1djg2MmYtN0g2bUdCVVo0OUJYb25ZdXVJMDR5X2M3YTVqMnZyREdEZFNZNmhncTYxR3VuNS1zS1FxOA?oc=5\" target=\"_blank\">As court overturns a lot-splitting law, SB 9, one early adopter asks why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "legal"
-    },
-    {
-      "id": "aec88a42b73c2c26",
-      "title": "What the demise of contentious housing law means for San Jose - San José Spotlight",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0UwdENhc3dSVjFYWDhVTkd6cldQVTNBTG01dVJxRFNYOVVhY0pIQkd6U0R3VlNyT2VhMzgxc0JsdTY1bF9OT3dSR3NVeGlvODBMZFZ1Wl9hQm9LT2FmZXRSWk4wUHdvS0FRT0xrOEZTVXBzWkRrcEpLbUtxWGJaS0Zjd0NFclJ5aFItcjdZUlZVbGVHSVdrMlF2YllDemVuR1AxZ05Fb09PQlVvbUE3QmJQZzd0Y2h2Y2xFZFFPNk1fTms?oc=5",
-      "source": "San José Spotlight",
-      "published": "Thu, 02 May 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0UwdENhc3dSVjFYWDhVTkd6cldQVTNBTG01dVJxRFNYOVVhY0pIQkd6U0R3VlNyT2VhMzgxc0JsdTY1bF9OT3dSR3NVeGlvODBMZFZ1Wl9hQm9LT2FmZXRSWk4wUHdvS0FRT0xrOEZTVXBzWkRrcEpLbUtxWGJaS0Zjd0NFclJ5aFItcjdZUlZVbGVHSVdrMlF2YllDemVuR1AxZ05Fb09PQlVvbUE3QmJQZzd0Y2h2Y2xFZFFPNk1fTms?oc=5\" target=\"_blank\">What the demise of contentious housing law means for San Jose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San José Spotlight</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
-    },
-    {
-      "id": "6cac00f503a91b1b",
-      "title": "Council holds off on Measure ULA exemption for new housing - dailynews.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONnZlMThiQk8xZUJYTTNWaGxsMmF4RzNqa2ZNNHI5bDNZN2JFbldVTldWWkdnMld2QWlURmdUTTg0OGlFRDBBQkFYYXlFMmxvOWpYeVRKSzhNcmwwaDdybWliYUtHbW1RVG1HTWlZYnVTMkMzUkdqZXQ3STRVazNsc1l1cmNVX1lMMWxPa2V2UlpNRmtvMUhfODc3M0k?oc=5",
-      "source": "dailynews.com",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONnZlMThiQk8xZUJYTTNWaGxsMmF4RzNqa2ZNNHI5bDNZN2JFbldVTldWWkdnMld2QWlURmdUTTg0OGlFRDBBQkFYYXlFMmxvOWpYeVRKSzhNcmwwaDdybWliYUtHbW1RVG1HTWlZYnVTMkMzUkdqZXQ3STRVazNsc1l1cmNVX1lMMWxPa2V2UlpNRmtvMUhfODc3M0k?oc=5\" target=\"_blank\">Council holds off on Measure ULA exemption for new housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "5aebafb897fb5c68",
-      "title": "LA Council Approves $2B Mixed-Use Redevelopment - Multifamily Housing News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmlOdnZWTVlpSHFDVGZHOUZfNVN0aDFsU09UUVRERTdlNjlRMmR4SnRjQW5QTDVsVDZGOG93T1FZdmljX3NabjZXWEI2YmNOcldPeU00SGg0ZDhaVnRfeV91ZFgzMWJlR3ljczg4cnFtc0tlOUlHMXZSMnVEN0JLd1NCMUxoYnc?oc=5",
-      "source": "Multifamily Housing News",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmlOdnZWTVlpSHFDVGZHOUZfNVN0aDFsU09UUVRERTdlNjlRMmR4SnRjQW5QTDVsVDZGOG93T1FZdmljX3NabjZXWEI2YmNOcldPeU00SGg0ZDhaVnRfeV91ZFgzMWJlR3ljczg4cnFtc0tlOUlHMXZSMnVEN0JLd1NCMUxoYnc?oc=5\" target=\"_blank\">LA Council Approves $2B Mixed-Use Redevelopment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Multifamily Housing News</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "zoning"
-    },
-    {
-      "id": "05789bb8752e110e",
-      "title": "LA City approves massive development project - FOX 11 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFZyd0tzaUNENjFhRDFIVUdFeGZzTU1vazBMRmFPdGFHVjlXb0RnTFlHT3dWRE9JQkZBSF8yUjV3ZnE5WUJueHRiMUNEdjRSakVTYWl2ZmF1eFFiZU9fVUlLZkRpQUI5c2RLV2Rjc0ZCc0VPMkdaZFRjOWdhcWJuWm5QLWJYUdIBiwFBVV95cUxQbnQzRUgyR3hjVFNJdlk2UE1iWkxaSTRqZ3FxdmdFUnJJem5fWkdJTGp2Q2VCUWxRZkFtMGV3S1VBLUUtdFltRHBTWjVZSTdKNVNaRWo5aEFZQm43RUhDMktleWxfVU9XR3ZPMWZvVG5jZDh6N0JWSFp2RDItM29QU2ZSZlktbEF4czNN?oc=5",
-      "source": "FOX 11 Los Angeles",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFZyd0tzaUNENjFhRDFIVUdFeGZzTU1vazBMRmFPdGFHVjlXb0RnTFlHT3dWRE9JQkZBSF8yUjV3ZnE5WUJueHRiMUNEdjRSakVTYWl2ZmF1eFFiZU9fVUlLZkRpQUI5c2RLV2Rjc0ZCc0VPMkdaZFRjOWdhcWJuWm5QLWJYUdIBiwFBVV95cUxQbnQzRUgyR3hjVFNJdlk2UE1iWkxaSTRqZ3FxdmdFUnJJem5fWkdJTGp2Q2VCUWxRZkFtMGV3S1VBLUUtdFltRHBTWjVZSTdKNVNaRWo5aEFZQm43RUhDMktleWxfVU9XR3ZPMWZvVG5jZDh6N0JWSFp2RDItM29QU2ZSZlktbEF4czNN?oc=5\" target=\"_blank\">LA City approves massive development project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
     }
   ]
 }
