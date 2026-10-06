@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T22:58:27.100737+00:00",
+  "generated_at": "2026-10-06T02:40:40.787368+00:00",
   "total": 500,
   "alerts": [
     {
@@ -501,6 +501,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUkZMUmh5U0Z4bEhVUzh3aHdxdTRaaGhpMGI3dnZlVlZ3MUdPcjRSUXdBVzN4SXFRX3JZV2U4ajl1V1lkZzZFRGptQWJuWjNkVTlHMTlaaVlHc21OdEVxSmRrNWNDaEpEWWZfOUQwSi1QNHBfaGxJNnJqdVM2T1VsaWFUa0YyeDMwMUE0WFZlZG5YbG1vbmIwelJQWlMyMVhmemJsd0xOaw?oc=5\" target=\"_blank\">Judge rules LA County violated zoning with Acton battery project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Journal</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "legal"
+    },
+    {
+      "id": "9fc546397292324a",
+      "title": "Placentia Airbnb ban undermines property rights - Orange County Register",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXMwUEswS05NRmdSemdKa3hidnJpa01qYmJjZTJ2cVIyeEZKUzZzOWNMQXFoU2JfYTU5NVozYXB0cDF3X1VFSkJjMmZxbW9FZ3BHY3FmVno1NzZiZy1kTzVmSEtFSmU0RHBoOHFkM1ppaFo3SktJS1pycEdqbGJ5UGN2OFNvQTlMNHp1cEFXZw?oc=5",
+      "source": "Orange County Register",
+      "published": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXMwUEswS05NRmdSemdKa3hidnJpa01qYmJjZTJ2cVIyeEZKUzZzOWNMQXFoU2JfYTU5NVozYXB0cDF3X1VFSkJjMmZxbW9FZ3BHY3FmVno1NzZiZy1kTzVmSEtFSmU0RHBoOHFkM1ppaFo3SktJS1pycEdqbGJ5UGN2OFNvQTlMNHp1cEFXZw?oc=5\" target=\"_blank\">Placentia Airbnb ban undermines property rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "470ca7aab9b4ef47",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3VGazBwUzFtTlFXUkwtUTRWa28yYnUtZDJfVHZGMUJYckloaHJ4OGpZQlhFcmp1OWNmRnhKYVNQT2wtSzlLUy1CLU9KN2ZJQXNOcWVPcTE1ZEtNM0VmUEpFYlR3b1BDS1J1WEZ3ZjJsS0YyNXR1TG9IdWxBMTgyZVZ4TWJWSnU5ZE1SRF9LUjR3TkwtSzlyNjlXS0tWc0ZjeHFXNGxpSThudlpDUEU4OThmVGtqWmtGbjFXYm8xcW42WUdE?oc=5\" target=\"_blank\">Your guide to L.A. City Charter Amendment PL: Streamlining Planning Department processes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "other"
-    },
-    {
-      "id": "edeec1a77d94ca4c",
-      "title": "Your guide to the L.A. City Council District 3 race: Gaspar vs. Worth Girvan - latimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXBMV2FpWFFqeUx3T0VFcktlVGRINVJjWmdJM09xb0R1TDFVU2d5YTRlV1MzRlhEMWJzRHNneU5NcDdLbmc3S1lxVVQxLVFnSzkwMkh3ajBqeFNZdk1rSnc1UW40QXA2MExYNVpFcnowWTlWWTF0Y09BenlPOWowNGdpRE5ZcmNDV3lsQ2tETWp6S0lqU1pseUxCVl9tZEo0bmVRYUtuM0JFWHI3ODlURmNlLWotRDctaGg1VC1KRHlSb2ljNGx6NnR1MUdlZDNWdnJQd0pUQUN3dGw1?oc=5",
-      "source": "latimes.com",
-      "published": "Thu, 01 Oct 2026 10:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXBMV2FpWFFqeUx3T0VFcktlVGRINVJjWmdJM09xb0R1TDFVU2d5YTRlV1MzRlhEMWJzRHNneU5NcDdLbmc3S1lxVVQxLVFnSzkwMkh3ajBqeFNZdk1rSnc1UW40QXA2MExYNVpFcnowWTlWWTF0Y09BenlPOWowNGdpRE5ZcmNDV3lsQ2tETWp6S0lqU1pseUxCVl9tZEo0bmVRYUtuM0JFWHI3ODlURmNlLWotRDctaGg1VC1KRHlSb2ljNGx6NnR1MUdlZDNWdnJQd0pUQUN3dGw1?oc=5\" target=\"_blank\">Your guide to the L.A. City Council District 3 race: Gaspar vs. Worth Girvan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
     }
   ]
 }
