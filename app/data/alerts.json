@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:51:08.583785+00:00",
+  "generated_at": "2026-10-07T14:51:16.898405+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1989,6 +1989,16 @@
       "source": "CBS News",
       "published": "Tue, 28 Jun 2022 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUdfN29qbGJmOWs2TEdDdVVWbkdvdWhyeGgyU3djVF9zUFBZNEJEWWRaOEZ0YmRsNmprLUNWT1llZm91NmxYSDFSX0JPOWo5WktTQXdac1FzX2w5RlhtMW5ydlVpNEJ2SHF0SDVDTFJ1aEJnUW9yNTJVRWFjMTVmV9IBhgFBVV95cUxNWF8xQTd4SklaRlctaXZsZTgwUUdXWHBqMklfYUhYdkRYVHpReTh1VE5IYlRYWjJDQV83cGtQTHFCdVhfdlBuTDRjZFdMbDM2dy1tdXhJZFRkNTZENEs2NmV6MjhQUVVLdzFDaDlNNVRnenE0OGVlQXVveFB1Wm5ZWXBOUDdCdw?oc=5\" target=\"_blank\">Airbnb makes its ban on house parties permanent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
+      "id": "7db225f0bc459986",
+      "title": "Airbnb makes its ban on house parties permanent - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUdfN29qbGJmOWs2TEdDdVVWbkdvdWhyeGgyU3djVF9zUFBZNEJEWWRaOEZ0YmRsNmprLUNWT1llZm91NmxYSDFSX0JPOWo5WktTQXdac1FzX2w5RlhtMW5ydlVpNEJ2SHF0SDVDTFJ1aEJnUW9yNTJVRWFjMTVmVw?oc=5",
+      "source": "CBS News",
+      "published": "Tue, 28 Jun 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUdfN29qbGJmOWs2TEdDdVVWbkdvdWhyeGgyU3djVF9zUFBZNEJEWWRaOEZ0YmRsNmprLUNWT1llZm91NmxYSDFSX0JPOWo5WktTQXdac1FzX2w5RlhtMW5ydlVpNEJ2SHF0SDVDTFJ1aEJnUW9yNTJVRWFjMTVmVw?oc=5\" target=\"_blank\">Airbnb makes its ban on house parties permanent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
     },
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjFXRWwtRktBcXNMeUxlNHBsUmhpRGRSM0hOZmxldGJFWUx4WDNRWU9NUFpSMXh5Qmd1MHhWLTRfZFNGbG9MMlFaNjM0b1UtWVFUWUFhWVRfZkhaNFlBLTVtaHhBSWJ0dnIyV2NwN0R2ZGhzdE5vZ1pndFFUSG1WMG00dmhhR0VTYld0NjdmWUk5RlRsMlFqNmhqTmtDQ1dSVWVwVkdYLUp3NDFyTFRtc2NaMFNCTmVVc1E?oc=5\" target=\"_blank\">Your guide to L.A.’s ‘mansion tax’ proposal to build more housing, Ordinance ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "tax"
-    },
-    {
-      "id": "6a08ed62cde75973",
-      "title": "Landlords sue to end eviction moratoriums in Oakland and Alameda County - The Oaklandside",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUQ3VkdwY3MzdnRxNFItOHdxV255ZWZYZzltaU84RWp2aDRPaHNYV0JyNm5iSFBVQ0p1SElnNXdwYnFIa1Q0c19nZzZLTlFQS0NNSWg0S2g1d1NEUHdMOHBadDAwTWEyTVJqa3d6ZXFUN1k5Y0p5SS1VZXd5aEtxZTgza3ljeXQ5bThSRUtsWWdOXzlyUmxlZ3NOZmI?oc=5",
-      "source": "The Oaklandside",
-      "published": "Thu, 03 Mar 2022 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUQ3VkdwY3MzdnRxNFItOHdxV255ZWZYZzltaU84RWp2aDRPaHNYV0JyNm5iSFBVQ0p1SElnNXdwYnFIa1Q0c19nZzZLTlFQS0NNSWg0S2g1d1NEUHdMOHBadDAwTWEyTVJqa3d6ZXFUN1k5Y0p5SS1VZXd5aEtxZTgza3ljeXQ5bThSRUtsWWdOXzlyUmxlZ3NOZmI?oc=5\" target=\"_blank\">Landlords sue to end eviction moratoriums in Oakland and Alameda County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
