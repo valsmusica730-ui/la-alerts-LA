@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:20:55.077299+00:00",
+  "generated_at": "2026-10-07T07:51:08.583785+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1583,6 +1583,16 @@
       "category": "policy"
     },
     {
+      "id": "bda1bb9de25bc169",
+      "title": "The AIDS Healthcare Foundation vs. sensible housing policy - Orange County Register",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tb2YxNFNmNDh4dGlpV21WT25aZkFIXzJUVVphYWhBOWVlVUpJa2hSNTlCU2lseFM3anBVeVJJQTRoaHFsOG5vU1ItZ1hUNUJfV1VVM1c3NW1LNWFja2NYM2ZWaEFpWU1lNW4yLTJFWnFUcmtnWG5UdVFCSVJEQQ?oc=5",
+      "source": "Orange County Register",
+      "published": "Wed, 03 Jan 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5tb2YxNFNmNDh4dGlpV21WT25aZkFIXzJUVVphYWhBOWVlVUpJa2hSNTlCU2lseFM3anBVeVJJQTRoaHFsOG5vU1ItZ1hUNUJfV1VVM1c3NW1LNWFja2NYM2ZWaEFpWU1lNW4yLTJFWnFUcmtnWG5UdVFCSVJEQQ?oc=5\" target=\"_blank\">The AIDS Healthcare Foundation vs. sensible housing policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
+    },
+    {
       "id": "16fd6d47fb3399dc",
       "title": "LA Council Contemplates 1% in Allowable Rent Hikes for `Small’ Landlords - Los Angeles Sentinel",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjRXQkhUM3NSa0FaNTV2ZVJKZGl1OER1Rm5oMGFJMkdjSFoyaGZ5cnM5XzN6WHlpMENIRjJNX3ZGbWpkRnd3MUZUWUhWWkNzV0NDdzFqR0g4eVhINjk3RndMY1NtNU9zekgxTVptVjRwclpKRktyZkxDdG03VkctUjcxbzdUc1d6cWN2MG5MVTgzT0xGakNldkYwZ2VNdw?oc=5",
@@ -2341,6 +2351,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhTU0hna0pTZ19feTdmSXpGbVhaSzJEM0hwcTZqOXJxbzJfbjBleHU3T2JNdzNjc1BMWkN0eWdGZmx4OTZZdGk4MEFhSXY5dzczX2NabWRMa0xmbXdienZaNGFZS0FXdWF4X0pwTTFBZkJuWXBQcVU2VU9idE1kQzZlcDBOVVU?oc=5\" target=\"_blank\">It was a big, bold year in housing policy changes. Here's what that means for SoCal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "policy"
+    },
+    {
+      "id": "2aef82e07543ae4f",
+      "title": "Mayor Bass Signs Updated Rent Stabilization Ordinance - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdXhGeHdTLUFPM3l3aVpHR1dTeGQzU3VyZnJ0ODQxWXdYU29wQ0hLbG02TnFsSXFCSkx4RjNUclR6dEl6Yy1XSGdMS0FjOXFwcGtPaExaaXFIN0JSYTFVQVBiZl9yamJBa0t4R1ZYNEM5TUh4dzdac3llcWtUQ3M5bnRLUU9kN0VYdGRtUjRXUk9xa2RKTUVuOTdBeHRJdnAtNHdmWnBua1hlaWQ5bzhSSjJyQk5nZw?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdXhGeHdTLUFPM3l3aVpHR1dTeGQzU3VyZnJ0ODQxWXdYU29wQ0hLbG02TnFsSXFCSkx4RjNUclR6dEl6Yy1XSGdMS0FjOXFwcGtPaExaaXFIN0JSYTFVQVBiZl9yamJBa0t4R1ZYNEM5TUh4dzdac3llcWtUQ3M5bnRLUU9kN0VYdGRtUjRXUk9xa2RKTUVuOTdBeHRJdnAtNHdmWnBua1hlaWQ5bzhSSjJyQk5nZw?oc=5\" target=\"_blank\">Mayor Bass Signs Updated Rent Stabilization Ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "rent"
     },
     {
       "id": "d24f83aef1ca73af",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUQ3VkdwY3MzdnRxNFItOHdxV255ZWZYZzltaU84RWp2aDRPaHNYV0JyNm5iSFBVQ0p1SElnNXdwYnFIa1Q0c19nZzZLTlFQS0NNSWg0S2g1d1NEUHdMOHBadDAwTWEyTVJqa3d6ZXFUN1k5Y0p5SS1VZXd5aEtxZTgza3ljeXQ5bThSRUtsWWdOXzlyUmxlZ3NOZmI?oc=5\" target=\"_blank\">Landlords sue to end eviction moratoriums in Oakland and Alameda County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "6001d548932b05c3",
-      "title": "L.A. City Planning Commission approves Eric Owen Moss’s canal-straddling Reese Davidson Community - archpaper.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOVhscUZyVVlBTkxWM2NjTVdXWWxnX1QwRVpSSkdCS1ZBYUxnOWptUEFwV0tReU11dmpydEliM2JOYUFTWU15RkZON2VsUDl4eGJhUFdHaVhpc09GRGtLLXNuY2tBS2h6NmVaUWZndHd6SG4wU3JzLUJVbmM5dGpPOWNfcWZlN1B6dmRfTUUzVVhRRDd3dFJEUVdLOVdzN2hiN19WT2p3c1M5RVhpUTB6eG5Tb0VncGFqNmxMTHZmb1BwNHpKOTMwOA?oc=5",
-      "source": "archpaper.com",
-      "published": "Thu, 03 Jun 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOVhscUZyVVlBTkxWM2NjTVdXWWxnX1QwRVpSSkdCS1ZBYUxnOWptUEFwV0tReU11dmpydEliM2JOYUFTWU15RkZON2VsUDl4eGJhUFdHaVhpc09GRGtLLXNuY2tBS2h6NmVaUWZndHd6SG4wU3JzLUJVbmM5dGpPOWNfcWZlN1B6dmRfTUUzVVhRRDd3dFJEUVdLOVdzN2hiN19WT2p3c1M5RVhpUTB6eG5Tb0VncGFqNmxMTHZmb1BwNHpKOTMwOA?oc=5\" target=\"_blank\">L.A. City Planning Commission approves Eric Owen Moss’s canal-straddling Reese Davidson Community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">archpaper.com</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "7baf0aa7bb0b433d",
-      "title": "Los Angeles Is Giving Away Plans for a Pre-Approved ADU - Dwell",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZGF4RWFBNzkzdjA1c00wMWp1NUpEZklFTjAxanB4bzBFZ09Qb2VDNTNMMXpuQkZqRWplSmlPb3V1TDRWMlZiNTBHNVNpRFFkcVJhcGpHZDVXN09XWmdmaVYwREdvNW9iaGF2b3JZSWUta3I4UTJfbnd4UXlrb2xJSHMyZ1F3TmZibzh4SDVzbVJnSFhROUFNZGNibldKWVJoZ2RMaC1CeGZ3RXJCTmJhWmhTTDB5aWVOOGt4N0ZsMFNOWVlz0gHKAUFVX3lxTE5QejVMY01oM3hOOWJweVo4MnZIdnpLSVBscFpFVlFzWlNUczh0dGYzb2I5a3JCZGFMWTdtQkZ1SjlIVkw0aHR1aURFdzl2NDJrb1pHa1pGaTd1Rkx3cmF4OF9CV1E5d0ViXzBBOUdsUDNGOERWMDJQdVlTd0FSbzdrVGtxNU5nRVpFOVFmWGVKMUoteFYyVW9mb1hteUVVbkFuRWR6TnoxTTN6X0l0bE9CZlJSc2NCODFBaEZkRlQ2QW9nUEhPVVNjeHc?oc=5",
-      "source": "Dwell",
-      "published": "Thu, 03 Aug 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZGF4RWFBNzkzdjA1c00wMWp1NUpEZklFTjAxanB4bzBFZ09Qb2VDNTNMMXpuQkZqRWplSmlPb3V1TDRWMlZiNTBHNVNpRFFkcVJhcGpHZDVXN09XWmdmaVYwREdvNW9iaGF2b3JZSWUta3I4UTJfbnd4UXlrb2xJSHMyZ1F3TmZibzh4SDVzbVJnSFhROUFNZGNibldKWVJoZ2RMaC1CeGZ3RXJCTmJhWmhTTDB5aWVOOGt4N0ZsMFNOWVlz0gHKAUFVX3lxTE5QejVMY01oM3hOOWJweVo4MnZIdnpLSVBscFpFVlFzWlNUczh0dGYzb2I5a3JCZGFMWTdtQkZ1SjlIVkw0aHR1aURFdzl2NDJrb1pHa1pGaTd1Rkx3cmF4OF9CV1E5d0ViXzBBOUdsUDNGOERWMDJQdVlTd0FSbzdrVGtxNU5nRVpFOVFmWGVKMUoteFYyVW9mb1hteUVVbkFuRWR6TnoxTTN6X0l0bE9CZlJSc2NCODFBaEZkRlQ2QW9nUEhPVVNjeHc?oc=5\" target=\"_blank\">Los Angeles Is Giving Away Plans for a Pre-Approved ADU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dwell</font>",
-      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
-      "category": "adu"
     }
   ]
 }
