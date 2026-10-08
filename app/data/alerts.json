@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:31:50.977524+00:00",
+  "generated_at": "2026-10-08T06:46:28.487588+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4763,6 +4763,16 @@
       "category": "policy"
     },
     {
+      "id": "3c2140c144b1c433",
+      "title": "West Hollywood ordinance lowers the temperature - Beverly Press & Park Labrea News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTlGOTVHZzVmdmxwVFozX2VXLXBHdHAweEZQMzIySzkxaEtEWjQ1b19ENnJWZEJLOHVrdTlORnIyTkI5cExrTXhxWjZPcDVoYkNQRk0ybE55S3lyZzhaOTFITDhqNTFYYWREcWJJVVNFQlNwU2xJdEVvQnpzMTBvbG9iVDJ0QWtS?oc=5",
+      "source": "Beverly Press & Park Labrea News",
+      "published": "Thu, 08 Oct 2026 01:06:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTlGOTVHZzVmdmxwVFozX2VXLXBHdHAweEZQMzIySzkxaEtEWjQ1b19ENnJWZEJLOHVrdTlORnIyTkI5cExrTXhxWjZPcDVoYkNQRk0ybE55S3lyZzhaOTFITDhqNTFYYWREcWJJVVNFQlNwU2xJdEVvQnpzMTBvbG9iVDJ0QWtS?oc=5\" target=\"_blank\">West Hollywood ordinance lowers the temperature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
+    },
+    {
       "id": "d7ae1506cba2a5af",
       "title": "Laguna Beach to have new short-term rental rules - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHoya3V4WkVFZ2NzRjRqWl8xbXIzWkZYTG9IUEhxbTE2TU9mdTRIaUtZQWZwM3dhVFRkTXo2ZloxZi1XOHpPMVNCUUIxQVh3U1Q5VVZyTUlKRmowNkxfZW5fWkMxeHhZamxSdzhPZDBMX2tjekRvRmlFcU9SdkpvRGRKQy1hVnE3TXZTd0VhbFBpRjNBbUw5d2FHNUdxa2trSTgwQzlobzAwdGxMMVhZTzlR?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMG1QNUI3Wm14eUNWSktLQXdCZUYwVDNLdmdha2RSTmJmS0lJd29yRHBTTXlPaG1wZHgwUURvaFR4SGg0UUtfLUlwMTVNUG94VnBadVMxTmdicEFlVVl5bDNCTlBralA0amZzc1h6RG9INVpKV1VIeWxMU1NlZ0pRZWFuNlhUel85TWRqWFNCdWhXWXpXYnhLcnRVN3AwNWhTLVFDYXNhalE5TWxWbzdwdm51NGNWQ1pHaUhRdG9jWmxWV1dibC1NN293LTFqX0ZkS2tUZVVzMA?oc=5\" target=\"_blank\">Costa Mesa City Council passes affordable housing ordinance, but much work remains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
-    },
-    {
-      "id": "c6c4ea1b7c649e44",
-      "title": "Controversial artist work/live project inches forward in Laguna Beach after Planning Commission keeps city permit alive - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXNTVjZ6cGJIT3hPWno3RHZBWktfRHpId2tlOFpJMG5NVDNVSTVjMlJyREVNSlBxYXBYbnN0cFVxT1VWOXlzX1A4MHk3eWxhVkdEclpnckpqRWQyNk9PbFdUWnlJNVQtMzNSZzBWSXBTMFRmejExLWs1eUxnTENlbzhzVVFiWjlvTTFFTFdwX3MzejRCWTBLckJqOEM2dUczTTk3VlZFN3kyUGpMQlE0?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 04 Apr 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXNTVjZ6cGJIT3hPWno3RHZBWktfRHpId2tlOFpJMG5NVDNVSTVjMlJyREVNSlBxYXBYbnN0cFVxT1VWOXlzX1A4MHk3eWxhVkdEclpnckpqRWQyNk9PbFdUWnlJNVQtMzNSZzBWSXBTMFRmejExLWs1eUxnTENlbzhzVVFiWjlvTTFFTFdwX3MzejRCWTBLckJqOEM2dUczTTk3VlZFN3kyUGpMQlE0?oc=5\" target=\"_blank\">Controversial artist work/live project inches forward in Laguna Beach after Planning Commission keeps city permit alive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
