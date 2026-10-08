@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:16:48.191319+00:00",
+  "generated_at": "2026-10-08T00:31:50.977524+00:00",
   "total": 500,
   "alerts": [
     {
@@ -391,6 +391,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnBQZnJuYV9DeFFDRXBtbnNqNTFidmpxTmc3a3NtQlk4RDFCSnB0bERERzdNRHAzWVRaQ2hMRDBjZlNFc0hSYlR0QkFmVmZWRTROeWh2VFdrR1VhVEpDSDZlcEstRlNGeVNTREFNamV1Z1UyYVpWanVzQWJWaFl1b3FpRGRxXzNPaTMw?oc=5\" target=\"_blank\">Beverly Hills City Council OKs Burton Way project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
+    },
+    {
+      "id": "39e8c4cdbbfc6575",
+      "title": "L.A. County extends eviction moratorium by 2 months - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGUxU1plRVpHS19vUk1GblR5ejN5QlpVclJlUEFObWs3T19kRWFFVEE3c2tiNWVoREhodlBXbFdqb0trS001czJSUXcwRjlVbE9ybVAwZF9PRnIyajRMYUJPRWNuOVJ4cXNFZXlRc180U3N5SmdWUWxaM2I0b3FpbVRiU1FKVmdkdllLb1dObGt0V2NaSmtxR0l4MHBiY0lEN3BsVw?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Wed, 25 Jan 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGUxU1plRVpHS19vUk1GblR5ejN5QlpVclJlUEFObWs3T19kRWFFVEE3c2tiNWVoREhodlBXbFdqb0trS001czJSUXcwRjlVbE9ybVAwZF9PRnIyajRMYUJPRWNuOVJ4cXNFZXlRc180U3N5SmdWUWxaM2I0b3FpbVRiU1FKVmdkdllLb1dObGt0V2NaSmtxR0l4MHBiY0lEN3BsVw?oc=5\" target=\"_blank\">L.A. County extends eviction moratorium by 2 months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "bf7d8505b46a468e",
@@ -1371,6 +1381,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODYwMXRHWks1bXNUYlZ2dmhtNWhTTnRyWEFiR2VTM2VnRzlVNm9jZkVaMXVsNnppWHdtSmt5eXRGc0I4Ry1idU01bnVlcVpDTHR5UTdBZFZLcnNmNnJXaGlvTmV6SUdKQ2c2UzFpemVackVXTldYTGpKa1YydkZaQnVseFZWdUlj?oc=5\" target=\"_blank\">Los Angeles’ rezoning plan is too little, too late</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pacific Research Institute</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "zoning"
+    },
+    {
+      "id": "ff7b411381f009d1",
+      "title": "LA County Eyes Ban On Massive Data Centers Over Water, Energy Concerns - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFdIaDBzQ0tIUm9taTJjZjF3SFJwdGhHYkU1WF9URGRGTFgxRy10SjNLb1RJY1V3ZDA3V3RrWVAxLXgxTmNxeDJOeF82UDI3VHVqTTJZOUpkazN1TlFldEpJRERVYWdkb3RrQ3hfVEZ2cHBEWGJnSHBkU2FULUJoOU14ckJGOVEtbEJ3bjdaM1VRdk1NSTFuMDd5bnVWQ3pJLVZQMjUzQm9fcHPSAcABQVVfeXFMTlBkeXBmNGhaME1CVktuOHVkRjZHYk9wREZmUEZOVHRTSWRqYVBmcHFXMWg5VGg4WkQybEdsQWI0YmN4MnJLSURHQThsQUFvNmhqZEVxTGR2cWVMX3pCNGtFa01FaGltN1F3a3pwclZmUDZmYWwzU0dGTFVuam4wRjRvV2M5R1VweXhiZERCellvRFpCNVZhN3BlTjRaZi0tbXVPMmYxQTdlUll5ZkZheEtZTTNBeHZzMTEzeWhvVDZJ?oc=5",
+      "source": "Patch",
+      "published": "Wed, 07 Oct 2026 17:59:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFdIaDBzQ0tIUm9taTJjZjF3SFJwdGhHYkU1WF9URGRGTFgxRy10SjNLb1RJY1V3ZDA3V3RrWVAxLXgxTmNxeDJOeF82UDI3VHVqTTJZOUpkazN1TlFldEpJRERVYWdkb3RrQ3hfVEZ2cHBEWGJnSHBkU2FULUJoOU14ckJGOVEtbEJ3bjdaM1VRdk1NSTFuMDd5bnVWQ3pJLVZQMjUzQm9fcHPSAcABQVVfeXFMTlBkeXBmNGhaME1CVktuOHVkRjZHYk9wREZmUEZOVHRTSWRqYVBmcHFXMWg5VGg4WkQybEdsQWI0YmN4MnJLSURHQThsQUFvNmhqZEVxTGR2cWVMX3pCNGtFa01FaGltN1F3a3pwclZmUDZmYWwzU0dGTFVuam4wRjRvV2M5R1VweXhiZERCellvRFpCNVZhN3BlTjRaZi0tbXVPMmYxQTdlUll5ZkZheEtZTTNBeHZzMTEzeWhvVDZJ?oc=5\" target=\"_blank\">LA County Eyes Ban On Massive Data Centers Over Water, Energy Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "other"
     },
     {
       "id": "13c07a289774a25d",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXNTVjZ6cGJIT3hPWno3RHZBWktfRHpId2tlOFpJMG5NVDNVSTVjMlJyREVNSlBxYXBYbnN0cFVxT1VWOXlzX1A4MHk3eWxhVkdEclpnckpqRWQyNk9PbFdUWnlJNVQtMzNSZzBWSXBTMFRmejExLWs1eUxnTENlbzhzVVFiWjlvTTFFTFdwX3MzejRCWTBLckJqOEM2dUczTTk3VlZFN3kyUGpMQlE0?oc=5\" target=\"_blank\">Controversial artist work/live project inches forward in Laguna Beach after Planning Commission keeps city permit alive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "2e40f214d061a619",
-      "title": "Federal appeals court upholds Santa Monica’s ban on short-term vacation rentals - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUV9Ob1I2R21Qak5EelN3bnFBUzl0bE0yZURmMHZzT3V2aExzX1kwSGkxZVRGQnVlWlo5Q2Z4OVp5NG1KeTRaVER0Ym5aZWtVdXM5cEEwdlFRTjhENzJaOWhVY3FXQkZ2OHVTcTlXemppeWEzWWlUN01Gb1FvWXBMXzcyemgtd1pxWVRJ?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 03 Oct 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUV9Ob1I2R21Qak5EelN3bnFBUzl0bE0yZURmMHZzT3V2aExzX1kwSGkxZVRGQnVlWlo5Q2Z4OVp5NG1KeTRaVER0Ym5aZWtVdXM5cEEwdlFRTjhENzJaOWhVY3FXQkZ2OHVTcTlXemppeWEzWWlUN01Gb1FvWXBMXzcyemgtd1pxWVRJ?oc=5\" target=\"_blank\">Federal appeals court upholds Santa Monica’s ban on short-term vacation rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "legal"
-    },
-    {
-      "id": "643acec12552d4e8",
-      "title": "Your guide to L.A.’s ‘mansion tax’ proposal to build more housing, Ordinance ULA - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjFXRWwtRktBcXNMeUxlNHBsUmhpRGRSM0hOZmxldGJFWUx4WDNRWU9NUFpSMXh5Qmd1MHhWLTRfZFNGbG9MMlFaNjM0b1UtWVFUWUFhWVRfZkhaNFlBLTVtaHhBSWJ0dnIyV2NwN0R2ZGhzdE5vZ1pndFFUSG1WMG00dmhhR0VTYld0NjdmWUk5RlRsMlFqNmhqTmtDQ1dSVWVwVkdYLUp3NDFyTFRtc2NaMFNCTmVVc1E?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 03 Nov 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjFXRWwtRktBcXNMeUxlNHBsUmhpRGRSM0hOZmxldGJFWUx4WDNRWU9NUFpSMXh5Qmd1MHhWLTRfZFNGbG9MMlFaNjM0b1UtWVFUWUFhWVRfZkhaNFlBLTVtaHhBSWJ0dnIyV2NwN0R2ZGhzdE5vZ1pndFFUSG1WMG00dmhhR0VTYld0NjdmWUk5RlRsMlFqNmhqTmtDQ1dSVWVwVkdYLUp3NDFyTFRtc2NaMFNCTmVVc1E?oc=5\" target=\"_blank\">Your guide to L.A.’s ‘mansion tax’ proposal to build more housing, Ordinance ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "tax"
     }
   ]
 }
