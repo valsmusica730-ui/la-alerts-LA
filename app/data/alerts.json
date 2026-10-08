@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:46:28.487588+00:00",
+  "generated_at": "2026-10-08T20:18:55.869665+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3953,6 +3953,16 @@
       "category": "policy"
     },
     {
+      "id": "fcc1b334939e362b",
+      "title": "LA Planning Commission approves Harvard-Westlake’s plan to redevelop golf course in Studio City - Los Angeles Daily News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzZYMVNzV0YzNGpvNGJTNjFTVE9EVURmaXFlVGl3ZHZ6c2Q2UWFRSUFERzhoU3p3VTBEXzFGTFRSZTRUekJFNUc0WDlTUzR2LUJIcnVQRG9aeXBIU1lUdHdELWlSQ1kwbi1Ydm9ZcUZuVV9FTWcxZjZ3azlXdy1VaThMbUw5eHUzaFhSbTQwUkNJN0FDelAtb05KSmZNMzlwZWJwYUdZazhYVk9acnc?oc=5",
+      "source": "Los Angeles Daily News",
+      "published": "Thu, 24 Aug 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzZYMVNzV0YzNGpvNGJTNjFTVE9EVURmaXFlVGl3ZHZ6c2Q2UWFRSUFERzhoU3p3VTBEXzFGTFRSZTRUekJFNUc0WDlTUzR2LUJIcnVQRG9aeXBIU1lUdHdELWlSQ1kwbi1Ydm9ZcUZuVV9FTWcxZjZ3azlXdy1VaThMbUw5eHUzaFhSbTQwUkNJN0FDelAtb05KSmZNMzlwZWJwYUdZazhYVk9acnc?oc=5\" target=\"_blank\">LA Planning Commission approves Harvard-Westlake’s plan to redevelop golf course in Studio City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "6ecaf0a9f637bdb4",
       "title": "California's ballot compromise leaves Measure ULA standing - for now - Daily Journal",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnNuQXFwblFPSUg2Nl9WdzdaN0s3SXJXYWNCOEtRU2FYNUlUY0VQYWtzbFl2M0hvWGJZSkpKaXF4WmtXR21RVElYWHRBZEZ6TmJCZ3lPbVRjMXFpOUFaM3Z4M29kTzdCNzlNc09sbjZuaXdyXzZnZ29hLThTd3J1aGNYRERTWlotb1JvRndVY2ZJNW9SOENscldTV1AtRzNqR2E3Wjdab1FOekxwd1JR?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlV1Q2pmWkZBOXJWM09MQ1hnV3l6OUptbkZYRHRHaHJnLUx1NnVyaFVHRmN5WGJ2Z25kZ3lJMHgxb29pcXp6TmhUdDFROEQtRC1NOHNsNmFXWUpvM2psdklZY0ROS0h2aGlnSC1VaFlMbDh3X2tzZzY2S0dvLXVUdERFUHRZeENPQThiRGQxcw?oc=5\" target=\"_blank\">Modeling Inclusionary Zoning’s Impact on Housing Production in Los Angeles: Tradeoffs and Policy Implications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terner Center</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "zoning"
-    },
-    {
-      "id": "a7b63c1584d6f500",
-      "title": "Costa Mesa City Council passes affordable housing ordinance, but much work remains - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMG1QNUI3Wm14eUNWSktLQXdCZUYwVDNLdmdha2RSTmJmS0lJd29yRHBTTXlPaG1wZHgwUURvaFR4SGg0UUtfLUlwMTVNUG94VnBadVMxTmdicEFlVVl5bDNCTlBralA0amZzc1h6RG9INVpKV1VIeWxMU1NlZ0pRZWFuNlhUel85TWRqWFNCdWhXWXpXYnhLcnRVN3AwNWhTLVFDYXNhalE5TWxWbzdwdm51NGNWQ1pHaUhRdG9jWmxWV1dibC1NN293LTFqX0ZkS2tUZVVzMA?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 04 Apr 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMG1QNUI3Wm14eUNWSktLQXdCZUYwVDNLdmdha2RSTmJmS0lJd29yRHBTTXlPaG1wZHgwUURvaFR4SGg0UUtfLUlwMTVNUG94VnBadVMxTmdicEFlVVl5bDNCTlBralA0amZzc1h6RG9INVpKV1VIeWxMU1NlZ0pRZWFuNlhUel85TWRqWFNCdWhXWXpXYnhLcnRVN3AwNWhTLVFDYXNhalE5TWxWbzdwdm51NGNWQ1pHaUhRdG9jWmxWV1dibC1NN293LTFqX0ZkS2tUZVVzMA?oc=5\" target=\"_blank\">Costa Mesa City Council passes affordable housing ordinance, but much work remains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
     }
   ]
 }
