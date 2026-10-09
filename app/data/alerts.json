@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:54:58.465632+00:00",
+  "generated_at": "2026-10-09T13:57:46.692293+00:00",
   "total": 500,
   "alerts": [
     {
@@ -199,6 +199,16 @@
       "source": "NBC Los Angeles",
       "published": "Wed, 29 Jan 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0VjaklubnBjSWxoVzhoMFVwNDVwOFRfV2NmQWZMQzY2andCcnRwUkRXTFI5ek0wcHYwRW5SR2FrLTdpaGpOSXEyaWQ1ZTFPUHpXUWtIdUxXRmdLMTlGWmppSzRDOV9KVnhfTXMwb1VjUzB5RzNMVm5rZkxXOVQ1enNFbVFkdW5feDd4ZTRJa2c3NTVxaTM3LXA3SXc5ZWFrTXdNbXFhT0xuZGhOTW1faVNneWVrS3I3WGNPeHcxX2dkRGFzazBTWUN30gHSAUFVX3lxTE13aWtTLU9TMDVPR3VFeVN4NGdieEpuZmo0cmU3ZnE5SS0tNF9ERXE2LXJBNks0UWg3NVZTWHNxRUlhcC1tMWlHMFhqZlFBN0ZzMEFoLWdRRW5aQnJRdVppNHktWEdkVVlncnNjZDBRWG5OM0J1SFBaV2FUdFFqenlRQ21hd3MydlI5UXZrdlc1ZFc0LUJHbDBqbjEydWhsaFlqNDQ4TUZ6QTBpLUNoTFlTQlBNRDRFV0tQeDV3Ymc5NFloam5sNHVBSU5LMVRCLS02UQ?oc=5\" target=\"_blank\">LA City Council to consider tenant protections, 1-year freeze on rent increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
+      "id": "c1c769d621e2b379",
+      "title": "Los Angeles City Council delays proposed eviction moratorium for wildfire victims - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRFFid05xc2VSWnRwaUphQkJIWWpUY0RucmdDdVJHeGVhejVqUlRoWHdGSlRuaTJ0TkNXbV81ZXM3eXRiZy15aGhBUkNFTzBLMXNkdncwOVhrZzZIVDBDVVFJX18yV0lpeE9hWlk3MFZZR0syM2trM09zcU9ZVjR4N1FFOWFiYk9ic1RfdlBVWVQycFY2cVJKQWpPNThIVFQyU2xHYmdTNC0xU0psNlpSTEVFeUZId9IBuwFBVV95cUxQNTZzQkpJZFlLczRNeTM5WlBkdUJiWVJnWmJRY1Q0ejJzd0g2TEVEWVMxNXY4S056SGk5bVlCaHY5M1lybUtYbGpIem82akhzVDBIeTAyMkczajdmOUhyMGxVNWt6bVd0YWllT3p0cFYzbTAxaHlsMGtfdkZIOThMQ0VWY3hCODdTX0R2TTIycndRRld2V3NWaVpqUVRoclpXeWwxT0dNcWx3ZUxzYnlMUnp1UGpvanNnMW5B?oc=5",
+      "source": "KTLA",
+      "published": "Wed, 29 Jan 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPRFFid05xc2VSWnRwaUphQkJIWWpUY0RucmdDdVJHeGVhejVqUlRoWHdGSlRuaTJ0TkNXbV81ZXM3eXRiZy15aGhBUkNFTzBLMXNkdncwOVhrZzZIVDBDVVFJX18yV0lpeE9hWlk3MFZZR0syM2trM09zcU9ZVjR4N1FFOWFiYk9ic1RfdlBVWVQycFY2cVJKQWpPNThIVFQyU2xHYmdTNC0xU0psNlpSTEVFeUZId9IBuwFBVV95cUxQNTZzQkpJZFlLczRNeTM5WlBkdUJiWVJnWmJRY1Q0ejJzd0g2TEVEWVMxNXY4S056SGk5bVlCaHY5M1lybUtYbGpIem82akhzVDBIeTAyMkczajdmOUhyMGxVNWt6bVd0YWllT3p0cFYzbTAxaHlsMGtfdkZIOThMQ0VWY3hCODdTX0R2TTIycndRRld2V3NWaVpqUVRoclpXeWwxT0dNcWx3ZUxzYnlMUnp1UGpvanNnMW5B?oc=5\" target=\"_blank\">Los Angeles City Council delays proposed eviction moratorium for wildfire victims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     },
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVBYeWtUUlc2eWdPMk9lcU1CNHlPNDE5Sk95WEhaSWR6LXhsMUNTM1c0Z284R2I2N0N1eV96Yl8zWEZsWDRVblNsaWhZM2d4TDhaRlBsSGZqcXRRVGl1N3FSRUswcC1lbjJsNVBzS3g5ODcwSXc1S3FaSk9xSmZ1MW1rdTZ2TUl4Y29mOEgxLTJ5RktHYUI1MlByOXRHWGhZMTNDMWcwbHJDajR2R00tbmJ5Y29hRnhONHlKTmpB0gHDAUFVX3lxTE1QNFhSNGdtMjM0cDlBXzdkZ1F2bVNkTTRUcFBmdE9IaHE3SVBGQy1Pcmg5REtuWHp0UDJVSWFqakhRdF9odlRUWGxTUnhpbEVYREJSSGN5S1RwUzBPcm1NSmJJdDFxUVd1NDVKU2ZjVlVZbHJsWjR4ODhtRTNwZmV4M211OFBPR2VKUVh5YTJ6b21jb0QxV3Z3d0pLYWtaOFFKZ3JqejdhU0VXbHMydXhMWHRzeDIxTlA1bmE4ODVEUDVuMA?oc=5\" target=\"_blank\">Small-Time Landlords ‘Hanging On by Their Fingernails’ as Eviction Moratorium Drags On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Review</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "82020510601db02a",
-      "title": "Seven-story, 37-unit apartment building gets approval near UCLA - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHozZHZ6SVh3LVUwMVdxV0FqLUl4YnlFX1NZZnVDN0RtUmRqZ0xXUER2VGFIdjF6RVVmbzAzc3RTZm1HY051TmVYb2xTdEpVcHdMSnR4ZkxURFlMaVlycjlUQTVIR191TUc5OVBqLW51TlZUMHFiTHcxdmw5SkFnUE4takY3ejZ6SGZockVsSVFra0d6bXFv?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 04 Nov 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHozZHZ6SVh3LVUwMVdxV0FqLUl4YnlFX1NZZnVDN0RtUmRqZ0xXUER2VGFIdjF6RVVmbzAzc3RTZm1HY051TmVYb2xTdEpVcHdMSnR4ZkxURFlMaVlycjlUQTVIR191TUc5OVBqLW51TlZUMHFiTHcxdmw5SkFnUE4takY3ejZ6SGZockVsSVFra0d6bXFv?oc=5\" target=\"_blank\">Seven-story, 37-unit apartment building gets approval near UCLA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "other"
     }
   ]
 }
