@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:18:55.869665+00:00",
+  "generated_at": "2026-10-09T00:46:40.864448+00:00",
   "total": 500,
   "alerts": [
     {
@@ -399,6 +399,16 @@
       "source": "Los Angeles Times",
       "published": "Wed, 25 Jan 2023 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGUxU1plRVpHS19vUk1GblR5ejN5QlpVclJlUEFObWs3T19kRWFFVEE3c2tiNWVoREhodlBXbFdqb0trS001czJSUXcwRjlVbE9ybVAwZF9PRnIyajRMYUJPRWNuOVJ4cXNFZXlRc180U3N5SmdWUWxaM2I0b3FpbVRiU1FKVmdkdllLb1dObGt0V2NaSmtxR0l4MHBiY0lEN3BsVw?oc=5\" target=\"_blank\">L.A. County extends eviction moratorium by 2 months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
+      "id": "a1d51e4c4f154cb1",
+      "title": "L.A. County Board of Supervisors votes to extend pandemic-era tenant protections until March - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1c4Q1RmaVd2VkFLaE5IV1J5ZmlvQ1RnV0lyX2ticnlOVjRsdHl3S3ZxUFptbE5OVVZfeTd1b1ZhVzdhS0pJMm5QWUxRYmhkYkwydGN3Vlltd3lGU3QzbHZSRHBlUzMyZ25tOXlBdHdEbzB6U2VzbFVZLUtuWWRQY2dmLWl5RE5PWVVHdVVyVXBYZTlrbzJEdU14cHVfUXNIektiVzJSbjdPRW9hZHpDSmd4cWxsZnY1ZWpzNTFVazhvcVHSAcgBQVVfeXFMTXhxOHk5MGJEbjZGOXVmdVB2MDFQMUR2c0JObldja0QzSGF1ZExaTW5nLXNrTmxkVUhkTTVqaXFMRE1oellWRm9DSTA5bFlfNmRLZFNEMDR0R0MtN0FyLV8wbHVwcURadHN3UnBQZEFyZ1AtNTA1cWlUVUQwVGpzbnNyS3g1cHhQc0pBLVB1d09MbEtYbTNudll1TXNBSzNvdnNHVTJGdW5sbHM4WTA5SUtyekV6UUhjd1RqZFpVNzR2bk80VTBNNjk?oc=5",
+      "source": "KTLA",
+      "published": "Wed, 25 Jan 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1c4Q1RmaVd2VkFLaE5IV1J5ZmlvQ1RnV0lyX2ticnlOVjRsdHl3S3ZxUFptbE5OVVZfeTd1b1ZhVzdhS0pJMm5QWUxRYmhkYkwydGN3Vlltd3lGU3QzbHZSRHBlUzMyZ25tOXlBdHdEbzB6U2VzbFVZLUtuWWRQY2dmLWl5RE5PWVVHdVVyVXBYZTlrbzJEdU14cHVfUXNIektiVzJSbjdPRW9hZHpDSmd4cWxsZnY1ZWpzNTFVazhvcVHSAcgBQVVfeXFMTXhxOHk5MGJEbjZGOXVmdVB2MDFQMUR2c0JObldja0QzSGF1ZExaTW5nLXNrTmxkVUhkTTVqaXFMRE1oellWRm9DSTA5bFlfNmRLZFNEMDR0R0MtN0FyLV8wbHVwcURadHN3UnBQZEFyZ1AtNTA1cWlUVUQwVGpzbnNyS3g1cHhQc0pBLVB1d09MbEtYbTNudll1TXNBSzNvdnNHVTJGdW5sbHM4WTA5SUtyekV6UUhjd1RqZFpVNzR2bk80VTBNNjk?oc=5\" target=\"_blank\">L.A. County Board of Supervisors votes to extend pandemic-era tenant protections until March</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     },
@@ -1201,6 +1211,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYW1TMi1LZzRvTEMtRHEtbW5ESTY3TXJGMXdXUmNVR0o1NVRhT1ZtZ1RISHh3SmZ1M0Y5RHBRNlItaW1UdUxtd1FtNmNQZFJPeGVrU1hjQ1ZQYURLaGp5WS1rNTViQU94aDQ0X3c5YVA0RXpGRi1mLXBMdmJRWG5SUXpZeHVwQWJWN2x3ZlJtZVQ0cGd6TktQVmVoS05mU3JQb0ZDYnUtOWpsYlVvdGJJ?oc=5\" target=\"_blank\">A Final Battle for the Los Angeles Mansion Tax: California Brief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law News</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "70dc7b3dccebcde5",
+      "title": "Thousands of apartments set to take over empty office buildings with new L.A. ordinance - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWU1UENTWnQ1N0lzdkJQNkM1ekNTa0VSc2dZVUFTYUNscnprRFFkV3F4S3JKbVBlVnVSeWptUHZZc3FZLWRELS00TnBuVXNNTU95UWtKeEkyWGdEVExWa0xZemc0WEpETFI4VXZiM3RiTFNHWnBoRU0tOE1IaHlBOXpRVFhzMFRveURaS2pNcl9IQ1E0M014clEzRlp4XzhVSEhGM3NCcXJwVzJaWkdzbw?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWU1UENTWnQ1N0lzdkJQNkM1ekNTa0VSc2dZVUFTYUNscnprRFFkV3F4S3JKbVBlVnVSeWptUHZZc3FZLWRELS00TnBuVXNNTU95UWtKeEkyWGdEVExWa0xZemc0WEpETFI4VXZiM3RiTFNHWnBoRU0tOE1IaHlBOXpRVFhzMFRveURaS2pNcl9IQ1E0M014clEzRlp4XzhVSEhGM3NCcXJwVzJaWkdzbw?oc=5\" target=\"_blank\">Thousands of apartments set to take over empty office buildings with new L.A. ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
     },
     {
       "id": "09b19bee08de7f75",
@@ -4943,6 +4963,16 @@
       "category": "policy"
     },
     {
+      "id": "54febad76b59a80d",
+      "title": "Airbnb introduces new rules to rein in parties, nuisances - Ottawa Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zSkE3VFI0emlhS2hTWGhWYk5tUXhzNXdkUTBOb2lDYnE3a3RWQjlkM3B2Qk5oYWZQMzhQbkF0bC1jbUJHbnltS25uSTI2cVhoUjQ0NlZzUm1GZnBTMUhBblU5Uk1zaWMteVAxbjZHTG5sWTZJZWE3OFFfM0g?oc=5",
+      "source": "Ottawa Business Journal",
+      "published": "Thu, 05 Dec 2019 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1zSkE3VFI0emlhS2hTWGhWYk5tUXhzNXdkUTBOb2lDYnE3a3RWQjlkM3B2Qk5oYWZQMzhQbkF0bC1jbUJHbnltS25uSTI2cVhoUjQ0NlZzUm1GZnBTMUhBblU5Uk1zaWMteVAxbjZHTG5sWTZJZWE3OFFfM0g?oc=5\" target=\"_blank\">Airbnb introduces new rules to rein in parties, nuisances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ottawa Business Journal</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "6fcc690bcde203ef",
       "title": "Small-Time Landlords ‘Hanging On by Their Fingernails’ as Eviction Moratorium Drags On - National Review",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVBYeWtUUlc2eWdPMk9lcU1CNHlPNDE5Sk95WEhaSWR6LXhsMUNTM1c0Z284R2I2N0N1eV96Yl8zWEZsWDRVblNsaWhZM2d4TDhaRlBsSGZqcXRRVGl1N3FSRUswcC1lbjJsNVBzS3g5ODcwSXc1S3FaSk9xSmZ1MW1rdTZ2TUl4Y29mOEgxLTJ5RktHYUI1MlByOXRHWGhZMTNDMWcwbHJDajR2R00tbmJ5Y29hRnhONHlKTmpB0gHDAUFVX3lxTE1QNFhSNGdtMjM0cDlBXzdkZ1F2bVNkTTRUcFBmdE9IaHE3SVBGQy1Pcmg5REtuWHp0UDJVSWFqakhRdF9odlRUWGxTUnhpbEVYREJSSGN5S1RwUzBPcm1NSmJJdDFxUVd1NDVKU2ZjVlVZbHJsWjR4ODhtRTNwZmV4M211OFBPR2VKUVh5YTJ6b21jb0QxV3Z3d0pLYWtaOFFKZ3JqejdhU0VXbHMydXhMWHRzeDIxTlA1bmE4ODVEUDVuMA?oc=5",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQR1NRRy1ndnhYS0VXWlpwdkVBMnViZ1dOcjg4dmhpSWpCOHhNeHRVYWlSMUJGX1JDRGQtc1lxY3hMSXRIWTZOcGJKMVI3UEhNWEQta3FGc09fTWpBT05rU0sxSjlzRmNLdUNUWWdEZ3FqMDVTUk15YXZEWE85TU5HSkwxcEIxd3FWejV1TmFZbjlKYjB1cjZReExXZk5NUQ?oc=5\" target=\"_blank\">LA delays state housing mandate with 'low-rise ordinance'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">planetizen.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "8226870d13e98ccf",
-      "title": "As L.A. weighs regulation, Airbnb touts its economic impact in city - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmFfWU5SR2hmc3Z0NGZ5MVdmeV9ZZGJrM0RGckx0QnViS2NDbktQc2dLWF95Y1RqaExzTHRSUGR1UjRFemRlWGlJRWFyUU5HUG5ILXJySGNGRWNvaUtOMC1XWU4wRUdQV2VucExNUVlDeVZzMFFRZEcwZVdsNEFoT0c1eWF2Um9sNzgtRGxJWFc5Zw?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 04 Dec 2014 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmFfWU5SR2hmc3Z0NGZ5MVdmeV9ZZGJrM0RGckx0QnViS2NDbktQc2dLWF95Y1RqaExzTHRSUGR1UjRFemRlWGlJRWFyUU5HUG5ILXJySGNGRWNvaUtOMC1XWU4wRUdQV2VucExNUVlDeVZzMFFRZEcwZVdsNEFoT0c1eWF2Um9sNzgtRGxJWFc5Zw?oc=5\" target=\"_blank\">As L.A. weighs regulation, Airbnb touts its economic impact in city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "27aa731787db8a07",
-      "title": "Modeling Inclusionary Zoning’s Impact on Housing Production in Los Angeles: Tradeoffs and Policy Implications - Terner Center",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckhRNkJlN2hEQWREeHN2QXpPTEZHREsyYmFZeFV4U1g3UUUyRkpYS2dEV2VpTDVmRDhBemdGQ2lmbVJvb2czdmRPZXpFaDctWjZlTUhhYmN4R19DeDZzZW1TSTJ6Wk5wU3BGbzl4YncwQWFkeEItTmo5R3VkWkwzREF6S1NsTTNnSWVvUWpsQ3ZvQUNnak92Vnd4SUgxUHp5WFJmUA?oc=5",
-      "source": "Terner Center",
-      "published": "Thu, 04 Apr 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNckhRNkJlN2hEQWREeHN2QXpPTEZHREsyYmFZeFV4U1g3UUUyRkpYS2dEV2VpTDVmRDhBemdGQ2lmbVJvb2czdmRPZXpFaDctWjZlTUhhYmN4R19DeDZzZW1TSTJ6Wk5wU3BGbzl4YncwQWFkeEItTmo5R3VkWkwzREF6S1NsTTNnSWVvUWpsQ3ZvQUNnak92Vnd4SUgxUHp5WFJmUA?oc=5\" target=\"_blank\">Modeling Inclusionary Zoning’s Impact on Housing Production in Los Angeles: Tradeoffs and Policy Implications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terner Center</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
-    },
-    {
-      "id": "bc43198f58d58bcf",
-      "title": "Modeling Inclusionary Zoning’s Impact on Housing Production in Los Angeles: Tradeoffs and Policy Implications - Terner Center",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlV1Q2pmWkZBOXJWM09MQ1hnV3l6OUptbkZYRHRHaHJnLUx1NnVyaFVHRmN5WGJ2Z25kZ3lJMHgxb29pcXp6TmhUdDFROEQtRC1NOHNsNmFXWUpvM2psdklZY0ROS0h2aGlnSC1VaFlMbDh3X2tzZzY2S0dvLXVUdERFUHRZeENPQThiRGQxcw?oc=5",
-      "source": "Terner Center",
-      "published": "Thu, 04 Apr 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlV1Q2pmWkZBOXJWM09MQ1hnV3l6OUptbkZYRHRHaHJnLUx1NnVyaFVHRmN5WGJ2Z25kZ3lJMHgxb29pcXp6TmhUdDFROEQtRC1NOHNsNmFXWUpvM2psdklZY0ROS0h2aGlnSC1VaFlMbDh3X2tzZzY2S0dvLXVUdERFUHRZeENPQThiRGQxcw?oc=5\" target=\"_blank\">Modeling Inclusionary Zoning’s Impact on Housing Production in Los Angeles: Tradeoffs and Policy Implications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terner Center</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
     }
   ]
 }
