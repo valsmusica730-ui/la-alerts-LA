@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:57:46.692293+00:00",
+  "generated_at": "2026-10-09T19:13:08.694914+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2180,6 +2180,16 @@
       "published": "Tue, 25 Mar 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFFidWRrWC1yaXpVcEp4TDdNaHZnbWVIVzN1UllzNXBFM1QxUnlsb1ByZGJhR0hNZUMwLVdMNWxRemtHaFF0QkJQMl9ZVFkxNS1fS0c1WG5iOGl5dHRGTXRRd2lTa2pnS2xJS1ZmSzZveUVHeGZSVEZnQ2ZjYmtuTjVBbGR2SGpIdm9Td3A3Zjh3aUE?oc=5\" target=\"_blank\">COUNCILMEMBER RAMAN ISSUES STATEMENT ON THE COUNCIL’S VOTE TO EXPLORE REMOVING CITY CONTRACTS FROM THE LOS ANGELES HOMELESS SERVICES AUTHORITY (LAHSA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "other"
+    },
+    {
+      "id": "2d3cf4baac43aa82",
+      "title": "Senator Wiener Introduces Bill to Strengthen California’s Housing Streamlining Laws - Davis Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcmxrSWdnTjlaWDc4MGh6MUEzUHFpMnE0TXM2b3ptZWZzOWhMcjlqYy04Ti1kRDBlVF85elZvcTN4ZU9MLW5DeUVMdUpFM2ctQjhaVUFZazNrakttaThfMjFhX0RBWTJRRkxkTkRSM1lSc0RlX2VUU0xLRExScVpaa0U0Z0NKUV9qOGhhQkc1UmQyX040RW9Wamw4Zy0wNHVxZG5VNjMya0txdU1RVEV5b3VRYjEzRmF4?oc=5",
+      "source": "Davis Vanguard",
+      "published": "Tue, 25 Feb 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcmxrSWdnTjlaWDc4MGh6MUEzUHFpMnE0TXM2b3ptZWZzOWhMcjlqYy04Ti1kRDBlVF85elZvcTN4ZU9MLW5DeUVMdUpFM2ctQjhaVUFZazNrakttaThfMjFhX0RBWTJRRkxkTkRSM1lSc0RlX2VUU0xLRExScVpaa0U0Z0NKUV9qOGhhQkc1UmQyX040RW9Wamw4Zy0wNHVxZG5VNjMya0txdU1RVEV5b3VRYjEzRmF4?oc=5\" target=\"_blank\">Senator Wiener Introduces Bill to Strengthen California’s Housing Streamlining Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "other"
     },
     {
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1zSkE3VFI0emlhS2hTWGhWYk5tUXhzNXdkUTBOb2lDYnE3a3RWQjlkM3B2Qk5oYWZQMzhQbkF0bC1jbUJHbnltS25uSTI2cVhoUjQ0NlZzUm1GZnBTMUhBblU5Uk1zaWMteVAxbjZHTG5sWTZJZWE3OFFfM0g?oc=5\" target=\"_blank\">Airbnb introduces new rules to rein in parties, nuisances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ottawa Business Journal</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
-    },
-    {
-      "id": "6fcc690bcde203ef",
-      "title": "Small-Time Landlords ‘Hanging On by Their Fingernails’ as Eviction Moratorium Drags On - National Review",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVBYeWtUUlc2eWdPMk9lcU1CNHlPNDE5Sk95WEhaSWR6LXhsMUNTM1c0Z284R2I2N0N1eV96Yl8zWEZsWDRVblNsaWhZM2d4TDhaRlBsSGZqcXRRVGl1N3FSRUswcC1lbjJsNVBzS3g5ODcwSXc1S3FaSk9xSmZ1MW1rdTZ2TUl4Y29mOEgxLTJ5RktHYUI1MlByOXRHWGhZMTNDMWcwbHJDajR2R00tbmJ5Y29hRnhONHlKTmpB0gHDAUFVX3lxTE1QNFhSNGdtMjM0cDlBXzdkZ1F2bVNkTTRUcFBmdE9IaHE3SVBGQy1Pcmg5REtuWHp0UDJVSWFqakhRdF9odlRUWGxTUnhpbEVYREJSSGN5S1RwUzBPcm1NSmJJdDFxUVd1NDVKU2ZjVlVZbHJsWjR4ODhtRTNwZmV4M211OFBPR2VKUVh5YTJ6b21jb0QxV3Z3d0pLYWtaOFFKZ3JqejdhU0VXbHMydXhMWHRzeDIxTlA1bmE4ODVEUDVuMA?oc=5",
-      "source": "National Review",
-      "published": "Thu, 05 Aug 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVBYeWtUUlc2eWdPMk9lcU1CNHlPNDE5Sk95WEhaSWR6LXhsMUNTM1c0Z284R2I2N0N1eV96Yl8zWEZsWDRVblNsaWhZM2d4TDhaRlBsSGZqcXRRVGl1N3FSRUswcC1lbjJsNVBzS3g5ODcwSXc1S3FaSk9xSmZ1MW1rdTZ2TUl4Y29mOEgxLTJ5RktHYUI1MlByOXRHWGhZMTNDMWcwbHJDajR2R00tbmJ5Y29hRnhONHlKTmpB0gHDAUFVX3lxTE1QNFhSNGdtMjM0cDlBXzdkZ1F2bVNkTTRUcFBmdE9IaHE3SVBGQy1Pcmg5REtuWHp0UDJVSWFqakhRdF9odlRUWGxTUnhpbEVYREJSSGN5S1RwUzBPcm1NSmJJdDFxUVd1NDVKU2ZjVlVZbHJsWjR4ODhtRTNwZmV4M211OFBPR2VKUVh5YTJ6b21jb0QxV3Z3d0pLYWtaOFFKZ3JqejdhU0VXbHMydXhMWHRzeDIxTlA1bmE4ODVEUDVuMA?oc=5\" target=\"_blank\">Small-Time Landlords ‘Hanging On by Their Fingernails’ as Eviction Moratorium Drags On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Review</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
