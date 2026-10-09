@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T00:46:40.864448+00:00",
+  "generated_at": "2026-10-09T06:54:58.465632+00:00",
   "total": 500,
   "alerts": [
     {
@@ -41,6 +41,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WZWlwa2JEU2toQkdxRDB6T2FzMkZ2WkZCR29XNEg0clJfWmNfRVVWOHhvRWM5NVNZUE44ZHJrYUxHOXhLMkRzVGkwZFhBTEE3WDB3TjN0WlAwQzVoU2c?oc=5\" target=\"_blank\">ADU construction in LA — 4x Increase in Permits Over 8 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Daily</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
+    },
+    {
+      "id": "1fe70c022f6cf1b1",
+      "title": "Former LA City Councilman Woo Joins County Ethics Commission - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU1zXzhNQ2JseFNxMFpzQlY2RE05N2E2UnMyem03dXRBajNmNTJWRG9EcFBDcUt5UXZ0amNONndjRVhtV2pSeF90WnkwZDZJeDR6dTBNVjhJc3I4NkFYNW80dndIQktsR09kc2pXakhVdU4yWHkzdXhfYzcxbGlKdEl3NzRuSmN0R3Rock8wVkNsanVGSV8tMTM3LXp3M0hVa0Zj?oc=5",
+      "source": "Patch",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxONU1zXzhNQ2JseFNxMFpzQlY2RE05N2E2UnMyem03dXRBajNmNTJWRG9EcFBDcUt5UXZ0amNONndjRVhtV2pSeF90WnkwZDZJeDR6dTBNVjhJc3I4NkFYNW80dndIQktsR09kc2pXakhVdU4yWHkzdXhfYzcxbGlKdEl3NzRuSmN0R3Rock8wVkNsanVGSV8tMTM3LXp3M0hVa0Zj?oc=5\" target=\"_blank\">Former LA City Councilman Woo Joins County Ethics Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "policy"
     },
     {
       "id": "81c8ce8aaf997455",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHozZHZ6SVh3LVUwMVdxV0FqLUl4YnlFX1NZZnVDN0RtUmRqZ0xXUER2VGFIdjF6RVVmbzAzc3RTZm1HY051TmVYb2xTdEpVcHdMSnR4ZkxURFlMaVlycjlUQTVIR191TUc5OVBqLW51TlZUMHFiTHcxdmw5SkFnUE4takY3ejZ6SGZockVsSVFra0d6bXFv?oc=5\" target=\"_blank\">Seven-story, 37-unit apartment building gets approval near UCLA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "other"
-    },
-    {
-      "id": "0a6fb271f9d1601f",
-      "title": "LA delays state housing mandate with 'low-rise ordinance' - planetizen.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1NRRy1ndnhYS0VXWlpwdkVBMnViZ1dOcjg4dmhpSWpCOHhNeHRVYWlSMUJGX1JDRGQtc1lxY3hMSXRIWTZOcGJKMVI3UEhNWEQta3FGc09fTWpBT05rU0sxSjlzRmNLdUNUWWdEZ3FqMDVTUk15YXZEWE85TU5HSkwxcEIxd3FWejV1TmFZbjlKYjB1cjZReExXZk5NUQ?oc=5",
-      "source": "planetizen.com",
-      "published": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQR1NRRy1ndnhYS0VXWlpwdkVBMnViZ1dOcjg4dmhpSWpCOHhNeHRVYWlSMUJGX1JDRGQtc1lxY3hMSXRIWTZOcGJKMVI3UEhNWEQta3FGc09fTWpBT05rU0sxSjlzRmNLdUNUWWdEZ3FqMDVTUk15YXZEWE85TU5HSkwxcEIxd3FWejV1TmFZbjlKYjB1cjZReExXZk5NUQ?oc=5\" target=\"_blank\">LA delays state housing mandate with 'low-rise ordinance'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">planetizen.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
     }
   ]
 }
