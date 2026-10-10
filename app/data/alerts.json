@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:59:02.138801+00:00",
+  "generated_at": "2026-10-10T23:02:48.896810+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2201,6 +2201,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFFidWRrWC1yaXpVcEp4TDdNaHZnbWVIVzN1UllzNXBFM1QxUnlsb1ByZGJhR0hNZUMwLVdMNWxRemtHaFF0QkJQMl9ZVFkxNS1fS0c1WG5iOGl5dHRGTXRRd2lTa2pnS2xJS1ZmSzZveUVHeGZSVEZnQ2ZjYmtuTjVBbGR2SGpIdm9Td3A3Zjh3aUE?oc=5\" target=\"_blank\">COUNCILMEMBER RAMAN ISSUES STATEMENT ON THE COUNCIL’S VOTE TO EXPLORE REMOVING CITY CONTRACTS FROM THE LOS ANGELES HOMELESS SERVICES AUTHORITY (LAHSA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "other"
+    },
+    {
+      "id": "0e29ae08af4249d4",
+      "title": "Court sides with Tiao Properties on Boyle Heights apartment project - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzJfVkFBM1hreUlQMUNqTkNLWmxrX0VDRnZOS2laeWFrTUtYeDQ5ZGVPUVhpUW5yRkhwMFM3Qk0zVGdUNEJlbnQ2MEpZUnc1bTBwOU13RlljQ1lWUDZzZ2hTY2dQMFdTQllqNG5hT21XaDR1X09wVFZIVENtcVhaR2N0Yk04WERrN3pjcVdKZjR4V25SeDdfd0U2TFZ0dw?oc=5",
+      "source": "The Real Deal",
+      "published": "Tue, 25 Mar 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRzJfVkFBM1hreUlQMUNqTkNLWmxrX0VDRnZOS2laeWFrTUtYeDQ5ZGVPUVhpUW5yRkhwMFM3Qk0zVGdUNEJlbnQ2MEpZUnc1bTBwOU13RlljQ1lWUDZzZ2hTY2dQMFdTQllqNG5hT21XaDR1X09wVFZIVENtcVhaR2N0Yk04WERrN3pjcVdKZjR4V25SeDdfd0U2TFZ0dw?oc=5\" target=\"_blank\">Court sides with Tiao Properties on Boyle Heights apartment project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "legal"
     },
     {
       "id": "2d3cf4baac43aa82",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 05 Mar 2026 19:39:12 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFlWN1pZcWNUaEtBSlQxTjZ1VXlqM1Jqa3YxVmY5MmM2WW5TQnpNOXZJc1dFRmdYMGU1M3E2ZzFlUXpCQW9ZT2xjU01vcDVZZFlybm9QRzVVeXM1VHNQVnpwSzVjSGdES29JUmZ5dDNHcW1FT1BaMTYwZXpiZUhoZ0pPMDdLN3RSUzQxNkJPdw?oc=5\" target=\"_blank\">Part 1: Eviction Rules in the City of Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
-    },
-    {
-      "id": "556eacc0a5efa73f",
-      "title": "What Tenants and Landlords Need to Know About L.A. County's Rent Stabilization Ordinances - L.A. Taco",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXlXLTNDbmp4dXFWUzl0eXk5Q0M5LTZnbnBMOWNLUU82cWJGNUhYREc3VFV5dU1OYnN1ZGJ5djFSM29oU09SUG9HNzJGU0pxZ1J1RC1ITTJfX1ZGWDc1LUY2M0VqUVN3ZkRxWVo5UExOVlR5RVhRVm1FMWtqcmw4WjctTkVlSG9kRFV4d0l5TWlZVFcyNTdaemVrcFI5bTJMb3FKd2g5WnlhUQ?oc=5",
-      "source": "L.A. Taco",
-      "published": "Thu, 05 Jun 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXlXLTNDbmp4dXFWUzl0eXk5Q0M5LTZnbnBMOWNLUU82cWJGNUhYREc3VFV5dU1OYnN1ZGJ5djFSM29oU09SUG9HNzJGU0pxZ1J1RC1ITTJfX1ZGWDc1LUY2M0VqUVN3ZkRxWVo5UExOVlR5RVhRVm1FMWtqcmw4WjctTkVlSG9kRFV4d0l5TWlZVFcyNTdaemVrcFI5bTJMb3FKd2g5WnlhUQ?oc=5\" target=\"_blank\">What Tenants and Landlords Need to Know About L.A. County's Rent Stabilization Ordinances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">L.A. Taco</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "rent"
     }
   ]
