@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T23:39:20.297798+00:00",
+  "generated_at": "2026-10-10T10:11:55.820218+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2181,6 +2181,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEh2X0ZiWjdFX1ZsNVBiay1JWGdwY1h1N1VudTByS3d1UVEwajlvWTlrQ0s2VVpCbW1Tb1o5YnJxeld2MW1MeGhFNm5VZHpjT21DbDdBVjhjaGJyR0xxOTRCRFN5MS04aV9aeW9wSkdIZW9TdkVmODRUeDhTLVVlOFozM05zQ21WSThQcllVLU90NFZNanc1ZTVtSTRvczA?oc=5\" target=\"_blank\">LA City Council turns three departments into a single entity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
+    },
+    {
+      "id": "59ec091508a80b62",
+      "title": "Council Merges Youth, Aging and Economic Development Departments Amid Budget Crisis - Westside Current",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPR2duUWZZaHdXZEZ4ZHpfM0VFOGlaV3FWNlowYmVteFFNU3lTUEd4SWVmY3VmOXRLNjU0NlZNYUlkeklsRHFiZUJ0SDM4TmtFZm1SMWU5ck5iUGtxNk93cXlvLUc0akVrZFdDSFgxb19jVk56ektPZUVNRFBQdWk1WFBTbkY4bmdvR2tCc1o2dTlER1dzVWo2b204dlZvVnpCQVJVZkNtcjE5S1NSdG5FRHB4M2hocDk3NlJNVWhFSHZPZnB1ZVFZNVg5LVlWeWVHUFZOX1BHYkt6T1Bsb2t4WUJGRnpYNUV3Qmt5UHZBc1lTWGdXM0dwQ3FwY3B3UUxBcFFrWEdJS3pXdW52?oc=5",
+      "source": "Westside Current",
+      "published": "Tue, 26 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPR2duUWZZaHdXZEZ4ZHpfM0VFOGlaV3FWNlowYmVteFFNU3lTUEd4SWVmY3VmOXRLNjU0NlZNYUlkeklsRHFiZUJ0SDM4TmtFZm1SMWU5ck5iUGtxNk93cXlvLUc0akVrZFdDSFgxb19jVk56ektPZUVNRFBQdWk1WFBTbkY4bmdvR2tCc1o2dTlER1dzVWo2b204dlZvVnpCQVJVZkNtcjE5S1NSdG5FRHB4M2hocDk3NlJNVWhFSHZPZnB1ZVFZNVg5LVlWeWVHUFZOX1BHYkt6T1Bsb2t4WUJGRnpYNUV3Qmt5UHZBc1lTWGdXM0dwQ3FwY3B3UUxBcFFrWEdJS3pXdW52?oc=5\" target=\"_blank\">Council Merges Youth, Aging and Economic Development Departments Amid Budget Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Westside Current</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
     },
     {
       "id": "d679cd64b1a82b59",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXlXLTNDbmp4dXFWUzl0eXk5Q0M5LTZnbnBMOWNLUU82cWJGNUhYREc3VFV5dU1OYnN1ZGJ5djFSM29oU09SUG9HNzJGU0pxZ1J1RC1ITTJfX1ZGWDc1LUY2M0VqUVN3ZkRxWVo5UExOVlR5RVhRVm1FMWtqcmw4WjctTkVlSG9kRFV4d0l5TWlZVFcyNTdaemVrcFI5bTJMb3FKd2g5WnlhUQ?oc=5\" target=\"_blank\">What Tenants and Landlords Need to Know About L.A. County's Rent Stabilization Ordinances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">L.A. Taco</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "rent"
-    },
-    {
-      "id": "c9c8cbeb4f588296",
-      "title": "2026 California housing law updates: Key changes and impacts - PublicCEO",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanZ6dDJzUkoyWXN6ZmJqcVo3MUJ3NlJOaHdwVW9pSngzX2xDcnFpRkxGUjdoTDlLWkZ5SjdSbkZpU1lxaXA1LXdiTUJTSGdiWkpRNlBoN3k0RENMaEViMWp5WlBNbEduQWZGeTk4OXhIYTdDVlEwQ0ZRbVl3NTdlbVVVNzdJd1dHcFpGbzFiR1JvcG9PYThJZ3h3?oc=5",
-      "source": "PublicCEO",
-      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNanZ6dDJzUkoyWXN6ZmJqcVo3MUJ3NlJOaHdwVW9pSngzX2xDcnFpRkxGUjdoTDlLWkZ5SjdSbkZpU1lxaXA1LXdiTUJTSGdiWkpRNlBoN3k0RENMaEViMWp5WlBNbEduQWZGeTk4OXhIYTdDVlEwQ0ZRbVl3NTdlbVVVNzdJd1dHcFpGbzFiR1JvcG9PYThJZ3h3?oc=5\" target=\"_blank\">2026 California housing law updates: Key changes and impacts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PublicCEO</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
     }
   ]
 }
