@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:02:48.896810+00:00",
+  "generated_at": "2026-10-11T02:41:08.286059+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3393,6 +3393,16 @@
       "category": "policy"
     },
     {
+      "id": "6744391191a590cc",
+      "title": "LACo OKs Ordinance Capping Allowable Temperatures in Rental Units - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0RfQWhveVp4TXJ2UW1VZm8wZG9CVEVGZDRzRnAzT01GbkNNc0N4LWNORF9qejZ0TjFMR3dfUHZKdzc2QjFGODEwa2E0cjEzV2tQZTI0V183YUV0LTkzcTFxU19GNlBFZGtScENaOFdZUEZnbWhhZllDZDNwamp1ZXY4VWZ4QWZiQ29MZGxSQXlUMHh4RUhWQkNjT09lMUExMUZURFZB?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0RfQWhveVp4TXJ2UW1VZm8wZG9CVEVGZDRzRnAzT01GbkNNc0N4LWNORF9qejZ0TjFMR3dfUHZKdzc2QjFGODEwa2E0cjEzV2tQZTI0V183YUV0LTkzcTFxU19GNlBFZGtScENaOFdZUEZnbWhhZllDZDNwamp1ZXY4VWZ4QWZiQ29MZGxSQXlUMHh4RUhWQkNjT09lMUExMUZURFZB?oc=5\" target=\"_blank\">LACo OKs Ordinance Capping Allowable Temperatures in Rental Units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
+    },
+    {
       "id": "257acdfa6a6130c5",
       "title": "LA City Council Expected to Discuss Ending COVID-19 Eviction Moratorium - KFI AM 640",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmtLS1c4RGxMcFlueVExeDcwTHF0OGdFWEdCeFEzdEZZYjZ4dXhra2JpamZpWWRSWU9ybUNNRVU5ZGJYUkI1RWZCeFIwQ2hCclJjTkhsTkZlbHpRUkc5LWdMLUxQZ2ZPV1RfV3Q3N1pDQ1QyNTcxbms2b0VpUGcyWFhBeEpZWV80eVprYk42VzBkOHh1a1Vrc2I0Q0tWMVpkeHZCdlJrQmJ1WmZ6U1ExeldIRVlhYUt5X2dqdTdKWF84U3YySE9TQXpxVDlZdE5rQm9jQlZUV3Vud9IBwwFBVV95cUxOYnJUcDBlT3BZQ0ZJQThacmJSa2ZZTG9XdVF0LW0xd0toYzFDajlPM2N3YVlKWWkyQ1V1V2xBUi1nVUV1QlNnSk9xNlpOZTBFOXR3NXBFb2FCVlFDN013a0xxUVN0YzRiY3FQNlpRQzNuN00xREt4QjljS2kzcEIwZVYyRWh6M21pUy1oejg4MEI1YTZPUUhWeW9kZ3I0QkhGeDloV0JnWFlySU1GNVljNTJ4WU1VaHFadmxfdVRLcUlCcnM?oc=5",
@@ -4989,16 +4999,6 @@
       "source": "The California Apartment Association",
       "published": "Thu, 05 Mar 2026 19:39:12 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEZCdXNRLWpSdnpSaEp2UDQ5ZU41ZUFtMm4yZE9CaGNNb0MxQ3VYZGsxRnpnOGpBeUN3NnV3eXpRdE1pSTlGNk1QaDN3S3lkSFd3YnVWeV9DRnZUM1hDTERHdjZVZE1nb2IzV04tdTlvNlk5ZmY4bVdvZjFyazE3czh5ckFFVlEya29Fa2J5blZ4SUlBTVJ6UEZ1Z29tT3lDMVhhSlRDaW5zdDZiRWVuM2Z2UWFlbzc5?oc=5\" target=\"_blank\">Part 2: Rent Control in the City of Los Angeles: the Rent Stabilization Ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
-    },
-    {
-      "id": "d6e892eb80f623c5",
-      "title": "Part 1: Eviction Rules in the City of Los Angeles - The California Apartment Association",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFlWN1pZcWNUaEtBSlQxTjZ1VXlqM1Jqa3YxVmY5MmM2WW5TQnpNOXZJc1dFRmdYMGU1M3E2ZzFlUXpCQW9ZT2xjU01vcDVZZFlybm9QRzVVeXM1VHNQVnpwSzVjSGdES29JUmZ5dDNHcW1FT1BaMTYwZXpiZUhoZ0pPMDdLN3RSUzQxNkJPdw?oc=5",
-      "source": "The California Apartment Association",
-      "published": "Thu, 05 Mar 2026 19:39:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFlWN1pZcWNUaEtBSlQxTjZ1VXlqM1Jqa3YxVmY5MmM2WW5TQnpNOXZJc1dFRmdYMGU1M3E2ZzFlUXpCQW9ZT2xjU01vcDVZZFlybm9QRzVVeXM1VHNQVnpwSzVjSGdES29JUmZ5dDNHcW1FT1BaMTYwZXpiZUhoZ0pPMDdLN3RSUzQxNkJPdw?oc=5\" target=\"_blank\">Part 1: Eviction Rules in the City of Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "rent"
     }
