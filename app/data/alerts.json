@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:01:21.155356+00:00",
+  "generated_at": "2026-10-11T20:40:37.374734+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2683,6 +2683,16 @@
       "category": "rent"
     },
     {
+      "id": "f155088d22b1d218",
+      "title": "Pasadena passes eviction moratorium in response to coronavirus - Pasadena Star News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHhoQ0I2MnlVclU2NGdCMTlqY040cWlPUGtpeEEzc0M2azdtc1cwUU5FUkt0Yk1HOFBpOE1vMzNMalN2TFdnN1lWOTAxWkEtdURyV1MtWTBMdmoyQ3liVHVsX0R5Q2pHNkxnZUQ4eG9XZ0JYV1B4aW92VVBJeWVpUDFmbXAyQU9ydGFwWHlmY0t5cU1NaDduMFNVWjg3U3RwRjhEbWNYeDhmRmM?oc=5",
+      "source": "Pasadena Star News",
+      "published": "Tue, 17 Mar 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHhoQ0I2MnlVclU2NGdCMTlqY040cWlPUGtpeEEzc0M2azdtc1cwUU5FUkt0Yk1HOFBpOE1vMzNMalN2TFdnN1lWOTAxWkEtdURyV1MtWTBMdmoyQ3liVHVsX0R5Q2pHNkxnZUQ4eG9XZ0JYV1B4aW92VVBJeWVpUDFmbXAyQU9ydGFwWHlmY0t5cU1NaDduMFNVWjg3U3RwRjhEbWNYeDhmRmM?oc=5\" target=\"_blank\">Pasadena passes eviction moratorium in response to coronavirus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Star News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "5af9d733e5b3faa2",
       "title": "LA revives zoning law that could ban some private detention centers from contracting with ICE - LAist",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTQ1WWpveE9iVG5FUHJETjBUMTVIV09Zc3lpQWNZdnVOdFJMQUNtVlVmaFVJTVZ1QlJqVDVhcHlzdHgyVWUzcF9xTnVFWUhhRmU5cGl2ODZ5TGJxckFuSDl3SDlNcWJpcnNVX1lLX3NTNW4wWm02bElFWUUwb2J0U0pnVkpkN2JzYmFZand1a3NQNUZpenZlUlFfR3NHOVhqNTc0?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWJWLWJnblFKeUhjd2k2T1NxWU9Ybm9lSnlkVjl2dzR4MXd5T1V5U3pQdkFrNGRkRzRpa2l4U3E3LUtqaUxJRXpicDRiMTNya1JSNHNfd2NyaXlucGlhSkFvUElXNGxhdlhKRkFmeXEtcmFNSEZ3Rk1lYm45ZE9ZYlFRTnZoMkVDNHFrVkpidEc5WlJ3TnlEdGxzdG1pbTlCcG5nVA?oc=5\" target=\"_blank\">Housing In Brief: L.A.’s Anti-Harassment Law Was Set Up To Fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Next City</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "other"
-    },
-    {
-      "id": "92bb15eae7d0a227",
-      "title": "L.A. Council committee advances proposal to tighten rent control formula - The California Apartment Association",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUE42eTY1N0RoUnp4S0Vnc0dVZlhVbUV6ZUJjSzVKVWxsTk9rMzdLTmt6NzR1Q2IxaS1XWVEtaENpQnBybGRpRW9iWi1KaTFlVktlc1lJVlllNUhOYXdYVzNNb3R3ZlVfNUEyU0RKemtqVU9QOGRXSGJQZVFKYTZXQnFaLUNJTXRmT0FLREViU0lfZU96eEE?oc=5",
-      "source": "The California Apartment Association",
-      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUE42eTY1N0RoUnp4S0Vnc0dVZlhVbUV6ZUJjSzVKVWxsTk9rMzdLTmt6NzR1Q2IxaS1XWVEtaENpQnBybGRpRW9iWi1KaTFlVktlc1lJVlllNUhOYXdYVzNNb3R3ZlVfNUEyU0RKemtqVU9QOGRXSGJQZVFKYTZXQnFaLUNJTXRmT0FLREViU0lfZU96eEE?oc=5\" target=\"_blank\">L.A. Council committee advances proposal to tighten rent control formula</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
     }
   ]
 }
