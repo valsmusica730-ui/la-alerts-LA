@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T02:41:08.286059+00:00",
+  "generated_at": "2026-10-11T09:25:55.798010+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3893,6 +3893,16 @@
       "category": "rent"
     },
     {
+      "id": "ae09505bf5ec77b5",
+      "title": "California extends eviction moratorium through June - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDBTLXBqd2NYSkxOcjUyZU5tM3NfMVlySWJ6dGpqZXRSbG5CakVtQVBPX0s4TGdSd2NpUC1reHFObjBpemt2QVRzRjFYU3hhWFowbFRTNUQ4OGZSX3cxQUg1R0I2NmdmOE1jTm9OOERLMzZXVHA2TGU0THdmLURXMTBVVUl4SFhhQTJtQ25mbG9TTnhFdlNEenlqWEVMZ1hnNjRV?oc=5",
+      "source": "CalMatters",
+      "published": "Thu, 28 Jan 2021 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDBTLXBqd2NYSkxOcjUyZU5tM3NfMVlySWJ6dGpqZXRSbG5CakVtQVBPX0s4TGdSd2NpUC1reHFObjBpemt2QVRzRjFYU3hhWFowbFRTNUQ4OGZSX3cxQUg1R0I2NmdmOE1jTm9OOERLMzZXVHA2TGU0THdmLURXMTBVVUl4SFhhQTJtQ25mbG9TTnhFdlNEenlqWEVMZ1hnNjRV?oc=5\" target=\"_blank\">California extends eviction moratorium through June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "9f3bd4d5648de68b",
       "title": "LA City Planning Commission OKs Updates to Coastal Development Permit - KFI AM 640",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRm1MUlEydHhCaWtYaTlKeFE1S3RCektaNVhYRUdWQjlNa0lfbkhNVjFyaUFyZ25xMkVhOUlFMmF0Zk1hRE1lbDV5QVlGZnphRTgtRHNaN0taWjRKUVZMbEtnU01ad1dDeUJSbl9xbzlSVFR4LXFaZTA4cTB5OU1pcHlrMGFlUmp1WW5KdjZBT2wwOC1iTkVGZDNIa0k1c2p6aV80MFNkWFlvcTYzZ0ZYQW1oeG02TzVI0gHAAUFVX3lxTE9PZU5LYWhFLWNJZ2lXdl9UZmtkM1lNMTY4MHhmbF95a2xTYkZkRWFwY002STNBemw4V1RoNWxDeWJQaG42ZzI5T0p4WHB4LWdPaTVScnQ3QVkzNXlGSTJ5MVBHYjVEMmJaTkFaSGZjckV6U2xwY19waVRrWmJBVnZzTHNCUG1MOFVKM3BBWVktcWpTMHpiZHU4UU1sbzh0bm9wRFZmRUFrTFVPVG80aGhCRFc0eUMxaXRnMGh0NEJfbg?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnVOeFVrWE1YeEdrTDNwempTcWlzVU9UTXRZNHk1T280WE5uNmZkQ3IzZDhxdE1nNDV4VWpoOFVZUzI5endGTGVYYkdudlBmejNkTFFLQzNDYS1JN2U1Vkd5UFB4X1l1QWZhQUxPSk0tMEFDRUNER1hUYjdWbFhzOGlOdzY1cWtNQmV3dkhtNm42YWRlU0E3Z0hHZmVucFRrbGfSAacBQVVfeXFMTTBSZTZINXpWVzlodTRvdDdULXYySVplVWkzcXBHdjVpWnlVcm9OQUd3bV8tWkZfMFRyTUY4NUJFaHBJZTlKVG5zcTFldWg4bTFNMEdTQVNoMmx3YkVDSm9DNUpJc0FPY1NZdWFtQW16UlRJTW1nYXd0ZnJ4Tms4UjVCWUd1V1JkTEpLVTNyWURVNlpES3VpZExPWi1OQW9YbmM1OFBHdzQ?oc=5\" target=\"_blank\">LA Mayor Karen Bass signs law that streamlines building of affordable housing to confront homeless crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
-    },
-    {
-      "id": "6f8254b88e436fca",
-      "title": "Part 2: Rent Control in the City of Los Angeles: the Rent Stabilization Ordinance - The California Apartment Association",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEZCdXNRLWpSdnpSaEp2UDQ5ZU41ZUFtMm4yZE9CaGNNb0MxQ3VYZGsxRnpnOGpBeUN3NnV3eXpRdE1pSTlGNk1QaDN3S3lkSFd3YnVWeV9DRnZUM1hDTERHdjZVZE1nb2IzV04tdTlvNlk5ZmY4bVdvZjFyazE3czh5ckFFVlEya29Fa2J5blZ4SUlBTVJ6UEZ1Z29tT3lDMVhhSlRDaW5zdDZiRWVuM2Z2UWFlbzc5?oc=5",
-      "source": "The California Apartment Association",
-      "published": "Thu, 05 Mar 2026 19:39:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEZCdXNRLWpSdnpSaEp2UDQ5ZU41ZUFtMm4yZE9CaGNNb0MxQ3VYZGsxRnpnOGpBeUN3NnV3eXpRdE1pSTlGNk1QaDN3S3lkSFd3YnVWeV9DRnZUM1hDTERHdjZVZE1nb2IzV04tdTlvNlk5ZmY4bVdvZjFyazE3czh5ckFFVlEya29Fa2J5blZ4SUlBTVJ6UEZ1Z29tT3lDMVhhSlRDaW5zdDZiRWVuM2Z2UWFlbzc5?oc=5\" target=\"_blank\">Part 2: Rent Control in the City of Los Angeles: the Rent Stabilization Ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
     }
   ]
 }
