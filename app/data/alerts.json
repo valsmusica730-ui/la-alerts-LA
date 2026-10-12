@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:42:31.737397+00:00",
+  "generated_at": "2026-10-12T16:15:25.156060+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1000,6 +1000,16 @@
       "published": "Wed, 13 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRDdkb2xfZFA4V1RMdTN2TGRydmtLYlU0YV9OWEg5N2NpZTd1UlFqREQ1V21XREljR2lvaFotQ0RYQ0N1ZTZveXlJSlIxczJ2WTB5WmxOTDI3OUQtS05YdGpBUjRHWDZXMlU0V0E1SDBfbmNtN1VZbExiZVV5RlM2ZlNRNk1hUlh3ZXBzM0FXb2JfdS1JaDNLeE9SSlV1bF8xUTlrcVV5eXoyaEYyeFkxMTlXbURVTVJIM0w4OHlkanFCWndnZGJXNnFyTlgwN0haeVVZTQ?oc=5\" target=\"_blank\">LA County Supervisors Advance Housing Ordinance Update, With Barger Amendment Preserving Existing Density Caps – Pasadena Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pasadenanow.com</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
+    },
+    {
+      "id": "8c7abd76bfb86b8c",
+      "title": "Can Santa Monica — or anyplace else — enforce a ban on short-term rentals? - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX3F2RmRHZGNoVGdYS3RxbU9KZnBubWp1NnhCdGJTOXlKX1Nyak9CUG5PQXBja1RzMFRKcl9KYUNuYU85a2FraEtucjM4WnZxVUtpRVNKcW5NSkRJdGdnMXNNVEx4YnNWckVaZnVPZll3OFJodGpmVUREcHNkMmdBSzRLRkxMZm4yTXh3?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Wed, 13 May 2015 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX3F2RmRHZGNoVGdYS3RxbU9KZnBubWp1NnhCdGJTOXlKX1Nyak9CUG5PQXBja1RzMFRKcl9KYUNuYU85a2FraEtucjM4WnZxVUtpRVNKcW5NSkRJdGdnMXNNVEx4YnNWckVaZnVPZll3OFJodGpmVUREcHNkMmdBSzRLRkxMZm4yTXh3?oc=5\" target=\"_blank\">Can Santa Monica — or anyplace else — enforce a ban on short-term rentals?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
     },
     {
@@ -3123,6 +3133,16 @@
       "category": "zoning"
     },
     {
+      "id": "506579798bb357a2",
+      "title": "Nithya Raman says she’s being ‘punished’ in L.A. City Council committee shakeup - The Eastsider LA",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSkJWRldVZ2dRNnBQdEtYMjNIS0NUWC15N2hiN1lZQ2JiUWI5bjl2R0pSams0alVOVE1CanZqMmJGZWJSc1h5Q3I3LUVKNTJZSk5FQjJyVVZqb0dha0FWd2NsVTFQSXlTUDJrWDJsS1pXeVFBMUlkMDVwNi1LYWRGNG5YRFE3Yk1IY2RkeVRKUnpDWE5GZGJFdTdhNGMyZHQ2b0xfdWRUMThJVFI0M3dKOVEwOGlJNGlvRGZ2RUN6Ry1IZjZ5clR5VzBySWd5aVRNdHBoTXBSR191M1M1Z0ZUdkNQQkFCLUV4M1hZYXI3VE9jdm9oX0NsMnd0SUgtc1RsMFd6c1BkdWk0c1NzMVd0Y9IBlgJBVV95cUxNY2k0UDJtSnJnVzN5RGVjUDM1Rll0QTI1ZXJWclNlbkJhb0JKS2FiRWF1dDd1VmhjRDRFaVFjRjdZUTBrLThDR2pTbUNwLU02Z0E0cU5GT09BVXlCZm1WNDdGNW5qdERVWmZ6a2otOUJGeUFKbFExZzJzX2ctbWVqd1lNYWk5Z0NDU0ViTlBTN1NaeG4yZG5CdFN2dENzWHYxWU5DSjR1TG9GN2MwMlA4cWpUOTRnczZIZ2kyTndHMDBoQmZEMVpPeENQekJRRFNSdjFSRzBFT2FPS3d3WVZuOFQ1bFdPRUFEbVpQbEVya2FadTNacFdBb3A3bW9vd092V3BpcmpKNkFYNTlVNnJWdXVNb2VzQQ?oc=5",
+      "source": "The Eastsider LA",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPSkJWRldVZ2dRNnBQdEtYMjNIS0NUWC15N2hiN1lZQ2JiUWI5bjl2R0pSams0alVOVE1CanZqMmJGZWJSc1h5Q3I3LUVKNTJZSk5FQjJyVVZqb0dha0FWd2NsVTFQSXlTUDJrWDJsS1pXeVFBMUlkMDVwNi1LYWRGNG5YRFE3Yk1IY2RkeVRKUnpDWE5GZGJFdTdhNGMyZHQ2b0xfdWRUMThJVFI0M3dKOVEwOGlJNGlvRGZ2RUN6Ry1IZjZ5clR5VzBySWd5aVRNdHBoTXBSR191M1M1Z0ZUdkNQQkFCLUV4M1hZYXI3VE9jdm9oX0NsMnd0SUgtc1RsMFd6c1BkdWk0c1NzMVd0Y9IBlgJBVV95cUxNY2k0UDJtSnJnVzN5RGVjUDM1Rll0QTI1ZXJWclNlbkJhb0JKS2FiRWF1dDd1VmhjRDRFaVFjRjdZUTBrLThDR2pTbUNwLU02Z0E0cU5GT09BVXlCZm1WNDdGNW5qdERVWmZ6a2otOUJGeUFKbFExZzJzX2ctbWVqd1lNYWk5Z0NDU0ViTlBTN1NaeG4yZG5CdFN2dENzWHYxWU5DSjR1TG9GN2MwMlA4cWpUOTRnczZIZ2kyTndHMDBoQmZEMVpPeENQekJRRFNSdjFSRzBFT2FPS3d3WVZuOFQ1bFdPRUFEbVpQbEVya2FadTNacFdBb3A3bW9vd092V3BpcmpKNkFYNTlVNnJWdXVNb2VzQQ?oc=5\" target=\"_blank\">Nithya Raman says she’s being ‘punished’ in L.A. City Council committee shakeup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Eastsider LA</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "57c2a63556fc191e",
       "title": "L.A. County Will Make Rent Stabilization Ordinance Permanent - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGR0S210SDV3MGV6aFRQZ1FZLXl5b2VRTEJCRWxtZlMzQm1MR1A2OHZyalFkSFNVNTVCdE11RzFDX0xmdGJTSERkZVMwcUJnMjUxWjkzWk5DcmlmQTcyX2N6Tjk5RHM4bWJ5bHpKR0ZFSVI5VTVOUjVhQUNiNmljQ3dhTnFIZ0R3OVpnbkxkdjdlQQ?oc=5",
@@ -3191,6 +3211,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkl4eDl2M2ljNHQ3dDVqeDJQTm54RGN2VHR2a09VS0o4b2VneUVSamFZYm9PNll6NUdVRFlUTE9odWtvaUtRZl82ZXpzVXFyWFBkYTdfbWtpNWZrT0xRY1NnODVmVVp1MTd0elk1QXB1MkNMVVJXSEZFbVNlUXM4VW1aM1pyOTAybG5OczAyQS1hOUZiZmNXVUM0d19BWE9VeDB2bU9VbmRpMWV1WmlGLUlzemRRaXhraGlGNg?oc=5\" target=\"_blank\">Pasadena City Council delays state housing law around its historical sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Star News</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
+    },
+    {
+      "id": "7ff0346bd1a1dedb",
+      "title": "California City Becomes First in the Nation To Ban Data Centers Outright - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUN6MjgyNmpOSVV6VDdraFREb3ppTzRiQ3VIUW80ZlViYUJRMXVkYXFteTV6U1ZwNzktRF9qcEhUNEdYYlo0YUZ3My1DTm05YThGd3JXZWV6YWZfRWlGMTlmYUdiZEhSU0hZTGRXOHhjQ0RocS1DZ2xvSUJtazhZNHJfUFZPUXVTZTBJNDF1MnVId2pWbHk4WTlSUjFsc1N6VnpoVzItSFZHdGlz?oc=5",
+      "source": "Realtor.com",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUN6MjgyNmpOSVV6VDdraFREb3ppTzRiQ3VIUW80ZlViYUJRMXVkYXFteTV6U1ZwNzktRF9qcEhUNEdYYlo0YUZ3My1DTm05YThGd3JXZWV6YWZfRWlGMTlmYUdiZEhSU0hZTGRXOHhjQ0RocS1DZ2xvSUJtazhZNHJfUFZPUXVTZTBJNDF1MnVId2pWbHk4WTlSUjFsc1N6VnpoVzItSFZHdGlz?oc=5\" target=\"_blank\">California City Becomes First in the Nation To Ban Data Centers Outright</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realtor.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
     },
     {
       "id": "b3515f19692ab9d4",
@@ -4883,6 +4913,16 @@
       "category": "rent"
     },
     {
+      "id": "3c294955dc997835",
+      "title": "Councilmember Nithya Raman Statement on Eviction Moratorium - City of Los Angeles (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSG91NzBITEJkZWtQQ1pvdnFIZ1hBRS15YTY1MF9yRTM1ay1QWW91SlFwN2ItWDF1R0VEdnhWWFpxVWhsSE5DcWNuNUttTjNPY1VLMERPY1VoODRqUG1lbGczY2dJRUJCUU9NUzVycWtsWjFfbGgtR0dCQWJzVW9RZXFWUEVTbVR1aFpVd08tcw?oc=5",
+      "source": "City of Los Angeles (.gov)",
+      "published": "Thu, 10 Nov 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOSG91NzBITEJkZWtQQ1pvdnFIZ1hBRS15YTY1MF9yRTM1ay1QWW91SlFwN2ItWDF1R0VEdnhWWFpxVWhsSE5DcWNuNUttTjNPY1VLMERPY1VoODRqUG1lbGczY2dJRUJCUU9NUzVycWtsWjFfbGgtR0dCQWJzVW9RZXFWUEVTbVR1aFpVd08tcw?oc=5\" target=\"_blank\">Councilmember Nithya Raman Statement on Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "3d41d04d6a325d1e",
       "title": "Prominent California city moves to ban Airbnb-style rentals - sfgate.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3pJSk9CbHpCZ2J5XzFvNkp5T0wtVkZxcHBfZG15MVJWTE13WkxnSzNuMmI3ajB4TWdDTDNQZ3NTOUNEVUpmX0xPS2hBdkxYQVJCaHZrbTJlMnljc2V2Y2JBNUJpVFI1U004bmV4b1dKSHBseDZTampPRkdMMXNnQ2MtT1Y0dkprS0tCcWxkNUlXdw?oc=5",
@@ -4961,46 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMmhfNTc2eEZZb3RLamRITEtVbTNfd0FSeG84RkItTThWNG4ydkk2OE40M0Y4QnQteWNDcVRnTDBrTE1rNGZqNGVod2xZVDBuai1lanAyR1BiVTV6c2pzVlNhc1ZVWjBFeDVRZnR4Vk9VVmlNZHBOXy1KT0FjbThjaENfZElvbVo3YTgxZ0VhRWJHV2d6cmM2TGJraTE4bnVPb2lleEc3NEhDbldJNG5GQkQ4VlZoLUJCZWlOQ2YwSm5aSnFkNTZBUkh3OTB2SC1QRWkxc1hJT203dDByUkEzLUM0cXhiRFdORDBV?oc=5\" target=\"_blank\">LOS ANGELES 2028: L.A. City Planning Commission advances ordinance to exempt LA28 temporary works from slow permit process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sports Examiner</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "70165d299123364f",
-      "title": "Measure ULA Tax Receipts Hit $1B In Revenue - Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0d3aU9RVWY1SnlkR1N1OXJaUDhES2kyQWhPQVNWWHF0MFNjVHVDUTJ6elV6TElGeGJqaHd4UWZZQnFTQTJDdllfNVI0UkQ1Mm5ZRDl2TFN2b0l0X3gyenMyZHI2dWI5czY3NUtUa05tNkIxMzVLSkFGcTVEZ0cwNjg3RmNrLVJsYkFXc2U3SGoxZw?oc=5",
-      "source": "Bisnow",
-      "published": "Thu, 08 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0d3aU9RVWY1SnlkR1N1OXJaUDhES2kyQWhPQVNWWHF0MFNjVHVDUTJ6elV6TElGeGJqaHd4UWZZQnFTQTJDdllfNVI0UkQ1Mm5ZRDl2TFN2b0l0X3gyenMyZHI2dWI5czY3NUtUa05tNkIxMzVLSkFGcTVEZ0cwNjg3RmNrLVJsYkFXc2U3SGoxZw?oc=5\" target=\"_blank\">Measure ULA Tax Receipts Hit $1B In Revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "9388303e1ee6603d",
-      "title": "Airbnb Bans New Year's Eve Bookings For Some LA, SoCal House Parties - Patch",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVlKT2VrVkZTUjNWZ29BRWdWUURsTHd1cXp5bEdnbEZUVnBCaldCUWFZdEtBUnlsNm9Na2xHN0kzVjlfRjBPeGNseksxbjZqSGVOQUtUMkRGUkRGYmVXbmNUempzTEpaYTlsOGxib1BfaWt3cWtGaF9hMzIwanFMMjhCdWhIOGU5SkdwNG8zSkVPRTJJdjZucWFJRFV0a1MyMG1sbzhR?oc=5",
-      "source": "Patch",
-      "published": "Thu, 08 Dec 2022 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVlKT2VrVkZTUjNWZ29BRWdWUURsTHd1cXp5bEdnbEZUVnBCaldCUWFZdEtBUnlsNm9Na2xHN0kzVjlfRjBPeGNseksxbjZqSGVOQUtUMkRGUkRGYmVXbmNUempzTEpaYTlsOGxib1BfaWt3cWtGaF9hMzIwanFMMjhCdWhIOGU5SkdwNG8zSkVPRTJJdjZucWFJRFV0a1MyMG1sbzhR?oc=5\" target=\"_blank\">Airbnb Bans New Year's Eve Bookings For Some LA, SoCal House Parties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "47e0a83a6e7235f8",
-      "title": "LA Planning Commission Approves of Wildlife District in Santa Monica Mountains - NBC Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV0c3ZnpoTmN1X3J5ZUxzS1FJVnZ0eWtGWjBPT0VCYzFLR3JSVlh4bG93VHNnT05rV05WcldEWnhNUkJUcTFjQlFMWjVrRmhIQlplVzJ2MnYtTWJpaHhTaTBXQXNLSC16bjdja1BZUzRKUlRpM21mbUp5YTZYWjFpY3p6TjNXUGw2ODBwdkNlbVQtSmY2cmlMdl83cUFFc3dOZ3B6SWJLS240VXpPZnVmY054VWVJbXFxUE9wSHV4MjE4WlEwRkJ30gHPAUFVX3lxTE03ZldaaHgtOXRhckozMFkxTEhzTEdFOG1tbFlWM1NXVnlRaWFCLWp3bFNjQ1dia1RHLXNuZ3d2WkIzR2o4SDhTV0xYbzk3ZGtwbUpzLTRyZUVPSjVxQ0JBWktrZDJWRnhnWW9ERjZ1Sm03dThYZlA1LXAtenY5ZDM5SGNiU2doRjdtSmdjU3RRWWZSNThEZXBLc2xmb3ZCZ21kald1V2psVlp0TGlGX3U2cmk5MDlyRXIwSFZXZTd0MXB2TGY0bzh6VzdhTm5CYw?oc=5",
-      "source": "NBC Los Angeles",
-      "published": "Thu, 08 Dec 2022 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNV0c3ZnpoTmN1X3J5ZUxzS1FJVnZ0eWtGWjBPT0VCYzFLR3JSVlh4bG93VHNnT05rV05WcldEWnhNUkJUcTFjQlFMWjVrRmhIQlplVzJ2MnYtTWJpaHhTaTBXQXNLSC16bjdja1BZUzRKUlRpM21mbUp5YTZYWjFpY3p6TjNXUGw2ODBwdkNlbVQtSmY2cmlMdl83cUFFc3dOZ3B6SWJLS240VXpPZnVmY054VWVJbXFxUE9wSHV4MjE4WlEwRkJ30gHPAUFVX3lxTE03ZldaaHgtOXRhckozMFkxTEhzTEdFOG1tbFlWM1NXVnlRaWFCLWp3bFNjQ1dia1RHLXNuZ3d2WkIzR2o4SDhTV0xYbzk3ZGtwbUpzLTRyZUVPSjVxQ0JBWktrZDJWRnhnWW9ERjZ1Sm03dThYZlA1LXAtenY5ZDM5SGNiU2doRjdtSmdjU3RRWWZSNThEZXBLc2xmb3ZCZ21kald1V2psVlp0TGlGX3U2cmk5MDlyRXIwSFZXZTd0MXB2TGY0bzh6VzdhTm5CYw?oc=5\" target=\"_blank\">LA Planning Commission Approves of Wildlife District in Santa Monica Mountains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "36571c9d401db14e",
-      "title": "California lawmakers put funding for ADUs in flux. What you need to know - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXpyQXowVXRkSUxucURFd3VxRnYwa05vUDVLcmx1Z1NScjNRLTFaalo4NXQ5em5pOUUwTlI2MUMwdE12c0lnZGNKQTJvdWFia1VFWGNlUkhKWjVfWnZrNEd6MDUyMlB1aEpHaTBna09zSkFFdXlKbW9DSDhMQ1VULTIwQjU0VGhKQmJaTFJmUTd0R1BrcGNrVTZGQ0Z0LVdReTNkMFl2WUNtZw?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 07 Sep 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXpyQXowVXRkSUxucURFd3VxRnYwa05vUDVLcmx1Z1NScjNRLTFaalo4NXQ5em5pOUUwTlI2MUMwdE12c0lnZGNKQTJvdWFia1VFWGNlUkhKWjVfWnZrNEd6MDUyMlB1aEpHaTBna09zSkFFdXlKbW9DSDhMQ1VULTIwQjU0VGhKQmJaTFJmUTd0R1BrcGNrVTZGQ0Z0LVdReTNkMFl2WUNtZw?oc=5\" target=\"_blank\">California lawmakers put funding for ADUs in flux. What you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "adu"
     }
   ]
 }
