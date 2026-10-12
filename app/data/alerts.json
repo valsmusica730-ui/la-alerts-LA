@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:04:01.408379+00:00",
+  "generated_at": "2026-10-12T06:42:31.737397+00:00",
   "total": 500,
   "alerts": [
     {
@@ -671,6 +671,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlg1dTYzYXlSMXFBclNkUl83U2xoVHhGSzQxMmNZcG1pdkZVMDJEblplVEZGZFRLRXRUQl9nMjQ0NDBCVXhhVkQxSTRJcG5PTHFuR3g0a05Vd29vbXlBNnZVTjZxa2ZyYzRNenpha0VwSUM3R0lFREY3bWV6Q2s5RTRBbVhHWmRUN2tPMNIBlAFBVV95cUxOdTV3WFVtMkRkeDlyYmUyOWpDQ1lfM0duRTNIMnE5cV81anY4aC15bFZEeEhYc0Q1X0h0YUFSaXJjb25rY1RUZXV1bU5Gc3R6LVJTYng0ZWVUZEZRSy1mQk5zdWVSbzRLWEo4MjgwQU1hay11RUYwTzVQcjVEN09nUWRWVnY3bGIxeFBSTHFudGdlbTRz?oc=5\" target=\"_blank\">LA County Extends Eviction Moratorium Until the End of January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "abbf904d3c8677d7",
+      "title": "Planning Commission prepares for TV City hearing on Sept. 12 - Beverly Press & Park Labrea News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzRFVEIwZkUyRG9DVjA1ei1TSm5WU0JGWXh3YjJRVmlwc29nZjFKTTRxUUZrbWpicC1oQ1VNdlU1U29JWUtxRkpLcjh6ekV1M0pmTWNLVGJsSTE5WUctbmVWTHhFQkVwa2xsclhsX196ekplQUN2VGJGUHExdUs2RzlBa3owX2ppX1djQUI3cXpLeXR1WlV3Mg?oc=5",
+      "source": "Beverly Press & Park Labrea News",
+      "published": "Wed, 21 Aug 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzRFVEIwZkUyRG9DVjA1ei1TSm5WU0JGWXh3YjJRVmlwc29nZjFKTTRxUUZrbWpicC1oQ1VNdlU1U29JWUtxRkpLcjh6ekV1M0pmTWNLVGJsSTE5WUctbmVWTHhFQkVwa2xsclhsX196ekplQUN2VGJGUHExdUs2RzlBa3owX2ppX1djQUI3cXpLeXR1WlV3Mg?oc=5\" target=\"_blank\">Planning Commission prepares for TV City hearing on Sept. 12</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
     },
     {
       "id": "2c3be2ccd6dd05e2",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXpyQXowVXRkSUxucURFd3VxRnYwa05vUDVLcmx1Z1NScjNRLTFaalo4NXQ5em5pOUUwTlI2MUMwdE12c0lnZGNKQTJvdWFia1VFWGNlUkhKWjVfWnZrNEd6MDUyMlB1aEpHaTBna09zSkFFdXlKbW9DSDhMQ1VULTIwQjU0VGhKQmJaTFJmUTd0R1BrcGNrVTZGQ0Z0LVdReTNkMFl2WUNtZw?oc=5\" target=\"_blank\">California lawmakers put funding for ADUs in flux. What you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
-    },
-    {
-      "id": "ec025d5466378340",
-      "title": "Bound to Fail: Pawning off Urban Reaganomics as ‘Progressive’ Housing Policy - CityWatch LA",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHEyVlg0WDhSNklrMUt5RWliRUU4RGdMdTNfYndpSWtZME96NW54eFpnTXQzMy1UTEdGbDVsN29lNHE0b205ZDFtZ2tVdm5Ya0ZpMmVJM2UzMHdwckM3M1diLTZhOE5xdHJQMGRoVE5jYmRxZVFrUU5nbEJxWFc1S254R0wtQzR4VHhZb1VBM2RXbk5PblRLWEZ6d2VEbjM2N2tfcDZNZUpaOHFiYThnWElnZVFmZ05aTWlV?oc=5",
-      "source": "CityWatch LA",
-      "published": "Thu, 07 Jan 2021 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHEyVlg0WDhSNklrMUt5RWliRUU4RGdMdTNfYndpSWtZME96NW54eFpnTXQzMy1UTEdGbDVsN29lNHE0b205ZDFtZ2tVdm5Ya0ZpMmVJM2UzMHdwckM3M1diLTZhOE5xdHJQMGRoVE5jYmRxZVFrUU5nbEJxWFc1S254R0wtQzR4VHhZb1VBM2RXbk5PblRLWEZ6d2VEbjM2N2tfcDZNZUpaOHFiYThnWElnZVFmZ05aTWlV?oc=5\" target=\"_blank\">Bound to Fail: Pawning off Urban Reaganomics as ‘Progressive’ Housing Policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityWatch LA</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "policy"
     }
   ]
 }
