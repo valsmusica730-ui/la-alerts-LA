@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:40:37.374734+00:00",
+  "generated_at": "2026-10-12T00:04:01.408379+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4163,6 +4163,16 @@
       "category": "tax"
     },
     {
+      "id": "4f3b2b5a0a5a3e55",
+      "title": "L.A. ‘Wildlife Ordinance’ to Protect Biodiversity With Zoning Changes - Planetizen",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1JGOGRaZnRNcHVYWU9VeUpCbU5CMG1PRjFldnZhbHNyS2xZaWJmQ1Q1aXdBNFpEdWJPYTdnbndsQUZiMUpwQzZWZk4wN2dsa01sRTRpWF9DdUVhQTVZX1FoOVEtUHpvMmpVUTMwNy1QNHIzcVBjQTV5cGU2ZlVjXy1DbU56MkhQZUR2NUtmcDB5RlVRRTAtVk9KU0VaVHRScWJxUkZEbw?oc=5",
+      "source": "Planetizen",
+      "published": "Thu, 22 Dec 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1JGOGRaZnRNcHVYWU9VeUpCbU5CMG1PRjFldnZhbHNyS2xZaWJmQ1Q1aXdBNFpEdWJPYTdnbndsQUZiMUpwQzZWZk4wN2dsa01sRTRpWF9DdUVhQTVZX1FoOVEtUHpvMmpVUTMwNy1QNHIzcVBjQTV5cGU2ZlVjXy1DbU56MkhQZUR2NUtmcDB5RlVRRTAtVk9KU0VaVHRScWJxUkZEbw?oc=5\" target=\"_blank\">L.A. ‘Wildlife Ordinance’ to Protect Biodiversity With Zoning Changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planetizen</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "e4b4535e78f3279c",
       "title": "L.A. City Planning Commission Approves Mission Hills Apartments - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS3hWeExnTXFtNTdsYU0zQ25JQ3lpc2ZoU2VoekR0TFdFdnlHOGFKRVM0OWRUcVhGeU9KOXVxem5uRkNaN1REY3U1Rk4xcjFRck5ib2JDdDFVLUhheHVnSWluQ1FaVGl5OUdWNlpHcU5FdklkX1l0N1lIYU90RXBGT1V5QzBKQjZOM0hhal9KN2NUTGVqSEE?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHEyVlg0WDhSNklrMUt5RWliRUU4RGdMdTNfYndpSWtZME96NW54eFpnTXQzMy1UTEdGbDVsN29lNHE0b205ZDFtZ2tVdm5Ya0ZpMmVJM2UzMHdwckM3M1diLTZhOE5xdHJQMGRoVE5jYmRxZVFrUU5nbEJxWFc1S254R0wtQzR4VHhZb1VBM2RXbk5PblRLWEZ6d2VEbjM2N2tfcDZNZUpaOHFiYThnWElnZVFmZ05aTWlV?oc=5\" target=\"_blank\">Bound to Fail: Pawning off Urban Reaganomics as ‘Progressive’ Housing Policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityWatch LA</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
-    },
-    {
-      "id": "33d73e6522393254",
-      "title": "Housing In Brief: L.A.’s Anti-Harassment Law Was Set Up To Fail - Next City",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWJWLWJnblFKeUhjd2k2T1NxWU9Ybm9lSnlkVjl2dzR4MXd5T1V5U3pQdkFrNGRkRzRpa2l4U3E3LUtqaUxJRXpicDRiMTNya1JSNHNfd2NyaXlucGlhSkFvUElXNGxhdlhKRkFmeXEtcmFNSEZ3Rk1lYm45ZE9ZYlFRTnZoMkVDNHFrVkpidEc5WlJ3TnlEdGxzdG1pbTlCcG5nVA?oc=5",
-      "source": "Next City",
-      "published": "Thu, 06 Oct 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWJWLWJnblFKeUhjd2k2T1NxWU9Ybm9lSnlkVjl2dzR4MXd5T1V5U3pQdkFrNGRkRzRpa2l4U3E3LUtqaUxJRXpicDRiMTNya1JSNHNfd2NyaXlucGlhSkFvUElXNGxhdlhKRkFmeXEtcmFNSEZ3Rk1lYm45ZE9ZYlFRTnZoMkVDNHFrVkpidEc5WlJ3TnlEdGxzdG1pbTlCcG5nVA?oc=5\" target=\"_blank\">Housing In Brief: L.A.’s Anti-Harassment Law Was Set Up To Fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Next City</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "other"
     }
   ]
 }
