@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:36:57.902158+00:00",
+  "generated_at": "2026-10-13T23:28:56.885411+00:00",
   "total": 500,
   "alerts": [
     {
@@ -571,6 +571,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXMwUEswS05NRmdSemdKa3hidnJpa01qYmJjZTJ2cVIyeEZKUzZzOWNMQXFoU2JfYTU5NVozYXB0cDF3X1VFSkJjMmZxbW9FZ3BHY3FmVno1NzZiZy1kTzVmSEtFSmU0RHBoOHFkM1ppaFo3SktJS1pycEdqbGJ5UGN2OFNvQTlMNHp1cEFXZw?oc=5\" target=\"_blank\">Placentia Airbnb ban undermines property rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
+    },
+    {
+      "id": "006d4da9e5e6fc6b",
+      "title": "Signal Hill plans new zoning rules for \"oil patch\" district - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMm1rWXp4eTQ3Vk1YRzlwaWJ1R0l5bk8wTzNDNXBrY1pxSlg5bGxQM3pNS0VzRVBOTUVMc1JaNTdmZFhEQ0dWRi03aVBGNjJwZlpTV1NmcjFWYVJjY1JGMDF3ay1UbDBFaDZxaTJiY01mNnZlMnRTei1hNTd4SmlUSWV0Qks3Tm9XWVJF?oc=5",
+      "source": "Urbanize LA",
+      "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMm1rWXp4eTQ3Vk1YRzlwaWJ1R0l5bk8wTzNDNXBrY1pxSlg5bGxQM3pNS0VzRVBOTUVMc1JaNTdmZFhEQ0dWRi03aVBGNjJwZlpTV1NmcjFWYVJjY1JGMDF3ay1UbDBFaDZxaTJiY01mNnZlMnRTei1hNTd4SmlUSWV0Qks3Tm9XWVJF?oc=5\" target=\"_blank\">Signal Hill plans new zoning rules for \"oil patch\" district</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "zoning"
     },
     {
       "id": "470ca7aab9b4ef47",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 09 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTXZjbURaR1FTVEJvWTUxVTRwN0YybWRxdUYxVkFEMGc1ZFF1bHhrdzN5OFJkVVJONjFFSUpMc0ZVVjhoTDhVSkRwRjkxUF92cXNISTVuN2txTUoxT0ZEdjJQWHEzdkRELVk0cE9fSm5ocUFVQ2NFYlNvM1BMZkUwSHcxS1pvMVNhanMtejBXbV9QTEdieUdVVkx2NXprbXRtYXYtRThPbnVGeEt1UzloU3dyWUx4a090enNzN2cwcGNWS3l3TkxvS2pQOFdaMlljOUo0RHYwS3FXMjd6MHFFcElUWXgzUQ?oc=5\" target=\"_blank\">Karen Bass seeks council approval of $360-million allocation for affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "3c2140c144b1c433",
-      "title": "West Hollywood ordinance lowers the temperature - Beverly Press & Park Labrea News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTlGOTVHZzVmdmxwVFozX2VXLXBHdHAweEZQMzIySzkxaEtEWjQ1b19ENnJWZEJLOHVrdTlORnIyTkI5cExrTXhxWjZPcDVoYkNQRk0ybE55S3lyZzhaOTFITDhqNTFYYWREcWJJVVNFQlNwU2xJdEVvQnpzMTBvbG9iVDJ0QWtS?oc=5",
-      "source": "Beverly Press & Park Labrea News",
-      "published": "Thu, 08 Oct 2026 01:06:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTlGOTVHZzVmdmxwVFozX2VXLXBHdHAweEZQMzIySzkxaEtEWjQ1b19ENnJWZEJLOHVrdTlORnIyTkI5cExrTXhxWjZPcDVoYkNQRk0ybE55S3lyZzhaOTFITDhqNTFYYWREcWJJVVNFQlNwU2xJdEVvQnpzMTBvbG9iVDJ0QWtS?oc=5\" target=\"_blank\">West Hollywood ordinance lowers the temperature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
     }
   ]
