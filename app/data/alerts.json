@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:07:55.608060+00:00",
+  "generated_at": "2026-10-14T14:08:26.263400+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3433,6 +3433,16 @@
       "category": "adu"
     },
     {
+      "id": "1ea87fe1ff4abcdc",
+      "title": "Measure A aims to help fund homeless services with an increased sales tax - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHhvcktFNmZNUVlKd1NtMkpRRGVDcXh6Q29fb0xpRnBWNlhrNVlpSy03YkE1b0FScjdUWnZneDdWNlRzWWlNNlc2VXJ1M0o5U0diZjJfNmdJTFpMWmszT3NzN0hmZjByRmhvV3pkazRUam9XcC1QZk54eFBuaUVYZjBUNlpfandBSUE4b1NMWlYwSVI4dkE2ZjN5cFNUVmRwNWY4N0RmTlgxZWVRVG1EeGpkaHlUVU5oQ2VrNVFSTFZxODNr?oc=5",
+      "source": "CBS News",
+      "published": "Tue, 05 Nov 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHhvcktFNmZNUVlKd1NtMkpRRGVDcXh6Q29fb0xpRnBWNlhrNVlpSy03YkE1b0FScjdUWnZneDdWNlRzWWlNNlc2VXJ1M0o5U0diZjJfNmdJTFpMWmszT3NzN0hmZjByRmhvV3pkazRUam9XcC1QZk54eFBuaUVYZjBUNlpfandBSUE4b1NMWlYwSVI4dkE2ZjN5cFNUVmRwNWY4N0RmTlgxZWVRVG1EeGpkaHlUVU5oQ2VrNVFSTFZxODNr?oc=5\" target=\"_blank\">Measure A aims to help fund homeless services with an increased sales tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "other"
+    },
+    {
       "id": "57cd361f4bd34a12",
       "title": "Rent Relief, Eviction Moratorium Extended In L.A. County - Patch",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzJ6cElTaTBac2NubEcxSVV4UFZNRGQ5SHJITTZGRHF1YjFYQmR5NHlndXY0VEhlRUVvRHk0a21tN25TT1JDRGtUYW8tOHJCazVjQWhmOU1kX0FYSkh3ekprWlVXQ2FaUDlHYk5wMWl4RmplQlhFbjZsUk1aUWx4QVhtX3NUUDNNYmQwQTRhczJrZlY4UkpESQ?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWtWa25tb3ExeWhKQVlVSlJRZzFXbk5YNGszenN0dVM4ellxU2ZqSEpWQWRzNU9sNlNxNzk3UXVReHNCZThTYjFNTFpUU004OXM5Zi02ajdqZkREU1ZENXluNDAxU2NmdnBQdjRiMGxPZl82Smg5RnNFcGF0Wmt0RGRHYTd5X2FaVmotRWd0aVk3Q2RQQUU4ZUFRemUtZ2Myd1RfMjZlSHNWbW5WVTY3ckN3?oc=5\" target=\"_blank\">Torrance enacts ordinance to ban smoking in multi-unit housing complexes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Breeze</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
-    },
-    {
-      "id": "4af7b86dbc4de560",
-      "title": "City Planning Commission Approves Two Affordable Developments in South L.A. - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVNubnZRSkZDRHA1bmI2S2txMDVvckw0MFVIT01PUGt5TThOd3prTS00NldlWDNiTk9BMThLaWMwT3ROckMxc2VUYkRpVi02dzRMT01WbkRfd1hjQ0JPN3F5MkJSRW1FVlpnZ3J5QkFvS3I5SGdaM3liWTlyRnpXS1RzUzljTjJBVDBqbE1JcVd1M3lQdTFkSGJwSW9feWtEVnc?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 09 Jan 2020 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVNubnZRSkZDRHA1bmI2S2txMDVvckw0MFVIT01PUGt5TThOd3prTS00NldlWDNiTk9BMThLaWMwT3ROckMxc2VUYkRpVi02dzRMT01WbkRfd1hjQ0JPN3F5MkJSRW1FVlpnZ3J5QkFvS3I5SGdaM3liWTlyRnpXS1RzUzljTjJBVDBqbE1JcVd1M3lQdTFkSGJwSW9feWtEVnc?oc=5\" target=\"_blank\">City Planning Commission Approves Two Affordable Developments in South L.A.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
