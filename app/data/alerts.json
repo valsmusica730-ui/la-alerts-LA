@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T23:28:56.885411+00:00",
+  "generated_at": "2026-10-14T08:07:55.608060+00:00",
   "total": 500,
   "alerts": [
     {
@@ -973,6 +973,16 @@
       "category": "rent"
     },
     {
+      "id": "ada24e446a7d2dc2",
+      "title": "LA Mayoral Race Highlights Limits of Housing Policy Power - SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHdmlQdDJqaUxlNmh0UDlSZ0IzR3RfdkZBSGJlVXRmOTROMmh0UmVrdlRsa2psSndWNW1TRGZGU3luZ0RYbzUyUF9weGE5b2d1VUVNckJGY1FCbkV0M2J3UkdIa3RjSWlp?oc=5",
+      "source": "SuaraGarut.ID",
+      "published": "Wed, 14 Oct 2026 03:22:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHdmlQdDJqaUxlNmh0UDlSZ0IzR3RfdkZBSGJlVXRmOTROMmh0UmVrdlRsa2psSndWNW1TRGZGU3luZ0RYbzUyUF9weGE5b2d1VUVNckJGY1FCbkV0M2J3UkdIa3RjSWlp?oc=5\" target=\"_blank\">LA Mayoral Race Highlights Limits of Housing Policy Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SuaraGarut.ID</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
+    },
+    {
       "id": "552f63f90693a66c",
       "title": "Santa Monica City Council Approves New Tenant Protections - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjhDcFIwMmtSOUxrb1poTVRlYUJ1c2pXVy1xTXd2a3haWkNtYXFTak1xU1h4cnFPODNhS1cxQTVuS1JnTzhKcnhlV0dRZVVrQWZ0bDRKM1hzOFRSVnFGTDVBbHZxZ0dCcExPV3BieDRNOWx4MGQ4VFhfMXR6UlVLY1QteVBCaEJHM3Z3WEtfVUFJUVNxM3FaczhONE4?oc=5",
@@ -1341,6 +1351,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE56dFFsMjlrNHdiR0h1WTlyLVU4ek5iMy1tamlaYXl2ZExfbjNpbllkendENHMxU2l3ekJZZU5MTEExbmRTSFp3ekJPYWUtbnh0RFNEUG5uRXA2SFBmRWpFQXFELS02WWJLanRZOUtSVFZYU0U?oc=5\" target=\"_blank\">At Airbnb, growth brings scrutiny, regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
+    },
+    {
+      "id": "a210e91475c3013f",
+      "title": "California’s new ADU laws now in effect - cbs8.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNldXRmJDR0xxZWlLQWgydDhuOFFGWm1WU1NOR0U2WGhVX1lnV2xTWDBoS3BQb2c1allvQVRYZUpZVGFkUHphZWIza01sd0ZQM1JvQ2pZTGZ4UnlsUFJ4UXoza2lEbG8yeHctak5NOTI3WUc4VVVZZG51bUFER0ZkR3JBaDdLbDNIeGg2Zm1jUkVGWmQ3MjVydGNGeGktNml5bmprX19JX1JGU0dFS004Q3N3UjBabmdOdWEyU2lhSEpHZWc0bzNrSkxmOA?oc=5",
+      "source": "cbs8.com",
+      "published": "Wed, 10 Jan 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNldXRmJDR0xxZWlLQWgydDhuOFFGWm1WU1NOR0U2WGhVX1lnV2xTWDBoS3BQb2c1allvQVRYZUpZVGFkUHphZWIza01sd0ZQM1JvQ2pZTGZ4UnlsUFJ4UXoza2lEbG8yeHctak5NOTI3WUc4VVVZZG51bUFER0ZkR3JBaDdLbDNIeGg2Zm1jUkVGWmQ3MjVydGNGeGktNml5bmprX19JX1JGU0dFS004Q3N3UjBabmdOdWEyU2lhSEpHZWc0bzNrSkxmOA?oc=5\" target=\"_blank\">California’s new ADU laws now in effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs8.com</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "adu"
     },
     {
       "id": "d0236e325a432839",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVNubnZRSkZDRHA1bmI2S2txMDVvckw0MFVIT01PUGt5TThOd3prTS00NldlWDNiTk9BMThLaWMwT3ROckMxc2VUYkRpVi02dzRMT01WbkRfd1hjQ0JPN3F5MkJSRW1FVlpnZ3J5QkFvS3I5SGdaM3liWTlyRnpXS1RzUzljTjJBVDBqbE1JcVd1M3lQdTFkSGJwSW9feWtEVnc?oc=5\" target=\"_blank\">City Planning Commission Approves Two Affordable Developments in South L.A.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "a31cda67f7e7a156",
-      "title": "City Planning Commission green lights Junction Gateway development - la.urbanize.city",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWtYR0dIWEZRbTljSV9CSGZ6ZWVEcUJhUzU0Um5ETVVtRUdncGd4R3dDVFRsbkNzSVFNQVVYWG1mSF9DeURnSGdZVDBGc1YwVEd0c1dndDhSc0NDeFVXVE5Yb1M5MjZLMlNpdFhIREhwZHEyVUdFTk8yV0JuTzFTQzZqQXVuUGJfTU1IUEhqS2NuQldzbEJvQkNGbGI?oc=5",
-      "source": "la.urbanize.city",
-      "published": "Thu, 09 Dec 2021 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWtYR0dIWEZRbTljSV9CSGZ6ZWVEcUJhUzU0Um5ETVVtRUdncGd4R3dDVFRsbkNzSVFNQVVYWG1mSF9DeURnSGdZVDBGc1YwVEd0c1dndDhSc0NDeFVXVE5Yb1M5MjZLMlNpdFhIREhwZHEyVUdFTk8yV0JuTzFTQzZqQXVuUGJfTU1IUEhqS2NuQldzbEJvQkNGbGI?oc=5\" target=\"_blank\">City Planning Commission green lights Junction Gateway development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">la.urbanize.city</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "5a21bc2e09dd0ed6",
-      "title": "Karen Bass seeks council approval of $360-million allocation for affordable housing - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTXZjbURaR1FTVEJvWTUxVTRwN0YybWRxdUYxVkFEMGc1ZFF1bHhrdzN5OFJkVVJONjFFSUpMc0ZVVjhoTDhVSkRwRjkxUF92cXNISTVuN2txTUoxT0ZEdjJQWHEzdkRELVk0cE9fSm5ocUFVQ2NFYlNvM1BMZkUwSHcxS1pvMVNhanMtejBXbV9QTEdieUdVVkx2NXprbXRtYXYtRThPbnVGeEt1UzloU3dyWUx4a090enNzN2cwcGNWS3l3TkxvS2pQOFdaMlljOUo0RHYwS3FXMjd6MHFFcElUWXgzUQ?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 09 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTXZjbURaR1FTVEJvWTUxVTRwN0YybWRxdUYxVkFEMGc1ZFF1bHhrdzN5OFJkVVJONjFFSUpMc0ZVVjhoTDhVSkRwRjkxUF92cXNISTVuN2txTUoxT0ZEdjJQWHEzdkRELVk0cE9fSm5ocUFVQ2NFYlNvM1BMZkUwSHcxS1pvMVNhanMtejBXbV9QTEdieUdVVkx2NXprbXRtYXYtRThPbnVGeEt1UzloU3dyWUx4a090enNzN2cwcGNWS3l3TkxvS2pQOFdaMlljOUo0RHYwS3FXMjd6MHFFcElUWXgzUQ?oc=5\" target=\"_blank\">Karen Bass seeks council approval of $360-million allocation for affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
     }
   ]
 }
