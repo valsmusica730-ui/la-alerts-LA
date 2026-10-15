@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:47:40.187479+00:00",
+  "generated_at": "2026-10-15T17:27:27.725936+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2141,6 +2141,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXZKSlhCR2E4TkxvX2NjUEMzbUY3VC1zeFJNSUU4T0NKOFd0cEczenNWU0ZLQm02ZlZ0bkZlNHIyQms3S1VVQTRlQmlYVlRod01KVEZaNkdnSGh3LVlMQlZISW9qVjN4UGRwNnZ3bzdJcEJOcDJwX3A0MmJrMzJvTWxybWdpdVcwLUsxZHdhbmx2LUJZbmJrVEZBUXllazhmNDhGcmpDS3lPSlFmUmw5Y3dfbFlMV0IyclBFenJaSDBCZ9IBygFBVV95cUxQeFpiOHlkNm8xaXpJUlB1NEZydE1uTk9vY2JrbWJKQzE0ZV9xVm9qel9IS2VoR3VwRXNLa1pydUw4SzZpM3gweW5RcDhWOUd1a3ZwVkxZenB1U0dSZ05XMjljNGttSm1GcUdTVXRMQmE1TGdRWUw1cmZVVVVDV2Vfek5kU3NaZnBfdkZTeFlZbUpZSWtacTJxa3dRRll5aGJPd2NPdVZaMWlKVUlCVUVfNWNJdHhrUk9kbzZWNFo4NU0tWk04MXRBSXZn?oc=5\" target=\"_blank\">LA County Moves Toward Requirement for Seismic Retrofit of Older Buildings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "construction"
+    },
+    {
+      "id": "5be6aa697b775124",
+      "title": "State Density Bonus Law Does Not Require Applicants to Demonstrate Economic Feasibility of Project When Requesting Incentives - JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWTZnUWM0Tm02dWF6X1BrcWxpUEIzUmdRdF9hNzhQNU1pYTZYbmJlbnZvWTNIdC1rVjVoM3Fud3J6c3lCSUQ3LWVwckVxSWd4anBFVDloenFTYnQ0dlVyR1oxOVVnY2RvelJkdE9tWjJKdUVfZHdRQU5SN2tQQVRLYw?oc=5",
+      "source": "JD Supra",
+      "published": "Tue, 28 Dec 2021 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWTZnUWM0Tm02dWF6X1BrcWxpUEIzUmdRdF9hNzhQNU1pYTZYbmJlbnZvWTNIdC1rVjVoM3Fud3J6c3lCSUQ3LWVwckVxSWd4anBFVDloenFTYnQ0dlVyR1oxOVVnY2RvelJkdE9tWjJKdUVfZHdRQU5SN2tQQVRLYw?oc=5\" target=\"_blank\">State Density Bonus Law Does Not Require Applicants to Demonstrate Economic Feasibility of Project When Requesting Incentives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
     },
     {
       "id": "ec6d2287a3a04be5",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 10 Jul 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3pJSk9CbHpCZ2J5XzFvNkp5T0wtVkZxcHBfZG15MVJWTE13WkxnSzNuMmI3ajB4TWdDTDNQZ3NTOUNEVUpmX0xPS2hBdkxYQVJCaHZrbTJlMnljc2V2Y2JBNUJpVFI1U004bmV4b1dKSHBseDZTampPRkdMMXNnQ2MtT1Y0dkprS0tCcWxkNUlXdw?oc=5\" target=\"_blank\">Prominent California city moves to ban Airbnb-style rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sfgate.com</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "c69169304c5ba529",
-      "title": "Torrance enacts ordinance to ban smoking in multi-unit housing complexes - Daily Breeze",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWtWa25tb3ExeWhKQVlVSlJRZzFXbk5YNGszenN0dVM4ellxU2ZqSEpWQWRzNU9sNlNxNzk3UXVReHNCZThTYjFNTFpUU004OXM5Zi02ajdqZkREU1ZENXluNDAxU2NmdnBQdjRiMGxPZl82Smg5RnNFcGF0Wmt0RGRHYTd5X2FaVmotRWd0aVk3Q2RQQUU4ZUFRemUtZ2Myd1RfMjZlSHNWbW5WVTY3ckN3?oc=5",
-      "source": "Daily Breeze",
-      "published": "Thu, 10 Aug 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWtWa25tb3ExeWhKQVlVSlJRZzFXbk5YNGszenN0dVM4ellxU2ZqSEpWQWRzNU9sNlNxNzk3UXVReHNCZThTYjFNTFpUU004OXM5Zi02ajdqZkREU1ZENXluNDAxU2NmdnBQdjRiMGxPZl82Smg5RnNFcGF0Wmt0RGRHYTd5X2FaVmotRWd0aVk3Q2RQQUU4ZUFRemUtZ2Myd1RfMjZlSHNWbW5WVTY3ckN3?oc=5\" target=\"_blank\">Torrance enacts ordinance to ban smoking in multi-unit housing complexes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Breeze</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
     }
   ]
