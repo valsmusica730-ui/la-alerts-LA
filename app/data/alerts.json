@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:48:29.480917+00:00",
+  "generated_at": "2026-10-16T17:02:48.826450+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3693,6 +3693,16 @@
       "category": "tax"
     },
     {
+      "id": "a4b5f45e0bcfeb99",
+      "title": "2026 Election Results: Tim McOsker maintains lead over Jordan Rivers in race for LA City Council District 15 - Daily Breeze",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGxONTY4QUZaR1hrRnQyNFRxaDU2ZEdYYlAxNVJtazA2VURpTEV5WUpVNDZTQ1BLWEZLeFo0YWtPZE1ZeDU3RDhOSnZiYTZtVzJJM2VRaGxuYUJ1QldEVkpOMm1JU3N2X0lQVXN6eHJDWVVjYVFKNVh3RklnXzg3czVaWVVLN3NJZ2RFUXpJbFJydzZnLXRrT0tYQVJiUlZyN2VpaUZ3dzdlQWRrX0gtdFltS2Y4UQ?oc=5",
+      "source": "Daily Breeze",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGxONTY4QUZaR1hrRnQyNFRxaDU2ZEdYYlAxNVJtazA2VURpTEV5WUpVNDZTQ1BLWEZLeFo0YWtPZE1ZeDU3RDhOSnZiYTZtVzJJM2VRaGxuYUJ1QldEVkpOMm1JU3N2X0lQVXN6eHJDWVVjYVFKNVh3RklnXzg3czVaWVVLN3NJZ2RFUXpJbFJydzZnLXRrT0tYQVJiUlZyN2VpaUZ3dzdlQWRrX0gtdFltS2Y4UQ?oc=5\" target=\"_blank\">2026 Election Results: Tim McOsker maintains lead over Jordan Rivers in race for LA City Council District 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Breeze</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "adu"
+    },
+    {
       "id": "f4495a44b97363bd",
       "title": "LA Council Contemplates 1% in Allowable Rent Hikes for `Small’ Landlords - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1pGM2ZYTmNIT1Z2XzRmWWhxWVFJWExrSTlGSUZfNElqUzVTaFlDSGJITHl1NVVPUFhGY3UtMGJLYVdJQjV2bno5Zm52RUgxek03MHpab3EzTHRsMmdxM0ZpeXJpbEI4SXB6T2o5SnA1ZzJyT2szVGRCZ1dOT3JlZE84VHZ4YUc1M1RudTlrSzI2M1phaXpWekFKc2oweDVHNzUyVU9fTnlCTXRKcVB0WW1sUQ?oc=5",
@@ -4633,6 +4643,16 @@
       "category": "rent"
     },
     {
+      "id": "2d7c3836fbf29320",
+      "title": "Eagle Four’s luxury resi project moving forward with latest Newport Beach council nod - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU9oU1cyQVJBR1pZREhSRFlqUFFOOFNLY1MycnNIekJEZ3N6dXRnQlhvajR0WlpRYTY2QU9Kb05ocEJQSTlwQ3FBektzTjJNQXZWNk5Tcnp5ZUI2QTBFdmpGWXplYVZPWk5sbjNfdjBETFJ2by04NVE0dVVodzNtWkJRNjBLc0JfQ2gwTmlvRDNxc0tob1hEU2h6RWM?oc=5",
+      "source": "The Real Deal",
+      "published": "Thu, 15 Oct 2026 22:13:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU9oU1cyQVJBR1pZREhSRFlqUFFOOFNLY1MycnNIekJEZ3N6dXRnQlhvajR0WlpRYTY2QU9Kb05ocEJQSTlwQ3FBektzTjJNQXZWNk5Tcnp5ZUI2QTBFdmpGWXplYVZPWk5sbjNfdjBETFJ2by04NVE0dVVodzNtWkJRNjBLc0JfQ2gwTmlvRDNxc0tob1hEU2h6RWM?oc=5\" target=\"_blank\">Eagle Four’s luxury resi project moving forward with latest Newport Beach council nod</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
       "id": "f34b6c941894b720",
       "title": "It costs too much to build in California. Lawmakers say this tweak could help - CalMatters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SUXl5VFdBNEk4RW51Qm5Td18zMnlJYXBBRVNtWm5NcDJ2YWllWXowSkJqYkd6SlBsOEdRY3J6VVlXV1pYMzRjT0t3ZTMwSkI1OUZsNEFiSDlSQlpHaDFRc0xjNU9ZYkRscWQ1MTEyUERGOTBKeFRWc2FnWkM?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG4yNEpKTG1GeFdJeTdXNlJ1MVhkNmJhOFh4eHJfYTFJM29ZbUJQNFc4QWhYZUVNU204dGZ3OUhqaVl5dHlOc1p3TFFSdjJxMW9LZjVXdXNjeUM4Y280MHZHX1NQb3g0VFBJV1I4cnNKMnpMTkVON19OY1dJeW1EczRscnJ4SER5X3hqbGpfOVhNbXZfQ2ZN?oc=5\" target=\"_blank\">City Planning Commission Rejects Appeals of Four TOC Developments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "legal"
-    },
-    {
-      "id": "7359f7ce2b1c5917",
-      "title": "City Planning Commission Approves Sylmar Fire Station Project - mynewsla.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3hCRG1GX28wTmh4SXZXME9aRGVBcUhUVUtmdXlUM1hULTliX2ZxSkJfdnVOYXhJeHNvaTNmb3BzekU3N1BZY01fU2RuVHh5ZlJCRzhtdkk5d2dNSUpHMjdUbm03UTcxVXpWYjlyZUc5WDVsc2JmZFpsUzNERkhPdU1ZZEtvUXF0UGRRanlMbkRqTXJnSnNRRW9idVFIM0ZzSXJXZGZn?oc=5",
-      "source": "mynewsla.com",
-      "published": "Thu, 10 Sep 2026 22:31:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3hCRG1GX28wTmh4SXZXME9aRGVBcUhUVUtmdXlUM1hULTliX2ZxSkJfdnVOYXhJeHNvaTNmb3BzekU3N1BZY01fU2RuVHh5ZlJCRzhtdkk5d2dNSUpHMjdUbm03UTcxVXpWYjlyZUc5WDVsc2JmZFpsUzNERkhPdU1ZZEtvUXF0UGRRanlMbkRqTXJnSnNRRW9idVFIM0ZzSXJXZGZn?oc=5\" target=\"_blank\">City Planning Commission Approves Sylmar Fire Station Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mynewsla.com</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "6afcf020a979e9ab",
-      "title": "Sylmar Fire Station Project Clears City Planning Commission - MyNewsLA.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSC1OUVVTcm15QjVhdG96Y2pCQ0xDS0dCcDMxY0lfNlpUYjFud2pwQk9TaEFYdlhQZTJDTnA4b3lydl9NbXlLZEZQQnp0Z3RIdERSOXlZVXdlYjZhTUl4Y3lnVldPamZtU1lqd1BwNk4tRTNGckZCWDJRSDNINGRBOEliM0ozTTFVdmdEV2wyeHQ2QndBb2RLN0JyajBUdW8?oc=5",
-      "source": "MyNewsLA.com",
-      "published": "Thu, 10 Sep 2026 22:30:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNSC1OUVVTcm15QjVhdG96Y2pCQ0xDS0dCcDMxY0lfNlpUYjFud2pwQk9TaEFYdlhQZTJDTnA4b3lydl9NbXlLZEZQQnp0Z3RIdERSOXlZVXdlYjZhTUl4Y3lnVldPamZtU1lqd1BwNk4tRTNGckZCWDJRSDNINGRBOEliM0ozTTFVdmdEV2wyeHQ2QndBb2RLN0JyajBUdW8?oc=5\" target=\"_blank\">Sylmar Fire Station Project Clears City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "rent"
     }
   ]
 }
