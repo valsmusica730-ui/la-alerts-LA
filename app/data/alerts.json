@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:37:10.067655+00:00",
+  "generated_at": "2026-10-16T12:48:29.480917+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1479,6 +1479,16 @@
       "source": "Patch",
       "published": "Wed, 07 Oct 2026 17:59:32 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFdIaDBzQ0tIUm9taTJjZjF3SFJwdGhHYkU1WF9URGRGTFgxRy10SjNLb1RJY1V3ZDA3V3RrWVAxLXgxTmNxeDJOeF82UDI3VHVqTTJZOUpkazN1TlFldEpJRERVYWdkb3RrQ3hfVEZ2cHBEWGJnSHBkU2FULUJoOU14ckJGOVEtbEJ3bjdaM1VRdk1NSTFuMDd5bnVWQ3pJLVZQMjUzQm9fcHPSAcABQVVfeXFMTlBkeXBmNGhaME1CVktuOHVkRjZHYk9wREZmUEZOVHRTSWRqYVBmcHFXMWg5VGg4WkQybEdsQWI0YmN4MnJLSURHQThsQUFvNmhqZEVxTGR2cWVMX3pCNGtFa01FaGltN1F3a3pwclZmUDZmYWwzU0dGTFVuam4wRjRvV2M5R1VweXhiZERCellvRFpCNVZhN3BlTjRaZi0tbXVPMmYxQTdlUll5ZkZheEtZTTNBeHZzMTEzeWhvVDZJ?oc=5\" target=\"_blank\">LA County Eyes Ban On Massive Data Centers Over Water, Energy Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "other"
+    },
+    {
+      "id": "cf739b80a8231230",
+      "title": "LA County Eyes Ban On Massive Data Centers Over Water, Energy Concerns - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFdIaDBzQ0tIUm9taTJjZjF3SFJwdGhHYkU1WF9URGRGTFgxRy10SjNLb1RJY1V3ZDA3V3RrWVAxLXgxTmNxeDJOeF82UDI3VHVqTTJZOUpkazN1TlFldEpJRERVYWdkb3RrQ3hfVEZ2cHBEWGJnSHBkU2FULUJoOU14ckJGOVEtbEJ3bjdaM1VRdk1NSTFuMDd5bnVWQ3pJLVZQMjUzQm9fcHM?oc=5",
+      "source": "Patch",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFdIaDBzQ0tIUm9taTJjZjF3SFJwdGhHYkU1WF9URGRGTFgxRy10SjNLb1RJY1V3ZDA3V3RrWVAxLXgxTmNxeDJOeF82UDI3VHVqTTJZOUpkazN1TlFldEpJRERVYWdkb3RrQ3hfVEZ2cHBEWGJnSHBkU2FULUJoOU14ckJGOVEtbEJ3bjdaM1VRdk1NSTFuMDd5bnVWQ3pJLVZQMjUzQm9fcHM?oc=5\" target=\"_blank\">LA County Eyes Ban On Massive Data Centers Over Water, Energy Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "other"
     },
@@ -4990,16 +5000,6 @@
       "published": "Thu, 10 Sep 2026 22:30:04 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNSC1OUVVTcm15QjVhdG96Y2pCQ0xDS0dCcDMxY0lfNlpUYjFud2pwQk9TaEFYdlhQZTJDTnA4b3lydl9NbXlLZEZQQnp0Z3RIdERSOXlZVXdlYjZhTUl4Y3lnVldPamZtU1lqd1BwNk4tRTNGckZCWDJRSDNINGRBOEliM0ozTTFVdmdEV2wyeHQ2QndBb2RLN0JyajBUdW8?oc=5\" target=\"_blank\">Sylmar Fire Station Project Clears City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "rent"
-    },
-    {
-      "id": "3c294955dc997835",
-      "title": "Councilmember Nithya Raman Statement on Eviction Moratorium - City of Los Angeles (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSG91NzBITEJkZWtQQ1pvdnFIZ1hBRS15YTY1MF9yRTM1ay1QWW91SlFwN2ItWDF1R0VEdnhWWFpxVWhsSE5DcWNuNUttTjNPY1VLMERPY1VoODRqUG1lbGczY2dJRUJCUU9NUzVycWtsWjFfbGgtR0dCQWJzVW9RZXFWUEVTbVR1aFpVd08tcw?oc=5",
-      "source": "City of Los Angeles (.gov)",
-      "published": "Thu, 10 Nov 2022 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOSG91NzBITEJkZWtQQ1pvdnFIZ1hBRS15YTY1MF9yRTM1ay1QWW91SlFwN2ItWDF1R0VEdnhWWFpxVWhsSE5DcWNuNUttTjNPY1VLMERPY1VoODRqUG1lbGczY2dJRUJCUU9NUzVycWtsWjFfbGgtR0dCQWJzVW9RZXFWUEVTbVR1aFpVd08tcw?oc=5\" target=\"_blank\">Councilmember Nithya Raman Statement on Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     }
   ]
