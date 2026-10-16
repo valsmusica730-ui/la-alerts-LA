@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:27:27.725936+00:00",
+  "generated_at": "2026-10-16T07:37:10.067655+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2101,6 +2101,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUVhQ2pNZVFTZHVfNDJ2TG5BZWhyTmlfOEpJN0JyTmdpRzhQZUl0dkhlQVRPZlY1eVdUUnZpcnVhSE5MUGR1RFc0dEI5ajI3ZzJYY1g1bEY4bWZXRlhIS3VVa3lRM1RiXy1NaWpoRkkwLV9iT3Z5eXNHT24tVklXWk9PNHdpNENucTBUdnE0UXBpTF9Qd0w0Y29xVlZtVUdQNGZNNXVSX2hmblJtRHE3Smd5N3JGaURNMHpQXzdFMW9GcGxENzBZMkxic2ZRazR4WTd6Um9B?oc=5\" target=\"_blank\">NAR Backs Housing Providers in Challenge to Burdensome Rent Control and Eviction Restriction Measures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Association of REALTORS®</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "rent"
+    },
+    {
+      "id": "1747edaaf569038f",
+      "title": "L.A. City Council approves law requiring Airbnb hosts to get police permits - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTjNGcThCLTN3cnVRbWZrN0RxUUsxYklzd1VtVHA5MmdXUFFEbm9wcVZsemthT2tHbmNhUWtudHViV19MNW9qd1FKQVJUNEUyeTNTUDBIVDZWVGdjMUNpeFVGSzhaeXlicHc3WjRpWFRZMVVsVFo1M3hJR3dlQW1rUDgyaUZRY3NlUkc2d0NYSFRBd1NEeWVmRjQ0bHZRdmJNS2ZIcUJMQkpSUEV1aXlmNVRiNlVJeDhCMWM4?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Tue, 28 Nov 2023 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTjNGcThCLTN3cnVRbWZrN0RxUUsxYklzd1VtVHA5MmdXUFFEbm9wcVZsemthT2tHbmNhUWtudHViV19MNW9qd1FKQVJUNEUyeTNTUDBIVDZWVGdjMUNpeFVGSzhaeXlicHc3WjRpWFRZMVVsVFo1M3hJR3dlQW1rUDgyaUZRY3NlUkc2d0NYSFRBd1NEeWVmRjQ0bHZRdmJNS2ZIcUJMQkpSUEV1aXlmNVRiNlVJeDhCMWM4?oc=5\" target=\"_blank\">L.A. City Council approves law requiring Airbnb hosts to get police permits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "82604f924863bbf7",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOSG91NzBITEJkZWtQQ1pvdnFIZ1hBRS15YTY1MF9yRTM1ay1QWW91SlFwN2ItWDF1R0VEdnhWWFpxVWhsSE5DcWNuNUttTjNPY1VLMERPY1VoODRqUG1lbGczY2dJRUJCUU9NUzVycWtsWjFfbGgtR0dCQWJzVW9RZXFWUEVTbVR1aFpVd08tcw?oc=5\" target=\"_blank\">Councilmember Nithya Raman Statement on Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "3d41d04d6a325d1e",
-      "title": "Prominent California city moves to ban Airbnb-style rentals - sfgate.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3pJSk9CbHpCZ2J5XzFvNkp5T0wtVkZxcHBfZG15MVJWTE13WkxnSzNuMmI3ajB4TWdDTDNQZ3NTOUNEVUpmX0xPS2hBdkxYQVJCaHZrbTJlMnljc2V2Y2JBNUJpVFI1U004bmV4b1dKSHBseDZTampPRkdMMXNnQ2MtT1Y0dkprS0tCcWxkNUlXdw?oc=5",
-      "source": "sfgate.com",
-      "published": "Thu, 10 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3pJSk9CbHpCZ2J5XzFvNkp5T0wtVkZxcHBfZG15MVJWTE13WkxnSzNuMmI3ajB4TWdDTDNQZ3NTOUNEVUpmX0xPS2hBdkxYQVJCaHZrbTJlMnljc2V2Y2JBNUJpVFI1U004bmV4b1dKSHBseDZTampPRkdMMXNnQ2MtT1Y0dkprS0tCcWxkNUlXdw?oc=5\" target=\"_blank\">Prominent California city moves to ban Airbnb-style rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sfgate.com</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
     }
   ]
 }
