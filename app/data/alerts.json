@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:06:02.577620+00:00",
+  "generated_at": "2026-10-17T01:57:26.010347+00:00",
   "total": 500,
   "alerts": [
     {
@@ -373,6 +373,16 @@
       "category": "policy"
     },
     {
+      "id": "4c3bb6d383f4b12a",
+      "title": "‘Mansion tax’ prevails in court as judge dismisses lawsuit challenging Measure ULA - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkVlNF9TMEhFTFV4Uktmd1hXUnhFZnFCUDFUdGY2Tno1N1NycE5ia1dUS1Z2UXktSzNoSTBDSU1WZzhqTThRS0hOMjZMX3Z3bm1WLWVhRTM3dnAzTGxpeG02T1RuVFAwZjJKZ1hLSUQ5dEdleEs2R2g1WEg5SHpJMlpYSEpxb00yUmVDTGdscUh0UlNHdlRxLVQ5clp0VkhZazZ3QzM0dnRac0NCQ1Jvem5CTmlYRG91WU8wYmlQT3BPMDdtN2wzVVdaeEU?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Wed, 25 Oct 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkVlNF9TMEhFTFV4Uktmd1hXUnhFZnFCUDFUdGY2Tno1N1NycE5ia1dUS1Z2UXktSzNoSTBDSU1WZzhqTThRS0hOMjZMX3Z3bm1WLWVhRTM3dnAzTGxpeG02T1RuVFAwZjJKZ1hLSUQ5dEdleEs2R2g1WEg5SHpJMlpYSEpxb00yUmVDTGdscUh0UlNHdlRxLVQ5clp0VkhZazZ3QzM0dnRac0NCQ1Jvem5CTmlYRG91WU8wYmlQT3BPMDdtN2wzVVdaeEU?oc=5\" target=\"_blank\">‘Mansion tax’ prevails in court as judge dismisses lawsuit challenging Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "873a1cc8d72b9b03",
       "title": "Bye-bye, SB 79: LA fends off citywide upzoning with limited low-density push - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVE9XSGZJd0xJTUszM0VseW05d0ttQVpNa0FaUG5wYjNrVFJfdTRObzJOblJyTExadDVORnVCcGd3cFdRZ0V4RUlxbUs3aW1wcHdaVy1wZm94ZXBKWEhhVHNqZDdHVldQMkV6bHh0UkZzV2pwZG5SNHBKU3dSeHBWSlVMaHlNX25lT2VoWmV4Y0Noc1k?oc=5",
@@ -469,6 +479,16 @@
       "source": "calonews.com",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXJDNXVUNE5tSk9zcWF4bUh6R1J5LXM5NU90Y1luY2ZzQzcybHl3NFAxYUZTOFhDdEtxdkRmRjYzTVR5YnlQeUdkMl9Eek4xYmRZSklHcVBBamhqcF92UVRfNVhOT0VRczlCY1Yxa3N3WEhLUUxsc0NuR1RXS05GQzNHdkpKTU9NU2M2OXpKS0lyU05nQ1lMaERObGhvZDRhYVY0TEpObkFBNk5CSHpvSF9JcDdSMGxEQVVnSnEzMnhmXzRIdWp3bEwzS1BBY0ZEckdiSk91Rkc4bXl1b0d1R3JIcWZpc2NydjVucFM0T0Zhdw?oc=5\" target=\"_blank\">LA City Council votes to place Measure ULA changes on the November ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calonews.com</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
+      "id": "3e4b0d21a416cf4d",
+      "title": "Measure ULA Update: Reported Revenue, Applicability to Foreclosures and Legal Challenges - Mayer Brown",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWnRjQ2ZaakphaEpBOFVDNEVrNWZSUFEtU2RkbHZhTF9zNVpBYzRHNU9WZUp0S1JVVm4tUzVCYUcxRUNfZ253TGV3dG1lbjQ4Smk5bXo4VnE4WDFncmNOeS10NnhoQkpYazd0TzZwakc1eDRaUHBPU2JtZktkTnRtMEt4VDRvMFBKeWtwQlBFS0pWQlVPRFJXZTI2eTlrcmFBUmFSaTdteThoNTc2ZDUyY21wNncyckdueER6RTJEeDlERlpzTDcwY0JTMmNzMThhSFlYSHJwTDNHeGRldjFN?oc=5",
+      "source": "Mayer Brown",
+      "published": "Wed, 24 Jul 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWnRjQ2ZaakphaEpBOFVDNEVrNWZSUFEtU2RkbHZhTF9zNVpBYzRHNU9WZUp0S1JVVm4tUzVCYUcxRUNfZ253TGV3dG1lbjQ4Smk5bXo4VnE4WDFncmNOeS10NnhoQkpYazd0TzZwakc1eDRaUHBPU2JtZktkTnRtMEt4VDRvMFBKeWtwQlBFS0pWQlVPRFJXZTI2eTlrcmFBUmFSaTdteThoNTc2ZDUyY21wNncyckdueER6RTJEeDlERlpzTDcwY0JTMmNzMThhSFlYSHJwTDNHeGRldjFN?oc=5\" target=\"_blank\">Measure ULA Update: Reported Revenue, Applicability to Foreclosures and Legal Challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mayer Brown</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
     },
@@ -1321,6 +1341,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDJybkREMkg3RWJPeXh0NjJUaDh6bDE4ZXBidDB1MWpTR0ZURFBteEJubzlYUmhwMDhiVE5FR3hkVC1PRHNyczBzVGtISmplUmFBT1o1aXF4YllXQkdUTE5MdkFldDFkaUxZOGRtU0E5NmlfekFRdUtMUUZhdGpib09WMi0xb3piRmdhSmNUSjJ3T3Z6cE1Zd3BlMmVqbEU?oc=5\" target=\"_blank\">Federal judge scraps landlord lawsuit over Oakland, Alameda County eviction bans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oaklandside</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
+    },
+    {
+      "id": "825a72f18fbc0e17",
+      "title": "Looking to boost housing construction, lawmakers seek to overhaul L.A.’s ‘mansion tax’ - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91Y0hHVWlNZ3lMM3FOWDJSTExyWTVVSlhPRXpqNkJwLWNYbEg4akVwSG5DbG9vNFpNLWdCYkJFTkZFSFM5R0UwVnFIUEQyR0wwaW5uNVlOYW5sTTVxc01DYnE5Z0FWcVYwSklEM2ZjaXV2N0FvTFcw?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE91Y0hHVWlNZ3lMM3FOWDJSTExyWTVVSlhPRXpqNkJwLWNYbEg4akVwSG5DbG9vNFpNLWdCYkJFTkZFSFM5R0UwVnFIUEQyR0wwaW5uNVlOYW5sTTVxc01DYnE5Z0FWcVYwSklEM2ZjaXV2N0FvTFcw?oc=5\" target=\"_blank\">Looking to boost housing construction, lawmakers seek to overhaul L.A.’s ‘mansion tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
     },
     {
       "id": "ca41cce452e21664",
@@ -3353,6 +3383,16 @@
       "category": "rent"
     },
     {
+      "id": "8eb6ce140caa1307",
+      "title": "Los Angeles voters deciding on 'mansion tax' - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTi05cG9IZnN6M0VBSGxQcjBvOUtqaDdkNWVnTUMzYllBWGUySV9rNkRZYUhzUjVqa2J5NDFKRXJ5ZlRLRkl2ckwtNjR6VlE5aS16QU1NV2RnendlbXl0S3lsc3A0ZkhuTnZkWU5ERTRBUGt1WHVSR2ZubGZMa2hqRXp5T3RVd9IBiwFBVV95cUxNV3dYSWh1Q014c0lfbVZqQlVpeVlpeW5HUFd2VFJoTjFuRl9uNWltdXg4SDZyWDREaF9OamVfakVLQ3hsdEROaHMxWVV6WU9lY1RWSTNYQkZBZmNMS3JucWF4YkEzZUNsTGJsU00tRk9yaEZmRjQxX3ZjR1ZseTBWYlZOSlMzYTdOSUNj?oc=5",
+      "source": "Fox Business",
+      "published": "Tue, 08 Nov 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTi05cG9IZnN6M0VBSGxQcjBvOUtqaDdkNWVnTUMzYllBWGUySV9rNkRZYUhzUjVqa2J5NDFKRXJ5ZlRLRkl2ckwtNjR6VlE5aS16QU1NV2RnendlbXl0S3lsc3A0ZkhuTnZkWU5ERTRBUGt1WHVSR2ZubGZMa2hqRXp5T3RVd9IBiwFBVV95cUxNV3dYSWh1Q014c0lfbVZqQlVpeVlpeW5HUFd2VFJoTjFuRl9uNWltdXg4SDZyWDREaF9OamVfakVLQ3hsdEROaHMxWVV6WU9lY1RWSTNYQkZBZmNMS3JucWF4YkEzZUNsTGJsU00tRk9yaEZmRjQxX3ZjR1ZseTBWYlZOSlMzYTdOSUNj?oc=5\" target=\"_blank\">Los Angeles voters deciding on 'mansion tax'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "92a0eb5606e05862",
       "title": "Landlord Groups File Lawsuit Against Los Angeles County Over Illegal Eviction Moratorium - Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd28wem1wRjFmUE5TRE9BV2p0WDBfSUNsY2ZUM3VVMWw5M3I3bWxMMWM4d2V1S19WdVllRHp1dXhrQkpmTVVKc1JhaFRSblI2ZFlvVFB3LUVsLWFrNV81a2hoNjFLWHhsYTJnSFM4bE5ZWF9YS0poUTFRS25CY210MnZ6cmtkYlJiUC16dURRWnJsamNwYWN4cTNwQ1dKTnNZMGxnQ1Q0elNoMk02Z0xmcC1qSGRWdXo1TWxBMzQ0dEJZaTZkd1FlSDBIX1RRMmJET24zWjZhdS1nRmdfX0E?oc=5",
@@ -4961,46 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlVHT1B0aUI4VVVITnB3M1NjZm81S1ZSbkdNRkFmOWdybzZsWFIzdVhfeUJ2VWZOQkpvZjJSMmxRMnBzZ3owWkY0TDlmZjZCOVU2a2h2aFExLW5nQXdnTGlVblhNUTZyeFc5QzVNQ3UtOWJDQ2VmTHhxbTFRamlaZFZGSFB1cEI4OWRWRzNJdjh6ZkR3bTNaRk5fOHpBRmVyWkQxZg?oc=5\" target=\"_blank\">City Planning Commission approves mixed-use project at Crenshaw and Stocker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "64f2e4a5fba082db",
-      "title": "Philly has a new law to boost development around transit. Which neighborhoods will benefit? - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUFuYzBQOFYxdFhlbWRLOWJ5NFZIczdvMnZ6MnZHc2R6NFpDeWRmeEk1VkFxRG9CYlVFNVNjcWV4dzBWdGZKZG9uNjlma2hWd2NfTmVFVjlJQ2I3amVpWFdTZXNJRWw3RXhtSXRQbUJxdHJEV2hBMDBhaC1wMjJpSlBHRjdhZzJSX1FFZmJtQU5BNGVwaGlBQWhCa3A3anFlUGs0TElGRVY4YlJJZ25NVzBKcHpPZw?oc=5",
-      "source": "Inquirer.com",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUFuYzBQOFYxdFhlbWRLOWJ5NFZIczdvMnZ6MnZHc2R6NFpDeWRmeEk1VkFxRG9CYlVFNVNjcWV4dzBWdGZKZG9uNjlma2hWd2NfTmVFVjlJQ2I3amVpWFdTZXNJRWw3RXhtSXRQbUJxdHJEV2hBMDBhaC1wMjJpSlBHRjdhZzJSX1FFZmJtQU5BNGVwaGlBQWhCa3A3anFlUGs0TElGRVY4YlJJZ25NVzBKcHpPZw?oc=5\" target=\"_blank\">Philly has a new law to boost development around transit. Which neighborhoods will benefit?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "722c5fbc7c83cd82",
-      "title": "L.A. City Planning Commission Moves Forward with Boyle Heights Community Plan - MyNewsLA.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUE5XUzFCMWtBcWcwSzRieFpGS0VzWXpOWW9HeG9YekpwMUdoSXVUajktY2lSTVpBRS1rWk5YeWZWV0p4WkIwaGlyYUdXWkRXODFfa1pjQ1QxMEo3WGg3ZEFjWVpURmlWYU1xdXJ3U0tDeEtGLU03eERFVUR3SWo0Z0ZOZ25LQzFiZVlMb09qbjdQNV9LWGN0SUw1YWQwcGJHTkpnUks3alRlSjV4X2c0Q0NvNDBVMVphbzFWdTVlZzQ?oc=5",
-      "source": "MyNewsLA.com",
-      "published": "Thu, 11 Jan 2024 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUE5XUzFCMWtBcWcwSzRieFpGS0VzWXpOWW9HeG9YekpwMUdoSXVUajktY2lSTVpBRS1rWk5YeWZWV0p4WkIwaGlyYUdXWkRXODFfa1pjQ1QxMEo3WGg3ZEFjWVpURmlWYU1xdXJ3U0tDeEtGLU03eERFVUR3SWo0Z0ZOZ25LQzFiZVlMb09qbjdQNV9LWGN0SUw1YWQwcGJHTkpnUks3alRlSjV4X2c0Q0NvNDBVMVphbzFWdTVlZzQ?oc=5\" target=\"_blank\">L.A. City Planning Commission Moves Forward with Boyle Heights Community Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "3efb24ec4fb401ec",
-      "title": "YIMBY Law Sues Governor over SB 9 Suspension in Los Angeles Fire Zones - Davis Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YeDRHRVNZSHFGejhNeGotbWR3Y3ZRT05MdzQ4b2tYeWY3VVlGSUZaeHNXUmFyQW1LM3FhYTZ4TVlqVjhGZG0xMGE5Y2tfMjdBMXNKa050YmZmRUxaOW1KT0dCdmp3UjE2TE1YZWNsX2RCZw?oc=5",
-      "source": "Davis Vanguard",
-      "published": "Thu, 11 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9YeDRHRVNZSHFGejhNeGotbWR3Y3ZRT05MdzQ4b2tYeWY3VVlGSUZaeHNXUmFyQW1LM3FhYTZ4TVlqVjhGZG0xMGE5Y2tfMjdBMXNKa050YmZmRUxaOW1KT0dCdmp3UjE2TE1YZWNsX2RCZw?oc=5\" target=\"_blank\">YIMBY Law Sues Governor over SB 9 Suspension in Los Angeles Fire Zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davis Vanguard</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "f2e216ab6f7f78cd",
-      "title": "City Planning Commission Rejects Appeals of Four TOC Developments - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG4yNEpKTG1GeFdJeTdXNlJ1MVhkNmJhOFh4eHJfYTFJM29ZbUJQNFc4QWhYZUVNU204dGZ3OUhqaVl5dHlOc1p3TFFSdjJxMW9LZjVXdXNjeUM4Y280MHZHX1NQb3g0VFBJV1I4cnNKMnpMTkVON19OY1dJeW1EczRscnJ4SER5X3hqbGpfOVhNbXZfQ2ZN?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 11 Apr 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG4yNEpKTG1GeFdJeTdXNlJ1MVhkNmJhOFh4eHJfYTFJM29ZbUJQNFc4QWhYZUVNU204dGZ3OUhqaVl5dHlOc1p3TFFSdjJxMW9LZjVXdXNjeUM4Y280MHZHX1NQb3g0VFBJV1I4cnNKMnpMTkVON19OY1dJeW1EczRscnJ4SER5X3hqbGpfOVhNbXZfQ2ZN?oc=5\" target=\"_blank\">City Planning Commission Rejects Appeals of Four TOC Developments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "legal"
     }
   ]
 }
