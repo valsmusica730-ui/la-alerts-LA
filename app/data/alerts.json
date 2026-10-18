@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:09:19.792909+00:00",
+  "generated_at": "2026-10-18T23:46:43.581209+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3803,6 +3803,16 @@
       "category": "policy"
     },
     {
+      "id": "a765629436fbf8ea",
+      "title": "Measure A - LA County Homeless Services & Housing - LA County Homeless Services & Housing (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YX04wSXBrS3FuZVhhZ2pkc192VEtEN21MWmdBZWtzNTRha2s4YU42V3lWM0RJbkw3ZWxBcHFLTzlPM2xiYUU2SWU3OGx4aEY3ZWc?oc=5",
+      "source": "LA County Homeless Services & Housing (.gov)",
+      "published": "Tue, 01 Apr 2025 14:59:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YX04wSXBrS3FuZVhhZ2pkc192VEtEN21MWmdBZWtzNTRha2s4YU42V3lWM0RJbkw3ZWxBcHFLTzlPM2xiYUU2SWU3OGx4aEY3ZWc?oc=5\" target=\"_blank\">Measure A - LA County Homeless Services & Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA County Homeless Services & Housing (.gov)</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "other"
+    },
+    {
       "id": "4029e5daac50c744",
       "title": "LA City Council approves right to legal counsel for evicted renters. How it works - NBC Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVpXTm8wdlJ3ZUJoOUY4cVVkZXhPcnhZTDdweDI1MTUzZGhGMTB4WkxXS3g1RWZYUldxblFnMThhZ3RDQzZWVUhMWWI1d0pJc19ZVHNjZUpsMU5kald1UGc5SVhiM2REdjN6UEVKQXExdVJ4QlVLQTVscTVjQVdSV052aUFFZ1hPeTIxUEhaTm9adjMwUzJmbVdQUFRwbEstaVhaX1lrWdIBrwFBVV95cUxOYVRlaTRULTVwdXFLYnJPSTFZazRvek03QmJwMzNvNERaQjY2SFIycm5GYlIyZkpJa0NfQnJYaDBTam9ycktIYjl4a1JyQTRsTnBFRFJqWXBZUVdlT3F1Q3BocHpzR0VhQzQ3ZGZCT0o3eG8xQzd3Sy1EbzNoVmRwWUhNSTVEZEo2RjFhRFpFSGlmaXVaZ2RsdVhxbFEyaHBYU3VmOWVPdnMtU3NLd28w?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlF6VURFTzdVQnNyMXBfZDRqYjYzeTl3dDNMR29sUUhlbEJJYklLTXR6aUJFSUhSTGdLVWktQzcyMmRhYUZRMnlaTU82UzFhRVowLU81cGFhRks2N0xWdTFwWTFmOUhhVzZDdkIwNi1Hd29xcHJLNTFSTWN0SThOV2JVd0s2RklweFNLdlRVQmMyTW44?oc=5\" target=\"_blank\">Plan to triple units at San Pedro housing project gets LA City Council go-ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "c0fe8a8d4e82edb0",
-      "title": "Hawaii House Unanimously Passes Bill to Block Building Code Restrictions on Hempcrete - The Marijuana Herald",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGk5cV82d1Y1bWx2Ui1jVTNyZzNQdE5PWS10blRZSjFGdjA2amNZMVBxaG9QNXJUYkFhSEJQcmRzM2ZiZExkNWpKMUJyelNpd1NZVjVrUXZDYnd2VUJaZmE1S1p2bTJ2dWhHWG1VR2Z3N0RtTXRLc2k3VnU4eldLYUwyeHZmWkZXeWg1bEFMY0I4U3d4TFI3NmhUUzc1REFuYVJVSFA1aTkyeUpNRVpyM0syRzVaVXZnaDY5T20zVUxtV1U?oc=5",
-      "source": "The Marijuana Herald",
-      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGk5cV82d1Y1bWx2Ui1jVTNyZzNQdE5PWS10blRZSjFGdjA2amNZMVBxaG9QNXJUYkFhSEJQcmRzM2ZiZExkNWpKMUJyelNpd1NZVjVrUXZDYnd2VUJaZmE1S1p2bTJ2dWhHWG1VR2Z3N0RtTXRLc2k3VnU4eldLYUwyeHZmWkZXeWg1bEFMY0I4U3d4TFI3NmhUUzc1REFuYVJVSFA1aTkyeUpNRVpyM0syRzVaVXZnaDY5T20zVUxtV1U?oc=5\" target=\"_blank\">Hawaii House Unanimously Passes Bill to Block Building Code Restrictions on Hempcrete</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Marijuana Herald</font>",
-      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
-      "category": "construction"
     }
   ]
 }
