@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T18:20:40.029130+00:00",
+  "generated_at": "2026-10-18T21:09:19.792909+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3293,6 +3293,16 @@
       "category": "policy"
     },
     {
+      "id": "e4db6fb5535bed23",
+      "title": "Walters: Political friction percolates over California housing policy - Ventura County Star",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSk9VMG5fYzVRVmdxUHlPYk5rSkJpSjFFRU5zRVFxLTNJZjU1OUJfaWJyelJhOTdLOXdDOFEwOGp1VVAxa3JqaDFSdWJJOGVhdVNtRlBFU1l6T1R5RUVtNTlobm5LV3FyQVkwQWN6Wkx0T2ttYjdjYW9HN2hZWHM5WlpHWmJ5dVFJVlFqV1FUOHlDRGRPZ3I2Z1JfRm1zWGg3bWxLZXEyeUw4Zk01WHFJVDlwN3lNdWhabVE?oc=5",
+      "source": "Ventura County Star",
+      "published": "Tue, 09 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPSk9VMG5fYzVRVmdxUHlPYk5rSkJpSjFFRU5zRVFxLTNJZjU1OUJfaWJyelJhOTdLOXdDOFEwOGp1VVAxa3JqaDFSdWJJOGVhdVNtRlBFU1l6T1R5RUVtNTlobm5LV3FyQVkwQWN6Wkx0T2ttYjdjYW9HN2hZWHM5WlpHWmJ5dVFJVlFqV1FUOHlDRGRPZ3I2Z1JfRm1zWGg3bWxLZXEyeUw4Zk01WHFJVDlwN3lNdWhabVE?oc=5\" target=\"_blank\">Walters: Political friction percolates over California housing policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ventura County Star</font>",
+      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
+      "category": "policy"
+    },
+    {
       "id": "ded3f60125305331",
       "title": "The City of Los Angeles Seeks to Delay Implementation of Senate Bill 79 (SB 79) Until 2030 - JD Supra",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHppQm03T1pFTXdTUkxySFFJY2MwX1dTNDlyQUQxZ0RjeDZYNDg1Q21kWS1lWlVUNkNuaC1NRXFXWlV4dXZmNmE4clF6c0tFaXJLcjB4TlNjd3Z3S2lwTXd3dUE0VmR5d0ROb09kQkREMzZYZmFvUzJlM0k2SzNEUWZTcDNBS0FE?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGk5cV82d1Y1bWx2Ui1jVTNyZzNQdE5PWS10blRZSjFGdjA2amNZMVBxaG9QNXJUYkFhSEJQcmRzM2ZiZExkNWpKMUJyelNpd1NZVjVrUXZDYnd2VUJaZmE1S1p2bTJ2dWhHWG1VR2Z3N0RtTXRLc2k3VnU4eldLYUwyeHZmWkZXeWg1bEFMY0I4U3d4TFI3NmhUUzc1REFuYVJVSFA1aTkyeUpNRVpyM0syRzVaVXZnaDY5T20zVUxtV1U?oc=5\" target=\"_blank\">Hawaii House Unanimously Passes Bill to Block Building Code Restrictions on Hempcrete</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Marijuana Herald</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "construction"
-    },
-    {
-      "id": "7b95ff3f2b132477",
-      "title": "LA City Council forms ad hoc committee to consider changes on Measure ULA - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHNEZUhhMDJRMjdRSDBKUTRkcnBQbmlmZklLUk1pOUV1Ukd4RnpVVjlWWG1hNnlCUUl1bGRCeFFLblN2STFZSm1JWU9adUQ1OTBPNGxLMTZkOE11NFdmZXQydnQ1Rk1RVjRhNnpzbEF6U2U2QkhmLXFRNTdodUctWlBQSjd4a0k?oc=5",
-      "source": "The Real Deal",
-      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHNEZUhhMDJRMjdRSDBKUTRkcnBQbmlmZklLUk1pOUV1Ukd4RnpVVjlWWG1hNnlCUUl1bGRCeFFLblN2STFZSm1JWU9adUQ1OTBPNGxLMTZkOE11NFdmZXQydnQ1Rk1RVjRhNnpzbEF6U2U2QkhmLXFRNTdodUctWlBQSjd4a0k?oc=5\" target=\"_blank\">LA City Council forms ad hoc committee to consider changes on Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "adu"
     }
   ]
 }
