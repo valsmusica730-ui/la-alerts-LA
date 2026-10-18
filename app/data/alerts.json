@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T01:56:21.907944+00:00",
+  "generated_at": "2026-10-18T11:51:37.265585+00:00",
   "total": 500,
   "alerts": [
     {
@@ -781,6 +781,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVQ3VVQzTXZhT2U2Nm9VejFmbldFTGpwbE5KZWQyb1lZcEozbG4xZFJ2c0p6cWJHcE8zYUt1MEVXS05NZG1faDV3V01HMnFZQTVXU3hEZTJydVhWRkZpekI3cGZMTTVNZ1BMYV9PYXd3R3ozT3F6Q3ZqeUxDY0dLZGRHSjlCZlZ2bXRuOTFNc0tFM09jeVRtSg?oc=5\" target=\"_blank\">Mixed-use project at Sunset & Gordon clears City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "f7ab9cea676c5fdf",
+      "title": "LA City Council moves to extend eviction moratorium to 12 months - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVVl2NE5LUHhIRUd5ZE4xSG1wSUJvNXpVcF9zMEhzckR5elZzcnhyak9FUWpXOFFSWmxVUzRkMlZMNGN1ZVlVcll3Sm9DNnI5YldGYzJ4dFZadmxNekJlODJFRHZkcTYwaUc4NGVORlhBTEhvSERsX1ZrNjB5Z0E1cmVlSFF5WFBtZlI3N1VTUThPVXR6Z2xGNDQ0dzFKUEpEMHJsNU9R?oc=5",
+      "source": "The Real Deal",
+      "published": "Wed, 18 Mar 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQVVl2NE5LUHhIRUd5ZE4xSG1wSUJvNXpVcF9zMEhzckR5elZzcnhyak9FUWpXOFFSWmxVUzRkMlZMNGN1ZVlVcll3Sm9DNnI5YldGYzJ4dFZadmxNekJlODJFRHZkcTYwaUc4NGVORlhBTEhvSERsX1ZrNjB5Z0E1cmVlSFF5WFBtZlI3N1VTUThPVXR6Z2xGNDQ0dzFKUEpEMHJsNU9R?oc=5\" target=\"_blank\">LA City Council moves to extend eviction moratorium to 12 months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "c3ff247cf0b1a733",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDlDSjlMSkp2dXpRbV9kV21QRkVkQ3ZCWk5CWWFka0FGNDgyS1R4d0xjbDlUVGFUNTVZUDJyZWdVd29NQlZrRVllc2lXUUlnUDRYREhrT21VNjIxZEUzbTlYbTZUQlg2LThzbVpHenZrTlEwZWd4eGFtSmlJUTFkVDd6WTRZV3dMdTlKX2VDMnJidmw0a0pCdHFIWGg1QmhS?oc=5\" target=\"_blank\">LAHD releases first “mansion tax” funds to jumpstart affordable housing construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">archpaper.com</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "tax"
-    },
-    {
-      "id": "6ebc195f42c62635",
-      "title": "City Planning Commission approves mixed-use project at Crenshaw and Stocker - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlVHT1B0aUI4VVVITnB3M1NjZm81S1ZSbkdNRkFmOWdybzZsWFIzdVhfeUJ2VWZOQkpvZjJSMmxRMnBzZ3owWkY0TDlmZjZCOVU2a2h2aFExLW5nQXdnTGlVblhNUTZyeFc5QzVNQ3UtOWJDQ2VmTHhxbTFRamlaZFZGSFB1cEI4OWRWRzNJdjh6ZkR3bTNaRk5fOHpBRmVyWkQxZg?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 11 Mar 2021 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlVHT1B0aUI4VVVITnB3M1NjZm81S1ZSbkdNRkFmOWdybzZsWFIzdVhfeUJ2VWZOQkpvZjJSMmxRMnBzZ3owWkY0TDlmZjZCOVU2a2h2aFExLW5nQXdnTGlVblhNUTZyeFc5QzVNQ3UtOWJDQ2VmTHhxbTFRamlaZFZGSFB1cEI4OWRWRzNJdjh6ZkR3bTNaRk5fOHpBRmVyWkQxZg?oc=5\" target=\"_blank\">City Planning Commission approves mixed-use project at Crenshaw and Stocker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
