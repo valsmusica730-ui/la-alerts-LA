@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:46:43.581209+00:00",
+  "generated_at": "2026-10-19T15:58:58.026818+00:00",
   "total": 500,
   "alerts": [
     {
@@ -601,6 +601,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMm1rWXp4eTQ3Vk1YRzlwaWJ1R0l5bk8wTzNDNXBrY1pxSlg5bGxQM3pNS0VzRVBOTUVMc1JaNTdmZFhEQ0dWRi03aVBGNjJwZlpTV1NmcjFWYVJjY1JGMDF3ay1UbDBFaDZxaTJiY01mNnZlMnRTei1hNTd4SmlUSWV0Qks3Tm9XWVJF?oc=5\" target=\"_blank\">Signal Hill plans new zoning rules for \"oil patch\" district</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "zoning"
+    },
+    {
+      "id": "3b16d6d3e0e446dd",
+      "title": "Some LA renters accused of abusing eviction moratorium amid pandemic - FOX 11 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUJCc2JhZlhLVmJRZXRyMW1LRjJlZU5BUTJEUDg1VGN1eTdIQnVEUXEtbTljUmRwa1djeVBsY2E5a0VWVS1HbnpOSXNRcVB5b3RqT0Z1Mi1WamtwdEpLMEhEQzRjM1dtajJMeUdLSF9WNmR0eHVNMHN6OExwSFpPbEhVNEpKUDNncDVqX2FhUE9IM05wcFlYUmVNUQ?oc=5",
+      "source": "FOX 11 Los Angeles",
+      "published": "Wed, 22 Jul 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUJCc2JhZlhLVmJRZXRyMW1LRjJlZU5BUTJEUDg1VGN1eTdIQnVEUXEtbTljUmRwa1djeVBsY2E5a0VWVS1HbnpOSXNRcVB5b3RqT0Z1Mi1WamtwdEpLMEhEQzRjM1dtajJMeUdLSF9WNmR0eHVNMHN6OExwSFpPbEhVNEpKUDNncDVqX2FhUE9IM05wcFlYUmVNUQ?oc=5\" target=\"_blank\">Some LA renters accused of abusing eviction moratorium amid pandemic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "470ca7aab9b4ef47",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTW91aFZKaEVVdUlJME5hUVNMWHMxY1lUV01KeDEyWXo0LWdMWlAyNGRoTHB6bWl4TGtadHBqXzF2UVZfc3FUQUtuSUY0em1uY3ctb0oyUWVfRVNLRzBSeVQ3Q2l1OXpTVnlYVUVVTVRtNzIwREt0R0l4WWJndnhONTZyUllwaUVRWEh5OXA4enZ1VEdqVVRxVQ?oc=5\" target=\"_blank\">City Council to Consider Changes to L.A.’s “Mansion Tax”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">californiacitynews.org</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "28c68ae419845b4e",
-      "title": "Plan to triple units at San Pedro housing project gets LA City Council go-ahead - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlF6VURFTzdVQnNyMXBfZDRqYjYzeTl3dDNMR29sUUhlbEJJYklLTXR6aUJFSUhSTGdLVWktQzcyMmRhYUZRMnlaTU82UzFhRVowLU81cGFhRks2N0xWdTFwWTFmOUhhVzZDdkIwNi1Hd29xcHJLNTFSTWN0SThOV2JVd0s2RklweFNLdlRVQmMyTW44?oc=5",
-      "source": "The Real Deal",
-      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlF6VURFTzdVQnNyMXBfZDRqYjYzeTl3dDNMR29sUUhlbEJJYklLTXR6aUJFSUhSTGdLVWktQzcyMmRhYUZRMnlaTU82UzFhRVowLU81cGFhRks2N0xWdTFwWTFmOUhhVzZDdkIwNi1Hd29xcHJLNTFSTWN0SThOV2JVd0s2RklweFNLdlRVQmMyTW44?oc=5\" target=\"_blank\">Plan to triple units at San Pedro housing project gets LA City Council go-ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
     }
   ]
 }
