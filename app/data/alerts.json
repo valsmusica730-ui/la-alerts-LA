@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:58:58.026818+00:00",
+  "generated_at": "2026-10-19T20:53:00.417693+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4513,6 +4513,16 @@
       "category": "policy"
     },
     {
+      "id": "ef4479fa4d807576",
+      "title": "Amid crackdown on large gatherings, Airbnb will ban house parties - Long Beach Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbXpmbVhlaTVXWkZYZ1lyeFUxMmFhTzJCemM4Wmt5SlBjMTh0ZElXVHZVcWVVYVRVS29EcVpYQ1VPUzlRaXpvOVZTUjRKQjBLUFJCeTJ6NFRKSENx?oc=5",
+      "source": "Long Beach Post",
+      "published": "Thu, 20 Aug 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbXpmbVhlaTVXWkZYZ1lyeFUxMmFhTzJCemM4Wmt5SlBjMTh0ZElXVHZVcWVVYVRVS29EcVpYQ1VPUzlRaXpvOVZTUjRKQjBLUFJCeTJ6NFRKSENx?oc=5\" target=\"_blank\">Amid crackdown on large gatherings, Airbnb will ban house parties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Long Beach Post</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "8ee280aecef0bd18",
       "title": "Jurado tapped to lead Measure ULA committee, ensure tax delivers “real results” - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckcxX1g0eUxLS3J5LXpFVERHVU1HbGFXWVppc2lpbVVoeGZtRk5zbUNGUnhTcEZVUlBZak9QWFNRNVZIdXR0VWZ0RHlYSm9MNHd3ZWJUMU5XZmpGMVp0QW5ra2FkUldVMEUxa0JGczJLWmlKWl85WDAzaU8wa1BMSENpdllFS25feUE?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWlNNzJCWDVBaHozenY4LTlYY0lNLVltS2RzcUhpNVo3WVNORHBRY3NQclRPOVdDam5COGx6emo4UFljRHE2bjllc015YVVScy01SElERUl5NmE5N1dQcXVkemJscWZmcnJ4WElWSkNiQkpWSGQtam5QVjZibUM3dDJxcmJRVHg2WERyclM0TUt5UjlaSjNUVnkydw?oc=5\" target=\"_blank\">Wandering Courtyard House turns LA's zoning setbacks into the design itself</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">archpaper.com</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "legal"
-    },
-    {
-      "id": "6ff3a99260fdcd9b",
-      "title": "City Council to Consider Changes to L.A.’s “Mansion Tax” - californiacitynews.org",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTW91aFZKaEVVdUlJME5hUVNMWHMxY1lUV01KeDEyWXo0LWdMWlAyNGRoTHB6bWl4TGtadHBqXzF2UVZfc3FUQUtuSUY0em1uY3ctb0oyUWVfRVNLRzBSeVQ3Q2l1OXpTVnlYVUVVTVRtNzIwREt0R0l4WWJndnhONTZyUllwaUVRWEh5OXA4enZ1VEdqVVRxVQ?oc=5",
-      "source": "californiacitynews.org",
-      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTW91aFZKaEVVdUlJME5hUVNMWHMxY1lUV01KeDEyWXo0LWdMWlAyNGRoTHB6bWl4TGtadHBqXzF2UVZfc3FUQUtuSUY0em1uY3ctb0oyUWVfRVNLRzBSeVQ3Q2l1OXpTVnlYVUVVTVRtNzIwREt0R0l4WWJndnhONTZyUllwaUVRWEh5OXA4enZ1VEdqVVRxVQ?oc=5\" target=\"_blank\">City Council to Consider Changes to L.A.’s “Mansion Tax”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">californiacitynews.org</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
