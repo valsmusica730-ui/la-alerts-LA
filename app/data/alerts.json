@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:42:31.647704+00:00",
+  "generated_at": "2026-10-20T22:46:26.688199+00:00",
   "total": 500,
   "alerts": [
     {
@@ -271,6 +271,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ1J3Z1pNcTJUb0Q0dnhrOTh1NEFHY3htb1d5TElBZm1XX1lEeEhHRTdPNHJ6bmlfaDlUb3d2b2VOalU1WnVfbGV4WlkzRGFncExBeUp2cmJwcm01Y29zYVUzR0tYVjJDeWoyLW9mM28zWExad2ZSUlZkOVFLSGZkckpHbzVoZXFRVXNVNGJmajJ5SXRHQTVZT1p3YnNlRUowam1XbDhfX3JxdGxRR0xBa0tmTkRYM1BKWkFyNzVEUmVVODJKN1RjTTdtX1J4SC1sdl9ZRDd4OWtrWDZF?oc=5\" target=\"_blank\">California court blocks tenant protections for fired employees in company housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hcamag.com</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
+    },
+    {
+      "id": "f974dc50df949574",
+      "title": "LA County extends eviction moratorium until end of January 2023 - Asian Journal News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc01ZZTFpUlM1UGszZGduT0ZWUHFaZXJoSUxPWVdvU2hNcjlUSFVLX1NCZmhMQ2R3Sk05bjVjU3ZIMmdqd3NSMUY1QXFQS01lTW4tR3JmYm5MYlZuNHVrSjRKQU5jenJWYUp1VXZDWVBWZk12YW1EeUVDQktRd1RaVEdlOTRYYlNHcmRXSFp2V25wdFFrQVQzTGs1b1REWEduQjM2Vk1UUWFlWWIzd08ydW5aVDVNM1QySXhRLUtWR05ZQQ?oc=5",
+      "source": "Asian Journal News",
+      "published": "Wed, 28 Dec 2022 22:40:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc01ZZTFpUlM1UGszZGduT0ZWUHFaZXJoSUxPWVdvU2hNcjlUSFVLX1NCZmhMQ2R3Sk05bjVjU3ZIMmdqd3NSMUY1QXFQS01lTW4tR3JmYm5MYlZuNHVrSjRKQU5jenJWYUp1VXZDWVBWZk12YW1EeUVDQktRd1RaVEdlOTRYYlNHcmRXSFp2V25wdFFrQVQzTGs1b1REWEduQjM2Vk1UUWFlWWIzd08ydW5aVDVNM1QySXhRLUtWR05ZQQ?oc=5\" target=\"_blank\">LA County extends eviction moratorium until end of January 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asian Journal News</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "6c29bcf664b89542",
@@ -4989,16 +4999,6 @@
       "source": "Beverly Press & Park Labrea News",
       "published": "Thu, 12 Sep 2024 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDNseXpibG5WN3hKZnYxUG4yNm55WHdGZmpDdVBnRTBtZ05ES1BmNTNiS0pCMmw3NW50dVlDd091aXpfdm5fZjhMY1puNUdHS1p1dGxpVFRacmFld1kycmE2eF9COFhKYl9oM3dmRE5scFZBYkstYWdVa0dqY2k4R3p1TmRhaTR2NlM2UXZWZGJRcVVfdXlDQmFoREJKOWhy?oc=5\" target=\"_blank\">Television City project gets green light from Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "7484aba2e32fbf3d",
-      "title": "Lake on Wilshire Development Approved by L.A. City Planning Commission - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWVieUY1WnFCUTFhcWtFbHpuZWczSlJ5WTB6NDJDSk1jYURxb3Zpc2NMMkdMTklyVFJiM3hTYkE3MV9YNmdEM1psaXZVdGtTdy1sRWtrNEVpV0M4QURxTGFSeUdNWUgtdDhIandUQ3hsMW1lNmJlVFN6TnF4NnB5dWMyTWNwUWpodWRma3AyNUExVkxCSWtj?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 12 Oct 2017 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONWVieUY1WnFCUTFhcWtFbHpuZWczSlJ5WTB6NDJDSk1jYURxb3Zpc2NMMkdMTklyVFJiM3hTYkE3MV9YNmdEM1psaXZVdGtTdy1sRWtrNEVpV0M4QURxTGFSeUdNWUgtdDhIandUQ3hsMW1lNmJlVFN6TnF4NnB5dWMyTWNwUWpodWRma3AyNUExVkxCSWtj?oc=5\" target=\"_blank\">Lake on Wilshire Development Approved by L.A. City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     }
