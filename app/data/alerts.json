@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:34:10.628560+00:00",
+  "generated_at": "2026-10-20T15:26:00.674653+00:00",
   "total": 500,
   "alerts": [
     {
@@ -551,6 +551,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdGxDa3VnSUJxWXJVLWlXTnEyaWpNRGNYVVNhWFlNY2ItOEUxanhsckpydGhzQzJsc3c2UDdGMjFoTjY2aGItMUkyNVBjTUw5YVBTUmNDMWhOTzhzdUhDZnFYYUlHM0RMYVVmUERoNXBrSkpSMDl2d09WdFpHMVE1aWRHT0Y0REFpdVdIZk5Pc3JXYlgtZ213T2dOSGtXdw?oc=5\" target=\"_blank\">Judge tosses lawsuit against LA over eviction moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "legal"
+    },
+    {
+      "id": "d8c21ebb889b0231",
+      "title": "A solution in your backyard? Startups take on the housing crisis with new approaches to urban cottages - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeVJ1QmRkMGhZSjNFazBfaGw4ZFFTaE16SDNtLVdzWm5PR0RsTHpjQ0cxMmNmRWg1eUpiSkJvTGFxSWdjMkFkTmhxc2FlMUF2Q0RkRzdScTBpU25TbGp1WGlENmNsUjgxQkZaQ2g0T1o5ME9JbWdnRm1iakYzbXk0OHdsUGduMVpPQXZheGx5Tm56WTNublA0ZndOUnMzMDRhN3hYSVRpSlpybVk?oc=5",
+      "source": "GeekWire",
+      "published": "Wed, 23 May 2018 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeVJ1QmRkMGhZSjNFazBfaGw4ZFFTaE16SDNtLVdzWm5PR0RsTHpjQ0cxMmNmRWg1eUpiSkJvTGFxSWdjMkFkTmhxc2FlMUF2Q0RkRzdScTBpU25TbGp1WGlENmNsUjgxQkZaQ2g0T1o5ME9JbWdnRm1iakYzbXk0OHdsUGduMVpPQXZheGx5Tm56WTNublA0ZndOUnMzMDRhN3hYSVRpSlpybVk?oc=5\" target=\"_blank\">A solution in your backyard? Startups take on the housing crisis with new approaches to urban cottages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "other"
     },
     {
       "id": "e5f92076e8a126bc",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONWVieUY1WnFCUTFhcWtFbHpuZWczSlJ5WTB6NDJDSk1jYURxb3Zpc2NMMkdMTklyVFJiM3hTYkE3MV9YNmdEM1psaXZVdGtTdy1sRWtrNEVpV0M4QURxTGFSeUdNWUgtdDhIandUQ3hsMW1lNmJlVFN6TnF4NnB5dWMyTWNwUWpodWRma3AyNUExVkxCSWtj?oc=5\" target=\"_blank\">Lake on Wilshire Development Approved by L.A. City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "4b19eec5f3444c72",
-      "title": "Wandering Courtyard House turns LA's zoning setbacks into the design itself - archpaper.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWlNNzJCWDVBaHozenY4LTlYY0lNLVltS2RzcUhpNVo3WVNORHBRY3NQclRPOVdDam5COGx6emo4UFljRHE2bjllc015YVVScy01SElERUl5NmE5N1dQcXVkemJscWZmcnJ4WElWSkNiQkpWSGQtam5QVjZibUM3dDJxcmJRVHg2WERyclM0TUt5UjlaSjNUVnkydw?oc=5",
-      "source": "archpaper.com",
-      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWlNNzJCWDVBaHozenY4LTlYY0lNLVltS2RzcUhpNVo3WVNORHBRY3NQclRPOVdDam5COGx6emo4UFljRHE2bjllc015YVVScy01SElERUl5NmE5N1dQcXVkemJscWZmcnJ4WElWSkNiQkpWSGQtam5QVjZibUM3dDJxcmJRVHg2WERyclM0TUt5UjlaSjNUVnkydw?oc=5\" target=\"_blank\">Wandering Courtyard House turns LA's zoning setbacks into the design itself</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">archpaper.com</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "legal"
     }
   ]
 }
