@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:43:34.670110+00:00",
+  "generated_at": "2026-10-21T12:31:50.436406+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3323,6 +3323,16 @@
       "category": "policy"
     },
     {
+      "id": "57741c27544578c0",
+      "title": "City of Los Angeles to increase renters' protection through expanded Measure ULA - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHBtQnk1QkxUeE9OVS1vZ1hmZGM4TFBoVzdUU0pMRHBMQml5NU1DWGw1TjJiVkV5WEo4dTlzWjBPNF9lXy1ycWpUcXJJU2FpSUJHR1lfanl6MnRSS3NqWnlPR0MzN3FpZ3JCbHcyNGNCS0FwMl9xLW52SDQ0dEdpMXZNRVp5ZUpGTFllOW43UnkzX21TOXdwZUlnbG56bzVMZ2piekpOdE1mNTR0OEtpWkd3YUE3S2VzNVhuM2htUXc3bTgwcURtWNIB0AFBVV95cUxOd2ZIQVhuSEhEbnJpTUp2NmFHR1dQZUg2S1ZwcW1YV05ZVi1WVkFTYmh6cV9URnIwcHVRN1BvSEpZRWI0TWUwdTk5RzFYT21IbEUtMUdVVkNjMnhIT3VBMzQyaThtTjJjZlk0T3pJdFJjY3J6T3dNZ2t2d2NxTkNjam1NSjc5cTNoWDg3Q29LR1FkQm52b3FYZnZCd3pwV2s2UmhOY0gyaXB0cm5DVmdQS3NlSE5VcmpqaEtITGxMSkJWd196SWJLSVQ1NVBHT2N2?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Tue, 10 Dec 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHBtQnk1QkxUeE9OVS1vZ1hmZGM4TFBoVzdUU0pMRHBMQml5NU1DWGw1TjJiVkV5WEo4dTlzWjBPNF9lXy1ycWpUcXJJU2FpSUJHR1lfanl6MnRSS3NqWnlPR0MzN3FpZ3JCbHcyNGNCS0FwMl9xLW52SDQ0dEdpMXZNRVp5ZUpGTFllOW43UnkzX21TOXdwZUlnbG56bzVMZ2piekpOdE1mNTR0OEtpWkd3YUE3S2VzNVhuM2htUXc3bTgwcURtWNIB0AFBVV95cUxOd2ZIQVhuSEhEbnJpTUp2NmFHR1dQZUg2S1ZwcW1YV05ZVi1WVkFTYmh6cV9URnIwcHVRN1BvSEpZRWI0TWUwdTk5RzFYT21IbEUtMUdVVkNjMnhIT3VBMzQyaThtTjJjZlk0T3pJdFJjY3J6T3dNZ2t2d2NxTkNjam1NSjc5cTNoWDg3Q29LR1FkQm52b3FYZnZCd3pwV2s2UmhOY0gyaXB0cm5DVmdQS3NlSE5VcmpqaEtITGxMSkJWd196SWJLSVQ1NVBHT2N2?oc=5\" target=\"_blank\">City of Los Angeles to increase renters' protection through expanded Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "2233a06703512a88",
       "title": "$100M moratorium: That’s how much Geoff Palmer’s firms say LA eviction ban has cost them - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlprZUF0R0pGb3ptNnQ2M0tnZGdpOElkSmtqOFNVMGZyamZEY3B4RGVWNFkxMU9PVDgwNEtNaVJiQ19pM3BtWGRXV2pwS2xWSmtubzBPVGw4YVhGMUpUeEVRRDBTSVZFR3ZzRmMxT181YWxqa2liTnBtMXBEVS1FOHVfQzlXZG0yblRWYnQ2VElVMkNvaHBIakszSWozMTVaN3UtUnB3X2tQcV81RVNsNFJuOEtOZ0ZrRGlveEcyd1E?oc=5",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 13 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNaS1Wc20zSGZnSW5KdnNpNm1mbEtTd2VObE53b1luTWRCLV9SZDY2TnF5QTdfaUFURklEUTE5aVpBU244LU5EeHl1WTAtOERJbmxHOTlFRFZmTHZ3Y1B0bkZXTzFBOEEwT21LRlhqUjR6N1QxQ3ZsR2E5UUFjeGZQWUNDbFd6LTUtN1FZVmU4dTd6TGw4LV9jNDF6ekJXZw?oc=5\" target=\"_blank\">Hong Kong developer ups apartments, gets OK for project in heart of suburban Chinatown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "c749791f06fb881f",
-      "title": "Opinion | California tool to encourage low-income rentals may suppress new apartment construction - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlVoSDVKc0JZZkxkN3h3eW83TGxkNlAwLWpWcTY3bjBKZXNDcE5JRTNVUXpROWdkNEh6bWNMb2VSUmM2QzIzQklZVFpadXJFYVFCNmo1YkJyUmZma2xtZHpqOUl0SDVQaHFVU20xd3dqZzJnWGwtRk9iLVdxbmNvVHljWGlYNmVxYlVkOEk0TkU1TFBSZWNV?oc=5",
-      "source": "CalMatters",
-      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlVoSDVKc0JZZkxkN3h3eW83TGxkNlAwLWpWcTY3bjBKZXNDcE5JRTNVUXpROWdkNEh6bWNMb2VSUmM2QzIzQklZVFpadXJFYVFCNmo1YkJyUmZma2xtZHpqOUl0SDVQaHFVU20xd3dqZzJnWGwtRk9iLVdxbmNvVHljWGlYNmVxYlVkOEk0TkU1TFBSZWNV?oc=5\" target=\"_blank\">Opinion | California tool to encourage low-income rentals may suppress new apartment construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "other"
     }
   ]
