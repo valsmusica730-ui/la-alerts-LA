@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:44:47.965532+00:00",
+  "generated_at": "2026-10-21T20:58:57.765321+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4253,6 +4253,16 @@
       "category": "zoning"
     },
     {
+      "id": "8b2bf69125cc16ea",
+      "title": "Screaming matches at LA City planning hearing - FOX 11 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRE5wTkNZaW5vcmlFYTVESUNGQ2JxMmhFRm8wVHZMYVA2bWFnR2dfcVpIMUptRzllX1VwLUwxTmt5ZFcwOVo2bXJndFVUX0kxUml4d0psd01fUEIzenQtS0ZLa1VhSnNrazRMZXpidmZNOG5uSC0wLXlHblI4RWxHYzVMTElEemNMczN5M0psRFVFcVXSAZgBQVVfeXFMTV9GN09fYlRvUFlfaDJIZTgzQUxDaDFEVUxSSXY4SkRKaEhjcVYyamtNSEtSUTlPeGtPamI3YlBDV0NMWDh0cWZXT2RWOG0ydzM5TmNNNjgyT0NmUnMtaEFJX0Rpc0lvUkk5dTAxbjgzQWZTOVRBVmNYZjdrVWtKMDhBeGhpTzRaVkNsT3A5NDBVR0pseVk0XzE?oc=5",
+      "source": "FOX 11 Los Angeles",
+      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRE5wTkNZaW5vcmlFYTVESUNGQ2JxMmhFRm8wVHZMYVA2bWFnR2dfcVpIMUptRzllX1VwLUwxTmt5ZFcwOVo2bXJndFVUX0kxUml4d0psd01fUEIzenQtS0ZLa1VhSnNrazRMZXpidmZNOG5uSC0wLXlHblI4RWxHYzVMTElEemNMczN5M0psRFVFcVXSAZgBQVVfeXFMTV9GN09fYlRvUFlfaDJIZTgzQUxDaDFEVUxSSXY4SkRKaEhjcVYyamtNSEtSUTlPeGtPamI3YlBDV0NMWDh0cWZXT2RWOG0ydzM5TmNNNjgyT0NmUnMtaEFJX0Rpc0lvUkk5dTAxbjgzQWZTOVRBVmNYZjdrVWtKMDhBeGhpTzRaVkNsT3A5NDBVR0pseVk0XzE?oc=5\" target=\"_blank\">Screaming matches at LA City planning hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
+    },
+    {
       "id": "df7848245de0b316",
       "title": "State leaders to unveil eviction moratorium on Friday - Orange County Register",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSE9HZFNUV1I2OVJFRXVsXzlFYXZiMG0tT2NaYml4bFFlVkZ4aEJyeDQyY1NyT0lkd0laREhwRGdqRFU4MURhSzBNdHhhM1NkTUplQUREemk2UW5UdWNkWVRhdU5QRy1LRk5kTUNKSlNPejIxV3BIdFBodHNROGgxQ0QxVnBsZDFMZThNS3VfU2lNUmc5anU0?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDVrSThpT2h6Y2x2bXZoMXBfUDlsWFlyclgxcEVPOE4zTjVUNXdPX2tnRGEtdmlmQVBTMHIwRGVYV29Pa0FXZFFWSTF0RlEzU2t1cVowQjZRXzlsSk10REJFRnFoeGhrcnlCd21LTUNOdC02MGc1QTVDVDN2Q195dElMWUtmemFyeGJiaFZWN1VtcFIwQUFEVmxB?oc=5\" target=\"_blank\">Plan To Demolish Beverly Plaza For 8-Story Building Approved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "other"
-    },
-    {
-      "id": "62dd70769ddd1cd1",
-      "title": "City Planning Commission signs off on Lankershim Boulevard hotel - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGlydFZpMzM1TFdMMzdPa1poc19nREJrWUdIU0lfV1FhTndsNmdIT2tMMUU5VmVhYWxHU2lXd1VkeTNYY3FBa3ppT0lqUWVLSzBXeGM0WWxWWm1aOGt3dVNtYmRXRnV5eVhFSTExbHYzX0UyMmJWd3RRNVBua1lGYzI4SDNQdEJWWVBTajFkZV8?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 14 Apr 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGlydFZpMzM1TFdMMzdPa1poc19nREJrWUdIU0lfV1FhTndsNmdIT2tMMUU5VmVhYWxHU2lXd1VkeTNYY3FBa3ppT0lqUWVLSzBXeGM0WWxWWm1aOGt3dVNtYmRXRnV5eVhFSTExbHYzX0UyMmJWd3RRNVBua1lGYzI4SDNQdEJWWVBTajFkZV8?oc=5\" target=\"_blank\">City Planning Commission signs off on Lankershim Boulevard hotel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
