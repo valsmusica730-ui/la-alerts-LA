@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:46:26.688199+00:00",
+  "generated_at": "2026-10-21T01:05:30.250705+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3243,6 +3243,16 @@
       "category": "other"
     },
     {
+      "id": "a4dc9d60b8d8a7e4",
+      "title": "With eviction moratorium lapsed, L.A. County moves to pass new renter protections - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTRuLUtJM29BUlhTU0lpMW1uUmtTUXFHbXQ5b0FOY05ZZVhIcF82WlJVZWRJUndTRVRqV2FfYk93RGNqZWZWdTFfWkx2UFlzLThtdldnV2ZnWTNnOXBrdGpTOGozakRMTXJJc2NTYXpUNVN1M2JjZDg4RXVleWxETXRBUi1wT01WNlZ3dQ?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Tue, 11 Jul 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTRuLUtJM29BUlhTU0lpMW1uUmtTUXFHbXQ5b0FOY05ZZVhIcF82WlJVZWRJUndTRVRqV2FfYk93RGNqZWZWdTFfWkx2UFlzLThtdldnV2ZnWTNnOXBrdGpTOGozakRMTXJJc2NTYXpUNVN1M2JjZDg4RXVleWxETXRBUi1wT01WNlZ3dQ?oc=5\" target=\"_blank\">With eviction moratorium lapsed, L.A. County moves to pass new renter protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "499ad1e51f68aecb",
       "title": "Eviction moratorium case edges closer to Supreme Court - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMkYxT2RBWlVTUHd4RlhBalNOX1FHMjhoMGJFNkFyZG9IWGI2bDAtb3RiZkdpM2JOWTRoaTE5WnFlTmhvNzRncVRqalVfR28xNl81dXN0SGpXd3E0aFJfR1BkSnp1SnFKSUJWbzZVRWQ0NVY1WElDMGNpX1NUai15eGVhZEQ0S3lyWjJnSktPVDE3aWlveThsdHQ1MnVVS3VsZjcwbUVMTW5Idw?oc=5",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 13 Apr 2023 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTFRbWNKbGVnR1dxLUNsTTNWUzA0UE5DdzdydVREeWt2WWJZMWhyc1lLTEpkLVg3T2V2MjI0NzJxNWcwNkVNZlpUS29aenF1YWx0dm1ScUwxdFFKTFZQVGVNVWVUeDJfVTNaTkFwRmxHbEM3elJrX1RyeXZOdF81T29JeUJET2ZTR1B4R2RMUXFxSW5fcmRQNk9tZXNhOElfT3dFQ3liN0ZmVnBLUlZjQWVORjE1SjNHanY5TklPX2hNa19m?oc=5\" target=\"_blank\">State law hailed as the end of single-family zoning fizzles so far in the Coachella Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Desert Sun</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "e6bb2365c7c19c02",
-      "title": "Television City project gets green light from Planning Commission - Beverly Press & Park Labrea News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDNseXpibG5WN3hKZnYxUG4yNm55WHdGZmpDdVBnRTBtZ05ES1BmNTNiS0pCMmw3NW50dVlDd091aXpfdm5fZjhMY1puNUdHS1p1dGxpVFRacmFld1kycmE2eF9COFhKYl9oM3dmRE5scFZBYkstYWdVa0dqY2k4R3p1TmRhaTR2NlM2UXZWZGJRcVVfdXlDQmFoREJKOWhy?oc=5",
-      "source": "Beverly Press & Park Labrea News",
-      "published": "Thu, 12 Sep 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDNseXpibG5WN3hKZnYxUG4yNm55WHdGZmpDdVBnRTBtZ05ES1BmNTNiS0pCMmw3NW50dVlDd091aXpfdm5fZjhMY1puNUdHS1p1dGxpVFRacmFld1kycmE2eF9COFhKYl9oM3dmRE5scFZBYkstYWdVa0dqY2k4R3p1TmRhaTR2NlM2UXZWZGJRcVVfdXlDQmFoREJKOWhy?oc=5\" target=\"_blank\">Television City project gets green light from Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     }
   ]
