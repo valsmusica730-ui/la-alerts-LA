@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:05:30.250705+00:00",
+  "generated_at": "2026-10-21T06:43:34.670110+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3293,6 +3293,16 @@
       "category": "policy"
     },
     {
+      "id": "3347d160d32b0e67",
+      "title": "Opinion | California courts muddied tax rules set by voters. Proposition 43 cleans up their mistake - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVNSQmVocjVFN1Z6QlJjOFUxSGczZXBJNW54clFudFVXd19WdUpVVW5ON2ZfeHBEdUxzNFQzeE9XMkgzeHZ4cWpYUGxjTDhac3Z2cEJFQVFMUHlLOWNOakQ0b216c0FqTHdFeU11ZEtmQV9WNHdMNVVJRnFtRWRZcjhDdHFwaFdMaVVUU3lFVmU?oc=5",
+      "source": "CalMatters",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVNSQmVocjVFN1Z6QlJjOFUxSGczZXBJNW54clFudFVXd19WdUpVVW5ON2ZfeHBEdUxzNFQzeE9XMkgzeHZ4cWpYUGxjTDhac3Z2cEJFQVFMUHlLOWNOakQ0b216c0FqTHdFeU11ZEtmQV9WNHdMNVVJRnFtRWRZcjhDdHFwaFdMaVVUU3lFVmU?oc=5\" target=\"_blank\">Opinion | California courts muddied tax rules set by voters. Proposition 43 cleans up their mistake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "legal"
+    },
+    {
       "id": "57c2a63556fc191e",
       "title": "L.A. County Will Make Rent Stabilization Ordinance Permanent - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGR0S210SDV3MGV6aFRQZ1FZLXl5b2VRTEJCRWxtZlMzQm1MR1A2OHZyalFkSFNVNTVCdE11RzFDX0xmdGJTSERkZVMwcUJnMjUxWjkzWk5DcmlmQTcyX2N6Tjk5RHM4bWJ5bHpKR0ZFSVI5VTVOUjVhQUNiNmljQ3dhTnFIZ0R3OVpnbkxkdjdlQQ?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlVoSDVKc0JZZkxkN3h3eW83TGxkNlAwLWpWcTY3bjBKZXNDcE5JRTNVUXpROWdkNEh6bWNMb2VSUmM2QzIzQklZVFpadXJFYVFCNmo1YkJyUmZma2xtZHpqOUl0SDVQaHFVU20xd3dqZzJnWGwtRk9iLVdxbmNvVHljWGlYNmVxYlVkOEk0TkU1TFBSZWNV?oc=5\" target=\"_blank\">Opinion | California tool to encourage low-income rentals may suppress new apartment construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "other"
-    },
-    {
-      "id": "a80d4ea28705689e",
-      "title": "State law hailed as the end of single-family zoning fizzles so far in the Coachella Valley - The Desert Sun",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTFRbWNKbGVnR1dxLUNsTTNWUzA0UE5DdzdydVREeWt2WWJZMWhyc1lLTEpkLVg3T2V2MjI0NzJxNWcwNkVNZlpUS29aenF1YWx0dm1ScUwxdFFKTFZQVGVNVWVUeDJfVTNaTkFwRmxHbEM3elJrX1RyeXZOdF81T29JeUJET2ZTR1B4R2RMUXFxSW5fcmRQNk9tZXNhOElfT3dFQ3liN0ZmVnBLUlZjQWVORjE1SjNHanY5TklPX2hNa19m?oc=5",
-      "source": "The Desert Sun",
-      "published": "Thu, 13 Apr 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTFRbWNKbGVnR1dxLUNsTTNWUzA0UE5DdzdydVREeWt2WWJZMWhyc1lLTEpkLVg3T2V2MjI0NzJxNWcwNkVNZlpUS29aenF1YWx0dm1ScUwxdFFKTFZQVGVNVWVUeDJfVTNaTkFwRmxHbEM3elJrX1RyeXZOdF81T29JeUJET2ZTR1B4R2RMUXFxSW5fcmRQNk9tZXNhOElfT3dFQ3liN0ZmVnBLUlZjQWVORjE1SjNHanY5TklPX2hNa19m?oc=5\" target=\"_blank\">State law hailed as the end of single-family zoning fizzles so far in the Coachella Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Desert Sun</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
