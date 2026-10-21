@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:31:50.436406+00:00",
+  "generated_at": "2026-10-21T17:44:47.965532+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1763,6 +1763,16 @@
       "category": "zoning"
     },
     {
+      "id": "dbb1cdce96b3fce4",
+      "title": "SB 9 (2025): Removing Local Barriers to ADUs - California YIMBY",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZWmxaR0FvZGpWZm1XdE5RM0ZESERscDMtTC13M05VbGN5MGdtbkY5YmdyRURDTHBsMlh5d0dERHotcVFiT3FNM0RqVElDSlNpcXZoTw?oc=5",
+      "source": "California YIMBY",
+      "published": "Wed, 04 Dec 2024 01:49:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZWmxaR0FvZGpWZm1XdE5RM0ZESERscDMtTC13M05VbGN5MGdtbkY5YmdyRURDTHBsMlh5d0dERHotcVFiT3FNM0RqVElDSlNpcXZoTw?oc=5\" target=\"_blank\">SB 9 (2025): Removing Local Barriers to ADUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California YIMBY</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "adu"
+    },
+    {
       "id": "34650465d996707a",
       "title": "A mandate to keep LA apartments cool? City Council to consider proposal to follow LA County's lead - LAist",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTZLeDFzallqSVBYVkx4b2lPMDRJQWxBaExKR3ZjeFpyQ3NUaDdiODRkN2ZUS2V3N2RuSjdLazBRbnBmVDBmRFpPcnBRQXZOTmRqckpxakY4OF9WUDlLeDIzZmxnY1R0UlowSVpTRUVKMTRGZWRGczhuNi1mRzI5Tk5ZUDFkSDM3b0Z6TWd4QmtsV0N0TjhXbjlhS2Q5bnNTLWtUUTZsaWZtZjV1?oc=5",
@@ -1851,6 +1861,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPVklYTDBpdVZSVi1Xc25FZ2hHN0Z1WkkwXzVvUGRDSDVrWWRYUGxFRmZJUlFGV2U1NXVZRjdRdzJlRHREUFcxY0g5WUg3ekFrWktaWERSVUF3MldNYjdKMlgzazYya2RWZGJKRXBqQjcwcXBQRzlSOHhJMlRDYlJlQTlyWi1vNWdUaEE?oc=5\" target=\"_blank\">Beverly Hills will likely ban short-term rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
+    },
+    {
+      "id": "7e4fb4e33f5c7b6a",
+      "title": "SB 9 and SB 10 - LA Conservancy",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JYWJRZExpdlBtNzRpekt0LVVLbm5IY3pqWVVtdEpDY01zNVlkUUQ4QU1JR2JGZTM1aUhCZi1zdEpwakNpdXRXd3dmdW83aUVUMEphdDcyMHh4UkJvenUxU1EzVjMyX1B2cFkzV2VIZUdNZw?oc=5",
+      "source": "LA Conservancy",
+      "published": "Wed, 02 Aug 2023 07:14:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9JYWJRZExpdlBtNzRpekt0LVVLbm5IY3pqWVVtdEpDY01zNVlkUUQ4QU1JR2JGZTM1aUhCZi1zdEpwakNpdXRXd3dmdW83aUVUMEphdDcyMHh4UkJvenUxU1EzVjMyX1B2cFkzV2VIZUdNZw?oc=5\" target=\"_blank\">SB 9 and SB 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA Conservancy</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
     },
     {
       "id": "ca44a00735a04364",
@@ -2111,6 +2131,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVFhRk5jbWQ3Ty10T09ydHVsQjhydUhmaEpmVi16N3FfbmUtRWRzTHp0X3FDd0QyUkR0Nk1lTXZ1MXg2cEktVkNhTjR1ZkVLdnZFS3ZBcUZkc2NiLUFwYWc4S1Q3U204WWFYSy1feE1hZTc4TkhiNklPb0pNal9TdklvbDh1eWdIYlRhTEVFSE1ZMl83dFpwQVFwSnFmN3Z6QmNmOWJR?oc=5\" target=\"_blank\">Building Code Changes Add Nearly 10% To Apartment Construction Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Globest</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "construction"
+    },
+    {
+      "id": "d89f885351c0c4b5",
+      "title": "LA Council Approves Fourth & Central Mixed-Use Development in Downtown - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR1VWX2RoSjhJa2lDSTNtd0FkSk10QkQ1TDBMbjB2bTF5a1A0OElLQXJVNFhJaDZmV1JEbWlLMkt2c2VoOU44cWZhUnVyQVBnNXBBbzZrS3VGc2pRYWVNeGlzSzVPYlpUcW9WYjY5dG51Z3JETFR4S2FuUjc1dEF6RjcyUlRHSmFLNmZDeFFnUEFyUDRYYk9ZSm5IRXp3czZJaXhKY0l6ajZKWGh5RUNGazBIV3U?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNR1VWX2RoSjhJa2lDSTNtd0FkSk10QkQ1TDBMbjB2bTF5a1A0OElLQXJVNFhJaDZmV1JEbWlLMkt2c2VoOU44cWZhUnVyQVBnNXBBbzZrS3VGc2pRYWVNeGlzSzVPYlpUcW9WYjY5dG51Z3JETFR4S2FuUjc1dEF6RjcyUlRHSmFLNmZDeFFnUEFyUDRYYk9ZSm5IRXp3czZJaXhKY0l6ajZKWGh5RUNGazBIV3U?oc=5\" target=\"_blank\">LA Council Approves Fourth & Central Mixed-Use Development in Downtown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "zoning"
     },
     {
       "id": "2a84bd61f86d0e6d",
@@ -2710,6 +2740,16 @@
       "published": "Tue, 20 May 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXpEcGk2bmVyb0RkTkZsTC1FT0dCWmZOVXM3TnF6SHZiUVhZUGdRcVZzLXowanQ1UDJfZml3VUllRWhnQ051Nlk2ODBJVGVpbjlqOFFScjZWWGxrQVFQZU1XSVk4bnB4bGN4ZWxSRFVNekpna1JkTm5XMXVQS05qUXlZMkhfSnRXR2V0dXY5eWhNMEU?oc=5\" target=\"_blank\">A Major Property Rights Case Idles on Supreme Court Docket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "legal"
+    },
+    {
+      "id": "33df890dfea69a01",
+      "title": "Supreme Court turns down challenge to N.Y. rent control with implications for California - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRk9pb05qa2NUT3ZaREpjazdMTzhFTENwVklaTFRQbTFtdXc1dVA2ZzNrenV4RjRpSGdFQ3pBWTJxMVBXbFVVSGpvV3VJWHJqaXFvaXV2RVMydGVoRFg2OXQ2QkJCd2IyRjZEaEF0VXpibjBMLURuVXJmQkhTd21Mcm1DRHh6eGJ6bUxwWlBOVG5jOGJnTzdCR1UxaElEbmYyNm9qNXlaLU9PQlU2TDFYS1BFMA?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Tue, 20 Feb 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQRk9pb05qa2NUT3ZaREpjazdMTzhFTENwVklaTFRQbTFtdXc1dVA2ZzNrenV4RjRpSGdFQ3pBWTJxMVBXbFVVSGpvV3VJWHJqaXFvaXV2RVMydGVoRFg2OXQ2QkJCd2IyRjZEaEF0VXpibjBMLURuVXJmQkhTd21Mcm1DRHh6eGJ6bUxwWlBOVG5jOGJnTzdCR1UxaElEbmYyNm9qNXlaLU9PQlU2TDFYS1BFMA?oc=5\" target=\"_blank\">Supreme Court turns down challenge to N.Y. rent control with implications for California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "legal"
     },
     {
@@ -3313,6 +3353,16 @@
       "category": "rent"
     },
     {
+      "id": "c32ace183cb8c432",
+      "title": "SB 450 - California YIMBY",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zd2x1X2ZmdU5KcG1uWE12VTJ5aUV0T0NWSURDNmM0WXIyU1IxdjJob1JlTFFrald0REdIbVl1ZXd4bXhNbXZaTld5Z2xqOGdv?oc=5",
+      "source": "California YIMBY",
+      "published": "Tue, 10 Oct 2023 23:19:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zd2x1X2ZmdU5KcG1uWE12VTJ5aUV0T0NWSURDNmM0WXIyU1IxdjJob1JlTFFrald0REdIbVl1ZXd4bXhNbXZaTld5Z2xqOGdv?oc=5\" target=\"_blank\">SB 450</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California YIMBY</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "other"
+    },
+    {
       "id": "66ac284d61775c3c",
       "title": "LA City Council votes to award $107M tenant aid contract despite city attorney opposition - LAist",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ3FTS2N6S1c1bVBfT3dQcEtoR3pvRXhLS2FDdFpVVzEwY1E0ZU1jVU1FeGFEank4LXIwREpyV2lZOU9adzg5QzBxOERUblFVOXd5OTM0MlVNYUdsUzU4MnNETnJtNFdvcW42VGM2end3Y20xN0pRWDVobDJibnF2VnZmeXYxazVmcjBfZU8tNF9palFvTFVuUC1KdGNsUUlPN2EtN3hwV3VvaFUzSFdtX2JTYkJpWENGZkt3T0R4LTJ4Q2pWVXpTVTF0bVk?oc=5",
@@ -3601,6 +3651,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHhvcktFNmZNUVlKd1NtMkpRRGVDcXh6Q29fb0xpRnBWNlhrNVlpSy03YkE1b0FScjdUWnZneDdWNlRzWWlNNlc2VXJ1M0o5U0diZjJfNmdJTFpMWmszT3NzN0hmZjByRmhvV3pkazRUam9XcC1QZk54eFBuaUVYZjBUNlpfandBSUE4b1NMWlYwSVI4dkE2ZjN5cFNUVmRwNWY4N0RmTlgxZWVRVG1EeGpkaHlUVU5oQ2VrNVFSTFZxODNr?oc=5\" target=\"_blank\">Measure A aims to help fund homeless services with an increased sales tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "657569c55f9f9a96",
+      "title": "Californians vote against rent control as Prop. 33 fails - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGJRWWJvcWRKWEd6LWNXMmUtNF8yRENLTFI5QVJtVXVvS1cyZmtlcVFiQ0pqZ2pfeHNxTmt6SjFqMHFWeThKSWhLNmJ3WWc3QzliSlAzX0JoeGotM1dQUHZ0WXg0ZFJjdGYwUjg1R3VBQ29OYnN1X1hFSktyekJBU2VKZTJUVWFpbmtncHFOanVOdzQ?oc=5",
+      "source": "CalMatters",
+      "published": "Tue, 05 Nov 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGJRWWJvcWRKWEd6LWNXMmUtNF8yRENLTFI5QVJtVXVvS1cyZmtlcVFiQ0pqZ2pfeHNxTmt6SjFqMHFWeThKSWhLNmJ3WWc3QzliSlAzX0JoeGotM1dQUHZ0WXg0ZFJjdGYwUjg1R3VBQ29OYnN1X1hFSktyekJBU2VKZTJUVWFpbmtncHFOanVOdzQ?oc=5\" target=\"_blank\">Californians vote against rent control as Prop. 33 fails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "rent"
     },
     {
       "id": "57cd361f4bd34a12",
@@ -4743,6 +4803,16 @@
       "category": "zoning"
     },
     {
+      "id": "7947c4d905f72658",
+      "title": "California enacts two laws to slice through local zoning rules - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3lvN2Q0Vk85RjJFMW1VeTN6b010S0psbzdnRDhMeTRkMjFjaWVEWlVUWkpRZVl1SHNDUlloaVMxeVFxR3liVXJhNWRXN3ZTYzF6aGdZM2xPQmd6M1hWdTRPbUxWdlJQaUlsMDFOck5yLXllWjRRTVdncTBiRS1HTG0tSXhIMG8?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Thu, 16 Sep 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3lvN2Q0Vk85RjJFMW1VeTN6b010S0psbzdnRDhMeTRkMjFjaWVEWlVUWkpRZVl1SHNDUlloaVMxeVFxR3liVXJhNWRXN3ZTYzF6aGdZM2xPQmd6M1hWdTRPbUxWdlJQaUlsMDFOck5yLXllWjRRTVdncTBiRS1HTG0tSXhIMG8?oc=5\" target=\"_blank\">California enacts two laws to slice through local zoning rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "zoning"
+    },
+    {
       "id": "cdbe1e19ff801b90",
       "title": "LA Planning Commission to vote on proposal to fast-track affordable housing - NBC Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVNLMUkxQU9YN21mUzA2SlIwTlZCRGFSeldRNTBQcFdXaE0yWktLTmw1R21xLXRFcXhEOS11bDZiTEFlZGJlT0E4X2t5bW9HYk4yX0xRTEctRDlaQldTb1NUdkI2TzYzazhLMjNGMUpFTnFPelRNY2NCMmdROVc4Mk5xRm9kSEpSWGo5QTlEZUNYM25CcUl1M0xlS2JmMTVhczBVT3lGeWpCY3dFM0drYUFISnQ2OHlldTVvbm81eE56SE3SAcsBQVVfeXFMTUpjeHgtLTM0SFJPb3BYMEpuakd0V1RTMWIwcHhSLUlFUWw1bE1ncGpzbmV0N24xbVRTZENWNjh6ZFBEWWM3M0ZULXhrZDg3b0MxSUh4Nm1CNFJvbEdXbmg5bUp5MEI2Y0EtbUVxRUU0NHhmN2c0UG5pT3gxUld6dmp3NC1RMXJhQTZsUjFpMm9fNjZLamlXSzZ5TnFkMVNyVDVLZjVqeTdteEttelY5MHlkSHE4eVM4OUluWElab3RPaFJHcG1FV1hpWms?oc=5",
@@ -4811,6 +4881,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1SUXl5VFdBNEk4RW51Qm5Td18zMnlJYXBBRVNtWm5NcDJ2YWllWXowSkJqYkd6SlBsOEdRY3J6VVlXV1pYMzRjT0t3ZTMwSkI1OUZsNEFiSDlSQlpHaDFRc0xjNU9ZYkRscWQ1MTEyUERGOTBKeFRWc2FnWkM?oc=5\" target=\"_blank\">It costs too much to build in California. Lawmakers say this tweak could help</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "other"
+    },
+    {
+      "id": "a401f3c1939a9f3e",
+      "title": "Zoning Out: Why We Have Zoning Laws, and How They Shape California and Society (Not Always For the Best) - California Local",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUVpOTlsRV9HTTRvdWd2SWdDd3picVhtdU01dE9ROXRNWDBPY21FMEhoU3BGYUNkN09aY0lxWm9EaDdVa18xakxxTFVEVWVuQVctNEdHNFFDOUcyN3Y1UXl0cDZ6RWtaUXg5amFpdDYxNzdSc0YzYmVVUmZZaEJBaFhkSl9IcUNkUGV3RDNLd1pqUUZGZUlrMUg1TnpEZ2lNVmpSQ2FndnhjWkhFbnlCZWdtTGlUallVU28xY1dzZlM2Zw?oc=5",
+      "source": "California Local",
+      "published": "Thu, 15 Jun 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUVpOTlsRV9HTTRvdWd2SWdDd3picVhtdU01dE9ROXRNWDBPY21FMEhoU3BGYUNkN09aY0lxWm9EaDdVa18xakxxTFVEVWVuQVctNEdHNFFDOUcyN3Y1UXl0cDZ6RWtaUXg5amFpdDYxNzdSc0YzYmVVUmZZaEJBaFhkSl9IcUNkUGV3RDNLd1pqUUZGZUlrMUg1TnpEZ2lNVmpSQ2FndnhjWkhFbnlCZWdtTGlUallVU28xY1dzZlM2Zw?oc=5\" target=\"_blank\">Zoning Out: Why We Have Zoning Laws, and How They Shape California and Society (Not Always For the Best)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Local</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "zoning"
     },
     {
       "id": "7a15ef50c96f84de",
@@ -4921,86 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGlydFZpMzM1TFdMMzdPa1poc19nREJrWUdIU0lfV1FhTndsNmdIT2tMMUU5VmVhYWxHU2lXd1VkeTNYY3FBa3ppT0lqUWVLSzBXeGM0WWxWWm1aOGt3dVNtYmRXRnV5eVhFSTExbHYzX0UyMmJWd3RRNVBua1lGYzI4SDNQdEJWWVBTajFkZV8?oc=5\" target=\"_blank\">City Planning Commission signs off on Lankershim Boulevard hotel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "e51176afca3a93cb",
-      "title": "State to Probe 29 Cities for Thwarting SB 9 - californiacitynews.org",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXdUSWc1RU5sM0prR0t1Zi04NjJvdWdGY0xUelR6UW9kemVQNEFCdXY4cERNb0xSaF9Yb0k0MXVlN214VUYzMHk5X3hxemhRRUhaNmhjVTlNaEI5d3Z3RWhCcTBPMm9XNEFLcjdPYldpTFRBazhzNHd4VWtOeE5TWkZyWG9IS0FQU0xoYw?oc=5",
-      "source": "californiacitynews.org",
-      "published": "Thu, 14 Apr 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXdUSWc1RU5sM0prR0t1Zi04NjJvdWdGY0xUelR6UW9kemVQNEFCdXY4cERNb0xSaF9Yb0k0MXVlN214VUYzMHk5X3hxemhRRUhaNmhjVTlNaEI5d3Z3RWhCcTBPMm9XNEFLcjdPYldpTFRBazhzNHd4VWtOeE5TWkZyWG9IS0FQU0xoYw?oc=5\" target=\"_blank\">State to Probe 29 Cities for Thwarting SB 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">californiacitynews.org</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "4a626fd5475a37a1",
-      "title": "Los Angeles City Council approves lower rent caps for Rent Stabilization Ordinance units - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXMxUXUyUnBfcHl6cXFCelgtZmtHUHl0U2RXbm50RFlnZHlCdzVSRjJaZy1QcTVBcXV1WFhUNmpXb0NiQWhpbjZTX0txQ0xQVWVMQmV0bVZwMU9xSkptZ2hRajN3Xzh3SUtMZFFsY0xEQ1QxdzVxSzRlT3FLWnBUTFYzblNBSnZtZnZjVG5VbU1GcDFJUnhkY9IBngFBVV95cUxPRkJIQnVhMnBWX3Rpc2MxX3J1WndzclJHUUFTaGYwTjg3OUhUVV9pV21hUVFoRGNYY1FXMWVNWlFEcE1KdDZTWEViMHB6MXpzaXpNWk9UWGdfSDRfRUZwU2JBeUZIRUxJaVNZZWdDRzF1dDJZdGI2UV9NYzdHXzRRbWlmcVFtT3NjNmFYNjlIZDk0dlhEd3JBbTBXZElJUQ?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXMxUXUyUnBfcHl6cXFCelgtZmtHUHl0U2RXbm50RFlnZHlCdzVSRjJaZy1QcTVBcXV1WFhUNmpXb0NiQWhpbjZTX0txQ0xQVWVMQmV0bVZwMU9xSkptZ2hRajN3Xzh3SUtMZFFsY0xEQ1QxdzVxSzRlT3FLWnBUTFYzblNBSnZtZnZjVG5VbU1GcDFJUnhkY9IBngFBVV95cUxPRkJIQnVhMnBWX3Rpc2MxX3J1WndzclJHUUFTaGYwTjg3OUhUVV9pV21hUVFoRGNYY1FXMWVNWlFEcE1KdDZTWEViMHB6MXpzaXpNWk9UWGdfSDRfRUZwU2JBeUZIRUxJaVNZZWdDRzF1dDJZdGI2UV9NYzdHXzRRbWlmcVFtT3NjNmFYNjlIZDk0dlhEd3JBbTBXZElJUQ?oc=5\" target=\"_blank\">Los Angeles City Council approves lower rent caps for Rent Stabilization Ordinance units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
-    },
-    {
-      "id": "4b4621fdd5004d35",
-      "title": "Los Angeles City Council Votes To Lower Rent Caps on 650,000 Rent-Stabilized Apartments - Reason Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFVDc09EaXBZT1QyRFUtWHl0LV8yVW03cTNPUktUZEFoZVBmWWc4Ym9TUnpPaGd0VVNTenU2ZzhaTlJmaVdZY0tveVFKNko1UHhoVnNVS1k2RnZLSmNsOTVRQW1IWnJ6THg5WFozMFJmUjAwNFI4NVEyLWZzYXRqa1VDZ1hKenFTV1NUNzhvZXBPaTR1RXh2SFlWWkU1cWxHRGZzc05DYXJpSEZIdDRreUFZaVQtMnZw?oc=5",
-      "source": "Reason Magazine",
-      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFVDc09EaXBZT1QyRFUtWHl0LV8yVW03cTNPUktUZEFoZVBmWWc4Ym9TUnpPaGd0VVNTenU2ZzhaTlJmaVdZY0tveVFKNko1UHhoVnNVS1k2RnZLSmNsOTVRQW1IWnJ6THg5WFozMFJmUjAwNFI4NVEyLWZzYXRqa1VDZ1hKenFTV1NUNzhvZXBPaTR1RXh2SFlWWkU1cWxHRGZzc05DYXJpSEZIdDRreUFZaVQtMnZw?oc=5\" target=\"_blank\">Los Angeles City Council Votes To Lower Rent Caps on 650,000 Rent-Stabilized Apartments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
-    },
-    {
-      "id": "dbf995ee4cffbb97",
-      "title": "Los Angeles approves first major rent control reform in decades, cutting annual increases to as low as 1% - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPOE9GOXpPUWFuTXgyYWtnb1lBU2tQR3RmMVFKdmNWbDJETEF1OU5wLXhVeUtOZEpNb2hJYnJwS1FYRmV0UjRTMWJQYk9PTG5ZV3pHX01LaXZlTkhMb2U3dTFYUVNlMV9TMUtBLUoyb1QtNkw3bjJnenhZbTBHcURQWjN0dlk1SUpJUjJLY3BSSEp0ZXNfX2hwWWQzYV9YclJzQk8yQ2hVNFhXdk9PQXdscGJlMnZTNWVBS2lhc3oyMm9ORnQxSVA3VWw1SUk4c2pob2hjYW5YTi10WmtIWGJuUENraEJ4S0J1enp2c2VSc2ttdkhFZnZ4VFhoNDgza3dpbTc4NdIBigJBVV95cUxQdFJRcV9MSS1TekpvQ1BOUFUwYVpHQmNYalZJUkJKVkVEZTFJWTZ2T18zN3QwZm40TEpxcGpyRWM3OTByZFB5ZkFNVDF1YXRaTVhVWWpYYWFoOFF6dktqUE1BVWg4MUxJSVNoLVlKaVh1clNvaTg1NllGV2pFaE9oOU9xbzg5VDZXM3R4Y25WSVFvTGRRUG5fT3BnTkM3VUVOQ1k3U2F2TXhpV2ExN1dkWmw3Q0xmeU9rUDVJWTlXb01MX1pwVVdHWWRjZGtxQTZFTmJreHdqcFdzY1F5QXduN0VsT1NVd0E2ZlFIcGlqYm85Qkw1eW5CR0ZmajZYU3hnVzJzcUpSOWliUQ?oc=5",
-      "source": "The Times of India",
-      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPOE9GOXpPUWFuTXgyYWtnb1lBU2tQR3RmMVFKdmNWbDJETEF1OU5wLXhVeUtOZEpNb2hJYnJwS1FYRmV0UjRTMWJQYk9PTG5ZV3pHX01LaXZlTkhMb2U3dTFYUVNlMV9TMUtBLUoyb1QtNkw3bjJnenhZbTBHcURQWjN0dlk1SUpJUjJLY3BSSEp0ZXNfX2hwWWQzYV9YclJzQk8yQ2hVNFhXdk9PQXdscGJlMnZTNWVBS2lhc3oyMm9ORnQxSVA3VWw1SUk4c2pob2hjYW5YTi10WmtIWGJuUENraEJ4S0J1enp2c2VSc2ttdkhFZnZ4VFhoNDgza3dpbTc4NdIBigJBVV95cUxQdFJRcV9MSS1TekpvQ1BOUFUwYVpHQmNYalZJUkJKVkVEZTFJWTZ2T18zN3QwZm40TEpxcGpyRWM3OTByZFB5ZkFNVDF1YXRaTVhVWWpYYWFoOFF6dktqUE1BVWg4MUxJSVNoLVlKaVh1clNvaTg1NllGV2pFaE9oOU9xbzg5VDZXM3R4Y25WSVFvTGRRUG5fT3BnTkM3VUVOQ1k3U2F2TXhpV2ExN1dkWmw3Q0xmeU9rUDVJWTlXb01MX1pwVVdHWWRjZGtxQTZFTmJreHdqcFdzY1F5QXduN0VsT1NVd0E2ZlFIcGlqYm85Qkw1eW5CR0ZmajZYU3hnVzJzcUpSOWliUQ?oc=5\" target=\"_blank\">Los Angeles approves first major rent control reform in decades, cutting annual increases to as low as 1%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
-    },
-    {
-      "id": "0e5999e09a146db8",
-      "title": "Los Angeles Passes Major Rent Control Overhaul - LAmag",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTVUpZNVBHLW1xWGNhMFpoOFhIdkdDTjZlc1ptTWdqSjI0TndjcnBtVFpLQjRsQldRY3dLSGdGbVFUenQ1dWtmbmdQT3l5T3dYZ1lVV1ZrRkZ3c0lxQ0k1WXhXTGZPaFQ3UjZJZWlTakFBdw?oc=5",
-      "source": "LAmag",
-      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBTVUpZNVBHLW1xWGNhMFpoOFhIdkdDTjZlc1ptTWdqSjI0TndjcnBtVFpLQjRsQldRY3dLSGdGbVFUenQ1dWtmbmdQT3l5T3dYZ1lVV1ZrRkZ3c0lxQ0k1WXhXTGZPaFQ3UjZJZWlTakFBdw?oc=5\" target=\"_blank\">Los Angeles Passes Major Rent Control Overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "rent"
-    },
-    {
-      "id": "930546a679a6026d",
-      "title": "City Planning Commission approves high-rise at 1105 S. Olive Street in DTLA - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFdhWDNQODJUUWpFS3FQVE9fSVZ0MWRGZnVyc3JhejNuakNuT3lSNndTMjlnb3M3OU1NYzB4NE5yeDNqZzlqdTM2RkpkaHdaSF95QUtmV3FUa1JuZHNYck9fRVBTeVpyV3Z1ekIwWnloYUk0dUFkYV93UmNsbWx3MEIwcjV3WEpRdnZ2SWNXbVBVNnA4QS13YTFjcmg0azQ?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 13 Feb 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFdhWDNQODJUUWpFS3FQVE9fSVZ0MWRGZnVyc3JhejNuakNuT3lSNndTMjlnb3M3OU1NYzB4NE5yeDNqZzlqdTM2RkpkaHdaSF95QUtmV3FUa1JuZHNYck9fRVBTeVpyV3Z1ekIwWnloYUk0dUFkYV93UmNsbWx3MEIwcjV3WEpRdnZ2SWNXbVBVNnA4QS13YTFjcmg0azQ?oc=5\" target=\"_blank\">City Planning Commission approves high-rise at 1105 S. Olive Street in DTLA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "1d5f02f6dcd7b1a3",
-      "title": "L.A. City Planning Commission Approves Affordable Housing in Westlake and Hollywood - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXBaeEpCMDJrZ0lFcTEwV1lzbXQtZGw1TC16X1hZZ3EtcnpqRmdncnBXb0hpRFlkc3hoNWZkVm5qSk9uV2RPNjZneFN3NzVETURjekdGN2F4WnUwazRLZVotSHo0OWNidE1keERnbXRGZDQxVzFfZ1Zyc0pua3JDWFV2RHotdEJLeGZiUDM2WkFFUnllT3dpLURXMlNaQjBtMkFvbmxTblE5NG9E?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 13 Feb 2020 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXBaeEpCMDJrZ0lFcTEwV1lzbXQtZGw1TC16X1hZZ3EtcnpqRmdncnBXb0hpRFlkc3hoNWZkVm5qSk9uV2RPNjZneFN3NzVETURjekdGN2F4WnUwazRLZVotSHo0OWNidE1keERnbXRGZDQxVzFfZ1Zyc0pua3JDWFV2RHotdEJLeGZiUDM2WkFFUnllT3dpLURXMlNaQjBtMkFvbmxTblE5NG9E?oc=5\" target=\"_blank\">L.A. City Planning Commission Approves Affordable Housing in Westlake and Hollywood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "eea020024163224d",
-      "title": "Hong Kong developer ups apartments, gets OK for project in heart of suburban Chinatown - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaS1Wc20zSGZnSW5KdnNpNm1mbEtTd2VObE53b1luTWRCLV9SZDY2TnF5QTdfaUFURklEUTE5aVpBU244LU5EeHl1WTAtOERJbmxHOTlFRFZmTHZ3Y1B0bkZXTzFBOEEwT21LRlhqUjR6N1QxQ3ZsR2E5UUFjeGZQWUNDbFd6LTUtN1FZVmU4dTd6TGw4LV9jNDF6ekJXZw?oc=5",
-      "source": "The Real Deal",
-      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNaS1Wc20zSGZnSW5KdnNpNm1mbEtTd2VObE53b1luTWRCLV9SZDY2TnF5QTdfaUFURklEUTE5aVpBU244LU5EeHl1WTAtOERJbmxHOTlFRFZmTHZ3Y1B0bkZXTzFBOEEwT21LRlhqUjR6N1QxQ3ZsR2E5UUFjeGZQWUNDbFd6LTUtN1FZVmU4dTd6TGw4LV9jNDF6ekJXZw?oc=5\" target=\"_blank\">Hong Kong developer ups apartments, gets OK for project in heart of suburban Chinatown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
     }
   ]
 }
