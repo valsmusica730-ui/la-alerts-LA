@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:54:22.939009+00:00",
+  "generated_at": "2026-10-22T08:03:48.492712+00:00",
   "total": 500,
   "alerts": [
     {
@@ -753,6 +753,16 @@
       "category": "rent"
     },
     {
+      "id": "04f40ec0cbe95122",
+      "title": "Why the LA City Council narrowly voted to oppose state bill allowing more housing near public transit - LAist",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMExTWWJrdnV2Ml9SdjRyZzhFa3g5dHpvOTEtWnhsNmc4QV90RFhndTB2c2FhX1RWWGFzYThfTUdqRXZ0bk5RRmhwZF9vWHRIQ0xMck92dDBiMlZUTlZacGlKTFFDOV9JQXVhb3JGVWd1d3pZVGZobFpYclBQX3NPdHJxNTNCOS1OTC1LcDBNWmdEV2xvcWhOT1hMVWx2UEowNzh0NEI5NlppSmRDeUY4dnllOXJkUkFjbngtUjJFWUk?oc=5",
+      "source": "LAist",
+      "published": "Wed, 20 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMExTWWJrdnV2Ml9SdjRyZzhFa3g5dHpvOTEtWnhsNmc4QV90RFhndTB2c2FhX1RWWGFzYThfTUdqRXZ0bk5RRmhwZF9vWHRIQ0xMck92dDBiMlZUTlZacGlKTFFDOV9JQXVhb3JGVWd1d3pZVGZobFpYclBQX3NPdHJxNTNCOS1OTC1LcDBNWmdEV2xvcWhOT1hMVWx2UEowNzh0NEI5NlppSmRDeUY4dnllOXJkUkFjbngtUjJFWUk?oc=5\" target=\"_blank\">Why the LA City Council narrowly voted to oppose state bill allowing more housing near public transit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "280132b54ebd12b6",
       "title": "LA County's new Covid-19 tenant protections are found too vague to enforce - Courthouse News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVZqZk4ydF9icVRIVDVISnZURUZZeUNfZWZobkZMVkFNY0tTY0txdU11QmdFMTJBTmx4dThoNUo2TllxRFFaS0c2MEIxbVdVeEJpN29xYkdkWFVHQmZpTjJWaElDcTlvMV81SjM3TU9xYzhXVmpqbUVUajBSN2s0cHlxV0x3QTR0NU5qVkJ2LWZGc0o0OXJoc0M5ZFRwYUNwcVc5dDFBUGI?oc=5",
@@ -801,6 +811,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWgyZVd1MGMxOHVEMW16MHRkeTZuMXJIdDUxUnduek05eHNESnE2WG5pSFZkMmlJeGh2Sk9pS3FoemtlT1pPNmMzQUlFcUFVRUNKZXVLRC1hZW1tRFBndHlyREl2dmV4V0IwaGd2TDJidW10WjItUldiX3JPa3FjcENVYjh2V2tXYTRGNlVHUVo2UmRsWUJvRkxfMlF4ME1WbmhqWTNPakhBQ011aTUta0JB?oc=5\" target=\"_blank\">California Housing: Past, Present, SB 9 and the Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">League of Women Voters</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "2e6a08df5efef7e9",
+      "title": "L.A. City Council Signs Off on 56-Story DTLA Tower - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50UGwzMnVCVVFyRDAxdFYyaFFBbEhiM2E5dmQxSWRnWnNVUnBwVEZIbGhLNC1UU29panlwbWpTSXBEWC12RlFwTmZEQTBla0hYV1pRbUVLYktyX3JwdjJEWm1FNHRGeDl3MDJNWTdIWXJ0aTlLVFBFTVB4QQ?oc=5",
+      "source": "Urbanize LA",
+      "published": "Wed, 19 Aug 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE50UGwzMnVCVVFyRDAxdFYyaFFBbEhiM2E5dmQxSWRnWnNVUnBwVEZIbGhLNC1UU29panlwbWpTSXBEWC12RlFwTmZEQTBla0hYV1pRbUVLYktyX3JwdjJEWm1FNHRGeDl3MDJNWTdIWXJ0aTlLVFBFTVB4QQ?oc=5\" target=\"_blank\">L.A. City Council Signs Off on 56-Story DTLA Tower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "8a176f82faeec79a",
@@ -3383,6 +3403,26 @@
       "category": "tax"
     },
     {
+      "id": "ff95036c5e4cc273",
+      "title": "L.A. City Council votes to boost housing development, while leaving out single-family-home zones - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0xKUXA2eGVaQi1hWnJMZEJEQ3oxSmdGTms1aS1XREdHdnFPcjQ0ZW1XV2JjMVZtRXBRYlRIVXRlTEhDaGlQY3kzVU1McGhjVG1YUU03MGZPTmxLZzQtSm1rTUwxSnhNeVA2NllTS2FpMThMQm91c2p5WTVpZGF2S3ZBRG1la0VkZ3hmZnVhUW50X1hrbG42b0xKdkNncWFtellNRWZiZEVwUlRnOHNfXy12NkpiRGN5VjM3dFZMWHlFSk5KQ1FQX3I0YUg1bE83V2xPQ2xwUmdGbVZZU1dj?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Tue, 10 Dec 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0xKUXA2eGVaQi1hWnJMZEJEQ3oxSmdGTms1aS1XREdHdnFPcjQ0ZW1XV2JjMVZtRXBRYlRIVXRlTEhDaGlQY3kzVU1McGhjVG1YUU03MGZPTmxLZzQtSm1rTUwxSnhNeVA2NllTS2FpMThMQm91c2p5WTVpZGF2S3ZBRG1la0VkZ3hmZnVhUW50X1hrbG42b0xKdkNncWFtellNRWZiZEVwUlRnOHNfXy12NkpiRGN5VjM3dFZMWHlFSk5KQ1FQX3I0YUg1bE83V2xPQ2xwUmdGbVZZU1dj?oc=5\" target=\"_blank\">L.A. City Council votes to boost housing development, while leaving out single-family-home zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "5cbd9b3c5d042438",
+      "title": "Facing need for more housing, LA's City Council votes to keep new apartments away from homeowners - LAist",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYzRjUUNzalU1OTc2eFMtSUtpR1IxaDlCV1VOdVJ5RnVodFRBZFVsd3JSMjZVZ1VUUEx3eUs5WVByZ1ZJMFJ0bzVicmJndU1jdGRCcERrcFVZMEkwLTlPY2d6c183UUFFYWhSMTRmR2tzeGhvNlliT3I4UXdFcmNQcHN1SGV6SV9EZ1VVQTBNeFBHb1ppMXFhVWlXWHRGRjFubnBVeGZZb3QzY0hmNThsV0RJNU9WQTdPT2tDX1dGZzU2dmh4UE9nRlNyOEJUQQ?oc=5",
+      "source": "LAist",
+      "published": "Tue, 10 Dec 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOYzRjUUNzalU1OTc2eFMtSUtpR1IxaDlCV1VOdVJ5RnVodFRBZFVsd3JSMjZVZ1VUUEx3eUs5WVByZ1ZJMFJ0bzVicmJndU1jdGRCcERrcFVZMEkwLTlPY2d6c183UUFFYWhSMTRmR2tzeGhvNlliT3I4UXdFcmNQcHN1SGV6SV9EZ1VVQTBNeFBHb1ppMXFhVWlXWHRGRjFubnBVeGZZb3QzY0hmNThsV0RJNU9WQTdPT2tDX1dGZzU2dmh4UE9nRlNyOEJUQQ?oc=5\" target=\"_blank\">Facing need for more housing, LA's City Council votes to keep new apartments away from homeowners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "2233a06703512a88",
       "title": "$100M moratorium: That’s how much Geoff Palmer’s firms say LA eviction ban has cost them - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlprZUF0R0pGb3ptNnQ2M0tnZGdpOElkSmtqOFNVMGZyamZEY3B4RGVWNFkxMU9PVDgwNEtNaVJiQ19pM3BtWGRXV2pwS2xWSmtubzBPVGw4YVhGMUpUeEVRRDBTSVZFR3ZzRmMxT181YWxqa2liTnBtMXBEVS1FOHVfQzlXZG0yblRWYnQ2VElVMkNvaHBIakszSWozMTVaN3UtUnB3X2tQcV81RVNsNFJuOEtOZ0ZrRGlveEcyd1E?oc=5",
@@ -4183,6 +4223,16 @@
       "category": "other"
     },
     {
+      "id": "f21dbef6ae6b68f2",
+      "title": "LA City Council must backtrack on San Fernando Valley housing development rejections - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ25TZFpiSnZOaXFmblZxODFpSTFsQ0dSdlZVcVY1eUtNOHRBUW0yV2lFUWtfT0ZPalZDTk1EdzVBUlh6UFNjemliX0x2OTAwRl9CVUFSMDlkRzVJbUVYcmR6NEVqWjNTTUQtNkV3dlR2NFA0SzVIQUFEYUtWb2RubmJWUjlmVkd2NE5ydnVNR0Z0N2RjUHpfd2FIQVVZdjA?oc=5",
+      "source": "The Real Deal",
+      "published": "Thu, 29 May 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ25TZFpiSnZOaXFmblZxODFpSTFsQ0dSdlZVcVY1eUtNOHRBUW0yV2lFUWtfT0ZPalZDTk1EdzVBUlh6UFNjemliX0x2OTAwRl9CVUFSMDlkRzVJbUVYcmR6NEVqWjNTTUQtNkV3dlR2NFA0SzVIQUFEYUtWb2RubmJWUjlmVkd2NE5ydnVNR0Z0N2RjUHpfd2FIQVVZdjA?oc=5\" target=\"_blank\">LA City Council must backtrack on San Fernando Valley housing development rejections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "17179f544c1a5ff0",
       "title": "White House says it has no choice but to allow eviction ban to expire Saturday - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDVDY0ZXUmZBOXItZzRyS3VsUWZBZDUtLW5ONVVCSGdTeUpBa2xXOHI4M2ZlNm14RTMwY1dNVTktSUxCQURQeWtOZEdsLWxaV2ZtOFZRU0hSZV9VdUVyaE5MSE1TZ0tldDJfQ1N2YkRiWlZ3RW5vMUlOcU1CMTJ3UWhHRVNfYThjNUNsVWJEa3FpR3lTb3Ewc2VOR3hCSEMtUDRUa2ln?oc=5",
@@ -4319,6 +4369,16 @@
       "source": "Urbanize LA",
       "published": "Thu, 26 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1FYRGU2anNvcUxjbGJYQU9PR0pLcHBjYW15VXlEYzUxV3hEM19zbE51NUhnVDhoM2hfcFV1ZWhHM0Nla2YyMW4xYjNlbEFQMHBLcDhUcnBsZVZPT0xydUpPU1NubjVoczY0ckhPcnFmWldCdnNLajlBeXRnRmNoT3IzQmcwRG5TLWxxZ0VQMlZZWFdCUWZaUVFhUE8wZjJjczBLemRFODF2MEE?oc=5\" target=\"_blank\">Beverly Hills City Council approves Builder's Remedy high-rise at 8844 Burton Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "7867d21c0bf55bf0",
+      "title": "Los Angeles City Council approves long-delayed Arts District development - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakpfQ0M5X2htNDQ1S0hjN2lBS3Bnc2FPa1JOZ21iTUM3ZEFOc0lFVHlPc2JVdFY2SUNSMDhkTllIbkNaeHloekhPMWgyU2RUNTE5VEU3SkN6WmtrbHF3RE1obTltd3hpbmQtUk04NC1rZ2ZuLWV4T1pRdXNaMmVFR29UOXZRdWtub3BwaGloUEJrWjcxbjQzU25iWTg0UUU?oc=5",
+      "source": "The Real Deal",
+      "published": "Thu, 26 Jun 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPakpfQ0M5X2htNDQ1S0hjN2lBS3Bnc2FPa1JOZ21iTUM3ZEFOc0lFVHlPc2JVdFY2SUNSMDhkTllIbkNaeHloekhPMWgyU2RUNTE5VEU3SkN6WmtrbHF3RE1obTltd3hpbmQtUk04NC1rZ2ZuLWV4T1pRdXNaMmVFR29UOXZRdWtub3BwaGloUEJrWjcxbjQzU25iWTg0UUU?oc=5\" target=\"_blank\">Los Angeles City Council approves long-delayed Arts District development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     },
@@ -4941,66 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEUyc3k3bHl1TW83WHM5VThiMEpsT3NmN01haThjQlBKcGNZYnA3NlNVNHJod1ZTUkJCSVNZakUzVF8zbEFLRW1mZDNMNzhzSGVYdE92YzN4NHdpY1E0OWUxS2tlOEdsNEJjblN2QVJlSUUxZWM4eVRmY0gzRDdLcHZVWEZZS00tUHNfcjk5YXFkbWZEbl9EZnpyWE5ITENpaXVkeVNCQW1NUzNCbHlFZXlsNmVjTWczSFIwYm1oTEtiRWdhQ0U3SWx3amw1a3NicG5SaDBHTVQ0d9IBwwFBVV95cUxNWExJVXNleWh6UVhpakxqc2s2WFhoMk9iZV94R2llRjAwbmtxal92Q0tPR1gzZk0xUHp0OXNfdUNNRHhxQlNfN24yblFZTXRFUkZOdWZPZEFDZVMwekhmc2ZJWGIyMl9oTVJVY28wY3oxbG50UmlTYV84d0xKVFdJdDZYRTNzNHhfWVNfWEhUZElaMFhoeExJU2E0UmtJdXBGTC03RDBwX0hqdmNRcnZ5Ukw1RWwxRTM1cGFxMXYyYUh3QVU?oc=5\" target=\"_blank\">LA City Planning Commission OKs USC Plans to Develop New Sports Stadium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFI AM 640</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "e89547858bcc08eb",
-      "title": "California lawmakers vote to ban mandatory evictions for arrested tenants - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXNWU28xQ1d5eFM0X1NNZ0VsV1hMT1djOXhibTM1NEpHSndiMGxRdEwxc3p5QllpeUJWM0RpU0NfNnp6UmQyUkl0N0YxS3VPVzFQXzFRRTBxTmc3a2lhWUlwZVFqQjd6SDBLdjJIcTVDdkJTNkpKWllwWGd6cnNDNHJOcXdqaXBTLTROOGl0MW5VclMyU3B1a0NrWEh1RnhCYlFZeU1MMjZQbHd5Y0xnazVZTFZNRHlabzZKX28xYVBVdVFoZTRwTE1URQ?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 14 Sep 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXNWU28xQ1d5eFM0X1NNZ0VsV1hMT1djOXhibTM1NEpHSndiMGxRdEwxc3p5QllpeUJWM0RpU0NfNnp6UmQyUkl0N0YxS3VPVzFQXzFRRTBxTmc3a2lhWUlwZVFqQjd6SDBLdjJIcTVDdkJTNkpKWllwWGd6cnNDNHJOcXdqaXBTLTROOGl0MW5VclMyU3B1a0NrWEh1RnhCYlFZeU1MMjZQbHd5Y0xnazVZTFZNRHlabzZKX28xYVBVdVFoZTRwTE1URQ?oc=5\" target=\"_blank\">California lawmakers vote to ban mandatory evictions for arrested tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "rent"
-    },
-    {
-      "id": "d6806c44a9784bbf",
-      "title": "The Facts About Measure A - LA County Homeless Services & Housing (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52OHJOWERUMExFWjJtak5ESHF5bnFwcnpIczhNXzJhblpwbFpwckoyQm5MVkVaOEU4eE1JRVpoU3dTUnJ6TmotcHh3a1JEM2ZkZ0VTMkFvVGVjSzlGVy1KRXpmblQ2MnJRU2ZuMURn?oc=5",
-      "source": "LA County Homeless Services & Housing (.gov)",
-      "published": "Thu, 14 Nov 2024 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE52OHJOWERUMExFWjJtak5ESHF5bnFwcnpIczhNXzJhblpwbFpwckoyQm5MVkVaOEU4eE1JRVpoU3dTUnJ6TmotcHh3a1JEM2ZkZ0VTMkFvVGVjSzlGVy1KRXpmblQ2MnJRU2ZuMURn?oc=5\" target=\"_blank\">The Facts About Measure A</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LA County Homeless Services & Housing (.gov)</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "other"
-    },
-    {
-      "id": "d3a8940a5a164fce",
-      "title": "Measure ULA Carve-Outs Could Reduce Tax's Revenue By Up To 35% Annually, City Report Says - Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW5ycVVTNUF4ZlZDdmZBUDYzbU04RjQ2cUlhRUtGVlByM25VdE5ER1pzc3FPNU5oUTMxVlp2NmJscXlGaS1xZXp2Q0hWUmQtOFBUYWhDd05NUThKSEJhWmpUODhta29sLWxtWEJla3c0X2lHN3VWMDlKM2c4d2JPWkY0UUw3ODBZdFBmSUpXZ2FleXNTN0RRTg?oc=5",
-      "source": "Bisnow",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW5ycVVTNUF4ZlZDdmZBUDYzbU04RjQ2cUlhRUtGVlByM25VdE5ER1pzc3FPNU5oUTMxVlp2NmJscXlGaS1xZXp2Q0hWUmQtOFBUYWhDd05NUThKSEJhWmpUODhta29sLWxtWEJla3c0X2lHN3VWMDlKM2c4d2JPWkY0UUw3ODBZdFBmSUpXZ2FleXNTN0RRTg?oc=5\" target=\"_blank\">Measure ULA Carve-Outs Could Reduce Tax's Revenue By Up To 35% Annually, City Report Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "e1d51521a41371a8",
-      "title": "Former LAX commissioner tapped for LA harbor board, pending council approval - Daily Breeze",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkpPMFNyUTZQSml0ZmlXNV9KcmhwV19VMDgyTDVQZDFqYkpBM2VKTm1VWldlTEJQbDFPNzk3RmIyRlNVLUVYLUJfMUgtUGJWX0pfVy11QlBwTC10ekRnQWhnd0pEU3hjbGVVR1BvSWFEQkgtQzFJZ1JvZXppQ28yNjVaSFFSaWxjUHQ4RVZZRTNzR004R3duSmdaQl9LTjA3UjhGSXRyTU1EX0N1aVN6Y0lTOGFUZw?oc=5",
-      "source": "Daily Breeze",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkpPMFNyUTZQSml0ZmlXNV9KcmhwV19VMDgyTDVQZDFqYkpBM2VKTm1VWldlTEJQbDFPNzk3RmIyRlNVLUVYLUJfMUgtUGJWX0pfVy11QlBwTC10ekRnQWhnd0pEU3hjbGVVR1BvSWFEQkgtQzFJZ1JvZXppQ28yNjVaSFFSaWxjUHQ4RVZZRTNzR004R3duSmdaQl9LTjA3UjhGSXRyTU1EX0N1aVN6Y0lTOGFUZw?oc=5\" target=\"_blank\">Former LAX commissioner tapped for LA harbor board, pending council approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Breeze</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "3cfe4fa0c789365f",
-      "title": "LA Area Chamber Calls on City Council to Reform Measure ULA - Culver City Observer",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGZMU2g2eEx4dDdiQmlSbF9LU3JpRk1Id1BqQXAtaHRmS3Fhc0RTTXJONFMtMGRRY244MmVQTHJXSmhfVFJLWjFPTXVlWXctQ2REU2hLSjNmOUQtZFZ6WUNxWHFMUDJjM1pzQ05oc2FwX2lUTDVDRUtrdWVmbXNDZGtFS0t1Yk5RODM4VXNUSzh0aWZLM3plQ3pSZm1KZ2g0dkcySk40elN0bEJEelIwY0VzZEFuQ3hyRjFtSWdad0pOZGFCVkE?oc=5",
-      "source": "Culver City Observer",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGZMU2g2eEx4dDdiQmlSbF9LU3JpRk1Id1BqQXAtaHRmS3Fhc0RTTXJONFMtMGRRY244MmVQTHJXSmhfVFJLWjFPTXVlWXctQ2REU2hLSjNmOUQtZFZ6WUNxWHFMUDJjM1pzQ05oc2FwX2lUTDVDRUtrdWVmbXNDZGtFS0t1Yk5RODM4VXNUSzh0aWZLM3plQ3pSZm1KZ2g0dkcySk40elN0bEJEelIwY0VzZEFuQ3hyRjFtSWdad0pOZGFCVkE?oc=5\" target=\"_blank\">LA Area Chamber Calls on City Council to Reform Measure ULA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Culver City Observer</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "3b4c59bc9aec1237",
-      "title": "Plan To Demolish Beverly Plaza For 8-Story Building Approved - Patch",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDVrSThpT2h6Y2x2bXZoMXBfUDlsWFlyclgxcEVPOE4zTjVUNXdPX2tnRGEtdmlmQVBTMHIwRGVYV29Pa0FXZFFWSTF0RlEzU2t1cVowQjZRXzlsSk10REJFRnFoeGhrcnlCd21LTUNOdC02MGc1QTVDVDN2Q195dElMWUtmemFyeGJiaFZWN1VtcFIwQUFEVmxB?oc=5",
-      "source": "Patch",
-      "published": "Thu, 14 Mar 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDVrSThpT2h6Y2x2bXZoMXBfUDlsWFlyclgxcEVPOE4zTjVUNXdPX2tnRGEtdmlmQVBTMHIwRGVYV29Pa0FXZFFWSTF0RlEzU2t1cVowQjZRXzlsSk10REJFRnFoeGhrcnlCd21LTUNOdC02MGc1QTVDVDN2Q195dElMWUtmemFyeGJiaFZWN1VtcFIwQUFEVmxB?oc=5\" target=\"_blank\">Plan To Demolish Beverly Plaza For 8-Story Building Approved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "other"
     }
   ]
 }
