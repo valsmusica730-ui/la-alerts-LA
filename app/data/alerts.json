@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:11:18.701958+00:00",
+  "generated_at": "2026-10-22T21:59:51.084811+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4493,6 +4493,16 @@
       "category": "policy"
     },
     {
+      "id": "ccf31abe96098d2c",
+      "title": "LA City Council Approves Largest-Ever Funding Pool for Affordable Housing - Connect CRE",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVJ1cmRRSnR6Z2RBVUJGOVdYTk5YV1I2RG15U01IbmVwZnlBeUp3MlZYY3ZVSzJfOFhCQVAwdHlFQmd4Yzh2SGtsRWtUS2VMcGlVeXRxdF9aN2NBbDdEcFRfUzJXVmptX1liSkp0Qmd1RkZRUmwyX3pkNGlGMFBWNlFsaDZmWkpncVpFM29BUk95QUtMY2lRSzE1RDRQMGNUck94VGZOMGVGT0IzY0E?oc=5",
+      "source": "Connect CRE",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVJ1cmRRSnR6Z2RBVUJGOVdYTk5YV1I2RG15U01IbmVwZnlBeUp3MlZYY3ZVSzJfOFhCQVAwdHlFQmd4Yzh2SGtsRWtUS2VMcGlVeXRxdF9aN2NBbDdEcFRfUzJXVmptX1liSkp0Qmd1RkZRUmwyX3pkNGlGMFBWNlFsaDZmWkpncVpFM29BUk95QUtMY2lRSzE1RDRQMGNUck94VGZOMGVGT0IzY0E?oc=5\" target=\"_blank\">LA City Council Approves Largest-Ever Funding Pool for Affordable Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Connect CRE</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "fcc1b334939e362b",
       "title": "LA Planning Commission approves Harvard-Westlake’s plan to redevelop golf course in Studio City - Los Angeles Daily News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzZYMVNzV0YzNGpvNGJTNjFTVE9EVURmaXFlVGl3ZHZ6c2Q2UWFRSUFERzhoU3p3VTBEXzFGTFRSZTRUekJFNUc0WDlTUzR2LUJIcnVQRG9aeXBIU1lUdHdELWlSQ1kwbi1Ydm9ZcUZuVV9FTWcxZjZ3azlXdy1VaThMbUw5eHUzaFhSbTQwUkNJN0FDelAtb05KSmZNMzlwZWJwYUdZazhYVk9acnc?oc=5",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 15 Jun 2023 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUVpOTlsRV9HTTRvdWd2SWdDd3picVhtdU01dE9ROXRNWDBPY21FMEhoU3BGYUNkN09aY0lxWm9EaDdVa18xakxxTFVEVWVuQVctNEdHNFFDOUcyN3Y1UXl0cDZ6RWtaUXg5amFpdDYxNzdSc0YzYmVVUmZZaEJBaFhkSl9IcUNkUGV3RDNLd1pqUUZGZUlrMUg1TnpEZ2lNVmpSQ2FndnhjWkhFbnlCZWdtTGlUallVU28xY1dzZlM2Zw?oc=5\" target=\"_blank\">Zoning Out: Why We Have Zoning Laws, and How They Shape California and Society (Not Always For the Best)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Local</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
-    },
-    {
-      "id": "7a15ef50c96f84de",
-      "title": "LA Planning Commission OKs USC's Plan To Develop New Sports Stadium - Patch",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNREhFaHcwd1g4ZzNCTmFyMkZvdG5KLVBHbWQ1MDI4Sm5wc2pYT00yaFpiMmFyWFJpUlhvcGk1T2EwTmF2bEIxR0pmWF9QSWhaOW9TV2IzcG8wNHpJU3g5LUZGUVVzSUctQ2dIUlIwSVNCRDRfbGNrV2N3d183OVF5eU1yZ0I5ak9OdDF2QUpuNDZXRTZwZHB0MWdwckZHeEFNYkQ0RTBpaw?oc=5",
-      "source": "Patch",
-      "published": "Thu, 14 Sep 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNREhFaHcwd1g4ZzNCTmFyMkZvdG5KLVBHbWQ1MDI4Sm5wc2pYT00yaFpiMmFyWFJpUlhvcGk1T2EwTmF2bEIxR0pmWF9QSWhaOW9TV2IzcG8wNHpJU3g5LUZGUVVzSUctQ2dIUlIwSVNCRDRfbGNrV2N3d183OVF5eU1yZ0I5ak9OdDF2QUpuNDZXRTZwZHB0MWdwckZHeEFNYkQ0RTBpaw?oc=5\" target=\"_blank\">LA Planning Commission OKs USC's Plan To Develop New Sports Stadium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     }
   ]
