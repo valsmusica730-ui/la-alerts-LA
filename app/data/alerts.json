@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:59:51.084811+00:00",
+  "generated_at": "2026-10-23T00:25:55.906050+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3193,6 +3193,16 @@
       "category": "policy"
     },
     {
+      "id": "6443763bea203cd8",
+      "title": "LA Has Rules For Airbnb And Vrbo Listings — But Are They Enforced? - LAist",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNemM3ZHc4c21pT1VKTG1zYm54YWVRRWJCSmdlUUhGRWtUMWJRMGVaWWZYRzNRWWZkZXlYTWFTVjdEVFRIcEVzWUMzY0xVY1VQbm9fZFVjNnUwRnJWTS1FalJmX3hjSWN4Zk1NbTBWaWh2bWxubVJ5dHNMSXhOVExQZzluYlNxZE5qM3RjenRGRnh3V1h0ZHEwaWp6aExxQWpYb00wajY0TDNteFk1Sm5sb09LaDFERGlfd1ZOSGw4S3Qzc3BJbWZGUHhtT0dKSFBkQnpV?oc=5",
+      "source": "LAist",
+      "published": "Tue, 13 Dec 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNemM3ZHc4c21pT1VKTG1zYm54YWVRRWJCSmdlUUhGRWtUMWJRMGVaWWZYRzNRWWZkZXlYTWFTVjdEVFRIcEVzWUMzY0xVY1VQbm9fZFVjNnUwRnJWTS1FalJmX3hjSWN4Zk1NbTBWaWh2bWxubVJ5dHNMSXhOVExQZzluYlNxZE5qM3RjenRGRnh3V1h0ZHEwaWp6aExxQWpYb00wajY0TDNteFk1Sm5sb09LaDFERGlfd1ZOSGw4S3Qzc3BJbWZGUHhtT0dKSFBkQnpV?oc=5\" target=\"_blank\">LA Has Rules For Airbnb And Vrbo Listings — But Are They Enforced?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "0e1b34eb5c47befa",
       "title": "Will LA city’s planning commission back dozens of digital billboards citywide? - dailynews.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFFBdXR6QlhOdEotdFU5OWQzRXZnV19Sb3lMXzFVR0taQldhdEtoZHZRTkV0Ri1lNThTa2RIdGlPd2ptaEdEeTR2QlNzRjZ3Z3h4V09ydVFOaHZDVmhVLUlkUnhxNHVrUzdFWXNOTlZqTXhEVUpJSnhFLXBxcGJnM0hiS3FNNjN6UXFRdWl3R3BuS0VPMG5UM2VQZWJPNVpyeGJycFJOa0RXVWRZTmV4NTJ5V2E?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1SUXl5VFdBNEk4RW51Qm5Td18zMnlJYXBBRVNtWm5NcDJ2YWllWXowSkJqYkd6SlBsOEdRY3J6VVlXV1pYMzRjT0t3ZTMwSkI1OUZsNEFiSDlSQlpHaDFRc0xjNU9ZYkRscWQ1MTEyUERGOTBKeFRWc2FnWkM?oc=5\" target=\"_blank\">It costs too much to build in California. Lawmakers say this tweak could help</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "other"
-    },
-    {
-      "id": "a401f3c1939a9f3e",
-      "title": "Zoning Out: Why We Have Zoning Laws, and How They Shape California and Society (Not Always For the Best) - California Local",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUVpOTlsRV9HTTRvdWd2SWdDd3picVhtdU01dE9ROXRNWDBPY21FMEhoU3BGYUNkN09aY0lxWm9EaDdVa18xakxxTFVEVWVuQVctNEdHNFFDOUcyN3Y1UXl0cDZ6RWtaUXg5amFpdDYxNzdSc0YzYmVVUmZZaEJBaFhkSl9IcUNkUGV3RDNLd1pqUUZGZUlrMUg1TnpEZ2lNVmpSQ2FndnhjWkhFbnlCZWdtTGlUallVU28xY1dzZlM2Zw?oc=5",
-      "source": "California Local",
-      "published": "Thu, 15 Jun 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUVpOTlsRV9HTTRvdWd2SWdDd3picVhtdU01dE9ROXRNWDBPY21FMEhoU3BGYUNkN09aY0lxWm9EaDdVa18xakxxTFVEVWVuQVctNEdHNFFDOUcyN3Y1UXl0cDZ6RWtaUXg5amFpdDYxNzdSc0YzYmVVUmZZaEJBaFhkSl9IcUNkUGV3RDNLd1pqUUZGZUlrMUg1TnpEZ2lNVmpSQ2FndnhjWkhFbnlCZWdtTGlUallVU28xY1dzZlM2Zw?oc=5\" target=\"_blank\">Zoning Out: Why We Have Zoning Laws, and How They Shape California and Society (Not Always For the Best)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Local</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
     }
   ]
 }
