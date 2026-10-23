@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:32:26.253699+00:00",
+  "generated_at": "2026-10-23T10:39:26.006376+00:00",
   "total": 500,
   "alerts": [
     {
@@ -361,6 +361,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnN4Vm9pWEdCN01WSFlpOTZ4U0pWRnNJY2VLS2ZnOEFsS1BZbGFNNEZ4SUt5MVZ2dzdKTC16WEhWWnlieFVWQllpbzZmbnQ1RktXMjNWWmROQmZTa0VLTmUwd3JEZ05tVTF0bkpEaVhGNHc1MnA0VHhCcDB3UGRPaUJMZHNqbVRVSjRB?oc=5\" target=\"_blank\">Residents plan to fight La Cienega tower in court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "legal"
+    },
+    {
+      "id": "dd8af272783609b5",
+      "title": "State extends eviction moratorium, creates $2.6B rent subsidy program - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQanZEXzM0MjE3dFg0Z3VoT0duWHVza1hnMTRiSkFkM1J1emZMWVY3NVV4ay1TZFdYcWl2WUtPV21BVnBueURmYmpLOUFicEVkdFNJamxETlNldmJZVml4QWJndVRvLW5FdzY0LUlEQTlXQl8yQlNsbVNkVVNwcEUyT0FIYW9sYmowckV2UUpNS2FVUzEtTlQ3SnBSRmRmSmZRY0RwMDhTbEM3QQ?oc=5",
+      "source": "The Real Deal",
+      "published": "Wed, 27 Jan 2021 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQanZEXzM0MjE3dFg0Z3VoT0duWHVza1hnMTRiSkFkM1J1emZMWVY3NVV4ay1TZFdYcWl2WUtPV21BVnBueURmYmpLOUFicEVkdFNJamxETlNldmJZVml4QWJndVRvLW5FdzY0LUlEQTlXQl8yQlNsbVNkVVNwcEUyT0FIYW9sYmowckV2UUpNS2FVUzEtTlQ3SnBSRmRmSmZRY0RwMDhTbEM3QQ?oc=5\" target=\"_blank\">State extends eviction moratorium, creates $2.6B rent subsidy program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "4b0a6c6b68bf127d",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 15 Oct 2026 22:13:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU9oU1cyQVJBR1pZREhSRFlqUFFOOFNLY1MycnNIekJEZ3N6dXRnQlhvajR0WlpRYTY2QU9Kb05ocEJQSTlwQ3FBektzTjJNQXZWNk5Tcnp5ZUI2QTBFdmpGWXplYVZPWk5sbjNfdjBETFJ2by04NVE0dVVodzNtWkJRNjBLc0JfQ2gwTmlvRDNxc0tob1hEU2h6RWM?oc=5\" target=\"_blank\">Eagle Four’s luxury resi project moving forward with latest Newport Beach council nod</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "f34b6c941894b720",
-      "title": "It costs too much to build in California. Lawmakers say this tweak could help - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SUXl5VFdBNEk4RW51Qm5Td18zMnlJYXBBRVNtWm5NcDJ2YWllWXowSkJqYkd6SlBsOEdRY3J6VVlXV1pYMzRjT0t3ZTMwSkI1OUZsNEFiSDlSQlpHaDFRc0xjNU9ZYkRscWQ1MTEyUERGOTBKeFRWc2FnWkM?oc=5",
-      "source": "CalMatters",
-      "published": "Thu, 15 May 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1SUXl5VFdBNEk4RW51Qm5Td18zMnlJYXBBRVNtWm5NcDJ2YWllWXowSkJqYkd6SlBsOEdRY3J6VVlXV1pYMzRjT0t3ZTMwSkI1OUZsNEFiSDlSQlpHaDFRc0xjNU9ZYkRscWQ1MTEyUERGOTBKeFRWc2FnWkM?oc=5\" target=\"_blank\">It costs too much to build in California. Lawmakers say this tweak could help</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
-      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "other"
     }
   ]
