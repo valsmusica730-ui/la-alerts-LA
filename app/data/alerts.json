@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:31:27.764348+00:00",
+  "generated_at": "2026-10-23T19:37:29.127411+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2169,6 +2169,16 @@
       "source": "MyNewsLA.com",
       "published": "Tue, 30 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNR1VWX2RoSjhJa2lDSTNtd0FkSk10QkQ1TDBMbjB2bTF5a1A0OElLQXJVNFhJaDZmV1JEbWlLMkt2c2VoOU44cWZhUnVyQVBnNXBBbzZrS3VGc2pRYWVNeGlzSzVPYlpUcW9WYjY5dG51Z3JETFR4S2FuUjc1dEF6RjcyUlRHSmFLNmZDeFFnUEFyUDRYYk9ZSm5IRXp3czZJaXhKY0l6ajZKWGh5RUNGazBIV3U?oc=5\" target=\"_blank\">LA Council Approves Fourth & Central Mixed-Use Development in Downtown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "zoning"
+    },
+    {
+      "id": "3b97ba504d4f2337",
+      "title": "LA Council Approves Fourth & Central Mixed-Use Development in Downtown - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFlmRlNHOC1kRWtjdlJId2R2T0VPR3Yydl8tajNUbmpnRDRJX3NXN2t3bGNBVG5FNjZhUVk2bVBrOWE5MHVycWRaZmlFZ1dvaHBpOV8zcnVyU1lqSFhfdVpva093enFfdnFNcUUzRjVkXzRIRnMzMm9pSmE3ZFpKXzQ0amt3Rjl0b09JV0tpZG5Wbm5SZDdwSG5TOFNhbzRLQ1YzcjR6WXc1VzBIVDhyaU5B?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFlmRlNHOC1kRWtjdlJId2R2T0VPR3Yydl8tajNUbmpnRDRJX3NXN2t3bGNBVG5FNjZhUVk2bVBrOWE5MHVycWRaZmlFZ1dvaHBpOV8zcnVyU1lqSFhfdVpva093enFfdnFNcUUzRjVkXzRIRnMzMm9pSmE3ZFpKXzQ0amt3Rjl0b09JV0tpZG5Wbm5SZDdwSG5TOFNhbzRLQ1YzcjR6WXc1VzBIVDhyaU5B?oc=5\" target=\"_blank\">LA Council Approves Fourth & Central Mixed-Use Development in Downtown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "zoning"
     },
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPYXl3TWtIV0ZJcFRSWEJFbFIxblhDWVNfZ3VlUmRFcy04aG45T1JYZ2IydWJMSUVkdmhRNlM3blh2dTlOT3lyTl9VX0hVWVd1VTg3VXFFQ0Nua2pNMFdEdExFNVBFTzBRWHB3NGFMLUl2Ny1oWE1jM0dkWGVBY0J6VzdkUnI2WVpNVzRHN2tacURhbHoxNlhubkFnNGRQMXZ0NUdDN25WTWs5Y2dLa2dvUk5ZeG4?oc=5\" target=\"_blank\">Los Angeles County approves new tenant protections, relief amid growing rent woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Bruin</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "2d7c3836fbf29320",
-      "title": "Eagle Four’s luxury resi project moving forward with latest Newport Beach council nod - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU9oU1cyQVJBR1pZREhSRFlqUFFOOFNLY1MycnNIekJEZ3N6dXRnQlhvajR0WlpRYTY2QU9Kb05ocEJQSTlwQ3FBektzTjJNQXZWNk5Tcnp5ZUI2QTBFdmpGWXplYVZPWk5sbjNfdjBETFJ2by04NVE0dVVodzNtWkJRNjBLc0JfQ2gwTmlvRDNxc0tob1hEU2h6RWM?oc=5",
-      "source": "The Real Deal",
-      "published": "Thu, 15 Oct 2026 22:13:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU9oU1cyQVJBR1pZREhSRFlqUFFOOFNLY1MycnNIekJEZ3N6dXRnQlhvajR0WlpRYTY2QU9Kb05ocEJQSTlwQ3FBektzTjJNQXZWNk5Tcnp5ZUI2QTBFdmpGWXplYVZPWk5sbjNfdjBETFJ2by04NVE0dVVodzNtWkJRNjBLc0JfQ2gwTmlvRDNxc0tob1hEU2h6RWM?oc=5\" target=\"_blank\">Eagle Four’s luxury resi project moving forward with latest Newport Beach council nod</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
     }
   ]
 }
