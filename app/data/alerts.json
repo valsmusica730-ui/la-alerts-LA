@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:13:36.926387+00:00",
+  "generated_at": "2026-10-24T06:38:06.177323+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4893,6 +4893,16 @@
       "category": "other"
     },
     {
+      "id": "5b9ddb3184e79853",
+      "title": "California Appeals Court Largely Upholds Pasadena Rent Control Law, Strikes Limited Provisions - Pasadena Now",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFJfR2g4SGp2dElQbk9tdWdpTGU5WTJFVm5kZlJGUklkTk5YVS0wbTRKZHkzWHZ2aVNHY3A4d0RnRmNTazdHR0tYT3FETy05VDZSd3BsRTFxcEhSTEZmNERzb0gtMUxkZ1ZFUkNadnJOSGlVLWJtYlpabG1PMzFadGZMLVBwTUFyT0toamxhbVZjcEtWM0JGMGV6bGhOOUJnY08zMHp2aUk5d2hGeHlXZGoyTzFBaEJfRmZaSGNzSQ?oc=5",
+      "source": "Pasadena Now",
+      "published": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFJfR2g4SGp2dElQbk9tdWdpTGU5WTJFVm5kZlJGUklkTk5YVS0wbTRKZHkzWHZ2aVNHY3A4d0RnRmNTazdHR0tYT3FETy05VDZSd3BsRTFxcEhSTEZmNERzb0gtMUxkZ1ZFUkNadnJOSGlVLWJtYlpabG1PMzFadGZMLVBwTUFyT0toamxhbVZjcEtWM0JGMGV6bGhOOUJnY08zMHp2aUk5d2hGeHlXZGoyTzFBaEJfRmZaSGNzSQ?oc=5\" target=\"_blank\">California Appeals Court Largely Upholds Pasadena Rent Control Law, Strikes Limited Provisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Now</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "legal"
+    },
+    {
       "id": "269be554d54e5fda",
       "title": "27 Places That Regulate Airbnbs and Other Short-Term Rentals - Condé Nast Traveler",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTVxaTIxVzE0SGN5Nll1S3ZGb3pIS0huczA2M3Vza2ZvOGtrWGFqeGFyNDVINnBLeFVXRnJBS0FGWWhYQXBoY1UtYUl1Tk9UU0lvSjNUdl85X19zMHJDNFVlOElkZDJVUzI1V0MyX3AzSGw1Yl9MTGYxT0hZTnRhVFFxVE4?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1hlYmowNzFRckhIakNydjU4Z1dZc0dLWm9aeHBxUks1bDMzY0RSYlU0OW5MLVh3dlpVdXpDaGU5ZnZvQ1BfSDF0d0x5RlY4b2hrTlhLN29ZaGZkTXU4WDFiNHNneWg3aGJLa2lJTUZfRUFSSDczZlRYQW9UOGs4WEV6Ykt0aWxOVmxGVUJ4Sk4?oc=5\" target=\"_blank\">California lawmakers move to speed up rebuilding, recovery in Los Angeles with new legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "other"
-    },
-    {
-      "id": "2c4069921eb6768c",
-      "title": "As a new state housing bill, SB 9, goes into effect Jan. 1, Seaside looks to limit its impact. - montereycountynow.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSGEtVVV2YXBBa0o5NjlVTmY3cXR0cDdnOXJYd3RmUE8wZjBUNDJwOEs4S0pEcmpKcTFPY3dXU2VLVmh1aWEwMXRLbEVONVVaSkJIOUxDdkZjZnNSSHdqNUw5Y0YxakxfcGRhMkJ3dHpDWXJ3VTFYTFdJd1JTS0FXYnlVVzltRmlkUi1RYkp4anBzck1fVExfRnI0VXFGdDl0bHkzY0d0VV96UnBJY3lTVVhCeVhJUGFaYWMtNHZyMzd1WWxVTmlnRnVTVVIwY2FxTTFBQjlfOTJJWVN4ckdiMDJ2US1Vdm1XeDhJa1dtWk1IY3dVOENuYklTR005UdIBgwJBVV95cUxNVHdIM3JmMjhZV1RSRVg0M2JHaFlRSUJEMUcxRm1lSWYtLWFWM3RxUWcxRWpJT3oyTlVKTzM4bjNIdDFldG5EVlRwVDRmTkRKalBTTGJTTEwyUFFESTJBRnhuREcyODFDVVhKRzFxNW9peG8tblhmbVl2NVdfb1NjZmtvMWUzS2hNU051NDJxY3lFOG9vVXN1WnpBcjBLQXE4azVQbWdES0EzYUR0cWtyRkw1QVc0ckU4T2hQNFpNZ1d3YkZEY0hUWnVEdHh3NE9VUG11cDkxTTA3Z1Bubm80LVg2R3RxbWQyOFlXaDQ0ay0xNm9MbTFTUkwyY2o5bDBDOFNJ?oc=5",
-      "source": "montereycountynow.com",
-      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSGEtVVV2YXBBa0o5NjlVTmY3cXR0cDdnOXJYd3RmUE8wZjBUNDJwOEs4S0pEcmpKcTFPY3dXU2VLVmh1aWEwMXRLbEVONVVaSkJIOUxDdkZjZnNSSHdqNUw5Y0YxakxfcGRhMkJ3dHpDWXJ3VTFYTFdJd1JTS0FXYnlVVzltRmlkUi1RYkp4anBzck1fVExfRnI0VXFGdDl0bHkzY0d0VV96UnBJY3lTVVhCeVhJUGFaYWMtNHZyMzd1WWxVTmlnRnVTVVIwY2FxTTFBQjlfOTJJWVN4ckdiMDJ2US1Vdm1XeDhJa1dtWk1IY3dVOENuYklTR005UdIBgwJBVV95cUxNVHdIM3JmMjhZV1RSRVg0M2JHaFlRSUJEMUcxRm1lSWYtLWFWM3RxUWcxRWpJT3oyTlVKTzM4bjNIdDFldG5EVlRwVDRmTkRKalBTTGJTTEwyUFFESTJBRnhuREcyODFDVVhKRzFxNW9peG8tblhmbVl2NVdfb1NjZmtvMWUzS2hNU051NDJxY3lFOG9vVXN1WnpBcjBLQXE4azVQbWdES0EzYUR0cWtyRkw1QVc0ckU4T2hQNFpNZ1d3YkZEY0hUWnVEdHh3NE9VUG11cDkxTTA3Z1Bubm80LVg2R3RxbWQyOFlXaDQ0ay0xNm9MbTFTUkwyY2o5bDBDOFNJ?oc=5\" target=\"_blank\">As a new state housing bill, SB 9, goes into effect Jan. 1, Seaside looks to limit its impact.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">montereycountynow.com</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
