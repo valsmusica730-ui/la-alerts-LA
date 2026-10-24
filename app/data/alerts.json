@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:59:07.202744+00:00",
+  "generated_at": "2026-10-24T22:15:23.895636+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3413,6 +3413,16 @@
       "category": "legal"
     },
     {
+      "id": "94422c8d0b45e54c",
+      "title": "Councilwoman Raman Poised to Lose Powerful Housing Post as She Challenges Bass for Mayor - westsidecurrent.com",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcllOLWMtU3RaYjhoN3U0Sk5MamVMYllmQ1lfclBQWGVMM0s4OVdwcmVXYV95NmpTcTM1djd3NEhqOXlnUmkzTFNPb3h1U0hFdWN2bzNtZkZLaGx3NUJKV0tXV29WVUI4dmhmSHljVnJWeDhUcmhWX09rU2ZXTTl1TG5jLVlLQ2lwYTdYWjhPS1JsVmdqY1l2SGFEWGNub1JiVUNSTVJpMWw1U2RiTDBTZ0poa3hEYnNzZ0U2dlExVklIWjVvWUF5amZYdlJJWEw5LWJUZUFUbXJHSHRad2RnN1RBdV9nLW5DQXNBS0dtbWl5aW54dGxGRkt5d3hZekJ2XzBVTXkybTA4RzFRamRhRkVfb1E?oc=5",
+      "source": "westsidecurrent.com",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPcllOLWMtU3RaYjhoN3U0Sk5MamVMYllmQ1lfclBQWGVMM0s4OVdwcmVXYV95NmpTcTM1djd3NEhqOXlnUmkzTFNPb3h1U0hFdWN2bzNtZkZLaGx3NUJKV0tXV29WVUI4dmhmSHljVnJWeDhUcmhWX09rU2ZXTTl1TG5jLVlLQ2lwYTdYWjhPS1JsVmdqY1l2SGFEWGNub1JiVUNSTVJpMWw1U2RiTDBTZ0poa3hEYnNzZ0U2dlExVklIWjVvWUF5amZYdlJJWEw5LWJUZUFUbXJHSHRad2RnN1RBdV9nLW5DQXNBS0dtbWl5aW54dGxGRkt5d3hZekJ2XzBVTXkybTA4RzFRamRhRkVfb1E?oc=5\" target=\"_blank\">Councilwoman Raman Poised to Lose Powerful Housing Post as She Challenges Bass for Mayor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "57c2a63556fc191e",
       "title": "L.A. County Will Make Rent Stabilization Ordinance Permanent - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGR0S210SDV3MGV6aFRQZ1FZLXl5b2VRTEJCRWxtZlMzQm1MR1A2OHZyalFkSFNVNTVCdE11RzFDX0xmdGJTSERkZVMwcUJnMjUxWjkzWk5DcmlmQTcyX2N6Tjk5RHM4bWJ5bHpKR0ZFSVI5VTVOUjVhQUNiNmljQ3dhTnFIZ0R3OVpnbkxkdjdlQQ?oc=5",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 16 Nov 2023 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVNLMUkxQU9YN21mUzA2SlIwTlZCRGFSeldRNTBQcFdXaE0yWktLTmw1R21xLXRFcXhEOS11bDZiTEFlZGJlT0E4X2t5bW9HYk4yX0xRTEctRDlaQldTb1NUdkI2TzYzazhLMjNGMUpFTnFPelRNY2NCMmdROVc4Mk5xRm9kSEpSWGo5QTlEZUNYM25CcUl1M0xlS2JmMTVhczBVT3lGeWpCY3dFM0drYUFISnQ2OHlldTVvbm81eE56SE3SAcsBQVVfeXFMTUpjeHgtLTM0SFJPb3BYMEpuakd0V1RTMWIwcHhSLUlFUWw1bE1ncGpzbmV0N24xbVRTZENWNjh6ZFBEWWM3M0ZULXhrZDg3b0MxSUh4Nm1CNFJvbEdXbmg5bUp5MEI2Y0EtbUVxRUU0NHhmN2c0UG5pT3gxUld6dmp3NC1RMXJhQTZsUjFpMm9fNjZLamlXSzZ5TnFkMVNyVDVLZjVqeTdteEttelY5MHlkSHE4eVM4OUluWElab3RPaFJHcG1FV1hpWms?oc=5\" target=\"_blank\">LA Planning Commission to vote on proposal to fast-track affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "eb16f87cdbe2e88f",
-      "title": "Santa Monica Reverses Course: Upzoning Single-Family Neighborhoods for Housing Law - Santa Monica Daily Press",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDBDcU1qdl96cnR0dGRidWJmNVkzczNkUlRNUUV6VDE5b1Rsc1NtVXJiNkEzLVZ3ZTM2V20wc1RpZUF5SVVhWFNFUXRSUm1ZU3UtRjFuRTJKZDZIVzlXNmxlR0VFOFRiRWZ3ejhHaE9QRW5uNnZycTd0OHE2SUZUR0EwNUQ3M2ZHTWxCUnJMWjA1TmxDTjhMNGJRcHFGRDEtSGdsVmU4Y2VLSTRKMXRuYWV6ODdtdzZkbEU1XzVVVlZsOU15d2c?oc=5",
-      "source": "Santa Monica Daily Press",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDBDcU1qdl96cnR0dGRidWJmNVkzczNkUlRNUUV6VDE5b1Rsc1NtVXJiNkEzLVZ3ZTM2V20wc1RpZUF5SVVhWFNFUXRSUm1ZU3UtRjFuRTJKZDZIVzlXNmxlR0VFOFRiRWZ3ejhHaE9QRW5uNnZycTd0OHE2SUZUR0EwNUQ3M2ZHTWxCUnJMWjA1TmxDTjhMNGJRcHFGRDEtSGdsVmU4Y2VLSTRKMXRuYWV6ODdtdzZkbEU1XzVVVlZsOU15d2c?oc=5\" target=\"_blank\">Santa Monica Reverses Course: Upzoning Single-Family Neighborhoods for Housing Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "zoning"
     }
   ]
