@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:37:29.127411+00:00",
+  "generated_at": "2026-10-24T01:13:36.926387+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1791,6 +1791,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTV9OdkxpTmZEVDFjMnFSVFRtYjdmV2x0MTRvNHJuanlHcWhjcGZ2MG1SMm94bVJMeUlGejhTZEZDRDZWanNQcVM3dWRjbElqRzVQRlR0MDVVUk9NNFpJNi1yc2FoLWQ2SkdSQ202NXZ0bTVRWHl4ZmRwMDZOQU5aWW5VbGJZZFhSMFQ5M29GUVl1RTByTkZRY3NUTGZWUQ?oc=5\" target=\"_blank\">TV City project set to go before Planning Commission on Sept. 12</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "4a42c251a580397a",
+      "title": "Airbnb and short-term rentals provide little relief for stretched World Cup travelers - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM1VmdUhEZHRJNzRpRUptQzNUd3lIRjhFbVNXQzVJQkNyM0JJaXJrSHRoVzdOX1d4T2dzbmFEOEFVTjQtSHpnWG1QS1RwWXZWTXZJOGk0bmhTX3dTcTNVMnpZcjNCQ0dQcUlocU4wcktJNWgyWWxOMHdLaWM1MGNHNURqa3N2QQ?oc=5",
+      "source": "The New York Times",
+      "published": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNM1VmdUhEZHRJNzRpRUptQzNUd3lIRjhFbVNXQzVJQkNyM0JJaXJrSHRoVzdOX1d4T2dzbmFEOEFVTjQtSHpnWG1QS1RwWXZWTXZJOGk0bmhTX3dTcTNVMnpZcjNCQ0dQcUlocU4wcktJNWgyWWxOMHdLaWM1MGNHNURqa3N2QQ?oc=5\" target=\"_blank\">Airbnb and short-term rentals provide little relief for stretched World Cup travelers - The Athletic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "dbb1cdce96b3fce4",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSGEtVVV2YXBBa0o5NjlVTmY3cXR0cDdnOXJYd3RmUE8wZjBUNDJwOEs4S0pEcmpKcTFPY3dXU2VLVmh1aWEwMXRLbEVONVVaSkJIOUxDdkZjZnNSSHdqNUw5Y0YxakxfcGRhMkJ3dHpDWXJ3VTFYTFdJd1JTS0FXYnlVVzltRmlkUi1RYkp4anBzck1fVExfRnI0VXFGdDl0bHkzY0d0VV96UnBJY3lTVVhCeVhJUGFaYWMtNHZyMzd1WWxVTmlnRnVTVVIwY2FxTTFBQjlfOTJJWVN4ckdiMDJ2US1Vdm1XeDhJa1dtWk1IY3dVOENuYklTR005UdIBgwJBVV95cUxNVHdIM3JmMjhZV1RSRVg0M2JHaFlRSUJEMUcxRm1lSWYtLWFWM3RxUWcxRWpJT3oyTlVKTzM4bjNIdDFldG5EVlRwVDRmTkRKalBTTGJTTEwyUFFESTJBRnhuREcyODFDVVhKRzFxNW9peG8tblhmbVl2NVdfb1NjZmtvMWUzS2hNU051NDJxY3lFOG9vVXN1WnpBcjBLQXE4azVQbWdES0EzYUR0cWtyRkw1QVc0ckU4T2hQNFpNZ1d3YkZEY0hUWnVEdHh3NE9VUG11cDkxTTA3Z1Bubm80LVg2R3RxbWQyOFlXaDQ0ay0xNm9MbTFTUkwyY2o5bDBDOFNJ?oc=5\" target=\"_blank\">As a new state housing bill, SB 9, goes into effect Jan. 1, Seaside looks to limit its impact.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">montereycountynow.com</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
-    },
-    {
-      "id": "d95e027bfb02023d",
-      "title": "Los Angeles County approves new tenant protections, relief amid growing rent woes - Daily Bruin",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYXl3TWtIV0ZJcFRSWEJFbFIxblhDWVNfZ3VlUmRFcy04aG45T1JYZ2IydWJMSUVkdmhRNlM3blh2dTlOT3lyTl9VX0hVWVd1VTg3VXFFQ0Nua2pNMFdEdExFNVBFTzBRWHB3NGFMLUl2Ny1oWE1jM0dkWGVBY0J6VzdkUnI2WVpNVzRHN2tacURhbHoxNlhubkFnNGRQMXZ0NUdDN25WTWs5Y2dLa2dvUk5ZeG4?oc=5",
-      "source": "Daily Bruin",
-      "published": "Thu, 16 Apr 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPYXl3TWtIV0ZJcFRSWEJFbFIxblhDWVNfZ3VlUmRFcy04aG45T1JYZ2IydWJMSUVkdmhRNlM3blh2dTlOT3lyTl9VX0hVWVd1VTg3VXFFQ0Nua2pNMFdEdExFNVBFTzBRWHB3NGFMLUl2Ny1oWE1jM0dkWGVBY0J6VzdkUnI2WVpNVzRHN2tacURhbHoxNlhubkFnNGRQMXZ0NUdDN25WTWs5Y2dLa2dvUk5ZeG4?oc=5\" target=\"_blank\">Los Angeles County approves new tenant protections, relief amid growing rent woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Bruin</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
