@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:38:06.177323+00:00",
+  "generated_at": "2026-10-24T15:00:10.362598+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2251,6 +2251,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQamlFNHF6Ty1PeGk3cVVxbENvbG5qOWNkdG9jUG9paGllVkNRanpnTFJibWJuNTZUcE4xTHl6eUwzQUdEb1FjX1NFLWhiT1VNa3BSMU9UU1RWUjFENXg1c0ZGYm5kUWg4V1dtUC1hc3FxdHhCQVNXV05pNHQ1bktyRkQ4N2phUjJvZGpPbGtRanVrOGVpbklvblZ5X1RmN0s0ZmFRWTJXcm5EeVVaV0FYNFhn?oc=5\" target=\"_blank\">State eviction moratorium ends soon, but rent relief will still be available</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "fe532ed053dc907e",
+      "title": "SB 9 + 10 and What Happens Next - Annenberg Media",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVXpmU1B2dzY1aUVYOXNIUjkyNm1vZE1tUTFwUkYwaUFqVmE2TlZCODhCUlN1Z0MwNi13aVU0Y01Ocm9XUXZvbldab3VSLUUxM1BncTlwaEVIZFF0M2tQb3o4aHhfR1FSRDhoVnI1TC1VSkhZSmJEQ25JSS1JcFR2OQ?oc=5",
+      "source": "Annenberg Media",
+      "published": "Tue, 28 Sep 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQVXpmU1B2dzY1aUVYOXNIUjkyNm1vZE1tUTFwUkYwaUFqVmE2TlZCODhCUlN1Z0MwNi13aVU0Y01Ocm9XUXZvbldab3VSLUUxM1BncTlwaEVIZFF0M2tQb3o4aHhfR1FSRDhoVnI1TC1VSkhZSmJEQ25JSS1JcFR2OQ?oc=5\" target=\"_blank\">SB 9 + 10 and What Happens Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Annenberg Media</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
     },
     {
       "id": "e096bc50bdfe9ea0",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDBDcU1qdl96cnR0dGRidWJmNVkzczNkUlRNUUV6VDE5b1Rsc1NtVXJiNkEzLVZ3ZTM2V20wc1RpZUF5SVVhWFNFUXRSUm1ZU3UtRjFuRTJKZDZIVzlXNmxlR0VFOFRiRWZ3ejhHaE9QRW5uNnZycTd0OHE2SUZUR0EwNUQ3M2ZHTWxCUnJMWjA1TmxDTjhMNGJRcHFGRDEtSGdsVmU4Y2VLSTRKMXRuYWV6ODdtdzZkbEU1XzVVVlZsOU15d2c?oc=5\" target=\"_blank\">Santa Monica Reverses Course: Upzoning Single-Family Neighborhoods for Housing Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Monica Daily Press</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "zoning"
-    },
-    {
-      "id": "9dea3cd3084de8a0",
-      "title": "California lawmakers move to speed up rebuilding, recovery in Los Angeles with new legislation - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1hlYmowNzFRckhIakNydjU4Z1dZc0dLWm9aeHBxUks1bDMzY0RSYlU0OW5MLVh3dlpVdXpDaGU5ZnZvQ1BfSDF0d0x5RlY4b2hrTlhLN29ZaGZkTXU4WDFiNHNneWg3aGJLa2lJTUZfRUFSSDczZlRYQW9UOGs4WEV6Ykt0aWxOVmxGVUJ4Sk4?oc=5",
-      "source": "CBS News",
-      "published": "Thu, 16 Jan 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1hlYmowNzFRckhIakNydjU4Z1dZc0dLWm9aeHBxUks1bDMzY0RSYlU0OW5MLVh3dlpVdXpDaGU5ZnZvQ1BfSDF0d0x5RlY4b2hrTlhLN29ZaGZkTXU4WDFiNHNneWg3aGJLa2lJTUZfRUFSSDczZlRYQW9UOGs4WEV6Ykt0aWxOVmxGVUJ4Sk4?oc=5\" target=\"_blank\">California lawmakers move to speed up rebuilding, recovery in Los Angeles with new legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "other"
     }
   ]
 }
