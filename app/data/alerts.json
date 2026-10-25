@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:15:23.895636+00:00",
+  "generated_at": "2026-10-25T00:39:25.081937+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4373,6 +4373,16 @@
       "category": "zoning"
     },
     {
+      "id": "45df4ad47ec64a0a",
+      "title": "Bill would expand rent control to rebuilt properties after disasters - The California Apartment Association",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGt5dy13UTE5WGRKZEJXUlg3clF5dDBycGo4Ql8zeHZpVHBkX0w4Z3Fzc0ZsaGd1LXRzdTR6STNaRzNtc2ZBUHFrZjVrT2s1bmlDa3NWbm1KRDQxM29xZmJ0YzQ2R3N6MHB3bGJKMFJSUWlqeVFjT2w2NEFWNTN1ZHlLV2c2Rm5zTFFJdHVWNUtvUQ?oc=5",
+      "source": "The California Apartment Association",
+      "published": "Thu, 27 Feb 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGt5dy13UTE5WGRKZEJXUlg3clF5dDBycGo4Ql8zeHZpVHBkX0w4Z3Fzc0ZsaGd1LXRzdTR6STNaRzNtc2ZBUHFrZjVrT2s1bmlDa3NWbm1KRDQxM29xZmJ0YzQ2R3N6MHB3bGJKMFJSUWlqeVFjT2w2NEFWNTN1ZHlLV2c2Rm5zTFFJdHVWNUtvUQ?oc=5\" target=\"_blank\">Bill would expand rent control to rebuilt properties after disasters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "rent"
+    },
+    {
       "id": "8b2bf69125cc16ea",
       "title": "Screaming matches at LA City planning hearing - FOX 11 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRE5wTkNZaW5vcmlFYTVESUNGQ2JxMmhFRm8wVHZMYVA2bWFnR2dfcVpIMUptRzllX1VwLUwxTmt5ZFcwOVo2bXJndFVUX0kxUml4d0psd01fUEIzenQtS0ZLa1VhSnNrazRMZXpidmZNOG5uSC0wLXlHblI4RWxHYzVMTElEemNMczN5M0psRFVFcVXSAZgBQVVfeXFMTV9GN09fYlRvUFlfaDJIZTgzQUxDaDFEVUxSSXY4SkRKaEhjcVYyamtNSEtSUTlPeGtPamI3YlBDV0NMWDh0cWZXT2RWOG0ydzM5TmNNNjgyT0NmUnMtaEFJX0Rpc0lvUkk5dTAxbjgzQWZTOVRBVmNYZjdrVWtKMDhBeGhpTzRaVkNsT3A5NDBVR0pseVk0XzE?oc=5",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 16 Sep 2021 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3lvN2Q0Vk85RjJFMW1VeTN6b010S0psbzdnRDhMeTRkMjFjaWVEWlVUWkpRZVl1SHNDUlloaVMxeVFxR3liVXJhNWRXN3ZTYzF6aGdZM2xPQmd6M1hWdTRPbUxWdlJQaUlsMDFOck5yLXllWjRRTVdncTBiRS1HTG0tSXhIMG8?oc=5\" target=\"_blank\">California enacts two laws to slice through local zoning rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "zoning"
-    },
-    {
-      "id": "cdbe1e19ff801b90",
-      "title": "LA Planning Commission to vote on proposal to fast-track affordable housing - NBC Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVNLMUkxQU9YN21mUzA2SlIwTlZCRGFSeldRNTBQcFdXaE0yWktLTmw1R21xLXRFcXhEOS11bDZiTEFlZGJlT0E4X2t5bW9HYk4yX0xRTEctRDlaQldTb1NUdkI2TzYzazhLMjNGMUpFTnFPelRNY2NCMmdROVc4Mk5xRm9kSEpSWGo5QTlEZUNYM25CcUl1M0xlS2JmMTVhczBVT3lGeWpCY3dFM0drYUFISnQ2OHlldTVvbm81eE56SE3SAcsBQVVfeXFMTUpjeHgtLTM0SFJPb3BYMEpuakd0V1RTMWIwcHhSLUlFUWw1bE1ncGpzbmV0N24xbVRTZENWNjh6ZFBEWWM3M0ZULXhrZDg3b0MxSUh4Nm1CNFJvbEdXbmg5bUp5MEI2Y0EtbUVxRUU0NHhmN2c0UG5pT3gxUld6dmp3NC1RMXJhQTZsUjFpMm9fNjZLamlXSzZ5TnFkMVNyVDVLZjVqeTdteEttelY5MHlkSHE4eVM4OUluWElab3RPaFJHcG1FV1hpWms?oc=5",
-      "source": "NBC Los Angeles",
-      "published": "Thu, 16 Nov 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVNLMUkxQU9YN21mUzA2SlIwTlZCRGFSeldRNTBQcFdXaE0yWktLTmw1R21xLXRFcXhEOS11bDZiTEFlZGJlT0E4X2t5bW9HYk4yX0xRTEctRDlaQldTb1NUdkI2TzYzazhLMjNGMUpFTnFPelRNY2NCMmdROVc4Mk5xRm9kSEpSWGo5QTlEZUNYM25CcUl1M0xlS2JmMTVhczBVT3lGeWpCY3dFM0drYUFISnQ2OHlldTVvbm81eE56SE3SAcsBQVVfeXFMTUpjeHgtLTM0SFJPb3BYMEpuakd0V1RTMWIwcHhSLUlFUWw1bE1ncGpzbmV0N24xbVRTZENWNjh6ZFBEWWM3M0ZULXhrZDg3b0MxSUh4Nm1CNFJvbEdXbmg5bUp5MEI2Y0EtbUVxRUU0NHhmN2c0UG5pT3gxUld6dmp3NC1RMXJhQTZsUjFpMm9fNjZLamlXSzZ5TnFkMVNyVDVLZjVqeTdteEttelY5MHlkSHE4eVM4OUluWElab3RPaFJHcG1FV1hpWms?oc=5\" target=\"_blank\">LA Planning Commission to vote on proposal to fast-track affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     }
   ]
