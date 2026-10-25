@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:56:56.619482+00:00",
+  "generated_at": "2026-10-25T20:15:16.579339+00:00",
   "total": 500,
   "alerts": [
     {
@@ -371,6 +371,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQanZEXzM0MjE3dFg0Z3VoT0duWHVza1hnMTRiSkFkM1J1emZMWVY3NVV4ay1TZFdYcWl2WUtPV21BVnBueURmYmpLOUFicEVkdFNJamxETlNldmJZVml4QWJndVRvLW5FdzY0LUlEQTlXQl8yQlNsbVNkVVNwcEUyT0FIYW9sYmowckV2UUpNS2FVUzEtTlQ3SnBSRmRmSmZRY0RwMDhTbEM3QQ?oc=5\" target=\"_blank\">State extends eviction moratorium, creates $2.6B rent subsidy program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "6c84c23d4fac10bf",
+      "title": "Newport Beach City Council approves 4400 Von Karman housing development - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRi1ETmI2WjA4RHFMSkcyY29EWXBKc2VWdEpyM2YxejFKeW1xRjREblp6M1JWRTg3WlZraTJESHZQb1JLcURfVlpmVUJwVUJ0OFZBa3Q3c2hhanJJMEdXclExZWNFVW5BQ0IybDlGZ2U4RXF3OXdMaEx3QzZUR3VnRFREb2VPTmlxUGJ3b3J4LWJnSnV3OHEwQ2N5Z3ZtRFJNVzk5RWJNdVZGYzZVQ2ZmbEdMaDhfUnNCdTVjTlVLYWFmWi12MEQzVF9GSFFOZW1h?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Wed, 27 Jan 2021 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRi1ETmI2WjA4RHFMSkcyY29EWXBKc2VWdEpyM2YxejFKeW1xRjREblp6M1JWRTg3WlZraTJESHZQb1JLcURfVlpmVUJwVUJ0OFZBa3Q3c2hhanJJMEdXclExZWNFVW5BQ0IybDlGZ2U4RXF3OXdMaEx3QzZUR3VnRFREb2VPTmlxUGJ3b3J4LWJnSnV3OHEwQ2N5Z3ZtRFJNVzk5RWJNdVZGYzZVQ2ZmbEdMaDhfUnNCdTVjTlVLYWFmWi12MEQzVF9GSFFOZW1h?oc=5\" target=\"_blank\">Newport Beach City Council approves 4400 Von Karman housing development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "4b0a6c6b68bf127d",
@@ -1481,6 +1491,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHNFeFdEOU5mS0JaQVEtTU96eG9qMl9WanJ6bFkyYkJhUEpKTFVkQVlHU3g2NUJRai11eXFSajZVYVlVMnlWemZOQk9Db01JaVJJN3NfRThYZ2tETlk3NWEyUFVuV3lyYXNlZWdLREtsQ1MxaGx1SDBiXy1RNmxqWF9KWWZIYzB4RmxVeEM0N21ISS1ZR2kxa3IzVEw2ek5IT3NDV2FlcklmTjZnOElNbjRQNk9EUQ?oc=5\" target=\"_blank\">Pro-housing group sues Newsom over duplex law suspension in wildfire zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "other"
+    },
+    {
+      "id": "50135ce8e6bf0588",
+      "title": "LA City Council expands adaptive reuse policy, allowing empty offices to be turned into housing - Los Angeles Daily News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNm1kY2IzSGhtdElUa1NqUi03OC1rYVJzOTQ4b3NZM3dMTVJfZzNPdmJQM2tXUzZza2pJS28wQlo4Y2JnTE9MWFM3RmxjNDI0T0hLZG5JUjZYNXlGeVVsbWZ2dUdqc3B0VzAtWUlrQXh6TDhNRGRkOXJzeWJWU0dGcnhKZ3pxanpZcFZYVUJVVTRiOFRLaXNKQ2dPbmY1R25LRXR6Yl90MVRqa1BDVC1teFBocmw2TjFJODFJY3BUdWc5aTM5aWIyWHE2el8?oc=5",
+      "source": "Los Angeles Daily News",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNm1kY2IzSGhtdElUa1NqUi03OC1rYVJzOTQ4b3NZM3dMTVJfZzNPdmJQM2tXUzZza2pJS28wQlo4Y2JnTE9MWFM3RmxjNDI0T0hLZG5JUjZYNXlGeVVsbWZ2dUdqc3B0VzAtWUlrQXh6TDhNRGRkOXJzeWJWU0dGcnhKZ3pxanpZcFZYVUJVVTRiOFRLaXNKQ2dPbmY1R25LRXR6Yl90MVRqa1BDVC1teFBocmw2TjFJODFJY3BUdWc5aTM5aWIyWHE2el8?oc=5\" target=\"_blank\">LA City Council expands adaptive reuse policy, allowing empty offices to be turned into housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
     },
     {
       "id": "7726bfd876531a14",
@@ -3563,6 +3583,16 @@
       "category": "other"
     },
     {
+      "id": "e290960d7860e6b4",
+      "title": "Council OKs plan for housing at former Times building amid calls for more affordable units - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeW85b3dfc0IwNW93d19RME1uNGhZb21kOTRybk1LWmhkOXpEZHpoOTNjNlZDd2tUMmlpc2FtWi1ycUFib3FieE5ITzFsNWFNWm4tMkd1Zk9SNGNMbk5iR0dLa2lOWkhnM3hWcjdtbUlpUTkwTFh5X2d5ME03ZUYtYXFMUHotTjBfbmlGYV9FYldWSjFFVU5iX3BBemtySDdMUzZUb2NOTEJRelB0dXc?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Tue, 09 Feb 2021 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNeW85b3dfc0IwNW93d19RME1uNGhZb21kOTRybk1LWmhkOXpEZHpoOTNjNlZDd2tUMmlpc2FtWi1ycUFib3FieE5ITzFsNWFNWm4tMkd1Zk9SNGNMbk5iR0dLa2lOWkhnM3hWcjdtbUlpUTkwTFh5X2d5ME03ZUYtYXFMUHotTjBfbmlGYV9FYldWSjFFVU5iX3BBemtySDdMUzZUb2NOTEJRelB0dXc?oc=5\" target=\"_blank\">Council OKs plan for housing at former Times building amid calls for more affordable units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
       "id": "b3515f19692ab9d4",
       "title": "Los Angeles City Council advances new rental housing regulations - Yield PRO",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWVOd0lZRGVmb1ZFbW9wVTNNZG01MElidWVqRlRNclJYR3A1bkE2Ymt0ckZBcmdhTGlpcHpBUHZJNXZUcDFVUUNJdEYxY2NUSlpVUGYweTJoWkJseWdMcTVXM3U4QW9UeC1lYzd1VDdXeGI4V09aRTZnQjEwbEQ1Zm1GY0wzOERmQ3FFT0VaSVlHbVYtQkxwbGQ0VQ?oc=5",
@@ -4131,6 +4161,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3FacVFrM1doTFYzRy1mbUY4Y05jeHV5VDhvWEUyVW43WEg2cDBtRDhHWmlCVEFrMUE4dUJkUndaTjBoaWNkSTFqUnB5eXVFWlVSWjNkNVNUNFp5WUJYSjJyYnFXTlNEMUk3eWx2T2REZF9XVFJHWU9pWmI5M2RLZEpjbUlmTVJpZDB5UGpPOXpUM3gwcnEyVTRZV25xUkk5YlhNWkZydW9ta21KeDNEQ1c5c0ZIY2lWUVZrV05EYUYxakhvWXNPNkxCS01SV3cwWVJ4NHlPWdIB3AFBVV95cUxOZ2lyUlVmNW1SeHI2R2UtTThwOS1lb251NUR1bmpONHN3WnBsdTVqRk5DcWVXcGRFRjNKSFVaNUswUFhNc3dWc2hzdnNxUzd2b3pqdjNhMlRsNW9ldnZXSU5iUmdpWlBFdWZqVDBValNZWmJSV3NkeUJsSzl0M2dfaWZ4QnBiTl9BZVBuX19fUWY5dXZXR1VuSHhJNXpuUmI1RDh5ZEkxaG8yOElPM0NNRk9OUUgteVZVclFkeTlaeUVlbk1VbnhIQVc2Y24tbFVyNVcySEVxdkVGemNx?oc=5\" target=\"_blank\">Gov. Gavin Newsom signs executive order to limit SB 9 development in Pacific Palisades after residents expressed concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "abaadad1d13fd7cd",
+      "title": "L.A. City Council approves Bjarke Ingels-designed 670 Mesquit project - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdjQyN3MxMEptNEdwWlRpSEtEVG93eE5ldWUwcjh5MTlpTEdjbkZ3c1RYOVM2UmZxZEhpXzVGZnVYNTBDdDRRVmd6VTBQNFdqSGlUTGdjRFRNTmFlZTlDTEc2UTh4RE1aNnVzbi1Tc3JsRW1xQmJxYUJhal96eXpQT0xyLTZVNEJzQzY2dk5ockhiX1M4S0dkb2FjdGxjQQ?oc=5",
+      "source": "Urbanize LA",
+      "published": "Thu, 31 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdjQyN3MxMEptNEdwWlRpSEtEVG93eE5ldWUwcjh5MTlpTEdjbkZ3c1RYOVM2UmZxZEhpXzVGZnVYNTBDdDRRVmd6VTBQNFdqSGlUTGdjRFRNTmFlZTlDTEc2UTh4RE1aNnVzbi1Tc3JsRW1xQmJxYUJhal96eXpQT0xyLTZVNEJzQzY2dk5ockhiX1M4S0dkb2FjdGxjQQ?oc=5\" target=\"_blank\">L.A. City Council approves Bjarke Ingels-designed 670 Mesquit project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "f33c83b10f04d1bb",
@@ -4961,46 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTVxaTIxVzE0SGN5Nll1S3ZGb3pIS0huczA2M3Vza2ZvOGtrWGFqeGFyNDVINnBLeFVXRnJBS0FGWWhYQXBoY1UtYUl1Tk9UU0lvSjNUdl85X19zMHJDNFVlOElkZDJVUzI1V0MyX3AzSGw1Yl9MTGYxT0hZTnRhVFFxVE4?oc=5\" target=\"_blank\">27 Places That Regulate Airbnbs and Other Short-Term Rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Condé Nast Traveler</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
-    },
-    {
-      "id": "02155a314cfa35b2",
-      "title": "California's Attorney General Says Pasadena Is Violating State Housing Law - LAist",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVjE0Ui00Nm5PWTNoaUJEenhIX0lrZDRCQlZGSFNGM1ZpN0lCSUVROXVNcVBHc2NuUGdsR25Nd2t4cVgxVTRmSVR3Wmh1QnVadE91dnpLWE1oejZuZ2pHSkpPRUgtQnlEVEFnTmlfcFZGX2ZjUmd1d0NMWlRDdUpLMkFhSUJkM3I0QVBYWk9mSUJINHh1VnJuRnRMNlBfcWhkaUh6R05RalM3d3IwR291b3FEREhvSXlYUGdzRkhYNHdQTmNyVnViSVVSUG8zMkxzNFU0ZA?oc=5",
-      "source": "LAist",
-      "published": "Thu, 17 Mar 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVjE0Ui00Nm5PWTNoaUJEenhIX0lrZDRCQlZGSFNGM1ZpN0lCSUVROXVNcVBHc2NuUGdsR25Nd2t4cVgxVTRmSVR3Wmh1QnVadE91dnpLWE1oejZuZ2pHSkpPRUgtQnlEVEFnTmlfcFZGX2ZjUmd1d0NMWlRDdUpLMkFhSUJkM3I0QVBYWk9mSUJINHh1VnJuRnRMNlBfcWhkaUh6R05RalM3d3IwR291b3FEREhvSXlYUGdzRkhYNHdQTmNyVnViSVVSUG8zMkxzNFU0ZA?oc=5\" target=\"_blank\">California's Attorney General Says Pasadena Is Violating State Housing Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "legal"
-    },
-    {
-      "id": "e41a3fe7ba500ec3",
-      "title": "Beverly Hills Moves to Ban STRs | California Short Term Rental Regulations 2025 - RSU by PriceLabs",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GOWZ3RmdycGtUb2VtbVhzWlByYjRZWC1IZVhRV2x5NmJfcnBSb0NMbjBqV3ludDhZZUpyNUZJcmQzRjJPaUxULTNtVW1kTFdIdkJzU29UNnpBWUxMWk1iaTFsbkluNW5jZVE3ZExUcS13MGtTU3dkcnhORQ?oc=5",
-      "source": "RSU by PriceLabs",
-      "published": "Thu, 17 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9GOWZ3RmdycGtUb2VtbVhzWlByYjRZWC1IZVhRV2x5NmJfcnBSb0NMbjBqV3ludDhZZUpyNUZJcmQzRjJPaUxULTNtVW1kTFdIdkJzU29UNnpBWUxMWk1iaTFsbkluNW5jZVE3ZExUcS13MGtTU3dkcnhORQ?oc=5\" target=\"_blank\">Beverly Hills Moves to Ban STRs | California Short Term Rental Regulations 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RSU by PriceLabs</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "rent"
-    },
-    {
-      "id": "2a38bf83d9143946",
-      "title": "Renters, Landlords Both Looking For Action From Lawmakers As California Eviction Moratorium Set To Expire - capradio.org",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMUVyTXVnZG1PTmlJc2lrc2RiSmFtX2F5Vy1KTndoTGliUEpaSlJnTmNDODI5REx2aTU5Y0ZjRGRrY1p1ZXEtNko5V2pFNmY0UTlzb1N3bC1nRXNURTRYRkZoQVc4SDlRUWVlZXRJTGUxcy1YTWxaRFVHeENScHJ2cERGYkU1NlBtZlo0bnMwZEZFalFwNGFFbG04aWU3ejVpb21XUklxQlB1bmdQX3FXMDNUNHp0Wk9haUh0RGNORnFQb3hlNjZxMEVnZGk5aEQ3Q2RvR3pvS3ZGeHFVRnNxRmY4dzY?oc=5",
-      "source": "capradio.org",
-      "published": "Thu, 17 Dec 2020 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMUVyTXVnZG1PTmlJc2lrc2RiSmFtX2F5Vy1KTndoTGliUEpaSlJnTmNDODI5REx2aTU5Y0ZjRGRrY1p1ZXEtNko5V2pFNmY0UTlzb1N3bC1nRXNURTRYRkZoQVc4SDlRUWVlZXRJTGUxcy1YTWxaRFVHeENScHJ2cERGYkU1NlBtZlo0bnMwZEZFalFwNGFFbG04aWU3ejVpb21XUklxQlB1bmdQX3FXMDNUNHp0Wk9haUh0RGNORnFQb3hlNjZxMEVnZGk5aEQ3Q2RvR3pvS3ZGeHFVRnNxRmY4dzY?oc=5\" target=\"_blank\">Renters, Landlords Both Looking For Action From Lawmakers As California Eviction Moratorium Set To Expire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">capradio.org</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
-    },
-    {
-      "id": "46ec33c879785fc4",
-      "title": "Two Days After Avoiding Recall, Governor Newsom Signs Housing Density Boosting SB 9 and SB 10 Into Law - LBReport.com",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xd2IwNUFEV0FzSkplaUhlWjFjSU40SENKa1lXZ2RnYUhfdlVDWEZwb1BvLVBaMEphdnAtOXExaEw5VS1nV202a1RYbTVvMEhuU2pFdDV2eUtuU1VP?oc=5",
-      "source": "LBReport.com",
-      "published": "Thu, 16 Sep 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xd2IwNUFEV0FzSkplaUhlWjFjSU40SENKa1lXZ2RnYUhfdlVDWEZwb1BvLVBaMEphdnAtOXExaEw5VS1nV202a1RYbTVvMEhuU2pFdDV2eUtuU1VP?oc=5\" target=\"_blank\">Two Days After Avoiding Recall, Governor Newsom Signs Housing Density Boosting SB 9 and SB 10 Into Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LBReport.com</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
