@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:33:05.186862+00:00",
+  "generated_at": "2026-10-26T17:49:00.223099+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1359,6 +1359,16 @@
       "source": "Bisnow",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVRmVVhNc3Y3eUdiZmM2ZU1vQmFpWkxjZkNreDVVWFRWZHRKc1hWRFhRRUdxaUE0U3lieEc5cm9zS0hNNG16LVMwdmItN2dhem1qSGoxYUFhdXdIcGpNZnBzOTh3TkFrUDBBRG5SQ3RNWlhJVk9BcDJiN1hrd2IydURnbUZORjJ6OGFWX2tPM2tpMmU1Ri1RVzRSSXlVTnBpOEl3UExnaG1nR0dEM2hLTzh6T2hza0FCSmxsZkhSNA?oc=5\" target=\"_blank\">LA City Council OKs Redevelopment Of WWII-Era San Pedro Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "a12ad327cce0d2b2",
+      "title": "New homes with no parking? LA City Council considers ending parking requirements - LAist",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQODFSdmpmRjNGeVdCXy1GRTJjTVhYYVFUMmZMVkRVR19IUlBNaGlhTFhERFhSZ0NWVjRza0FWNGFiM0FZczBCclpXaVprSG5TRkZEVkZLZzZ3OHZRbUVWUDFZTU9lM2JHUnM1NnJlbTV2Y2xJS3Q4VW1YMVo2Mm1ITmFmd0N1dEtxekdJbFBMeGV5ZGhEM2tMczRJUW5EU1p4WDhkRk1yb2d1R2RCTWh6NzR1cXhSSE0xYTRFSkxNbWxnZmc1YXNHazNIUQ?oc=5",
+      "source": "LAist",
+      "published": "Wed, 11 Jun 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQODFSdmpmRjNGeVdCXy1GRTJjTVhYYVFUMmZMVkRVR19IUlBNaGlhTFhERFhSZ0NWVjRza0FWNGFiM0FZczBCclpXaVprSG5TRkZEVkZLZzZ3OHZRbUVWUDFZTU9lM2JHUnM1NnJlbTV2Y2xJS3Q4VW1YMVo2Mm1ITmFmd0N1dEtxekdJbFBMeGV5ZGhEM2tMczRJUW5EU1p4WDhkRk1yb2d1R2RCTWh6NzR1cXhSSE0xYTRFSkxNbWxnZmc1YXNHazNIUQ?oc=5\" target=\"_blank\">New homes with no parking? LA City Council considers ending parking requirements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     },
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFJfR2g4SGp2dElQbk9tdWdpTGU5WTJFVm5kZlJGUklkTk5YVS0wbTRKZHkzWHZ2aVNHY3A4d0RnRmNTazdHR0tYT3FETy05VDZSd3BsRTFxcEhSTEZmNERzb0gtMUxkZ1ZFUkNadnJOSGlVLWJtYlpabG1PMzFadGZMLVBwTUFyT0toamxhbVZjcEtWM0JGMGV6bGhOOUJnY08zMHp2aUk5d2hGeHlXZGoyTzFBaEJfRmZaSGNzSQ?oc=5\" target=\"_blank\">California Appeals Court Largely Upholds Pasadena Rent Control Law, Strikes Limited Provisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Now</font>",
       "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
       "category": "legal"
-    },
-    {
-      "id": "269be554d54e5fda",
-      "title": "27 Places That Regulate Airbnbs and Other Short-Term Rentals - Condé Nast Traveler",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTVxaTIxVzE0SGN5Nll1S3ZGb3pIS0huczA2M3Vza2ZvOGtrWGFqeGFyNDVINnBLeFVXRnJBS0FGWWhYQXBoY1UtYUl1Tk9UU0lvSjNUdl85X19zMHJDNFVlOElkZDJVUzI1V0MyX3AzSGw1Yl9MTGYxT0hZTnRhVFFxVE4?oc=5",
-      "source": "Condé Nast Traveler",
-      "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTVxaTIxVzE0SGN5Nll1S3ZGb3pIS0huczA2M3Vza2ZvOGtrWGFqeGFyNDVINnBLeFVXRnJBS0FGWWhYQXBoY1UtYUl1Tk9UU0lvSjNUdl85X19zMHJDNFVlOElkZDJVUzI1V0MyX3AzSGw1Yl9MTGYxT0hZTnRhVFFxVE4?oc=5\" target=\"_blank\">27 Places That Regulate Airbnbs and Other Short-Term Rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Condé Nast Traveler</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
     }
   ]
 }
