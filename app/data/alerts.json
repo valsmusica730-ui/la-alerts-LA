@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:31:57.965491+00:00",
+  "generated_at": "2026-10-27T22:44:02.634368+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3293,6 +3293,16 @@
       "category": "policy"
     },
     {
+      "id": "b62586e775fa25c7",
+      "title": "LA County Leaders Vote To Advance Rules That Would Limit Vacation Rentals - LAist",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbWpnUkh4SHNnNUY0SjNNb0JWMmpGcFJ2VzZibHdlX3JsbV9oVlhSMTBweHVjbVpNZzdXRWxWTDhVbXRYaXQxQWttXzZJSnBIbDhFRUU5c2MtdUI5SG10VjM1TjBEdUhZSnA0ZTJueWhmamYzc0VVZzc0Nk1XQVFsVnBYU1JWT1J4Z0hTQ3Q3U2pka3ptUGlkUHNJaGMzVUZUSWFTTGlnZ1cweXh4MFZXVDNvNmVLXzlPWms3RWZIZmtCT0kzWUhXOGN4U3l5d2JJUVRaV08zTWpkblhtcHc?oc=5",
+      "source": "LAist",
+      "published": "Tue, 13 Feb 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbWpnUkh4SHNnNUY0SjNNb0JWMmpGcFJ2VzZibHdlX3JsbV9oVlhSMTBweHVjbVpNZzdXRWxWTDhVbXRYaXQxQWttXzZJSnBIbDhFRUU5c2MtdUI5SG10VjM1TjBEdUhZSnA0ZTJueWhmamYzc0VVZzc0Nk1XQVFsVnBYU1JWT1J4Z0hTQ3Q3U2pka3ptUGlkUHNJaGMzVUZUSWFTTGlnZ1cweXh4MFZXVDNvNmVLXzlPWms3RWZIZmtCT0kzWUhXOGN4U3l5d2JJUVRaV08zTWpkblhtcHc?oc=5\" target=\"_blank\">LA County Leaders Vote To Advance Rules That Would Limit Vacation Rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "other"
+    },
+    {
       "id": "6443763bea203cd8",
       "title": "LA Has Rules For Airbnb And Vrbo Listings — But Are They Enforced? - LAist",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNemM3ZHc4c21pT1VKTG1zYm54YWVRRWJCSmdlUUhGRWtUMWJRMGVaWWZYRzNRWWZkZXlYTWFTVjdEVFRIcEVzWUMzY0xVY1VQbm9fZFVjNnUwRnJWTS1FalJmX3hjSWN4Zk1NbTBWaWh2bWxubVJ5dHNMSXhOVExQZzluYlNxZE5qM3RjenRGRnh3V1h0ZHEwaWp6aExxQWpYb00wajY0TDNteFk1Sm5sb09LaDFERGlfd1ZOSGw4S3Qzc3BJbWZGUHhtT0dKSFBkQnpV?oc=5",
@@ -4989,16 +4999,6 @@
       "source": "The Real Deal",
       "published": "Thu, 19 Jan 2023 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWI4clJFclc0OHF4UWlpRms4eVdqaG1IY0duX1IwN1BYa2xUOVZTTTVoUFJQTDdvcE9NVk9Ra19kcWp0NmlMak9ELUY1NUNPRWQybDFSZFBNQUdhaWhsM1lrU2hwdzVrVDEzb1g0NTE5cC02cEhYNkRaWkE3aTlFM0szYWtRX3BPQ1ZF?oc=5\" target=\"_blank\">Report finds impact of SB 9 “has been limited”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "79753ee62e739264",
-      "title": "California’s housing crisis: How much difference will a new zoning law make? - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV25Zck1VM0dhN2Jtb2NGM1FzU0NlYjVqV2hXRVhEejhTM3ptTFJhTTQ1QV82aGo0ZUh4UlJQZl9oNjUwWHBIc0FjaGprWTZxUnR0M0RXZTJYX2dabnlmazVtZ0xFUDdDWFFmSVJKQzZiUW9xc0ZTR3FJYVhtQmFyQ1FaTQ?oc=5",
-      "source": "CalMatters",
-      "published": "Thu, 19 Aug 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPV25Zck1VM0dhN2Jtb2NGM1FzU0NlYjVqV2hXRVhEejhTM3ptTFJhTTQ1QV82aGo0ZUh4UlJQZl9oNjUwWHBIc0FjaGprWTZxUnR0M0RXZTJYX2dabnlmazVtZ0xFUDdDWFFmSVJKQzZiUW9xc0ZTR3FJYVhtQmFyQ1FaTQ?oc=5\" target=\"_blank\">California’s housing crisis: How much difference will a new zoning law make?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
     }
