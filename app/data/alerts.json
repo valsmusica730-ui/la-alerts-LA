@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T01:40:55.155573+00:00",
+  "generated_at": "2026-10-27T06:58:26.399340+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4293,6 +4293,16 @@
       "category": "other"
     },
     {
+      "id": "7c803c3d3da88d75",
+      "title": "LA City Council Punts On Postfire Eviction Pause, Rent Freeze - Bisnow",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjA3cS0xcnEwV08xUk4wYzl1Nkh5alNUVkpHRXpHOG93YVd5b1lTQXhYYnBHc0w1ZmktOUQtLW1yR01WQ2FfY09wbWk0Mll6MkVTcFpMQXM1cjh6cU5PbHNmVU1zbEpBM2dfcUJWOGtEX0ozRGlKNDFjZ1dMRE9kOXBUWmhHZ1MyX3ZMa0YxNmJIbnAzd1lqRkZ6QWNyNDlrSGhsVEZrV0k4eEFUcnRSVW5n?oc=5",
+      "source": "Bisnow",
+      "published": "Thu, 30 Jan 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjA3cS0xcnEwV08xUk4wYzl1Nkh5alNUVkpHRXpHOG93YVd5b1lTQXhYYnBHc0w1ZmktOUQtLW1yR01WQ2FfY09wbWk0Mll6MkVTcFpMQXM1cjh6cU5PbHNmVU1zbEpBM2dfcUJWOGtEX0ozRGlKNDFjZ1dMRE9kOXBUWmhHZ1MyX3ZMa0YxNmJIbnAzd1lqRkZ6QWNyNDlrSGhsVEZrV0k4eEFUcnRSVW5n?oc=5\" target=\"_blank\">LA City Council Punts On Postfire Eviction Pause, Rent Freeze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "c13b72c66ded0a38",
       "title": "Letters to the Editor: L.A.’s rent control policies were already fair before the new cap - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWNKRi1iMkRGbVo0THk1ZF9panlCaW1FeVBNNUg0cFplOTVXQ2RUeEQwcWJudzl5dmZhQjVCdVNON01tSFFEWDJjdFlJN0EyT1pETXJDZGJUd21zQTFocFMySndIc2RfWm9IZ3ZYMkJRdlAwMTFkc0w5cFMxbFRkTFMtSGFpQ3g4RW14bkRSTkVETjdBX1oyRzlMaTczUWNt?oc=5",
@@ -4381,6 +4391,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDVDY0ZXUmZBOXItZzRyS3VsUWZBZDUtLW5ONVVCSGdTeUpBa2xXOHI4M2ZlNm14RTMwY1dNVTktSUxCQURQeWtOZEdsLWxaV2ZtOFZRU0hSZV9VdUVyaE5MSE1TZ0tldDJfQ1N2YkRiWlZ3RW5vMUlOcU1CMTJ3UWhHRVNfYThjNUNsVWJEa3FpR3lTb3Ewc2VOR3hCSEMtUDRUa2ln?oc=5\" target=\"_blank\">White House says it has no choice but to allow eviction ban to expire Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "57eb986614b8d52c",
+      "title": "Public hearing on CBS expansion — TVC 2050 — set for Sept. 12 - Larchmont Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGhZakxGSDM1OF9jZm5pMVFXbHVJMUJkaERySjl5XzBISUxOYmhiMlp1d0xNSllPbFMxT183aHgxbnB4VTFOQWVuUC1GQzRYb1MzVVBuTDNWTUxYdE05Snk2WTBxSjZFRjd6SElEVjh6b2o1bGwzRXJnbk9ZdnVoSFU4VEg2bVhLZzJHcTM3TjlxUQ?oc=5",
+      "source": "Larchmont Chronicle",
+      "published": "Thu, 29 Aug 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGhZakxGSDM1OF9jZm5pMVFXbHVJMUJkaERySjl5XzBISUxOYmhiMlp1d0xNSllPbFMxT183aHgxbnB4VTFOQWVuUC1GQzRYb1MzVVBuTDNWTUxYdE05Snk2WTBxSjZFRjd6SElEVjh6b2o1bGwzRXJnbk9ZdnVoSFU4VEg2bVhLZzJHcTM3TjlxUQ?oc=5\" target=\"_blank\">Public hearing on CBS expansion — TVC 2050 — set for Sept. 12</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Chronicle</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
     },
     {
       "id": "4946edab761db34c",
@@ -4863,6 +4883,16 @@
       "category": "other"
     },
     {
+      "id": "61b7caec24ce2de5",
+      "title": "SB 79, resi production bring sparks to Bass-Raman mayoral debate - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2dMa2JrbGREWDJpNTN2d1hiLXBMdzAxZzkxUzNYV3kyck5Jaldvd0lHaGoyR2lROHZCV2pab1lad2tVSXRmSnBNNWQ3RnE1MUJtdkRFdHo0dVotOW5vVTl2MVQ4cllFOTVsVGJHakd2S2x6bXBtUWdfdG9lb2RSY19XN3ppUU52N1F3akUyelBuNDRjRndQYmdYbVJmUQ?oc=5",
+      "source": "The Real Deal",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOc2dMa2JrbGREWDJpNTN2d1hiLXBMdzAxZzkxUzNYV3kyck5Jaldvd0lHaGoyR2lROHZCV2pab1lad2tVSXRmSnBNNWQ3RnE1MUJtdkRFdHo0dVotOW5vVTl2MVQ4cllFOTVsVGJHakd2S2x6bXBtUWdfdG9lb2RSY19XN3ppUU52N1F3akUyelBuNDRjRndQYmdYbVJmUQ?oc=5\" target=\"_blank\">SB 79, resi production bring sparks to Bass-Raman mayoral debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "fb705e9804d913c8",
       "title": "Airbnb bans house parties in its rented properties around the world due to coronavirus restrictions - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0tQRWxiZnRaZ2QyVnNIWVRlUUhQTXZ0MXVGaF9sVjFMN1o0Q09ybWFsSnU2N0VkZ05ZYThFRkhpRWYzMWNzT1F2bTU4bm9wUzQyajl0VkN3OWxXaG92eHFsdEZLYlZoM1Q5blJiN3BueG8tY3JGTWkzOW50MXJlXzJJZ0hmVTJDUzVFa0UxT0lxbkFxOWxWQU5sNHFnSDRVZFhRUg?oc=5",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVVUb3B4QUYwLTZLZDdJVVpKUDd2d3R0TVJyc1JwRWUwaWJSeG4zY2kzX3VYNWotemNNLUx1VUZfUkdQbjVuX3BwUDAwNE1rUm5tNnhGLXM3VkRvMHdOYVFOaFNmV0pnUzB5Nk12Q29mTUdrMmJvekhOY0lYT2ZxbGtlOGE3YjRfd3VrVDFUM0lvcHQya2Q1UkxadFplRlNFRnF3YVBqc20yOUdKUXYySnZfVUVmc2s5ZUk3cUQ0WQ?oc=5\" target=\"_blank\">Bend Chamber unveils pre-approved ADU plans for homeowners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Central Oregon Daily</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
-    },
-    {
-      "id": "318f6f8c86471af2",
-      "title": "LA City Council Advances Mansion Tax Reform for November Ballot - LAmag",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeW9vYk9vSEJ5bGR2ajQzaHdEM01WdDdyT2lYV1dPcmdHbGVrNnRVeGdOT19rNWVaX3pNdTFpS1oyR2U3NkFnWl9xc05pUDItcDNqX3pPS1Axb053U19ramVoVEpUNzJjZGFPNzJSTDM5U1YtMy1LMmF4VFJ5bjFsU1NMMlY0V0dpRUhJMG1jYmE3Z1A5dkxuYXJKbE1jTmtFbDNQWVNkb3ZRQ0U?oc=5",
-      "source": "LAmag",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeW9vYk9vSEJ5bGR2ajQzaHdEM01WdDdyT2lYV1dPcmdHbGVrNnRVeGdOT19rNWVaX3pNdTFpS1oyR2U3NkFnWl9xc05pUDItcDNqX3pPS1Axb053U19ramVoVEpUNzJjZGFPNzJSTDM5U1YtMy1LMmF4VFJ5bjFsU1NMMlY0V0dpRUhJMG1jYmE3Z1A5dkxuYXJKbE1jTmtFbDNQWVNkb3ZRQ0U?oc=5\" target=\"_blank\">LA City Council Advances Mansion Tax Reform for November Ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "2f3bf2f02764eca4",
-      "title": "Council Hires New City Attorney, Waives Public Notice Rule to Do so - The Raincross Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjdwdWFRbHFUaVlNZG5lRS1EaU9PNE45VlVlZWZfVDlvSEMwREVmM1BaZzhpek4xY2sxWS1vbVZnMTh1THloT3FBQXpzck15M0FDVnR2U3Z6X3YyZmZBdjg1WWVFYzhCLTVEMXRncHBDZUdjTnZBY0VUeHlCZ2c0WDBjWDF1VkxLc0VtMWZqQnVCemxfM2xpMDVqT2JPX1p0dHc?oc=5",
-      "source": "The Raincross Gazette",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjdwdWFRbHFUaVlNZG5lRS1EaU9PNE45VlVlZWZfVDlvSEMwREVmM1BaZzhpek4xY2sxWS1vbVZnMTh1THloT3FBQXpzck15M0FDVnR2U3Z6X3YyZmZBdjg1WWVFYzhCLTVEMXRncHBDZUdjTnZBY0VUeHlCZ2c0WDBjWDF1VkxLc0VtMWZqQnVCemxfM2xpMDVqT2JPX1p0dHc?oc=5\" target=\"_blank\">Council Hires New City Attorney, Waives Public Notice Rule to Do so</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Raincross Gazette</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
-    },
-    {
-      "id": "9918b38193cf1ee0",
-      "title": "Measure ULA Changes Move Forward at City Hall - westsidecurrent.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHdMbnRNX0ZMZEJwd1hyVXpLOUJHWlZkTnd5WVdydV9nOS15M2VlTTBlWmJzenJoRHB6QnZKTmgwX2NSMVZzdllMMVFEN1ZnVnlIRmNrTEkzaE9WLVJOb1lZZWZWTGdHNmV3S3FidzhPa2JJN0hmandyUGtHU19vS29MZDljRjMxaEVhTGJVamRfMUUtY05NRVNvWEdsRk1aV3dRR01jcjAwMldlbVFpQ2xXd3pDaU5oQmljWmxGNkJGVUpad0FGUzlYWkdPd2FXUHU0VWg0YUVVT2s?oc=5",
-      "source": "westsidecurrent.com",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHdMbnRNX0ZMZEJwd1hyVXpLOUJHWlZkTnd5WVdydV9nOS15M2VlTTBlWmJzenJoRHB6QnZKTmgwX2NSMVZzdllMMVFEN1ZnVnlIRmNrTEkzaE9WLVJOb1lZZWZWTGdHNmV3S3FidzhPa2JJN0hmandyUGtHU19vS29MZDljRjMxaEVhTGJVamRfMUUtY05NRVNvWEdsRk1aV3dRR01jcjAwMldlbVFpQ2xXd3pDaU5oQmljWmxGNkJGVUpad0FGUzlYWkdPd2FXUHU0VWg0YUVVT2s?oc=5\" target=\"_blank\">Measure ULA Changes Move Forward at City Hall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "tax"
     }
   ]
 }
