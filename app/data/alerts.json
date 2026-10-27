@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T17:49:00.223099+00:00",
+  "generated_at": "2026-10-27T01:40:55.155573+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2223,6 +2223,16 @@
       "category": "zoning"
     },
     {
+      "id": "7d8f4b620b7e864e",
+      "title": "Airbnb must face Los Angeles lawsuit alleging price gouging during 2025 wildfires - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDZ6endwc29rVE5Vc3g1RXJhRnFtX0U4SU42TEd3c1pFSjdyM1NkcThyNFFWZEtRYzAzdTJxN0JjcC1mU3QwcW9JVnJhSnJkLWFfdkRjRFJmX3JnTEpWbkxuLVc5ME41T3hDN1o3NUg4cTJ2UlphckF3X1d1eHppd2I0dVRTUXpMMnF4N3F4VEtjdjhYOVhzOTh5ZV9mTEpieTlEdW14ZDZZTTRmS1JtLWk2aw?oc=5",
+      "source": "Reuters",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDZ6endwc29rVE5Vc3g1RXJhRnFtX0U4SU42TEd3c1pFSjdyM1NkcThyNFFWZEtRYzAzdTJxN0JjcC1mU3QwcW9JVnJhSnJkLWFfdkRjRFJmX3JnTEpWbkxuLVc5ME41T3hDN1o3NUg4cTJ2UlphckF3X1d1eHppd2I0dVRTUXpMMnF4N3F4VEtjdjhYOVhzOTh5ZV9mTEpieTlEdW14ZDZZTTRmS1JtLWk2aw?oc=5\" target=\"_blank\">Airbnb must face Los Angeles lawsuit alleging price gouging during 2025 wildfires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "legal"
+    },
+    {
       "id": "14c6d65029b0a27b",
       "title": "Redondo Beach Planning Commission rejects mixed-use project at 401 Pacific Coast Highway - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkplY2tGdEtEMFVaUFg4S2lDTGJfRHZtejBEdkxsR2g1Q3FfMkpNZ2U2UGhuRElJel8ycWRFUEpDclBhelljYzhWQVQzTWhXeWt1UE5pdzlYSHZZdHpPQVBTQmFvMnZZcDBzU09RdllBVXRXSDgxbk1uemJBdUozZGw4eGNxX1ROalJCaENxQ1BOTFh4cFYwRWFLckRrbW9VaEVzMkVpV0NJWC0tNlo5bmVhb2lXUQ?oc=5",
@@ -2391,6 +2401,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYy16ZDFnem5JZmxJcUNuTG9UNEVIcm1GTFRRZXhhendvMTYxd3NrQ05FYkdoVUZ0N3ZXSGI0YV9hUVBmQ182eThhTnViSlM5ZmJkdDhUM0pGcWlhUkhrY2hjNGo0MU1hM19zUFBtUmdmcHlKM0ZHVVVEMURYeU5XSUFvczFQMkU2cnVKQVJMMzhvQTBkNjFFN0dGRHk5YXh5eU5JZVJUbWRISTNZNHhLeUUzVzZ5QURDek9zSmloV3dITEV2?oc=5\" target=\"_blank\">A plan to cut a California tax is going to voters. Why LA’s ‘mansion tax’ is at the center of it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daylight San Diego</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "5d55fe9b15834f6b",
+      "title": "Caruso to vote for Bass, says Raman lacks ‘executive experience’ - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPblNlc05DVWRjVUxwX3NNQ1V5bmpDQlVZcFIzeXU2TWx2TUNxRmR1aVB0UzhvR2N0aWVTN0R2Y0RYNlVjTE9BdlNaQXlyX25ZVDNMYXJYVllEYjc4WDgzVzNxTGI5am5tbTlBNVVyWl9jWmJhRWxlQUEzSGlDY1hZMzhGaC1OY09qV1kwXy0tSDJxbXY5cWpCV1p3?oc=5",
+      "source": "The Real Deal",
+      "published": "Tue, 27 Oct 2026 00:32:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPblNlc05DVWRjVUxwX3NNQ1V5bmpDQlVZcFIzeXU2TWx2TUNxRmR1aVB0UzhvR2N0aWVTN0R2Y0RYNlVjTE9BdlNaQXlyX25ZVDNMYXJYVllEYjc4WDgzVzNxTGI5am5tbTlBNVVyWl9jWmJhRWxlQUEzSGlDY1hZMzhGaC1OY09qV1kwXy0tSDJxbXY5cWpCV1p3?oc=5\" target=\"_blank\">Caruso to vote for Bass, says Raman lacks ‘executive experience’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
     },
     {
       "id": "8f75e5f2578084d0",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHdMbnRNX0ZMZEJwd1hyVXpLOUJHWlZkTnd5WVdydV9nOS15M2VlTTBlWmJzenJoRHB6QnZKTmgwX2NSMVZzdllMMVFEN1ZnVnlIRmNrTEkzaE9WLVJOb1lZZWZWTGdHNmV3S3FidzhPa2JJN0hmandyUGtHU19vS29MZDljRjMxaEVhTGJVamRfMUUtY05NRVNvWEdsRk1aV3dRR01jcjAwMldlbVFpQ2xXd3pDaU5oQmljWmxGNkJGVUpad0FGUzlYWkdPd2FXUHU0VWg0YUVVT2s?oc=5\" target=\"_blank\">Measure ULA Changes Move Forward at City Hall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "tax"
-    },
-    {
-      "id": "27e4c1b28ef6703e",
-      "title": "Rent regulation is winning. Outcry mounts as new projects stall - HousingWire",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6bVFlemduOWVYdWRZSktZZmNrR0RDOEszSk90b0lHeFZYcXFBTUlLY2JIcUlmQ0FkMVo2ZXJLczFxTGl2NzlWS2hBNUNyS1Y2RFB3TTNxZ2Jaa0NvZHpmc3ptUkFULW8zQzJMSjU5a3BzOEdGRjREUmNjLXA?oc=5",
-      "source": "HousingWire",
-      "published": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB6bVFlemduOWVYdWRZSktZZmNrR0RDOEszSk90b0lHeFZYcXFBTUlLY2JIcUlmQ0FkMVo2ZXJLczFxTGl2NzlWS2hBNUNyS1Y2RFB3TTNxZ2Jaa0NvZHpmc3ptUkFULW8zQzJMSjU5a3BzOEdGRjREUmNjLXA?oc=5\" target=\"_blank\">Rent regulation is winning. Outcry mounts as new projects stall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HousingWire</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "other"
-    },
-    {
-      "id": "5b9ddb3184e79853",
-      "title": "California Appeals Court Largely Upholds Pasadena Rent Control Law, Strikes Limited Provisions - Pasadena Now",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFJfR2g4SGp2dElQbk9tdWdpTGU5WTJFVm5kZlJGUklkTk5YVS0wbTRKZHkzWHZ2aVNHY3A4d0RnRmNTazdHR0tYT3FETy05VDZSd3BsRTFxcEhSTEZmNERzb0gtMUxkZ1ZFUkNadnJOSGlVLWJtYlpabG1PMzFadGZMLVBwTUFyT0toamxhbVZjcEtWM0JGMGV6bGhOOUJnY08zMHp2aUk5d2hGeHlXZGoyTzFBaEJfRmZaSGNzSQ?oc=5",
-      "source": "Pasadena Now",
-      "published": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFJfR2g4SGp2dElQbk9tdWdpTGU5WTJFVm5kZlJGUklkTk5YVS0wbTRKZHkzWHZ2aVNHY3A4d0RnRmNTazdHR0tYT3FETy05VDZSd3BsRTFxcEhSTEZmNERzb0gtMUxkZ1ZFUkNadnJOSGlVLWJtYlpabG1PMzFadGZMLVBwTUFyT0toamxhbVZjcEtWM0JGMGV6bGhOOUJnY08zMHp2aUk5d2hGeHlXZGoyTzFBaEJfRmZaSGNzSQ?oc=5\" target=\"_blank\">California Appeals Court Largely Upholds Pasadena Rent Control Law, Strikes Limited Provisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Now</font>",
-      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
-      "category": "legal"
     }
   ]
 }
