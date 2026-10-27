@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:58:26.399340+00:00",
+  "generated_at": "2026-10-27T12:57:52.018519+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4773,6 +4773,16 @@
       "category": "tax"
     },
     {
+      "id": "3613f7c817af082d",
+      "title": "Los Angeles ADU Builder Launches Pay-at-Completion Program Ahead of 2027 Laws - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2pka0F1OUZLNEM3WkozbUtXcDhYcHhhd0h1T0EwY0dpZVhtWnlLZVFKV0NNeTNUSkJoVTlIanNtcmFIRHNETVZ2djZvQjFseDZnQzhkaWlVSWUzTkh2bGFMa0tGdEVTYUdnOVFsNU9ZQ2FzOHM3dzdaRjZBVjg3cnBwV1p6cERZS093dU1GcjdBdnk4cEtCTzdUaUhBU05WVXpNNUVwTkdmdnF6RmhCQm1INmtBWVBTUGxSeDVRX1p5QVJJYzRVLQ?oc=5",
+      "source": "USA Today",
+      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2pka0F1OUZLNEM3WkozbUtXcDhYcHhhd0h1T0EwY0dpZVhtWnlLZVFKV0NNeTNUSkJoVTlIanNtcmFIRHNETVZ2djZvQjFseDZnQzhkaWlVSWUzTkh2bGFMa0tGdEVTYUdnOVFsNU9ZQ2FzOHM3dzdaRjZBVjg3cnBwV1p6cERZS093dU1GcjdBdnk4cEtCTzdUaUhBU05WVXpNNUVwTkdmdnF6RmhCQm1INmtBWVBTUGxSeDVRX1p5QVJJYzRVLQ?oc=5\" target=\"_blank\">Los Angeles ADU Builder Launches Pay-at-Completion Program Ahead of 2027 Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
+    },
+    {
       "id": "4f3b2b5a0a5a3e55",
       "title": "L.A. ‘Wildlife Ordinance’ to Protect Biodiversity With Zoning Changes - Planetizen",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1JGOGRaZnRNcHVYWU9VeUpCbU5CMG1PRjFldnZhbHNyS2xZaWJmQ1Q1aXdBNFpEdWJPYTdnbndsQUZiMUpwQzZWZk4wN2dsa01sRTRpWF9DdUVhQTVZX1FoOVEtUHpvMmpVUTMwNy1QNHIzcVBjQTV5cGU2ZlVjXy1DbU56MkhQZUR2NUtmcDB5RlVRRTAtVk9KU0VaVHRScWJxUkZEbw?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPV25Zck1VM0dhN2Jtb2NGM1FzU0NlYjVqV2hXRVhEejhTM3ptTFJhTTQ1QV82aGo0ZUh4UlJQZl9oNjUwWHBIc0FjaGprWTZxUnR0M0RXZTJYX2dabnlmazVtZ0xFUDdDWFFmSVJKQzZiUW9xc0ZTR3FJYVhtQmFyQ1FaTQ?oc=5\" target=\"_blank\">California’s housing crisis: How much difference will a new zoning law make?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
-    },
-    {
-      "id": "266870b85df51e28",
-      "title": "Bend Chamber unveils pre-approved ADU plans for homeowners - Central Oregon Daily",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVVUb3B4QUYwLTZLZDdJVVpKUDd2d3R0TVJyc1JwRWUwaWJSeG4zY2kzX3VYNWotemNNLUx1VUZfUkdQbjVuX3BwUDAwNE1rUm5tNnhGLXM3VkRvMHdOYVFOaFNmV0pnUzB5Nk12Q29mTUdrMmJvekhOY0lYT2ZxbGtlOGE3YjRfd3VrVDFUM0lvcHQya2Q1UkxadFplRlNFRnF3YVBqc20yOUdKUXYySnZfVUVmc2s5ZUk3cUQ0WQ?oc=5",
-      "source": "Central Oregon Daily",
-      "published": "Thu, 18 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVVUb3B4QUYwLTZLZDdJVVpKUDd2d3R0TVJyc1JwRWUwaWJSeG4zY2kzX3VYNWotemNNLUx1VUZfUkdQbjVuX3BwUDAwNE1rUm5tNnhGLXM3VkRvMHdOYVFOaFNmV0pnUzB5Nk12Q29mTUdrMmJvekhOY0lYT2ZxbGtlOGE3YjRfd3VrVDFUM0lvcHQya2Q1UkxadFplRlNFRnF3YVBqc20yOUdKUXYySnZfVUVmc2s5ZUk3cUQ0WQ?oc=5\" target=\"_blank\">Bend Chamber unveils pre-approved ADU plans for homeowners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Central Oregon Daily</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "adu"
     }
   ]
 }
