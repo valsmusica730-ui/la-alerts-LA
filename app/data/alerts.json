@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:40:44.603403+00:00",
+  "generated_at": "2026-10-28T14:39:14.926959+00:00",
   "total": 500,
   "alerts": [
     {
@@ -671,6 +671,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFA2TEl3OGNjVWNZS3JUOXYyTDBud0lqT2JpSlBVMXVTTm11Z1VidjBxRGpqS1VvV1VaUmE1cEg4WGFoTVdENFktdG5HZ0ZRSS1IZjhlSl9fME82RXVnMDJPRFV4ZU5yX1lETzQzVFRHMml3ckZwX0wxRUw1MA?oc=5\" target=\"_blank\">Is SB 9 Working? Here’s What Early Data Reveals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California YIMBY</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "fc1a47b7b5efa95b",
+      "title": "Cupertino: SB 9 ordinance may violate state law, housing group says - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEM1U2d5cHlPYU0tMk5wTWNVbi14N0hlV3ZLS0RjcVZGNUNndTlDNVp3c3l2TVVoVjlsVWt5aldlaTljUTJaQ0YzVE5JMllkdXo1dW1WWGp0Z0VQRDdCR0UzaWE5bUxNTURwd0wtTkVmUzFXcndJQ296R1BaQ0FoNWFnbjhUb1ZXV25tU0pPekxYdHFtUVNvN3Ytc0g5ekpMN2NBQU9UaEc?oc=5",
+      "source": "The Mercury News",
+      "published": "Wed, 22 Dec 2021 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEM1U2d5cHlPYU0tMk5wTWNVbi14N0hlV3ZLS0RjcVZGNUNndTlDNVp3c3l2TVVoVjlsVWt5aldlaTljUTJaQ0YzVE5JMllkdXo1dW1WWGp0Z0VQRDdCR0UzaWE5bUxNTURwd0wtTkVmUzFXcndJQ296R1BaQ0FoNWFnbjhUb1ZXV25tU0pPekxYdHFtUVNvN3Ytc0g5ekpMN2NBQU9UaEc?oc=5\" target=\"_blank\">Cupertino: SB 9 ordinance may violate state law, housing group says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "legal"
     },
     {
       "id": "684664a9bea4212d",
@@ -4989,16 +4999,6 @@
       "source": "ABC7 Los Angeles",
       "published": "Thu, 19 Jan 2023 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHBvYnEyZWFWQ1BFTTU1bTVrNVNsR2R5NnB1aS16bFlYWmhidUhqX3dxQ0wwZXg0c2FaLUFWTVZhREM4ZmxwTFYtaEZLYmJYSnBsWXJhSkI2UjRGNVNEeDVrWW5ZWDdjaEFWTDV6ejU0by1CRVNuTkZZVVpUVXNIVzAtMjRSOTIyWnZWTlhqSEVqcTEtTnc?oc=5\" target=\"_blank\">LA council committee recommends slate of permanent tenant protections, full council to vote Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
-    },
-    {
-      "id": "9fb420b3429bc469",
-      "title": "LA council committee recommends slate of permanent tenant protections, full council to vote Friday - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHBvYnEyZWFWQ1BFTTU1bTVrNVNsR2R5NnB1aS16bFlYWmhidUhqX3dxQ0wwZXg0c2FaLUFWTVZhREM4ZmxwTFYtaEZLYmJYSnBsWXJhSkI2UjRGNVNEeDVrWW5ZWDdjaEFWTDV6ejU0by1CRVNuTkZZVVpUVXNIVzAtMjRSOTIyWnZWTlhqSEVqcTEtTnfSAZsBQVVfeXFMT0Yxc2pYYk5JLXpKOXVlcHNZckpzVk5uUDVRZU13U2w5ak9ub0ZjY0x3dHBmbHZIOW9iaWs0MlZSa0VqVGlHbnNOX29XdjhsaHJrMlB0ZU1PXzk2cGRkN0p2Q1Zld0NQMzVwZ2tUTkJQY0l4eGFIOVRYOHdWeDM2T2FSeFExM2FtckV3LXcxTEtrU2hCSkJmYUNFWXc?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published": "Thu, 19 Jan 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHBvYnEyZWFWQ1BFTTU1bTVrNVNsR2R5NnB1aS16bFlYWmhidUhqX3dxQ0wwZXg0c2FaLUFWTVZhREM4ZmxwTFYtaEZLYmJYSnBsWXJhSkI2UjRGNVNEeDVrWW5ZWDdjaEFWTDV6ejU0by1CRVNuTkZZVVpUVXNIVzAtMjRSOTIyWnZWTlhqSEVqcTEtTnfSAZsBQVVfeXFMT0Yxc2pYYk5JLXpKOXVlcHNZckpzVk5uUDVRZU13U2w5ak9ub0ZjY0x3dHBmbHZIOW9iaWs0MlZSa0VqVGlHbnNOX29XdjhsaHJrMlB0ZU1PXzk2cGRkN0p2Q1Zld0NQMzVwZ2tUTkJQY0l4eGFIOVRYOHdWeDM2T2FSeFExM2FtckV3LXcxTEtrU2hCSkJmYUNFWXc?oc=5\" target=\"_blank\">LA council committee recommends slate of permanent tenant protections, full council to vote Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     }
