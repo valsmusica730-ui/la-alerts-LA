@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:44:02.634368+00:00",
+  "generated_at": "2026-10-28T01:53:24.745444+00:00",
   "total": 500,
   "alerts": [
     {
@@ -831,6 +831,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWgyZVd1MGMxOHVEMW16MHRkeTZuMXJIdDUxUnduek05eHNESnE2WG5pSFZkMmlJeGh2Sk9pS3FoemtlT1pPNmMzQUlFcUFVRUNKZXVLRC1hZW1tRFBndHlyREl2dmV4V0IwaGd2TDJidW10WjItUldiX3JPa3FjcENVYjh2V2tXYTRGNlVHUVo2UmRsWUJvRkxfMlF4ME1WbmhqWTNPakhBQ011aTUta0JB?oc=5\" target=\"_blank\">California Housing: Past, Present, SB 9 and the Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">League of Women Voters</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "82a9c6f5b4dece92",
+      "title": "39 apartments approved at 10535 W. Missouri Ave. in West L.A. - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbHFjQmZNX3dVX2lNVEpHeHgyazRzMkZxZlhaRll0NVVFYW5yaGozcC1UbjZvSk96NzNpZXZOS1IyRmJnYnRub0FXRTZPTFhGR19DVlI2QlhtcmpyTGUzMWpaV1Rfb2VrNWNjYUdYMkJreFp0dmZ4ZWVEWmNNeFY5WTFBYzdQVmtl?oc=5",
+      "source": "Urbanize LA",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbHFjQmZNX3dVX2lNVEpHeHgyazRzMkZxZlhaRll0NVVFYW5yaGozcC1UbjZvSk96NzNpZXZOS1IyRmJnYnRub0FXRTZPTFhGR19DVlI2QlhtcmpyTGUzMWpaV1Rfb2VrNWNjYUdYMkJreFp0dmZ4ZWVEWmNNeFY5WTFBYzdQVmtl?oc=5\" target=\"_blank\">39 apartments approved at 10535 W. Missouri Ave. in West L.A.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
     },
     {
       "id": "2e6a08df5efef7e9",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzNwX181Slk1ajdPYVE0OTk1bF80enNmekppMEdEQkQwWXRhVURaMVo3M1V3QkxXX21INWw0clZGUWZWVmFTQUtoN1NxWmZOeHhLbG1VTVlMd295X0cyNDZNODBhWDkyZXN0VWFZM3RMRm42M1gwYjdBaEJKZEVLWDFpZ0R3aFI5dWxIMlRMdlltdTByamc?oc=5\" target=\"_blank\">New Report Indicates Controversial California Housing Law Is a Bust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "other"
-    },
-    {
-      "id": "25e9f6689729c99e",
-      "title": "Report finds impact of SB 9 “has been limited” - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWI4clJFclc0OHF4UWlpRms4eVdqaG1IY0duX1IwN1BYa2xUOVZTTTVoUFJQTDdvcE9NVk9Ra19kcWp0NmlMak9ELUY1NUNPRWQybDFSZFBNQUdhaWhsM1lrU2hwdzVrVDEzb1g0NTE5cC02cEhYNkRaWkE3aTlFM0szYWtRX3BPQ1ZF?oc=5",
-      "source": "The Real Deal",
-      "published": "Thu, 19 Jan 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWI4clJFclc0OHF4UWlpRms4eVdqaG1IY0duX1IwN1BYa2xUOVZTTTVoUFJQTDdvcE9NVk9Ra19kcWp0NmlMak9ELUY1NUNPRWQybDFSZFBNQUdhaWhsM1lrU2hwdzVrVDEzb1g0NTE5cC02cEhYNkRaWkE3aTlFM0szYWtRX3BPQ1ZF?oc=5\" target=\"_blank\">Report finds impact of SB 9 “has been limited”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
