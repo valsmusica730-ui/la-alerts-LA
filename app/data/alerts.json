@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:39:14.926959+00:00",
+  "generated_at": "2026-10-28T23:51:47.169791+00:00",
   "total": 500,
   "alerts": [
     {
@@ -173,6 +173,16 @@
       "category": "policy"
     },
     {
+      "id": "08e7bb68ac79d00e",
+      "title": "LA’s rich scramble to sell homes to avoid new ‘mansion tax’ - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTVOcUMwNTBOY3g2NnBDWGhkZEt3YmpYU3BZTFlUWWFrZTk5al82ODFkMVZSZ1JPM2x3Wmh6SDZhLWY5aDZ2bnRzVDd3UDFYdkY5bWZDNVRQSmE2M0hPRFVqZzd2bEo1MkpQcDR4Rlh5UldZY2RJeUY2V2Z3SWFUM3FIVG9jbkdqdlBqOW9HdElYZlRrMzdqcklFNHnSAaIBQVVfeXFMTVlsc0lnanhWVDhvOU1HVWdTNmJiVEt6QkdNMWJKcXJjd3VoSExLNWJBYm5zbUxBRlNWLVJENTVUS2hkTVBtcXlIdHg1djlqOEhNLU1Ua1VIaHZmY05VWkdtOUE0RXdwQ19UM2NiNUt6dzgxS0tvN0ZmV1poTGgtX2ROa0NZN0VKUEFRcERJTloxM1ZSNDNuVTFfZnlaWlhka0dn?oc=5",
+      "source": "NewsNation",
+      "published": "Wed, 29 Mar 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTVOcUMwNTBOY3g2NnBDWGhkZEt3YmpYU3BZTFlUWWFrZTk5al82ODFkMVZSZ1JPM2x3Wmh6SDZhLWY5aDZ2bnRzVDd3UDFYdkY5bWZDNVRQSmE2M0hPRFVqZzd2bEo1MkpQcDR4Rlh5UldZY2RJeUY2V2Z3SWFUM3FIVG9jbkdqdlBqOW9HdElYZlRrMzdqcklFNHnSAaIBQVVfeXFMTVlsc0lnanhWVDhvOU1HVWdTNmJiVEt6QkdNMWJKcXJjd3VoSExLNWJBYm5zbUxBRlNWLVJENTVUS2hkTVBtcXlIdHg1djlqOEhNLU1Ua1VIaHZmY05VWkdtOUE0RXdwQ19UM2NiNUt6dzgxS0tvN0ZmV1poTGgtX2ROa0NZN0VKUEFRcERJTloxM1ZSNDNuVTFfZnlaWlhka0dn?oc=5\" target=\"_blank\">LA’s rich scramble to sell homes to avoid new ‘mansion tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "0b7fd8170b9c9781",
       "title": "LA City Council considering tenant protections, 1-year freeze on rent increases following fires - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOG9RdjE0UDdpY0RFR1IwTzIyS21qb3lSUzJSLU90UC1wQ0NtU1Q2bmRIRlJHT0NxS2VTT3ZJVWw3bHVaT191dDFVME5kNjBuY2dyMy0xYURhRUowSHdqV2NzSlFQTHhBdTdtR2ZoNFpHTUVFbnk3QjlSTTVteXh1Zy12TnZ1T0k0M3p6UW53SXdEQ2U4YlZyOEh2b0U2S09Ud1pITTc3eGNSeXJvTlJaNFFiVDJSQk9Ia3lEQnBSYzlWeW9kTlJkaNIBzgFBVV95cUxOOUlmTENZRDZnMjVBaFBnbE5xaHl6MlVscW1QOTVHOWx3ZTFuWTl0Z1JxbVl0WkYtOThoc004YlByd1hZVGZqSWxIMF92M2VXVUpmellqTnFpM0haNEkwT0d6dW92amZfRER6TlI0UE9CbUpiWW1rdGY3TTN6dUVMUzRXU0Z0UGpWTDRQUFRMWUNrYldBM0k2YURwclE3N0xNSGtyOUxQekJrRXRrM2ExbDN2a0RZVmFmTloyZXUwbkhod1NYOEFRMF9DeXE0UQ?oc=5",
@@ -261,6 +271,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFI5YUFBMXJEUVdwVWVlTHIzZWNHS1NtTFptdlcxaG1VanBkUHRLQ2loVXhsYnRPWFhOVENhUXVmWndXMS1mbTVzUURiSHdRMFhib21CSUtfYmpQeUgtTUUzNGJWdURVaWlFZnBFZVdjWTFXMWtHdmZ2QmJVMVNyTFo3eXUwM1hQcXBvYXBOTk5KVHM4b0dYTXphbEtJUnhFTU8wRmZlaDM4TXQyLTI5WkxaMnUtWHplb25N0gHDAUFVX3lxTE1PUXZKTENIZDR4TWV3QnZvOGRDbnNCVjBlSnNlWFlaN05vMmNMRjlISnhYUGFZcnlEMzBrNmM0Z2paWl9vVElPMDlMWXVEeHpTNTk4UDBqRXVKNmp4Sl9IcWxHNFh6dmsxRDA2WGhLOWdYRU1ObTdJZ2RzX2tpR2VWUWhMWEhVTjVEMG1RX2dycEswR0pzVnR3U0VDb2RyQUtDWHNuY1RvS0F6cENiYk1jWW8zc1EzVjJBTWgtdGZ4OFd1WQ?oc=5\" target=\"_blank\">Council Committee Backs End Date for LA's COVID-19 Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "a97f3317ccf0a468",
+      "title": "Ruling: California cities risk a price to pay to delay housing permits - HousingWire",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbmo1ZkJzdEt3ZzNiZEdFamVwR3JxQnNyUTg1S245ZHVhakxTT3VpSTZnR0tvaHJBV3JiQmdqZ3RsMTFoOUJEMmVTMWd6NWRqdnYxNjdEVFNXeTlNaWtqTWVLQzY2TXY5aFItOVphM05oN2VBU0E?oc=5",
+      "source": "HousingWire",
+      "published": "Wed, 28 Oct 2026 10:57:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbmo1ZkJzdEt3ZzNiZEdFamVwR3JxQnNyUTg1S245ZHVhakxTT3VpSTZnR0tvaHJBV3JiQmdqZ3RsMTFoOUJEMmVTMWd6NWRqdnYxNjdEVFNXeTlNaWtqTWVLQzY2TXY5aFItOVphM05oN2VBU0E?oc=5\" target=\"_blank\">Ruling: California cities risk a price to pay to delay housing permits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HousingWire</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "legal"
     },
     {
       "id": "3c5142b9aeac9261",
@@ -731,6 +751,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMmtFaWpBVi1SMkFZMTZXUURGVG82aVcxZjdURk14X1NrVk5lam15Z1ExUEN4bktmWUppY1lleGR6ekZtUDVGd3ozZWdIREh1WlJWeWNPQThGaElfNFdVWm9WOGpqOUV5NFJaZ3hMcC1sWWlab0w3cHFCM2ZiQVJhWmpES3Vmc0NiX2FMRmszYTI5R3Z3N1dzM0h5ajExaFlvT3d4M0pvTzBSNVdWLV84UlBiZ1Z3NGlm?oc=5\" target=\"_blank\">Losing ground: How the Trump administration has reversed U.S. housing policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Street Roots</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "policy"
+    },
+    {
+      "id": "65c0345ab7864b46",
+      "title": "ADUs lift Los Angeles’s otherwise dismal housing market - Crosstown",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91dFZDX2tLSHE0OUZBanlQeV9jclFfNjFqeXZCRzQ0d2JVVHhnMktOMkR6dWhTeGN3RVdSeGtOVzJKeGVtQjJtYnlVZzA0cThIQ1pnNnhOaVRxSXhrOE9XLTV3?oc=5",
+      "source": "Crosstown",
+      "published": "Wed, 21 May 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE91dFZDX2tLSHE0OUZBanlQeV9jclFfNjFqeXZCRzQ0d2JVVHhnMktOMkR6dWhTeGN3RVdSeGtOVzJKeGVtQjJtYnlVZzA0cThIQ1pnNnhOaVRxSXhrOE9XLTV3?oc=5\" target=\"_blank\">ADUs lift Los Angeles’s otherwise dismal housing market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crosstown</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
     },
     {
       "id": "8f5beabc1b0e4f1d",
@@ -4823,6 +4853,16 @@
       "category": "adu"
     },
     {
+      "id": "a99a856533d034e7",
+      "title": "L.A. City Council upholds approval of mixed-use project at 6136 W. Manchester Ave. - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3ltbE5yNVBKcmgzdXkxZnpQUVV3V0pxRE9PVTBEQkx0TDk2NE1lbXFHNXUxbWRVSkFFakRiTm5WOHBmeTg3LWEyR2NpM0sydkZjTHJtT3NhVW1qQ3pzcXlCdXlOMkdiU2hubmpNQW52WElMeTc1a01KeTQ3Q3dSSDdvLTdrMi1sRjh5LXBVMTNmaG92VFE3MVJ0ZVNoV09mY2lsbQ?oc=5",
+      "source": "Urbanize LA",
+      "published": "Thu, 22 May 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3ltbE5yNVBKcmgzdXkxZnpQUVV3V0pxRE9PVTBEQkx0TDk2NE1lbXFHNXUxbWRVSkFFakRiTm5WOHBmeTg3LWEyR2NpM0sydkZjTHJtT3NhVW1qQ3pzcXlCdXlOMkdiU2hubmpNQW52WElMeTc1a01KeTQ3Q3dSSDdvLTdrMi1sRjh5LXBVMTNmaG92VFE3MVJ0ZVNoV09mY2lsbQ?oc=5\" target=\"_blank\">L.A. City Council upholds approval of mixed-use project at 6136 W. Manchester Ave.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "zoning"
+    },
+    {
       "id": "4f3b2b5a0a5a3e55",
       "title": "L.A. ‘Wildlife Ordinance’ to Protect Biodiversity With Zoning Changes - Planetizen",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1JGOGRaZnRNcHVYWU9VeUpCbU5CMG1PRjFldnZhbHNyS2xZaWJmQ1Q1aXdBNFpEdWJPYTdnbndsQUZiMUpwQzZWZk4wN2dsa01sRTRpWF9DdUVhQTVZX1FoOVEtUHpvMmpVUTMwNy1QNHIzcVBjQTV5cGU2ZlVjXy1DbU56MkhQZUR2NUtmcDB5RlVRRTAtVk9KU0VaVHRScWJxUkZEbw?oc=5",
@@ -4961,46 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOREZ1Sm1QZWk3VTM3ei1HN2tGa0VtWWVyQlBjVnA0NXVDN2JMc3ZCWlRlRkw2bkJDckxIWDN4V01sRGZjTFl2SzQ2OU4zVTY3TVhEZkJNMVNtaHJpWnhpTWp6YUhfcEQ0a0ZLeEZtR2hlbmxSd2dZYnJYNlVMcUZ0RUNqN0tKR2FkaGR5WU5LbnpUQi1jTHlaT00yYWpZWW8?oc=5\" target=\"_blank\">Airbnb bans house parties worldwide, citing virus mandates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityNews Montreal</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
-    },
-    {
-      "id": "ef4479fa4d807576",
-      "title": "Amid crackdown on large gatherings, Airbnb will ban house parties - Long Beach Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbXpmbVhlaTVXWkZYZ1lyeFUxMmFhTzJCemM4Wmt5SlBjMTh0ZElXVHZVcWVVYVRVS29EcVpYQ1VPUzlRaXpvOVZTUjRKQjBLUFJCeTJ6NFRKSENx?oc=5",
-      "source": "Long Beach Post",
-      "published": "Thu, 20 Aug 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbXpmbVhlaTVXWkZYZ1lyeFUxMmFhTzJCemM4Wmt5SlBjMTh0ZElXVHZVcWVVYVRVS29EcVpYQ1VPUzlRaXpvOVZTUjRKQjBLUFJCeTJ6NFRKSENx?oc=5\" target=\"_blank\">Amid crackdown on large gatherings, Airbnb will ban house parties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Long Beach Post</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "5ea2371a1e5bd155",
-      "title": "Did California Just Abolish Single-Family Zoning? - Reason Magazine",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajBWb1lFdEppRTFza2hrRGl0aTA0TnhZUTZvWTB3cnVzaVBlaWZudEllUW5hc0NESGd4X1lSOFhsX3JtRXpIZHhpWURwSkxvQnpUbEpudVRCUGxBNElxNnZGMkgyNG4zVDdqNzdQbVFQT3NLSUp6dUJyMlBySWZIM0hMaVo5UQ?oc=5",
-      "source": "Reason Magazine",
-      "published": "Thu, 19 Sep 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNajBWb1lFdEppRTFza2hrRGl0aTA0TnhZUTZvWTB3cnVzaVBlaWZudEllUW5hc0NESGd4X1lSOFhsX3JtRXpIZHhpWURwSkxvQnpUbEpudVRCUGxBNElxNnZGMkgyNG4zVDdqNzdQbVFQT3NLSUp6dUJyMlBySWZIM0hMaVo5UQ?oc=5\" target=\"_blank\">Did California Just Abolish Single-Family Zoning?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "zoning"
-    },
-    {
-      "id": "8ee280aecef0bd18",
-      "title": "Jurado tapped to lead Measure ULA committee, ensure tax delivers “real results” - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckcxX1g0eUxLS3J5LXpFVERHVU1HbGFXWVppc2lpbVVoeGZtRk5zbUNGUnhTcEZVUlBZak9QWFNRNVZIdXR0VWZ0RHlYSm9MNHd3ZWJUMU5XZmpGMVp0QW5ra2FkUldVMEUxa0JGczJLWmlKWl85WDAzaU8wa1BMSENpdllFS25feUE?oc=5",
-      "source": "The Real Deal",
-      "published": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNckcxX1g0eUxLS3J5LXpFVERHVU1HbGFXWVppc2lpbVVoeGZtRk5zbUNGUnhTcEZVUlBZak9QWFNRNVZIdXR0VWZ0RHlYSm9MNHd3ZWJUMU5XZmpGMVp0QW5ra2FkUldVMEUxa0JGczJLWmlKWl85WDAzaU8wa1BMSENpdllFS25feUE?oc=5\" target=\"_blank\">Jurado tapped to lead Measure ULA committee, ensure tax delivers “real results”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
-    },
-    {
-      "id": "3ad2ee0bf44c953e",
-      "title": "LA council committee recommends slate of permanent tenant protections, full council to vote Friday - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHBvYnEyZWFWQ1BFTTU1bTVrNVNsR2R5NnB1aS16bFlYWmhidUhqX3dxQ0wwZXg0c2FaLUFWTVZhREM4ZmxwTFYtaEZLYmJYSnBsWXJhSkI2UjRGNVNEeDVrWW5ZWDdjaEFWTDV6ejU0by1CRVNuTkZZVVpUVXNIVzAtMjRSOTIyWnZWTlhqSEVqcTEtTnc?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published": "Thu, 19 Jan 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHBvYnEyZWFWQ1BFTTU1bTVrNVNsR2R5NnB1aS16bFlYWmhidUhqX3dxQ0wwZXg0c2FaLUFWTVZhREM4ZmxwTFYtaEZLYmJYSnBsWXJhSkI2UjRGNVNEeDVrWW5ZWDdjaEFWTDV6ejU0by1CRVNuTkZZVVpUVXNIVzAtMjRSOTIyWnZWTlhqSEVqcTEtTnc?oc=5\" target=\"_blank\">LA council committee recommends slate of permanent tenant protections, full council to vote Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
