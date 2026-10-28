@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T01:53:24.745444+00:00",
+  "generated_at": "2026-10-28T07:40:44.603403+00:00",
   "total": 500,
   "alerts": [
     {
@@ -281,6 +281,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc01ZZTFpUlM1UGszZGduT0ZWUHFaZXJoSUxPWVdvU2hNcjlUSFVLX1NCZmhMQ2R3Sk05bjVjU3ZIMmdqd3NSMUY1QXFQS01lTW4tR3JmYm5MYlZuNHVrSjRKQU5jenJWYUp1VXZDWVBWZk12YW1EeUVDQktRd1RaVEdlOTRYYlNHcmRXSFp2V25wdFFrQVQzTGs1b1REWEduQjM2Vk1UUWFlWWIzd08ydW5aVDVNM1QySXhRLUtWR05ZQQ?oc=5\" target=\"_blank\">LA County extends eviction moratorium until end of January 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asian Journal News</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "dd8c7bd51e8e1dd3",
+      "title": "West Hollywood City Council approves 8850 Sunset development - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVVlZSnJFdTl6UG5HN3FZRXJvZ1hvQkxvRzBOX0JxT0VEZGxTSmhobVJfVWhZeTBVNDBNR0RWYVVhNER4eFZ2b01aN3U4WnNTZHVCcmczOVNUWFVYYUVPdldaTmpWeFpNVUJPUGRDLXNuWGk2WEhBV3MtUzVWSFJYM3Jybmc4cm9VcUNvcmptN29LS051?oc=5",
+      "source": "Urbanize LA",
+      "published": "Wed, 28 Aug 2024 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOVVlZSnJFdTl6UG5HN3FZRXJvZ1hvQkxvRzBOX0JxT0VEZGxTSmhobVJfVWhZeTBVNDBNR0RWYVVhNER4eFZ2b01aN3U4WnNTZHVCcmczOVNUWFVYYUVPdldaTmpWeFpNVUJPUGRDLXNuWGk2WEhBV3MtUzVWSFJYM3Jybmc4cm9VcUNvcmptN29LS051?oc=5\" target=\"_blank\">West Hollywood City Council approves 8850 Sunset development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "6c29bcf664b89542",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHBvYnEyZWFWQ1BFTTU1bTVrNVNsR2R5NnB1aS16bFlYWmhidUhqX3dxQ0wwZXg0c2FaLUFWTVZhREM4ZmxwTFYtaEZLYmJYSnBsWXJhSkI2UjRGNVNEeDVrWW5ZWDdjaEFWTDV6ejU0by1CRVNuTkZZVVpUVXNIVzAtMjRSOTIyWnZWTlhqSEVqcTEtTnfSAZsBQVVfeXFMT0Yxc2pYYk5JLXpKOXVlcHNZckpzVk5uUDVRZU13U2w5ak9ub0ZjY0x3dHBmbHZIOW9iaWs0MlZSa0VqVGlHbnNOX29XdjhsaHJrMlB0ZU1PXzk2cGRkN0p2Q1Zld0NQMzVwZ2tUTkJQY0l4eGFIOVRYOHdWeDM2T2FSeFExM2FtckV3LXcxTEtrU2hCSkJmYUNFWXc?oc=5\" target=\"_blank\">LA council committee recommends slate of permanent tenant protections, full council to vote Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "6fd0a3762f82b4e8",
-      "title": "New Report Indicates Controversial California Housing Law Is a Bust - LAmag",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzNwX181Slk1ajdPYVE0OTk1bF80enNmekppMEdEQkQwWXRhVURaMVo3M1V3QkxXX21INWw0clZGUWZWVmFTQUtoN1NxWmZOeHhLbG1VTVlMd295X0cyNDZNODBhWDkyZXN0VWFZM3RMRm42M1gwYjdBaEJKZEVLWDFpZ0R3aFI5dWxIMlRMdlltdTByamc?oc=5",
-      "source": "LAmag",
-      "published": "Thu, 19 Jan 2023 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzNwX181Slk1ajdPYVE0OTk1bF80enNmekppMEdEQkQwWXRhVURaMVo3M1V3QkxXX21INWw0clZGUWZWVmFTQUtoN1NxWmZOeHhLbG1VTVlMd295X0cyNDZNODBhWDkyZXN0VWFZM3RMRm42M1gwYjdBaEJKZEVLWDFpZ0R3aFI5dWxIMlRMdlltdTByamc?oc=5\" target=\"_blank\">New Report Indicates Controversial California Housing Law Is a Bust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
     }
   ]
 }
