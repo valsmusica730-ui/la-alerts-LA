@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:31:57.769591+00:00",
+  "generated_at": "2026-10-29T17:10:36.031110+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3323,6 +3323,16 @@
       "category": "rent"
     },
     {
+      "id": "643d0d65aa2179ba",
+      "title": "Carson mayor rules out rent control, shelves housing initiative - The California Apartment Association",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEhZbnVib2dwRVpvUlNUc2ZYWE1GSk9OZF9EYk83LW1rcG9tRUpjbWcxb2FpY0VOSjROZ2lGcUhqRzZ6a1dSMHhpUlBuVlJMbk5pY1B1YUszeDRIN1VycGpnejRNZ3RvQzlnYS0yVVZaOHRYckd4YXRLNVQ4N3FndEJnNmRIMXNnREE?oc=5",
+      "source": "The California Apartment Association",
+      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEhZbnVib2dwRVpvUlNUc2ZYWE1GSk9OZF9EYk83LW1rcG9tRUpjbWcxb2FpY0VOSjROZ2lGcUhqRzZ6a1dSMHhpUlBuVlJMbk5pY1B1YUszeDRIN1VycGpnejRNZ3RvQzlnYS0yVVZaOHRYckd4YXRLNVQ4N3FndEJnNmRIMXNnREE?oc=5\" target=\"_blank\">Carson mayor rules out rent control, shelves housing initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The California Apartment Association</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "rent"
+    },
+    {
       "id": "2124db607415e5d3",
       "title": "Senate Bill 10 threatens California’s initiative process - CalMatters",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzZ1WmFrdHZrdXp3dVVPNm1nV1lmX2pyMGp2VnRQNzE0cXlVNzh4TWtXR3QySmJ0dzJBanIwZWd4WXdzOW9TR0tDUl8yYVRiQk13WFBUbkJ1bnJEaDhtYW5xUXZWeHQ3LUc4cngtdUx4cGZaSy1reldJUVFJOG1GaDVWejVxOU5UalQ5Wl9MQ3RpZkVGdVRNMVphdzZwSVU?oc=5",
@@ -4833,6 +4843,16 @@
       "category": "zoning"
     },
     {
+      "id": "cf759b1ae29a12ed",
+      "title": "City of West Hollywood Approves Urgency Ordinance to Enact Temporary Measures to Assist in Housing People Displaced from Recent Fires | News - City of West Hollywood",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rcHJDRFFKWnlva092OXFPTzl0dS16V0lYb2pNOTN4OWU3TGhGRUMxQ3pvWEVvTDZDUVZpX1ZMOFRMNkJGQ0JmTGtMM2Z6UDRERmNSOHRGX0JlRWxQN0RuWk90eFFVdw?oc=5",
+      "source": "City of West Hollywood",
+      "published": "Thu, 23 Jan 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rcHJDRFFKWnlva092OXFPTzl0dS16V0lYb2pNOTN4OWU3TGhGRUMxQ3pvWEVvTDZDUVZpX1ZMOFRMNkJGQ0JmTGtMM2Z6UDRERmNSOHRGX0JlRWxQN0RuWk90eFFVdw?oc=5\" target=\"_blank\">City of West Hollywood Approves Urgency Ordinance to Enact Temporary Measures to Assist in Housing People Displaced from Recent Fires | News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of West Hollywood</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
+    },
+    {
       "id": "2d8fa49293eebb12",
       "title": "Mixed-Use Project at Selma & Argyle Approved by L.A. City Planning Commission - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHdMN2JBNGpDZzBVeVAwdXlvOXNqakVrckhaSGJRbUZXNVZDWFQ0cExmRktHR0ZRdkNoNHRkVzlJNjVuS1kzaTd6ZlItMkViQzNCelpuLUVPcnJzV3NxdHZxd0U4akt2M3JGWWQwbERweHRGelpWaklEMlB5dUY4VFJnUjEta3FlX01jSnZoQkhudVpVWFBsdjVua2hyQQ?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWEgwczB3Q3AyMy0tZUMweEtoVlo3S3VFa3Z6VTY4NlFZRXBjQVQ0aTZiQkxtenB1eFVuNVRWaEZFcFRnX1cxZmU4UHhPWHh6d0k0YWMzVzgyUDFzakVnWXpzZEswMVJzbEpxTFBJcGVEN0xIV18xb1ZTZVpNY3VMSUc3RkZBWWxaMFAwejZSbWhpejhOSVNHTDBabWduZTZtbjYzVENxcVN4NmgzNUVDZF82c1AyMVZ5Y2pHUm1KcVdfenRIQlV0blpoREtmcWVBcnk1di1IOE9tYU51dmxYYzlB?oc=5\" target=\"_blank\">Jefferson County sets new rules on Accessory Dwelling Units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Central Oregon Daily</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
-    },
-    {
-      "id": "f2d930613048800c",
-      "title": "L.A.’s bitter mayoral race between Karen Bass and Nithya Raman isn’t serving voters - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkZxbDYwQmxGZ05XYVUyNGxrblpNVEVKOTUtSTRhSjJnX1NkVlBGQl9JN0J5VUZ5QjhCb19lS28xbHNaQXpCb2VMSUVERlpVNnZ4MmliMXpMMmxaNGdvUzJHak5mbkF4ZzdZOHNhRmhZVlVhLUVPQUdCZ3FVOWtjdjA4VDRvVDU1VlNydUJwdnUyNThKNG9oX2l2MDR6QXhGdnBZZWNjWERQeXJu?oc=5",
-      "source": "San Francisco Chronicle",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkZxbDYwQmxGZ05XYVUyNGxrblpNVEVKOTUtSTRhSjJnX1NkVlBGQl9JN0J5VUZ5QjhCb19lS28xbHNaQXpCb2VMSUVERlpVNnZ4MmliMXpMMmxaNGdvUzJHak5mbkF4ZzdZOHNhRmhZVlVhLUVPQUdCZ3FVOWtjdjA4VDRvVDU1VlNydUJwdnUyNThKNG9oX2l2MDR6QXhGdnBZZWNjWERQeXJu?oc=5\" target=\"_blank\">L.A.’s bitter mayoral race between Karen Bass and Nithya Raman isn’t serving voters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "a870c262f5dcbda1",
-      "title": "Judge says voter initiative on housing in Newport Beach can go to ballot - Orange County Register",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmY2QXJmWjJHN1UtOGNLNy1oWEp2MU4zR2dLZ19FajMxM0pDYUxydmVfczBuR1V3dkJCVFNrWk9OVHNYR3RZc3A0dlluXy1rclBBRnQzdEF1WXR0dmFmaDg0YjhKOFlOeW1nSzY5NFJKbFVSR1hqWVZjN1RpU0dlUDFDNnRubXVnQVcyandpWHZmcEp4VGxZUmM4aW8yeHIzT21hQlliQmJ4QkxSNHN0WA?oc=5",
-      "source": "Orange County Register",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmY2QXJmWjJHN1UtOGNLNy1oWEp2MU4zR2dLZ19FajMxM0pDYUxydmVfczBuR1V3dkJCVFNrWk9OVHNYR3RZc3A0dlluXy1rclBBRnQzdEF1WXR0dmFmaDg0YjhKOFlOeW1nSzY5NFJKbFVSR1hqWVZjN1RpU0dlUDFDNnRubXVnQVcyandpWHZmcEp4VGxZUmM4aW8yeHIzT21hQlliQmJ4QkxSNHN0WA?oc=5\" target=\"_blank\">Judge says voter initiative on housing in Newport Beach can go to ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
     }
   ]
 }
