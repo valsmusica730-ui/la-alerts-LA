@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T03:17:47.675158+00:00",
+  "generated_at": "2026-10-29T10:31:57.769591+00:00",
   "total": 500,
   "alerts": [
     {
@@ -629,6 +629,16 @@
       "source": "Los Angeles Times",
       "published": "Wed, 23 Jun 2021 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazYyOFRDV29DQjZyU09LTWJlU053ZjhHeS02bkFjU0xvdFZjUHRxOWJ0RG1JaDRRX1Zta3ZGWVBBTWNqSEFNOTFfSlBMSjhoend4Q1FzbzVYdjNJRDhxNWJpc3U5WlQtSnpyZUFQYm5rZm1POFVuRW9VeVhaRDRVRmRUazZMcTRFMGdJYlVLWExVdWxmeVVBU1M0THhXamZIS1FlcDVtdXZXZw?oc=5\" target=\"_blank\">‘It’s very scary’: Tenants on edge as California mulls extending eviction moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
+      "id": "a956ba500a173053",
+      "title": "LA County extends eviction moratorium another 3 months - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXVubEx1WFpVMndQaGxYeUlPZ1RCWDhQVFdFYmQtTVp1U2VucHVjdjZWenMteExOMElBcjZKTlJWTTdOLUdLbUNXMHpJeFFBa2FyQ3UtVEdQNzVjRnl6b3dDQ2lWdXlJVjRla1JvNlllMkRSZEdsS1ZDcjFSdVR5SlhMSkZEalFGSXRjN0h2cWNpdUlBQVI0Zg?oc=5",
+      "source": "The Real Deal",
+      "published": "Wed, 23 Jun 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXVubEx1WFpVMndQaGxYeUlPZ1RCWDhQVFdFYmQtTVp1U2VucHVjdjZWenMteExOMElBcjZKTlJWTTdOLUdLbUNXMHpJeFFBa2FyQ3UtVEdQNzVjRnl6b3dDQ2lWdXlJVjRla1JvNlllMkRSZEdsS1ZDcjFSdVR5SlhMSkZEalFGSXRjN0h2cWNpdUlBQVI0Zg?oc=5\" target=\"_blank\">LA County extends eviction moratorium another 3 months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
     },
@@ -4573,6 +4583,16 @@
       "category": "other"
     },
     {
+      "id": "30e216c75697f84f",
+      "title": "Screaming matches at LA City planning hearing - FOX 11 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VNEJlVGthVmFQRlJtOFZ2MUFEMDNvMjlHRHhZNTI4aV9lQUxLZVAwZG9UN2x4c1RrX0dWb0pnNzZJbkVPYlAxa1N2V2s5VUhsQWRBdjJxeng4T24t0gFiQVVfeXFMT0ctY3lhdjNXb0ZqWG9qS3M4aGIwVmxlWmZrTGNwUmt0aTBnYVRnSDNLQUF4dkNqNWhxcllQRDBaMEgwMjJQTzZ5UFNTbTd6RDhYVzItSFF3RlB1UVdQaVJmdVE?oc=5",
+      "source": "FOX 11 Los Angeles",
+      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VNEJlVGthVmFQRlJtOFZ2MUFEMDNvMjlHRHhZNTI4aV9lQUxLZVAwZG9UN2x4c1RrX0dWb0pnNzZJbkVPYlAxa1N2V2s5VUhsQWRBdjJxeng4T24t0gFiQVVfeXFMT0ctY3lhdjNXb0ZqWG9qS3M4aGIwVmxlWmZrTGNwUmt0aTBnYVRnSDNLQUF4dkNqNWhxcllQRDBaMEgwMjJQTzZ5UFNTbTd6RDhYVzItSFF3RlB1UVdQaVJmdVE?oc=5\" target=\"_blank\">Screaming matches at LA City planning hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
+    },
+    {
       "id": "df7848245de0b316",
       "title": "State leaders to unveil eviction moratorium on Friday - Orange County Register",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSE9HZFNUV1I2OVJFRXVsXzlFYXZiMG0tT2NaYml4bFFlVkZ4aEJyeDQyY1NyT0lkd0laREhwRGdqRFU4MURhSzBNdHhhM1NkTUplQUREemk2UW5UdWNkWVRhdU5QRy1LRk5kTUNKSlNPejIxV3BIdFBodHNROGgxQ0QxVnBsZDFMZThNS3VfU2lNUmc5anU0?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmY2QXJmWjJHN1UtOGNLNy1oWEp2MU4zR2dLZ19FajMxM0pDYUxydmVfczBuR1V3dkJCVFNrWk9OVHNYR3RZc3A0dlluXy1rclBBRnQzdEF1WXR0dmFmaDg0YjhKOFlOeW1nSzY5NFJKbFVSR1hqWVZjN1RpU0dlUDFDNnRubXVnQVcyandpWHZmcEp4VGxZUmM4aW8yeHIzT21hQlliQmJ4QkxSNHN0WA?oc=5\" target=\"_blank\">Judge says voter initiative on housing in Newport Beach can go to ballot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "other"
-    },
-    {
-      "id": "61b7caec24ce2de5",
-      "title": "SB 79, resi production bring sparks to Bass-Raman mayoral debate - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2dMa2JrbGREWDJpNTN2d1hiLXBMdzAxZzkxUzNYV3kyck5Jaldvd0lHaGoyR2lROHZCV2pab1lad2tVSXRmSnBNNWQ3RnE1MUJtdkRFdHo0dVotOW5vVTl2MVQ4cllFOTVsVGJHakd2S2x6bXBtUWdfdG9lb2RSY19XN3ppUU52N1F3akUyelBuNDRjRndQYmdYbVJmUQ?oc=5",
-      "source": "The Real Deal",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOc2dMa2JrbGREWDJpNTN2d1hiLXBMdzAxZzkxUzNYV3kyck5Jaldvd0lHaGoyR2lROHZCV2pab1lad2tVSXRmSnBNNWQ3RnE1MUJtdkRFdHo0dVotOW5vVTl2MVQ4cllFOTVsVGJHakd2S2x6bXBtUWdfdG9lb2RSY19XN3ppUU52N1F3akUyelBuNDRjRndQYmdYbVJmUQ?oc=5\" target=\"_blank\">SB 79, resi production bring sparks to Bass-Raman mayoral debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "fb705e9804d913c8",
-      "title": "Airbnb bans house parties in its rented properties around the world due to coronavirus restrictions - ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0tQRWxiZnRaZ2QyVnNIWVRlUUhQTXZ0MXVGaF9sVjFMN1o0Q09ybWFsSnU2N0VkZ05ZYThFRkhpRWYzMWNzT1F2bTU4bm9wUzQyajl0VkN3OWxXaG92eHFsdEZLYlZoM1Q5blJiN3BueG8tY3JGTWkzOW50MXJlXzJJZ0hmVTJDUzVFa0UxT0lxbkFxOWxWQU5sNHFnSDRVZFhRUg?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published": "Thu, 20 Aug 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0tQRWxiZnRaZ2QyVnNIWVRlUUhQTXZ0MXVGaF9sVjFMN1o0Q09ybWFsSnU2N0VkZ05ZYThFRkhpRWYzMWNzT1F2bTU4bm9wUzQyajl0VkN3OWxXaG92eHFsdEZLYlZoM1Q5blJiN3BueG8tY3JGTWkzOW50MXJlXzJJZ0hmVTJDUzVFa0UxT0lxbkFxOWxWQU5sNHFnSDRVZFhRUg?oc=5\" target=\"_blank\">Airbnb bans house parties in its rented properties around the world due to coronavirus restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News & Headlines – Australian Broadcasting Corporation</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
     }
   ]
 }
