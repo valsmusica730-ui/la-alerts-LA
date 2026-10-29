@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:51:47.169791+00:00",
+  "generated_at": "2026-10-29T03:17:47.675158+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3343,6 +3343,16 @@
       "category": "tax"
     },
     {
+      "id": "a7aae7a58415cbdd",
+      "title": "California Lawmakers Drop Plan to Amend Los Angeles Mansion Tax - Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYk1QbERwMDJ5MzU2TlVoR09CQTRCVzN2d09JSEdwWUFCYUNXMFpyLXRWNWFRbHo5b3VIVDlEcVhFaFhESnpSM3R1T3RwSzc2ei1sZF9aRWJXYnRtd2poYjI0WlZIOUVrdDdiQ2lkSWlmZWUtRXluRzYzbFd6MGxRWGR4RTZEY01JV2lIT2FkNnNqNEk0VUpMVjdaUG9iQ3VEV05SRmZVb3RweklnYkRqWDdVVGpNeV9vZjd1b3ZBQ01FUUEwakdGU2h0X2JJZw?oc=5",
+      "source": "Bloomberg Law News",
+      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNYk1QbERwMDJ5MzU2TlVoR09CQTRCVzN2d09JSEdwWUFCYUNXMFpyLXRWNWFRbHo5b3VIVDlEcVhFaFhESnpSM3R1T3RwSzc2ei1sZF9aRWJXYnRtd2poYjI0WlZIOUVrdDdiQ2lkSWlmZWUtRXluRzYzbFd6MGxRWGR4RTZEY01JV2lIT2FkNnNqNEk0VUpMVjdaUG9iQ3VEV05SRmZVb3RweklnYkRqWDdVVGpNeV9vZjd1b3ZBQ01FUUEwakdGU2h0X2JJZw?oc=5\" target=\"_blank\">California Lawmakers Drop Plan to Amend Los Angeles Mansion Tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Law News</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "2cf70ccecf082108",
       "title": "LA County ordinance would regulate short-term rentals in unincorporated areas - dailynews.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFhOUldjbVVpNTZyM3JWd0l1bjZTWHRBMEgyNHp2dlBGUjR6Qmg1NE9GVFhmYVVKajlPOE1kQkRSUXRIWGNmLXhrekxrVnExTzk5d3BWVGhkbWVxY1hRMVV2R2lDd3pHa3hDUjgzTWMwUktRZ0VEOUZMdFhlSFJVeFY3ZmxTS2JzN2xwNmUxWS1HdEFEMVJYX29YQTU3NFd3M3ZSbEdicm1WbUpYQWlpN1RpcjJwY0k?oc=5",
@@ -4989,16 +4999,6 @@
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "published": "Thu, 20 Aug 2020 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0tQRWxiZnRaZ2QyVnNIWVRlUUhQTXZ0MXVGaF9sVjFMN1o0Q09ybWFsSnU2N0VkZ05ZYThFRkhpRWYzMWNzT1F2bTU4bm9wUzQyajl0VkN3OWxXaG92eHFsdEZLYlZoM1Q5blJiN3BueG8tY3JGTWkzOW50MXJlXzJJZ0hmVTJDUzVFa0UxT0lxbkFxOWxWQU5sNHFnSDRVZFhRUg?oc=5\" target=\"_blank\">Airbnb bans house parties in its rented properties around the world due to coronavirus restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News & Headlines – Australian Broadcasting Corporation</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "14a7164c0484acbc",
-      "title": "Airbnb bans house parties worldwide, citing virus mandates - CityNews Montreal",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOREZ1Sm1QZWk3VTM3ei1HN2tGa0VtWWVyQlBjVnA0NXVDN2JMc3ZCWlRlRkw2bkJDckxIWDN4V01sRGZjTFl2SzQ2OU4zVTY3TVhEZkJNMVNtaHJpWnhpTWp6YUhfcEQ0a0ZLeEZtR2hlbmxSd2dZYnJYNlVMcUZ0RUNqN0tKR2FkaGR5WU5LbnpUQi1jTHlaT00yYWpZWW8?oc=5",
-      "source": "CityNews Montreal",
-      "published": "Thu, 20 Aug 2020 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOREZ1Sm1QZWk3VTM3ei1HN2tGa0VtWWVyQlBjVnA0NXVDN2JMc3ZCWlRlRkw2bkJDckxIWDN4V01sRGZjTFl2SzQ2OU4zVTY3TVhEZkJNMVNtaHJpWnhpTWp6YUhfcEQ0a0ZLeEZtR2hlbmxSd2dZYnJYNlVMcUZ0RUNqN0tKR2FkaGR5WU5LbnpUQi1jTHlaT00yYWpZWW8?oc=5\" target=\"_blank\">Airbnb bans house parties worldwide, citing virus mandates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityNews Montreal</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
     }
