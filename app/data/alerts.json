@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:13:51.594613+00:00",
+  "generated_at": "2026-10-30T16:21:15.074174+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3933,6 +3933,16 @@
       "category": "rent"
     },
     {
+      "id": "80bf346ca0b40ff2",
+      "title": "California Proposition 33: Rent control - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmVVSzh6enZsY2kwbG1XSkc3TEpfRURxeTR5UmlMa2xiSmhYQkJSRXpveHVRX2FQc3pORC10UzlfeHVJcE9RUzNteHNDdFB4aDl0bDM1VUQwZmdRUXhnamczM2JyOFNITXF4ZXE5cmNBb3VRX1ViYy13ZV81OHhNcmxWamxUci1QSW1ERVdn?oc=5",
+      "source": "CalMatters",
+      "published": "Tue, 05 Nov 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmVVSzh6enZsY2kwbG1XSkc3TEpfRURxeTR5UmlMa2xiSmhYQkJSRXpveHVRX2FQc3pORC10UzlfeHVJcE9RUzNteHNDdFB4aDl0bDM1VUQwZmdRUXhnamczM2JyOFNITXF4ZXE5cmNBb3VRX1ViYy13ZV81OHhNcmxWamxUci1QSW1ERVdn?oc=5\" target=\"_blank\">California Proposition 33: Rent control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CalMatters</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "rent"
+    },
+    {
       "id": "57cd361f4bd34a12",
       "title": "Rent Relief, Eviction Moratorium Extended In L.A. County - Patch",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzJ6cElTaTBac2NubEcxSVV4UFZNRGQ5SHJITTZGRHF1YjFYQmR5NHlndXY0VEhlRUVvRHk0a21tN25TT1JDRGtUYW8tOHJCazVjQWhmOU1kX0FYSkh3ekprWlVXQ2FaUDlHYk5wMWl4RmplQlhFbjZsUk1aUWx4QVhtX3NUUDNNYmQwQTRhczJrZlY4UkpESQ?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0xLME9ZMFlWQWF5QUNIbzB1Q1FLQlNwdmU0SXNnOER1NmJiQkhydDFJYUN0UGJTemhpbEpqZ0ZGMVFmRm9FSDFqdkxIVkkzVS1ENjBBVFNxNTFEMWpKTTlvY29MSmZnS2Q0U2RUdGVpVWpwNkVwdkhiRkdlWHN5bXJpQ015NUljWUNQYWJoa0QxY2R1dWtJM1BEZWZOUk05U1pwYjFtZzVnZw?oc=5\" target=\"_blank\">Long Beach moves to approve citywide inclusionary housing rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Long Beach Post</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
-    },
-    {
-      "id": "8f31b5c3fc16048f",
-      "title": "Jefferson County sets new rules on Accessory Dwelling Units - Central Oregon Daily",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWEgwczB3Q3AyMy0tZUMweEtoVlo3S3VFa3Z6VTY4NlFZRXBjQVQ0aTZiQkxtenB1eFVuNVRWaEZFcFRnX1cxZmU4UHhPWHh6d0k0YWMzVzgyUDFzakVnWXpzZEswMVJzbEpxTFBJcGVEN0xIV18xb1ZTZVpNY3VMSUc3RkZBWWxaMFAwejZSbWhpejhOSVNHTDBabWduZTZtbjYzVENxcVN4NmgzNUVDZF82c1AyMVZ5Y2pHUm1KcVdfenRIQlV0blpoREtmcWVBcnk1di1IOE9tYU51dmxYYzlB?oc=5",
-      "source": "Central Oregon Daily",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWEgwczB3Q3AyMy0tZUMweEtoVlo3S3VFa3Z6VTY4NlFZRXBjQVQ0aTZiQkxtenB1eFVuNVRWaEZFcFRnX1cxZmU4UHhPWHh6d0k0YWMzVzgyUDFzakVnWXpzZEswMVJzbEpxTFBJcGVEN0xIV18xb1ZTZVpNY3VMSUc3RkZBWWxaMFAwejZSbWhpejhOSVNHTDBabWduZTZtbjYzVENxcVN4NmgzNUVDZF82c1AyMVZ5Y2pHUm1KcVdfenRIQlV0blpoREtmcWVBcnk1di1IOE9tYU51dmxYYzlB?oc=5\" target=\"_blank\">Jefferson County sets new rules on Accessory Dwelling Units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Central Oregon Daily</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "adu"
     }
   ]
 }
