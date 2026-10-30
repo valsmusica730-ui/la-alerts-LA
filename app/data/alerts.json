@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:21:15.074174+00:00",
+  "generated_at": "2026-10-30T21:12:15.175980+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3263,6 +3263,16 @@
       "category": "other"
     },
     {
+      "id": "38adce85ef25e87d",
+      "title": "Council adopts emergency zoning rules to limit noise, queuing from autonomous-vehicle fleet sites - citizenportal.ai",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOT0NwVU1jbHpCNU0xWVFOdm5sM2dvaFlUSWRmRUNTQjZVUW93SkRjdnhUOWFBMlBRSGthZmFVTllJQ1lZR2JEeGY2bmRhZUJaVXNqRmVZZEd1eUVhWE9KblpBOU5YUEphYV9RME5nYWQ4OGZLb1RNNXlFNnYxUWVRTmlqR0k1bVNXczBGZmRMYkVzRFo3MUFPTS1xdThiR3RUTkt4YnhkVWx5OVlGOXFaZUhjWVpnaEFpUlRxRmJpMTNEaE1aMlhsaThGbUNZOGhxSWNNRmE3YTJGTFJxc1gzZjFpb1cwbTlyM1hJTkhTZ3JORFZXUk5Hb2dGYXl2dWhJZkNSYmZUZDFlcGR5eWVxY01wQm4?oc=5",
+      "source": "citizenportal.ai",
+      "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOT0NwVU1jbHpCNU0xWVFOdm5sM2dvaFlUSWRmRUNTQjZVUW93SkRjdnhUOWFBMlBRSGthZmFVTllJQ1lZR2JEeGY2bmRhZUJaVXNqRmVZZEd1eUVhWE9KblpBOU5YUEphYV9RME5nYWQ4OGZLb1RNNXlFNnYxUWVRTmlqR0k1bVNXczBGZmRMYkVzRFo3MUFPTS1xdThiR3RUTkt4YnhkVWx5OVlGOXFaZUhjWVpnaEFpUlRxRmJpMTNEaE1aMlhsaThGbUNZOGhxSWNNRmE3YTJGTFJxc1gzZjFpb1cwbTlyM1hJTkhTZ3JORFZXUk5Hb2dGYXl2dWhJZkNSYmZUZDFlcGR5eWVxY01wQm4?oc=5\" target=\"_blank\">Council adopts emergency zoning rules to limit noise, queuing from autonomous-vehicle fleet sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizenportal.ai</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "zoning"
+    },
+    {
       "id": "cb5baacee204dea5",
       "title": "Wireless ordinance gets go-ahead from Costa Mesa Planning Commission - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0QwbE9OLUtUY2FwSmxUeGdCUHBQUWhfTFNab0JyMUViWVhlcFg4NjF4ckRKVFJQU2Y1NUtfam96c3ZENmQzZjZNSmFkTEF0Y0FZM251MTU3dTgzaks3U21idUdBWTRLVFQ1RmR1cHBneUZUZFJRbXFMT2k2RzdTc0dycU1oOURuOHJrTk5PNjNsNEdpM3dybk5laHk3N2c?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkNwUXFNUG1za25RMDlTWE14NS1QeXItZDBQazV2dEFkY2JfdHRBMkU0MHFROTJTR0FRblRRc0toZ2MtS3VHc19CNGJzb1BMM1FFY2R3dlV0NVU5Yk9KYlNZaGpTVVVHQWZneUktRFRiN2poVVRJVnduSDBTUTNvMjMyLXZDV3ExZ1N1bFhhMVpfWGlmN0ZzVk95Q3E?oc=5\" target=\"_blank\">Los Angeles Halts SB 9 Light-Density Housing in Fire Zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HousingWire</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
-    },
-    {
-      "id": "64ba964a8ed1ef75",
-      "title": "Long Beach moves to approve citywide inclusionary housing rules - Long Beach Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0xLME9ZMFlWQWF5QUNIbzB1Q1FLQlNwdmU0SXNnOER1NmJiQkhydDFJYUN0UGJTemhpbEpqZ0ZGMVFmRm9FSDFqdkxIVkkzVS1ENjBBVFNxNTFEMWpKTTlvY29MSmZnS2Q0U2RUdGVpVWpwNkVwdkhiRkdlWHN5bXJpQ015NUljWUNQYWJoa0QxY2R1dWtJM1BEZWZOUk05U1pwYjFtZzVnZw?oc=5",
-      "source": "Long Beach Post",
-      "published": "Thu, 20 Mar 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0xLME9ZMFlWQWF5QUNIbzB1Q1FLQlNwdmU0SXNnOER1NmJiQkhydDFJYUN0UGJTemhpbEpqZ0ZGMVFmRm9FSDFqdkxIVkkzVS1ENjBBVFNxNTFEMWpKTTlvY29MSmZnS2Q0U2RUdGVpVWpwNkVwdkhiRkdlWHN5bXJpQ015NUljWUNQYWJoa0QxY2R1dWtJM1BEZWZOUk05U1pwYjFtZzVnZw?oc=5\" target=\"_blank\">Long Beach moves to approve citywide inclusionary housing rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Long Beach Post</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "policy"
     }
   ]
 }
