@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:12:15.175980+00:00",
+  "generated_at": "2026-10-31T01:11:38.154552+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1339,6 +1339,16 @@
       "source": "CNBC",
       "published": "Wed, 12 Dec 2018 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOczJqdktWZ0E4emhqY1RXbFRQcDBWbFpmZm1adEk2ay0yNS10ejlaMjZucERUS1N5UWxjYmhYUVBWUTROcEdtY0JJTUEtMTBBeTZILS12NEg3ODA3UFJyUUF6XzB4XzlJOGRRU1NzZ1J2cDh1TTFwX1Rzbm13Tlc4STNWQ2hfQ0txZV9Dc1ViQ2VXQ09ES1pHd1JaSjPSAaIBQVVfeXFMT2RaY2U5LWV4LTBlOHVRSTVkMUNTQzEtT0pNWXEydHN4aXA5MmtMV3BWV05sMHlOX2VCWUE1YzY3eXVqVENYVXpfcFlFbkFVZ05RaUJucEZ3Vjh0bjYySG52TGdPX1FkazF5dkhia2VFeDBqUE1GRGVfVXViUGVNX19nX1BUNzg0NEZtaEFLUzJSTUxYWVprNUcyY2VRNnBIUTdR?oc=5\" target=\"_blank\">Los Angeles passes regulation targeting Airbnb and other short-term rental services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
+      "id": "2d98ac27f3f5667e",
+      "title": "Los Angeles passes regulation targeting Airbnb and other short-term rental services - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOczJqdktWZ0E4emhqY1RXbFRQcDBWbFpmZm1adEk2ay0yNS10ejlaMjZucERUS1N5UWxjYmhYUVBWUTROcEdtY0JJTUEtMTBBeTZILS12NEg3ODA3UFJyUUF6XzB4XzlJOGRRU1NzZ1J2cDh1TTFwX1Rzbm13Tlc4STNWQ2hfQ0txZV9Dc1ViQ2VXQ09ES1pHd1JaSjM?oc=5",
+      "source": "CNBC",
+      "published": "Wed, 12 Dec 2018 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOczJqdktWZ0E4emhqY1RXbFRQcDBWbFpmZm1adEk2ay0yNS10ejlaMjZucERUS1N5UWxjYmhYUVBWUTROcEdtY0JJTUEtMTBBeTZILS12NEg3ODA3UFJyUUF6XzB4XzlJOGRRU1NzZ1J2cDh1TTFwX1Rzbm13Tlc4STNWQ2hfQ0txZV9Dc1ViQ2VXQ09ES1pHd1JaSjM?oc=5\" target=\"_blank\">Los Angeles passes regulation targeting Airbnb and other short-term rental services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
     },
@@ -3021,6 +3031,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2VmYUh6bVVxMTF3NUdad3dycXhXRjlTS0FQZXBFYWlpeXV5T3I3aEpoeEc3WG1kR0Y0UFBRUnZyVWFuTzFqU1FzRTgwTFBlSWFQcEFBdTYwak5zazlSU1lsSFlUWEtXXzl0ejRvZjZzeUZMRjgwaHlzd2pYTVdiQU0xYzQ5eGZDclVIbXY5SkttbGdoV2tldklIWHRwT1NpdzBNOXpRMU4?oc=5\" target=\"_blank\">HUD Secretary Carson defends Trump housing policy in Minneapolis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MPR News</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "rent"
+    },
+    {
+      "id": "1a55b7ace2d80618",
+      "title": "Residential-retail development approved at 7022 W. Sunset Blvd. in Hollywood - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0ZHZXhGWFJGbE5RYk9WTVBXS3l5ak9mem9oeVVOcUI5eUNxby1oZWlCdUlyOXh3blNDeGdMOEsxVG0ybVhQa1J0Z3J5Q0NIaGRJeWtLNk01OE1wZ0tyQlZGZ1laeUoyQXVEOFZZb1c2aC1TZU55dnI4aWlZOXFLMnI0bW0yQmI1MHFmekw1aUFXSEdmX3V3b1VIQXVZczQ?oc=5",
+      "source": "Urbanize LA",
+      "published": "Tue, 18 Feb 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0ZHZXhGWFJGbE5RYk9WTVBXS3l5ak9mem9oeVVOcUI5eUNxby1oZWlCdUlyOXh3blNDeGdMOEsxVG0ybVhQa1J0Z3J5Q0NIaGRJeWtLNk01OE1wZ0tyQlZGZ1laeUoyQXVEOFZZb1c2aC1TZU55dnI4aWlZOXFLMnI0bW0yQmI1MHFmekw1aUFXSEdmX3V3b1VIQXVZczQ?oc=5\" target=\"_blank\">Residential-retail development approved at 7022 W. Sunset Blvd. in Hollywood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
     },
     {
       "id": "6734522c53f1ab8b",
@@ -4980,26 +5000,6 @@
       "published": "Thu, 21 Jul 2022 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW1VTTBWNnFSNmhMNjN3MEFWcEt3RVFqb1FWQjJ2dXB5UkRkLXdWaTdwQW9ra2NTbVhtLTMwYmhIV0dxWXJaOTI4QWNSZlRIdGF4aDdqZ3UyaTFpdC1wbUtOMVZLT090clZCZnpNbnRyV0R5VldwMG1HWXdqMGRwUDh4bVpvVGZ4VFJBREppRF9NbW5ZaVA0TWNOd2RfcDVFNFE?oc=5\" target=\"_blank\">City planning commission to hold virtual meeting on Seward project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "318de212c15c979a",
-      "title": "After two years, City Council clears proposed apartments at 3601 Mission Road - la.urbanize.city",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmhhZm9ldzVpd21acUlTMEdmWEY3N0dWVDZmWjhXNktKaXFRT2t0TzFTemdlQ1laZDJocFZtZEc5dmJ0cGVhd3BoSHFKZk4wQkpNcmF5eE9PX3Z5VlAxVE9oRlg0SnhvendSN3B6ZUR4dWRkdXdZZXZTbmJ2TnZlUVNBdXBXOFdpYlI4bWdoMFpVOHNsUG1Ja2tkMWUyYV9Yei1oeDd3?oc=5",
-      "source": "la.urbanize.city",
-      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmhhZm9ldzVpd21acUlTMEdmWEY3N0dWVDZmWjhXNktKaXFRT2t0TzFTemdlQ1laZDJocFZtZEc5dmJ0cGVhd3BoSHFKZk4wQkpNcmF5eE9PX3Z5VlAxVE9oRlg0SnhvendSN3B6ZUR4dWRkdXdZZXZTbmJ2TnZlUVNBdXBXOFdpYlI4bWdoMFpVOHNsUG1Ja2tkMWUyYV9Yei1oeDd3?oc=5\" target=\"_blank\">After two years, City Council clears proposed apartments at 3601 Mission Road</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">la.urbanize.city</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "policy"
-    },
-    {
-      "id": "a7bdc3c3657c3245",
-      "title": "Los Angeles Halts SB 9 Light-Density Housing in Fire Zones - HousingWire",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkNwUXFNUG1za25RMDlTWE14NS1QeXItZDBQazV2dEFkY2JfdHRBMkU0MHFROTJTR0FRblRRc0toZ2MtS3VHc19CNGJzb1BMM1FFY2R3dlV0NVU5Yk9KYlNZaGpTVVVHQWZneUktRFRiN2poVVRJVnduSDBTUTNvMjMyLXZDV3ExZ1N1bFhhMVpfWGlmN0ZzVk95Q3E?oc=5",
-      "source": "HousingWire",
-      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkNwUXFNUG1za25RMDlTWE14NS1QeXItZDBQazV2dEFkY2JfdHRBMkU0MHFROTJTR0FRblRRc0toZ2MtS3VHc19CNGJzb1BMM1FFY2R3dlV0NVU5Yk9KYlNZaGpTVVVHQWZneUktRFRiN2poVVRJVnduSDBTUTNvMjMyLXZDV3ExZ1N1bFhhMVpfWGlmN0ZzVk95Q3E?oc=5\" target=\"_blank\">Los Angeles Halts SB 9 Light-Density Housing in Fire Zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HousingWire</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
     }
   ]
