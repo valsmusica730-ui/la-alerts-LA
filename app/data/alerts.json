@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:11:38.154552+00:00",
+  "generated_at": "2026-10-31T07:40:47.764529+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3563,6 +3563,16 @@
       "category": "legal"
     },
     {
+      "id": "7f1abb763c0be132",
+      "title": "L.A. approves new rules for Airbnb-type rentals after years of debate - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOakV2U3JQR1R5Vm05OENmb0txcG8xWDczdHRObFFhV2pIZHRqc2ZCX09TR2M3TGtOYXBmWEU4YTc1b2dkZFh5WGtwYjhLLTY2ZjJYRDZmOVl2U1VEd180SEQ4ejNLT0owZkdvVkE5MDNLaWZYVDUyZmRxZVFmVFh5ZWRKdS1Sd2tkX0VFV0NST1JhZw?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Tue, 11 Dec 2018 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOakV2U3JQR1R5Vm05OENmb0txcG8xWDczdHRObFFhV2pIZHRqc2ZCX09TR2M3TGtOYXBmWEU4YTc1b2dkZFh5WGtwYjhLLTY2ZjJYRDZmOVl2U1VEd180SEQ4ejNLT0owZkdvVkE5MDNLaWZYVDUyZmRxZVFmVFh5ZWRKdS1Sd2tkX0VFV0NST1JhZw?oc=5\" target=\"_blank\">L.A. approves new rules for Airbnb-type rentals after years of debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "dfe104e06306c57d",
       "title": "Malibu, Pasadena wave white flag on SB 9 challenges, settle with YIMBY Law - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGpBUUNTb0tBVERUZ0ZWcGNnVHZnOGwwQUNyY2diLU9mYmJ5Yy04ajItaF9ydUM5Ym9XTXJlbnRqRFpsNnlVMUtwOVRmT245N0VvMnJuOXg4ZVFqdnhuZk9yUjlzcVAyQ1N1eDFGS3BIOEl5TlNtWkd4a01GWFdEVTUxbi1jdDl0b1d0TkphWUhtZw?oc=5",
@@ -4673,6 +4683,16 @@
       "category": "zoning"
     },
     {
+      "id": "163990fcc22d49a7",
+      "title": "The High Cost of Homeless Housing: Review of Proposition HHH - City of Los Angeles (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xdzhiNDRHUk5Ndk1XbmlmVUFWb3BVUVN4S1pmRlRhb0VJdDZfVEVMZU0tbUgxaVNLenZYLWtIUHJ1c3ptdmpaZ0dSYzdjcG16cHZqMzhHV3BJY2kwbWxEUFpHeGpmUVFuMktqd2l6UXBoa2hoa25sSWJR?oc=5",
+      "source": "City of Los Angeles (.gov)",
+      "published": "Thu, 26 Sep 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8xdzhiNDRHUk5Ndk1XbmlmVUFWb3BVUVN4S1pmRlRhb0VJdDZfVEVMZU0tbUgxaVNLenZYLWtIUHJ1c3ptdmpaZ0dSYzdjcG16cHZqMzhHV3BJY2kwbWxEUFpHeGpmUVFuMktqd2l6UXBoa2hoa25sSWJR?oc=5\" target=\"_blank\">The High Cost of Homeless Housing: Review of Proposition HHH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "other"
+    },
+    {
       "id": "ad8ab06ef28bc0f8",
       "title": "City Planning Commission upholds approval of mixed-use project at 7115 Van Nuys Boulevard - Urbanize LA",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnMyOUNuQlR3RkZldWhPbG9qOF9aZGlvQWszUmZUMEJhZFNDb3J1eXQ5cWdCV3Zra3V0NWxVYnFCU1RoWXV6MmQ5Y1lNWnJfM0pPYnNsUHptWEhfX19DRGNiZVB3cnRXREQ3d0pPM2E4eG4wWk9ZVTJvUHZIVkYwanhyX3JrOVpKeHcybUYxejg3TjhSMXdOYXkxdXJkSElZVnhiX2FjRUktUFVMaVVqbDlFSQ?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVTbVNNMFQyd28xWmNjLXF0VF9FdUI0eEVNZVhGanN4T3hodWtOdG5WVG9KcElzTGZmcndhT3dZWnpKa2x2azdYTW0wY1hnSjBsT2NhNHY2dUVJWU13ZDFWU2pFOEdHVFF1RDBXMWQzcFltMXlPSTQydWF0VVFwRk1HR3JHbTA3VnlTcFlXbGVoek1CMDhEeVZHOW1NMzltaWk1T3ZyR0I2dUhOd3RUTThWQQ?oc=5\" target=\"_blank\">With the federal eviction moratorium over, many call Las Vegas’ Desert Moon Motel home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
-    },
-    {
-      "id": "6e83b0046af03573",
-      "title": "Here Are the Rules for Short-Term Rentals in Your City - Dwell",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYm1MQlFNTjVMbUZBQ042RHlGdWdEMXJfQWdmUkxNMGZSTjZuQ3B0Y2RSbF9JQ1cyNE44Rld1Nzc5NjdUNXZ2ZFhIelNENTFKWnM3bWJOZnZaaUhicWw4ZFUyeWdSWE1wWmk1cXRYa0NqMHZ5ck9IT2Vmb0JTT1dVd20zNmdRd9IBiwFBVV95cUxNNFhiOGY5WGpvSy1FM2EtVkZXd3Y4aEc5ZV9xU1JNOXVmaVlKdm9WRDZoV2toNVdhNjZIZnJGU2dieHh0U0ltNFdSUkN3RFlueUdCOWhOdEFiYjJpUU15N1N3YjNnVktkVEYyRHdqaEhNQ3hmU3ZfQzZDblVENGRhVGJBdTFlNFkyVXlB?oc=5",
-      "source": "Dwell",
-      "published": "Thu, 21 Mar 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQYm1MQlFNTjVMbUZBQ042RHlGdWdEMXJfQWdmUkxNMGZSTjZuQ3B0Y2RSbF9JQ1cyNE44Rld1Nzc5NjdUNXZ2ZFhIelNENTFKWnM3bWJOZnZaaUhicWw4ZFUyeWdSWE1wWmk1cXRYa0NqMHZ5ck9IT2Vmb0JTT1dVd20zNmdRd9IBiwFBVV95cUxNNFhiOGY5WGpvSy1FM2EtVkZXd3Y4aEc5ZV9xU1JNOXVmaVlKdm9WRDZoV2toNVdhNjZIZnJGU2dieHh0U0ltNFdSUkN3RFlueUdCOWhOdEFiYjJpUU15N1N3YjNnVktkVEYyRHdqaEhNQ3hmU3ZfQzZDblVENGRhVGJBdTFlNFkyVXlB?oc=5\" target=\"_blank\">Here Are the Rules for Short-Term Rentals in Your City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dwell</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "a9dd4b1b0e808e4f",
-      "title": "City planning commission to hold virtual meeting on Seward project - Beverly Press & Park Labrea News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW1VTTBWNnFSNmhMNjN3MEFWcEt3RVFqb1FWQjJ2dXB5UkRkLXdWaTdwQW9ra2NTbVhtLTMwYmhIV0dxWXJaOTI4QWNSZlRIdGF4aDdqZ3UyaTFpdC1wbUtOMVZLT090clZCZnpNbnRyV0R5VldwMG1HWXdqMGRwUDh4bVpvVGZ4VFJBREppRF9NbW5ZaVA0TWNOd2RfcDVFNFE?oc=5",
-      "source": "Beverly Press & Park Labrea News",
-      "published": "Thu, 21 Jul 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW1VTTBWNnFSNmhMNjN3MEFWcEt3RVFqb1FWQjJ2dXB5UkRkLXdWaTdwQW9ra2NTbVhtLTMwYmhIV0dxWXJaOTI4QWNSZlRIdGF4aDdqZ3UyaTFpdC1wbUtOMVZLT090clZCZnpNbnRyV0R5VldwMG1HWXdqMGRwUDh4bVpvVGZ4VFJBREppRF9NbW5ZaVA0TWNOd2RfcDVFNFE?oc=5\" target=\"_blank\">City planning commission to hold virtual meeting on Seward project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
