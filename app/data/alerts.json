@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T08:20:00.354943+00:00",
+  "generated_at": "2026-11-01T19:56:27.784387+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1481,6 +1481,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWU1UENTWnQ1N0lzdkJQNkM1ekNTa0VSc2dZVUFTYUNscnprRFFkV3F4S3JKbVBlVnVSeWptUHZZc3FZLWRELS00TnBuVXNNTU95UWtKeEkyWGdEVExWa0xZemc0WEpETFI4VXZiM3RiTFNHWnBoRU0tOE1IaHlBOXpRVFhzMFRveURaS2pNcl9IQ1E0M014clEzRlp4XzhVSEhGM3NCcXJwVzJaWkdzbw?oc=5\" target=\"_blank\">Thousands of apartments set to take over empty office buildings with new L.A. ordinance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "policy"
+    },
+    {
+      "id": "73306f47b30dc37b",
+      "title": "City Council approves housing element rezoning program - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmpEdzAwbjY5SHRGbUxzMFBSZTJhY2toYmRHRTZVM1BfRGpYMkVqSmplYTBOSXBGckJKSVZfczV1OG56dEVjWnZaeHV2Y1ZvOUVTZVQ2a2lSYllZN1VHaUJrTlhfcEg4eUtobzdJVVVhNXZGUVg2RUZwRzFNbVhTQzFza1Y1NWlSZzZWSw?oc=5",
+      "source": "Urbanize LA",
+      "published": "Wed, 11 Dec 2024 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmpEdzAwbjY5SHRGbUxzMFBSZTJhY2toYmRHRTZVM1BfRGpYMkVqSmplYTBOSXBGckJKSVZfczV1OG56dEVjWnZaeHV2Y1ZvOUVTZVQ2a2lSYllZN1VHaUJrTlhfcEg4eUtobzdJVVVhNXZGUVg2RUZwRzFNbVhTQzFza1Y1NWlSZzZWSw?oc=5\" target=\"_blank\">City Council approves housing element rezoning program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "zoning"
     },
     {
       "id": "09b19bee08de7f75",
@@ -4989,16 +4999,6 @@
       "source": "Planetizen",
       "published": "Thu, 22 Dec 2022 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1JGOGRaZnRNcHVYWU9VeUpCbU5CMG1PRjFldnZhbHNyS2xZaWJmQ1Q1aXdBNFpEdWJPYTdnbndsQUZiMUpwQzZWZk4wN2dsa01sRTRpWF9DdUVhQTVZX1FoOVEtUHpvMmpVUTMwNy1QNHIzcVBjQTV5cGU2ZlVjXy1DbU56MkhQZUR2NUtmcDB5RlVRRTAtVk9KU0VaVHRScWJxUkZEbw?oc=5\" target=\"_blank\">L.A. ‘Wildlife Ordinance’ to Protect Biodiversity With Zoning Changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planetizen</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "e4b4535e78f3279c",
-      "title": "L.A. City Planning Commission Approves Mission Hills Apartments - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS3hWeExnTXFtNTdsYU0zQ25JQ3lpc2ZoU2VoekR0TFdFdnlHOGFKRVM0OWRUcVhGeU9KOXVxem5uRkNaN1REY3U1Rk4xcjFRck5ib2JDdDFVLUhheHVnSWluQ1FaVGl5OUdWNlpHcU5FdklkX1l0N1lIYU90RXBGT1V5QzBKQjZOM0hhal9KN2NUTGVqSEE?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 22 Aug 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPS3hWeExnTXFtNTdsYU0zQ25JQ3lpc2ZoU2VoekR0TFdFdnlHOGFKRVM0OWRUcVhGeU9KOXVxem5uRkNaN1REY3U1Rk4xcjFRck5ib2JDdDFVLUhheHVnSWluQ1FaVGl5OUdWNlpHcU5FdklkX1l0N1lIYU90RXBGT1V5QzBKQjZOM0hhal9KN2NUTGVqSEE?oc=5\" target=\"_blank\">L.A. City Planning Commission Approves Mission Hills Apartments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     }
