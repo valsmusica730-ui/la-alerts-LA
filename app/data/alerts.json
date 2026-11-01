@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:56:27.784387+00:00",
+  "generated_at": "2026-11-01T23:15:30.186851+00:00",
   "total": 500,
   "alerts": [
     {
@@ -571,6 +571,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVF0NDRkdmRUZThFUkx2ZjBoTGRqdG5nTVdYOFg5VVRUcXItOC1BczZxY0lIcm1raThKSHFENkRUMTgyWDAxMGxzLXlSbmhiTV9FS0xuR3c5OWRYYVYxVzRER1lYenpLUm9ncXAwczJUNUIyX2Nia3ZtQTRvU3ZJV2lEclVhdEFudDg0VWhNdUdPbTZqS3ZxSzNLWQ?oc=5\" target=\"_blank\">Trusted ADU Contractor in Los Angeles: ADU Los Angeles Helps Homeowners Navigate 2026 ADU Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
+    },
+    {
+      "id": "50466d311dcd4a86",
+      "title": "Proposition 43: No - California YIMBY",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MeVlzUHdYdEpQWDVfaVE4TVc4cXVsQ1ZuNVI5cE43aVNGWGFUdHA2Nk10VFg5OEZvTmdXWWRsN3B3VDdiTTNNek13b2xXLV92SUkyX0hiOW8?oc=5",
+      "source": "California YIMBY",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MeVlzUHdYdEpQWDVfaVE4TVc4cXVsQ1ZuNVI5cE43aVNGWGFUdHA2Nk10VFg5OEZvTmdXWWRsN3B3VDdiTTNNek13b2xXLV92SUkyX0hiOW8?oc=5\" target=\"_blank\">Proposition 43: No</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California YIMBY</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "other"
     },
     {
       "id": "951dedff61fb8a2e",
@@ -2591,6 +2601,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPR2duUWZZaHdXZEZ4ZHpfM0VFOGlaV3FWNlowYmVteFFNU3lTUEd4SWVmY3VmOXRLNjU0NlZNYUlkeklsRHFiZUJ0SDM4TmtFZm1SMWU5ck5iUGtxNk93cXlvLUc0akVrZFdDSFgxb19jVk56ektPZUVNRFBQdWk1WFBTbkY4bmdvR2tCc1o2dTlER1dzVWo2b204dlZvVnpCQVJVZkNtcjE5S1NSdG5FRHB4M2hocDk3NlJNVWhFSHZPZnB1ZVFZNVg5LVlWeWVHUFZOX1BHYkt6T1Bsb2t4WUJGRnpYNUV3Qmt5UHZBc1lTWGdXM0dwQ3FwY3B3UUxBcFFrWEdJS3pXdW52?oc=5\" target=\"_blank\">Council Merges Youth, Aging and Economic Development Departments Amid Budget Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Westside Current</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "other"
+    },
+    {
+      "id": "45a9a6afdc7de6e1",
+      "title": "L.A. City Council Approves Chinatown's College Station Development - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNCbXlBS1c0cU9wVHRFVS1WN193aDhodk5Vb1ZZdFRfdlJVRHg3UklBem5xVndFcjBpZzk2Y2JTa0djMTBqTVhzRWhmNnVDTzYwRUc0RFNCdGxBV3d5UkZVQW5QcHNTUTNlOVVPNHVNX3Zaa2RHb3c1UDZCazBjMkMxVTlDbmpTSFlOMG5mWTRTX2xQSlJFVQ?oc=5",
+      "source": "Urbanize LA",
+      "published": "Tue, 26 Mar 2019 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNCbXlBS1c0cU9wVHRFVS1WN193aDhodk5Vb1ZZdFRfdlJVRHg3UklBem5xVndFcjBpZzk2Y2JTa0djMTBqTVhzRWhmNnVDTzYwRUc0RFNCdGxBV3d5UkZVQW5QcHNTUTNlOVVPNHVNX3Zaa2RHb3c1UDZCazBjMkMxVTlDbmpTSFlOMG5mWTRTX2xQSlJFVQ?oc=5\" target=\"_blank\">L.A. City Council Approves Chinatown's College Station Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
     },
     {
       "id": "d679cd64b1a82b59",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2pka0F1OUZLNEM3WkozbUtXcDhYcHhhd0h1T0EwY0dpZVhtWnlLZVFKV0NNeTNUSkJoVTlIanNtcmFIRHNETVZ2djZvQjFseDZnQzhkaWlVSWUzTkh2bGFMa0tGdEVTYUdnOVFsNU9ZQ2FzOHM3dzdaRjZBVjg3cnBwV1p6cERZS093dU1GcjdBdnk4cEtCTzdUaUhBU05WVXpNNUVwTkdmdnF6RmhCQm1INmtBWVBTUGxSeDVRX1p5QVJJYzRVLQ?oc=5\" target=\"_blank\">Los Angeles ADU Builder Launches Pay-at-Completion Program Ahead of 2027 Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "adu"
-    },
-    {
-      "id": "a99a856533d034e7",
-      "title": "L.A. City Council upholds approval of mixed-use project at 6136 W. Manchester Ave. - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3ltbE5yNVBKcmgzdXkxZnpQUVV3V0pxRE9PVTBEQkx0TDk2NE1lbXFHNXUxbWRVSkFFakRiTm5WOHBmeTg3LWEyR2NpM0sydkZjTHJtT3NhVW1qQ3pzcXlCdXlOMkdiU2hubmpNQW52WElMeTc1a01KeTQ3Q3dSSDdvLTdrMi1sRjh5LXBVMTNmaG92VFE3MVJ0ZVNoV09mY2lsbQ?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 22 May 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3ltbE5yNVBKcmgzdXkxZnpQUVV3V0pxRE9PVTBEQkx0TDk2NE1lbXFHNXUxbWRVSkFFakRiTm5WOHBmeTg3LWEyR2NpM0sydkZjTHJtT3NhVW1qQ3pzcXlCdXlOMkdiU2hubmpNQW52WElMeTc1a01KeTQ3Q3dSSDdvLTdrMi1sRjh5LXBVMTNmaG92VFE3MVJ0ZVNoV09mY2lsbQ?oc=5\" target=\"_blank\">L.A. City Council upholds approval of mixed-use project at 6136 W. Manchester Ave.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "zoning"
-    },
-    {
-      "id": "4f3b2b5a0a5a3e55",
-      "title": "L.A. ‘Wildlife Ordinance’ to Protect Biodiversity With Zoning Changes - Planetizen",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1JGOGRaZnRNcHVYWU9VeUpCbU5CMG1PRjFldnZhbHNyS2xZaWJmQ1Q1aXdBNFpEdWJPYTdnbndsQUZiMUpwQzZWZk4wN2dsa01sRTRpWF9DdUVhQTVZX1FoOVEtUHpvMmpVUTMwNy1QNHIzcVBjQTV5cGU2ZlVjXy1DbU56MkhQZUR2NUtmcDB5RlVRRTAtVk9KU0VaVHRScWJxUkZEbw?oc=5",
-      "source": "Planetizen",
-      "published": "Thu, 22 Dec 2022 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1JGOGRaZnRNcHVYWU9VeUpCbU5CMG1PRjFldnZhbHNyS2xZaWJmQ1Q1aXdBNFpEdWJPYTdnbndsQUZiMUpwQzZWZk4wN2dsa01sRTRpWF9DdUVhQTVZX1FoOVEtUHpvMmpVUTMwNy1QNHIzcVBjQTV5cGU2ZlVjXy1DbU56MkhQZUR2NUtmcDB5RlVRRTAtVk9KU0VaVHRScWJxUkZEbw?oc=5\" target=\"_blank\">L.A. ‘Wildlife Ordinance’ to Protect Biodiversity With Zoning Changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planetizen</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
