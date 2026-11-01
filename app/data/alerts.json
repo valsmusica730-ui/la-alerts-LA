@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T01:36:15.829052+00:00",
+  "generated_at": "2026-11-01T08:20:00.354943+00:00",
   "total": 500,
   "alerts": [
     {
@@ -840,6 +840,16 @@
       "published": "Wed, 20 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMExTWWJrdnV2Ml9SdjRyZzhFa3g5dHpvOTEtWnhsNmc4QV90RFhndTB2c2FhX1RWWGFzYThfTUdqRXZ0bk5RRmhwZF9vWHRIQ0xMck92dDBiMlZUTlZacGlKTFFDOV9JQXVhb3JGVWd1d3pZVGZobFpYclBQX3NPdHJxNTNCOS1OTC1LcDBNWmdEV2xvcWhOT1hMVWx2UEowNzh0NEI5NlppSmRDeUY4dnllOXJkUkFjbngtUjJFWUk?oc=5\" target=\"_blank\">Why the LA City Council narrowly voted to oppose state bill allowing more housing near public transit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAist</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
+      "id": "0647353bac02a6be",
+      "title": "COUNCIL MOVES TO DRAFT ORDINANCE PERMITTING SINGLE-STAIRWAY BUILDINGS TO SPUR HOUSING GROWTH - City of Los Angeles (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYzFIN1NUYzgtclZUcDR4RTQ3UkVFUGcyR0RvYVE0dkNpWEVWTV9YNjQybHo0UW9oOER6Y1V2V1BBSnA3Y254d2ljcG1ySWlSZVIzMFl2VFJIY1VfcWNtQkN5a1h2S0lBallvMFd1S3lxRzZyNE9MNkxndzUwM3ZjNUpRS3E0SG1Ya3BBZmV6ZVA5UQ?oc=5",
+      "source": "City of Los Angeles (.gov)",
+      "published": "Wed, 20 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNYzFIN1NUYzgtclZUcDR4RTQ3UkVFUGcyR0RvYVE0dkNpWEVWTV9YNjQybHo0UW9oOER6Y1V2V1BBSnA3Y254d2ljcG1ySWlSZVIzMFl2VFJIY1VfcWNtQkN5a1h2S0lBallvMFd1S3lxRzZyNE9MNkxndzUwM3ZjNUpRS3E0SG1Ya3BBZmV6ZVA5UQ?oc=5\" target=\"_blank\">COUNCIL MOVES TO DRAFT ORDINANCE PERMITTING SINGLE-STAIRWAY BUILDINGS TO SPUR HOUSING GROWTH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
+      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "policy"
     },
     {
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPS3hWeExnTXFtNTdsYU0zQ25JQ3lpc2ZoU2VoekR0TFdFdnlHOGFKRVM0OWRUcVhGeU9KOXVxem5uRkNaN1REY3U1Rk4xcjFRck5ib2JDdDFVLUhheHVnSWluQ1FaVGl5OUdWNlpHcU5FdklkX1l0N1lIYU90RXBGT1V5QzBKQjZOM0hhal9KN2NUTGVqSEE?oc=5\" target=\"_blank\">L.A. City Planning Commission Approves Mission Hills Apartments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "a9029d09cfe8df85",
-      "title": "With the federal eviction moratorium over, many call Las Vegas’ Desert Moon Motel home - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVTbVNNMFQyd28xWmNjLXF0VF9FdUI0eEVNZVhGanN4T3hodWtOdG5WVG9KcElzTGZmcndhT3dZWnpKa2x2azdYTW0wY1hnSjBsT2NhNHY2dUVJWU13ZDFWU2pFOEdHVFF1RDBXMWQzcFltMXlPSTQydWF0VVFwRk1HR3JHbTA3VnlTcFlXbGVoek1CMDhEeVZHOW1NMzltaWk1T3ZyR0I2dUhOd3RUTThWQQ?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 21 Oct 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVTbVNNMFQyd28xWmNjLXF0VF9FdUI0eEVNZVhGanN4T3hodWtOdG5WVG9KcElzTGZmcndhT3dZWnpKa2x2azdYTW0wY1hnSjBsT2NhNHY2dUVJWU13ZDFWU2pFOEdHVFF1RDBXMWQzcFltMXlPSTQydWF0VVFwRk1HR3JHbTA3VnlTcFlXbGVoek1CMDhEeVZHOW1NMzltaWk1T3ZyR0I2dUhOd3RUTThWQQ?oc=5\" target=\"_blank\">With the federal eviction moratorium over, many call Las Vegas’ Desert Moon Motel home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
-      "category": "rent"
     }
   ]
 }
