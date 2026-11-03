@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:14:15.830702+00:00",
+  "generated_at": "2026-11-03T18:08:55.300758+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3213,6 +3213,16 @@
       "category": "other"
     },
     {
+      "id": "c5b19efdf30e01d2",
+      "title": "Board Approves Motions for Nearly $30 Million in Emergency Rent Relief and Exploring Eviction Protections - Los Angeles County Supervisor Lindsey P. Horvath (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fbEFsRUpvTHVpMVZCcFZNR2ZRZzhYa1F4U0x5WG1rU2p1bTFNLWhpMlVfNjY5UjFBNWVBLXNnV1l4ZlIzVGFOV2U3Mnpfc3RPcGppQy1lQ2g1TVd2dDZndFc5U2JmSkJiSUE?oc=5",
+      "source": "Los Angeles County Supervisor Lindsey P. Horvath (.gov)",
+      "published": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5fbEFsRUpvTHVpMVZCcFZNR2ZRZzhYa1F4U0x5WG1rU2p1bTFNLWhpMlVfNjY5UjFBNWVBLXNnV1l4ZlIzVGFOV2U3Mnpfc3RPcGppQy1lQ2g1TVd2dDZndFc5U2JmSkJiSUE?oc=5\" target=\"_blank\">Board Approves Motions for Nearly $30 Million in Emergency Rent Relief and Exploring Eviction Protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles County Supervisor Lindsey P. Horvath (.gov)</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "dfba5cd084810bde",
       "title": "City Council Continues Measure ULA Exemption Proposals - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUt4akVnWFFmY285a1pyM3hxRk0xaWhqX0diM0t1ZEJKS08wTmJFMWdVYjBFS0VkR0g4NW5DZXF6OXJqUjU0bmE5N2FNUVVNY3pXakdYWjhUN2xqX0lIM292MGZ3VWtQMENyQ3hrX09NNkxmbWRSamRnZnR2eFVNVEIxOGthenlzblRlT0lVbWJ6U0hOWXNRckJfdjQ?oc=5",
@@ -4213,6 +4223,16 @@
       "category": "tax"
     },
     {
+      "id": "41d9c29a41442d89",
+      "title": "Lessons from L.A. on Transfer Taxes - RAND",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzhLa0hZRndOVnN2c1RWNFE0SnNVM3ljMkhKWWxoZ1FXLUhxNGFvYmNfanVjVXBaN0JQZUdPN1JUT29rcWZKSDZ1emtnek1xUU5FYm1VNk1qQnFkZElDcXIzV25xOFpsNDBCNHFwcGNMdTdNeUV3Nks3Ny1kcVZmUXptTzFtTXBoSGNZ?oc=5",
+      "source": "RAND",
+      "published": "Tue, 03 Nov 2026 04:04:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzhLa0hZRndOVnN2c1RWNFE0SnNVM3ljMkhKWWxoZ1FXLUhxNGFvYmNfanVjVXBaN0JQZUdPN1JUT29rcWZKSDZ1emtnek1xUU5FYm1VNk1qQnFkZElDcXIzV25xOFpsNDBCNHFwcGNMdTdNeUV3Nks3Ny1kcVZmUXptTzFtTXBoSGNZ?oc=5\" target=\"_blank\">Lessons from L.A. on Transfer Taxes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RAND</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "c1ddb2d0200f5a01",
       "title": "LA County RV Parking Restrictions Explained - LA Local",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTktkOEpJVmRHb3pEekRCeEdWaHZ0eTZxZmdtUC1mWW9yTWRFNzVZS0RvWGF3VHo0YVhsUXBBbTM2aXNJNjVyZEQzaldhV05zbjh0d202NUV6YkgxZXYtT3MzdldoQldTb3lWOEVxckNUS056S0VxUndzanlvLURsYVhDeFhoNHBGdmNvRmxVekVXOVJkTUZwcEtRVElLSUlWTEVjSjN3MGJXV0tlU2Y2VDhQT0hFd1NhNllycjB3OEdXdHpP?oc=5",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONl94b1hXYTRUMmo3NWVaWDBkem53QXNYSVhpQVBvU2NOWkowbW1JMmttTl91TXdpOEZuM3hNRHFkZUFiS0F6WEluQUxnNGxzWUlnVmJoUFowaFRvbGoxNmNJMnZWdGRiM1FGajBIV2g5SHc0UWlOUEtvN2pGRnFnSzlIZE0wZEFUTk5uSS1LaHZjV1dNb2d6QUFTV0pPc0Ntd3c?oc=5\" target=\"_blank\">Essential California: Oakland bans criminal background checks for rental housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
       "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
       "category": "other"
-    },
-    {
-      "id": "923efffbec9ec9f5",
-      "title": "Positive Signs That California’s New Housing Laws Will be Enforced - Legal Planet",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONE1ZZkxGaVM0eDBoTWZsS3NpRzgzTFAyMzktV1dPNXV5NDJUTzBmdVVObWFNUDBaUVJuU1FuTExETlJKTHo0NDhpYVRXQWFscFBnVWUwaFJiMUpma0RJTm9hRDB0S3RNcl9EQ2txSnFXX1p3SHBqZkg4bXhjc1FuZ3hLekZUVWtJOVNrMGN1X3JsVGpJbTdWWEItZTNtcGxKajg0NA?oc=5",
-      "source": "Legal Planet",
-      "published": "Thu, 23 Dec 2021 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONE1ZZkxGaVM0eDBoTWZsS3NpRzgzTFAyMzktV1dPNXV5NDJUTzBmdVVObWFNUDBaUVJuU1FuTExETlJKTHo0NDhpYVRXQWFscFBnVWUwaFJiMUpma0RJTm9hRDB0S3RNcl9EQ2txSnFXX1p3SHBqZkg4bXhjc1FuZ3hLekZUVWtJOVNrMGN1X3JsVGpJbTdWWEItZTNtcGxKajg0NA?oc=5\" target=\"_blank\">Positive Signs That California’s New Housing Laws Will be Enforced</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legal Planet</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "other"
-    },
-    {
-      "id": "03a35693d61e7ea3",
-      "title": "A plan to cut a California tax is going to voters. Why L.A.’s ‘mansion tax’ is at the center of it - Lookout Santa Cruz",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM3EwU0plTXVtNC1PWWhPS3M2U3R5WGRaNll1MmdkR2ZDd3dsaUxSYy1vQmt6TEpDTzgxelpySWRNak1IMmRnR3BfaGFGbnVObERyYUU4NUtDaHBZUzJ4NklVbE5LenZvV0VnRUM3OVRMUEZOeThFMGtRWlJrbEFBNEdQcDBYVXdfRzRkYTQxcnlheHRtRTV2TkxZd0t2b0ZIQlZTM3ZUbEh3ZzZRMWJkRl9tNW45M0oxRk1j?oc=5",
-      "source": "Lookout Santa Cruz",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM3EwU0plTXVtNC1PWWhPS3M2U3R5WGRaNll1MmdkR2ZDd3dsaUxSYy1vQmt6TEpDTzgxelpySWRNak1IMmRnR3BfaGFGbnVObERyYUU4NUtDaHBZUzJ4NklVbE5LenZvV0VnRUM3OVRMUEZOeThFMGtRWlJrbEFBNEdQcDBYVXdfRzRkYTQxcnlheHRtRTV2TkxZd0t2b0ZIQlZTM3ZUbEh3ZzZRMWJkRl9tNW45M0oxRk1j?oc=5\" target=\"_blank\">A plan to cut a California tax is going to voters. Why L.A.’s ‘mansion tax’ is at the center of it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lookout Santa Cruz</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
