@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T18:08:55.300758+00:00",
+  "generated_at": "2026-11-03T23:45:22.830767+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4303,6 +4303,16 @@
       "category": "other"
     },
     {
+      "id": "b27d6f9be78995f5",
+      "title": "California Passes on Abundance – Jon Miltimore - Law & Liberty",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wSXZjbzY2aDAtS2ZzYlppa0xBdkF0QmtvUlBHVzJnMk96eThjTjRhQVRQNXc0eno3MERFT1EyalluX2piVlBfdXlYcWczbkZJNHdHcVVNWVJyekhEN2ZjMnZrMC0?oc=5",
+      "source": "Law & Liberty",
+      "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wSXZjbzY2aDAtS2ZzYlppa0xBdkF0QmtvUlBHVzJnMk96eThjTjRhQVRQNXc0eno3MERFT1EyalluX2piVlBfdXlYcWczbkZJNHdHcVVNWVJyekhEN2ZjMnZrMC0?oc=5\" target=\"_blank\">California Passes on Abundance – Jon Miltimore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Law & Liberty</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "other"
+    },
+    {
       "id": "9f9ffbcaf66a321e",
       "title": "From Scarcity to Abundance: Research and Strategies for Housing Policy - Terner Center",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenFCaFhFdVByU3NQeUJ5YUEyMUhwcGJtMktBZU15MC1kc05hSWp6ZkVkTUxIMTJqLV9CUkNrOE82QW5uQ3I0X2lPc0p3c21rc0JkZk9kZ3RMLTNRSjFkdmtLckJ3V1loOTZ4cldiWnlGRzMwM3NfOExWUzlrbFVMcGFnMjBrbjByQkdsZjBnTF9XUlpSMmlQemlMUlB5RGQxVkVoY25menRlcElfVWc?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOWHdMN2JBNGpDZzBVeVAwdXlvOXNqakVrckhaSGJRbUZXNVZDWFQ0cExmRktHR0ZRdkNoNHRkVzlJNjVuS1kzaTd6ZlItMkViQzNCelpuLUVPcnJzV3NxdHZxd0U4akt2M3JGWWQwbERweHRGelpWaklEMlB5dUY4VFJnUjEta3FlX01jSnZoQkhudVpVWFBsdjVua2hyQQ?oc=5\" target=\"_blank\">Mixed-Use Project at Selma & Argyle Approved by L.A. City Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "ab8b633e513ec97b",
-      "title": "Essential California: Oakland bans criminal background checks for rental housing - latimes.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONl94b1hXYTRUMmo3NWVaWDBkem53QXNYSVhpQVBvU2NOWkowbW1JMmttTl91TXdpOEZuM3hNRHFkZUFiS0F6WEluQUxnNGxzWUlnVmJoUFowaFRvbGoxNmNJMnZWdGRiM1FGajBIV2g5SHc0UWlOUEtvN2pGRnFnSzlIZE0wZEFUTk5uSS1LaHZjV1dNb2d6QUFTV0pPc0Ntd3c?oc=5",
-      "source": "latimes.com",
-      "published": "Thu, 23 Jan 2020 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONl94b1hXYTRUMmo3NWVaWDBkem53QXNYSVhpQVBvU2NOWkowbW1JMmttTl91TXdpOEZuM3hNRHFkZUFiS0F6WEluQUxnNGxzWUlnVmJoUFowaFRvbGoxNmNJMnZWdGRiM1FGajBIV2g5SHc0UWlOUEtvN2pGRnFnSzlIZE0wZEFUTk5uSS1LaHZjV1dNb2d6QUFTV0pPc0Ntd3c?oc=5\" target=\"_blank\">Essential California: Oakland bans criminal background checks for rental housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latimes.com</font>",
-      "query": "\"Los Angeles\" (\"housing ordinance\" OR \"housing policy\" OR LAHD)",
-      "category": "other"
     }
   ]
 }
