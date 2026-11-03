@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:45:55.004757+00:00",
+  "generated_at": "2026-11-03T10:14:15.830702+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1781,6 +1781,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzkyMHg1YWx6R0laVlptZkdxR3VnNXBtSkFuWjlNNWN1bVd6MDJGWm1SYTNRSlNMdC02b1F3M2Z5REt4MkVncm9DTXBfdldYUjdpWTZIOXdYRERTVVhQbk5STTQ0VjdLdjNQS3NlSlhYVGVWMElfejhlTW1yVlpIRHRLZXBWcHd6Ui1UdzN6dDlxdmpGNEl4SXNaYUFxZ1l6bXhLd1d5eWZETGVPLUFtdnF4Z3JtYVlZd084NXF2NVNDVHVK?oc=5\" target=\"_blank\">2024 Election Results: LA County voters back taxes to help homeless; county reform unclear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailynews.com</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
+    },
+    {
+      "id": "a8987e7199e1df72",
+      "title": "LA County Heat Ordinance: Building Cool & Healthy Homes - ICF",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMEFkNUJoT1RHVmNza3BCVjF5NmlPM3h1dFk3WDltdVE0MDZiSGJjV3pvcVF3LTk4ZFdtM0lrYWJ0Q2hXeVVLcUkyTlNYcFNCWjljeVd0LWRjdnE3eU1oY1lMVXc0RkQySU5MMFV6VVNNQ2stUkxSS0RUN0taWHBOV2h5NHg?oc=5",
+      "source": "ICF",
+      "published": "Wed, 06 May 2026 08:21:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMEFkNUJoT1RHVmNza3BCVjF5NmlPM3h1dFk3WDltdVE0MDZiSGJjV3pvcVF3LTk4ZFdtM0lrYWJ0Q2hXeVVLcUkyTlNYcFNCWjljeVd0LWRjdnE3eU1oY1lMVXc0RkQySU5MMFV6VVNNQ2stUkxSS0RUN0taWHBOV2h5NHg?oc=5\" target=\"_blank\">LA County Heat Ordinance: Building Cool & Healthy Homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ICF</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "policy"
     },
     {
       "id": "671344c872ee347b",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM3EwU0plTXVtNC1PWWhPS3M2U3R5WGRaNll1MmdkR2ZDd3dsaUxSYy1vQmt6TEpDTzgxelpySWRNak1IMmRnR3BfaGFGbnVObERyYUU4NUtDaHBZUzJ4NklVbE5LenZvV0VnRUM3OVRMUEZOeThFMGtRWlJrbEFBNEdQcDBYVXdfRzRkYTQxcnlheHRtRTV2TkxZd0t2b0ZIQlZTM3ZUbEh3ZzZRMWJkRl9tNW45M0oxRk1j?oc=5\" target=\"_blank\">A plan to cut a California tax is going to voters. Why L.A.’s ‘mansion tax’ is at the center of it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lookout Santa Cruz</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "3613f7c817af082d",
-      "title": "Los Angeles ADU Builder Launches Pay-at-Completion Program Ahead of 2027 Laws - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2pka0F1OUZLNEM3WkozbUtXcDhYcHhhd0h1T0EwY0dpZVhtWnlLZVFKV0NNeTNUSkJoVTlIanNtcmFIRHNETVZ2djZvQjFseDZnQzhkaWlVSWUzTkh2bGFMa0tGdEVTYUdnOVFsNU9ZQ2FzOHM3dzdaRjZBVjg3cnBwV1p6cERZS093dU1GcjdBdnk4cEtCTzdUaUhBU05WVXpNNUVwTkdmdnF6RmhCQm1INmtBWVBTUGxSeDVRX1p5QVJJYzRVLQ?oc=5",
-      "source": "USA Today",
-      "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2pka0F1OUZLNEM3WkozbUtXcDhYcHhhd0h1T0EwY0dpZVhtWnlLZVFKV0NNeTNUSkJoVTlIanNtcmFIRHNETVZ2djZvQjFseDZnQzhkaWlVSWUzTkh2bGFMa0tGdEVTYUdnOVFsNU9ZQ2FzOHM3dzdaRjZBVjg3cnBwV1p6cERZS093dU1GcjdBdnk4cEtCTzdUaUhBU05WVXpNNUVwTkdmdnF6RmhCQm1INmtBWVBTUGxSeDVRX1p5QVJJYzRVLQ?oc=5\" target=\"_blank\">Los Angeles ADU Builder Launches Pay-at-Completion Program Ahead of 2027 Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "adu"
     }
   ]
 }
