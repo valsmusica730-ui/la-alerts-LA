@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:53:42.141901+00:00",
+  "generated_at": "2026-11-05T21:39:25.667051+00:00",
   "total": 500,
   "alerts": [
     {
@@ -181,6 +181,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTVOcUMwNTBOY3g2NnBDWGhkZEt3YmpYU3BZTFlUWWFrZTk5al82ODFkMVZSZ1JPM2x3Wmh6SDZhLWY5aDZ2bnRzVDd3UDFYdkY5bWZDNVRQSmE2M0hPRFVqZzd2bEo1MkpQcDR4Rlh5UldZY2RJeUY2V2Z3SWFUM3FIVG9jbkdqdlBqOW9HdElYZlRrMzdqcklFNHnSAaIBQVVfeXFMTVlsc0lnanhWVDhvOU1HVWdTNmJiVEt6QkdNMWJKcXJjd3VoSExLNWJBYm5zbUxBRlNWLVJENTVUS2hkTVBtcXlIdHg1djlqOEhNLU1Ua1VIaHZmY05VWkdtOUE0RXdwQ19UM2NiNUt6dzgxS0tvN0ZmV1poTGgtX2ROa0NZN0VKUEFRcERJTloxM1ZSNDNuVTFfZnlaWlhka0dn?oc=5\" target=\"_blank\">LA’s rich scramble to sell homes to avoid new ‘mansion tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "7d50e10a184638cc",
+      "title": "Anaheim Votes To Ban All Short-Term Rentals - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2czNTZsWXNnd3Y4aXRkdHpvaDJhMFBNQUNORXZxdDdQQllkbGQ4WF9SdmRMUlFmejY2ZEdqX2ZIZndaSGFaVGpZSTBNaEhyLTR5d05aN25NTUJfTE9WTFdsVHFBdVpzbzVJcDVYV2wzSFJ4VVIxWVFOU08wVVZkWGhoRmM0VS1QR2Nib2l5YmFMcjFsMWo4d2llOHhpdw?oc=5",
+      "source": "CBS News",
+      "published": "Wed, 29 Jun 2016 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQT2czNTZsWXNnd3Y4aXRkdHpvaDJhMFBNQUNORXZxdDdQQllkbGQ4WF9SdmRMUlFmejY2ZEdqX2ZIZndaSGFaVGpZSTBNaEhyLTR5d05aN25NTUJfTE9WTFdsVHFBdVpzbzVJcDVYV2wzSFJ4VVIxWVFOU08wVVZkWGhoRmM0VS1QR2Nib2l5YmFMcjFsMWo4d2llOHhpdw?oc=5\" target=\"_blank\">Anaheim Votes To Ban All Short-Term Rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
     },
     {
       "id": "0b7fd8170b9c9781",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnduY25LYmUzX1VlX3hnUTZYcURfdkRobUZUbzViLXdGNnQxZzBiTkFFdlBQYWNYUDFPVEhoS21OaWdGOXk2YjBJNDVCX002QVhCOEZhQWEyUW1sV2E2dmhIZVIza1htX1RnMzd5ZDZOM2JQQ21GVEFCOTRBcl85Z2t5cGRaT3RYTW4yNU9uYUlMY2l4aFp4enBkVGR0YWpzcGVFRGxaZXAxNFlJcEY0Q2s2ZnB3N3dfNTRxMDhhVlJaZ2JSVmtPNDFTaDdhWnpFLVdpcUhaWEc?oc=5\" target=\"_blank\">Chicago’s hidden housing solution: How additional dwelling unit expansion can make city more affordable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Illinois Policy</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "other"
-    },
-    {
-      "id": "973f55e3af2079b0",
-      "title": "Navdeep Singh (Duncan) Sachdeva appointed to Los Angeles Central Area Planning Commission - News India Times",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYjNOaUp3Y3JULWJmMExKSTY1STBHSDB3NXdjVTJ1bm05VVFlMWluVkxtY2otOF9aM2pudE1IQkRoWGVPRGtZWU03TzYxbmFsQXNFZEM3dEVaWXFNNkl1XzZNT2xkenVsSlFpb21LdFRnWGVtU3FhbTBGcXl1aE9wRHBUcUR2RzV3alZOYkYyNDBBZjBiLWNJUkZVNGhleU94OTV2enlUMHFtYl9fc1NtMThLS0lyQQ?oc=5",
-      "source": "News India Times",
-      "published": "Thu, 23 Jan 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOYjNOaUp3Y3JULWJmMExKSTY1STBHSDB3NXdjVTJ1bm05VVFlMWluVkxtY2otOF9aM2pudE1IQkRoWGVPRGtZWU03TzYxbmFsQXNFZEM3dEVaWXFNNkl1XzZNT2xkenVsSlFpb21LdFRnWGVtU3FhbTBGcXl1aE9wRHBUcUR2RzV3alZOYkYyNDBBZjBiLWNJUkZVNGhleU94OTV2enlUMHFtYl9fc1NtMThLS0lyQQ?oc=5\" target=\"_blank\">Navdeep Singh (Duncan) Sachdeva appointed to Los Angeles Central Area Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News India Times</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
