@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:42:05.819528+00:00",
+  "generated_at": "2026-11-05T15:53:42.141901+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4233,6 +4233,16 @@
       "category": "tax"
     },
     {
+      "id": "9715f173b4430c81",
+      "title": "Forced Labor Import Ban List Expanded - Sandler, Travis & Rosenberg, P.A.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2hSbk9sWkN0M3NQaFI1X2Vmb1JQb0FJZ3B5dkZQVUVtSndBOENQaVBuVGdzaUl0WkxmN0hPc3RZeUt0V1dUanhJN2ZBMkVWaE9HMVVlT2YxQm91bVdnOThUX0xVVlg4cmRHSnVQcGIyVXBTdHpHRTdoa2EyT1IxQmQ4bTZCTlZXRHFILV9kQklkNUQ0bllYeW1IZThXV1FKeXhVNGlqWTcxRlp2cUwzY0tCMlFUdzBndG1aaw?oc=5",
+      "source": "Sandler, Travis & Rosenberg, P.A.",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2hSbk9sWkN0M3NQaFI1X2Vmb1JQb0FJZ3B5dkZQVUVtSndBOENQaVBuVGdzaUl0WkxmN0hPc3RZeUt0V1dUanhJN2ZBMkVWaE9HMVVlT2YxQm91bVdnOThUX0xVVlg4cmRHSnVQcGIyVXBTdHpHRTdoa2EyT1IxQmQ4bTZCTlZXRHFILV9kQklkNUQ0bllYeW1IZThXV1FKeXhVNGlqWTcxRlp2cUwzY0tCMlFUdzBndG1aaw?oc=5\" target=\"_blank\">Forced Labor Import Ban List Expanded</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandler, Travis & Rosenberg, P.A.</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "other"
+    },
+    {
       "id": "41d9c29a41442d89",
       "title": "Lessons from L.A. on Transfer Taxes - RAND",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzhLa0hZRndOVnN2c1RWNFE0SnNVM3ljMkhKWWxoZ1FXLUhxNGFvYmNfanVjVXBaN0JQZUdPN1JUT29rcWZKSDZ1emtnek1xUU5FYm1VNk1qQnFkZElDcXIzV25xOFpsNDBCNHFwcGNMdTdNeUV3Nks3Ny1kcVZmUXptTzFtTXBoSGNZ?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOYjNOaUp3Y3JULWJmMExKSTY1STBHSDB3NXdjVTJ1bm05VVFlMWluVkxtY2otOF9aM2pudE1IQkRoWGVPRGtZWU03TzYxbmFsQXNFZEM3dEVaWXFNNkl1XzZNT2xkenVsSlFpb21LdFRnWGVtU3FhbTBGcXl1aE9wRHBUcUR2RzV3alZOYkYyNDBBZjBiLWNJUkZVNGhleU94OTV2enlUMHFtYl9fc1NtMThLS0lyQQ?oc=5\" target=\"_blank\">Navdeep Singh (Duncan) Sachdeva appointed to Los Angeles Central Area Planning Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News India Times</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "cf759b1ae29a12ed",
-      "title": "City of West Hollywood Approves Urgency Ordinance to Enact Temporary Measures to Assist in Housing People Displaced from Recent Fires | News - City of West Hollywood",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rcHJDRFFKWnlva092OXFPTzl0dS16V0lYb2pNOTN4OWU3TGhGRUMxQ3pvWEVvTDZDUVZpX1ZMOFRMNkJGQ0JmTGtMM2Z6UDRERmNSOHRGX0JlRWxQN0RuWk90eFFVdw?oc=5",
-      "source": "City of West Hollywood",
-      "published": "Thu, 23 Jan 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rcHJDRFFKWnlva092OXFPTzl0dS16V0lYb2pNOTN4OWU3TGhGRUMxQ3pvWEVvTDZDUVZpX1ZMOFRMNkJGQ0JmTGtMM2Z6UDRERmNSOHRGX0JlRWxQN0RuWk90eFFVdw?oc=5\" target=\"_blank\">City of West Hollywood Approves Urgency Ordinance to Enact Temporary Measures to Assist in Housing People Displaced from Recent Fires | News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of West Hollywood</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "policy"
     }
   ]
 }
