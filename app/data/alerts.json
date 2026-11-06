@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T21:39:25.667051+00:00",
+  "generated_at": "2026-11-06T01:53:14.606100+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2111,6 +2111,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWxabUlFeEdWNTQyM3hBckpFU252RHVtY1Fydm9LMDYzendtWkN5eWZjckpwRzRLX0ZaSjdiOGRTYTd4YjNHOXJuNjZLcnc3Z0RnQzd5UV9xVlNvTkhlMzBUX0xORktZT2IxZHR1R09yNVR1UE1RX09SNTNmNTdjdTRGT181ZWc1N04xQUtacGp0QTA3dThoekoyenk1TkNNRHZMOUZVM3VvSWdEQlE?oc=5\" target=\"_blank\">LA Council Unanimously Approves Motion for More Affordable Family -Sized Apartments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
       "category": "other"
+    },
+    {
+      "id": "7ca3c96ce71ecc75",
+      "title": "Stromberg appointed to regional planning commission - Beverly Press & Park Labrea News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDB3Tk1IY2VGUW52aTVUOEFfNUdReV9HRU9zWDZYUFFBVzVNLVdaUlFPWHlTaG9Ya1VRZTRfQVJ5OElJVi1JYnMyajYwdmhac0d4M1M5Y2U2X2pRdUdnVEl4MFFENlZFNEZJOGZHckkxU3FyNWlNSldtbV9xbXdITzdmQlBzdmdheXNRU2tR?oc=5",
+      "source": "Beverly Press & Park Labrea News",
+      "published": "Wed, 01 Nov 2023 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDB3Tk1IY2VGUW52aTVUOEFfNUdReV9HRU9zWDZYUFFBVzVNLVdaUlFPWHlTaG9Ya1VRZTRfQVJ5OElJVi1JYnMyajYwdmhac0d4M1M5Y2U2X2pRdUdnVEl4MFFENlZFNEZJOGZHckkxU3FyNWlNSldtbV9xbXdITzdmQlBzdmdheXNRU2tR?oc=5\" target=\"_blank\">Stromberg appointed to regional planning commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
     },
     {
       "id": "ca180d41ca1258ff",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnNuQXFwblFPSUg2Nl9WdzdaN0s3SXJXYWNCOEtRU2FYNUlUY0VQYWtzbFl2M0hvWGJZSkpKaXF4WmtXR21RVElYWHRBZEZ6TmJCZ3lPbVRjMXFpOUFaM3Z4M29kTzdCNzlNc09sbjZuaXdyXzZnZ29hLThTd3J1aGNYRERTWlotb1JvRndVY2ZJNW9SOENscldTV1AtRzNqR2E3Wjdab1FOekxwd1JR?oc=5\" target=\"_blank\">California's ballot compromise leaves Measure ULA standing - for now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Journal</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
-    },
-    {
-      "id": "c9b8239c7542b7f3",
-      "title": "Chicago’s hidden housing solution: How additional dwelling unit expansion can make city more affordable - Illinois Policy",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnduY25LYmUzX1VlX3hnUTZYcURfdkRobUZUbzViLXdGNnQxZzBiTkFFdlBQYWNYUDFPVEhoS21OaWdGOXk2YjBJNDVCX002QVhCOEZhQWEyUW1sV2E2dmhIZVIza1htX1RnMzd5ZDZOM2JQQ21GVEFCOTRBcl85Z2t5cGRaT3RYTW4yNU9uYUlMY2l4aFp4enBkVGR0YWpzcGVFRGxaZXAxNFlJcEY0Q2s2ZnB3N3dfNTRxMDhhVlJaZ2JSVmtPNDFTaDdhWnpFLVdpcUhaWEc?oc=5",
-      "source": "Illinois Policy",
-      "published": "Thu, 23 Jan 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnduY25LYmUzX1VlX3hnUTZYcURfdkRobUZUbzViLXdGNnQxZzBiTkFFdlBQYWNYUDFPVEhoS21OaWdGOXk2YjBJNDVCX002QVhCOEZhQWEyUW1sV2E2dmhIZVIza1htX1RnMzd5ZDZOM2JQQ21GVEFCOTRBcl85Z2t5cGRaT3RYTW4yNU9uYUlMY2l4aFp4enBkVGR0YWpzcGVFRGxaZXAxNFlJcEY0Q2s2ZnB3N3dfNTRxMDhhVlJaZ2JSVmtPNDFTaDdhWnpFLVdpcUhaWEc?oc=5\" target=\"_blank\">Chicago’s hidden housing solution: How additional dwelling unit expansion can make city more affordable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Illinois Policy</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "other"
     }
   ]
 }
