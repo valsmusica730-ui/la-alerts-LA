@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:32:58.257235+00:00",
+  "generated_at": "2026-11-08T03:06:29.774227+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2623,6 +2623,16 @@
       "category": "tax"
     },
     {
+      "id": "4d76da3e622a8340",
+      "title": "More beer — 2 new microbreweries approved in Costa Mesa - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDFaamZaMmJQd1dnM01WNjJIZnQxNlFHSHhwZkFVR0lOdkVDbmoxNjJobXpoNGdLZVZveTZSOV84cm5LRXB6V1VOWkc5MjI3bXhXM1ZLei1RUWdUQ1dmdU9KLW1VbWhQSGJKdWdNd0FoT2dvNDFRa2t4Y0VOR2U2MVVGYnprN3hTbEJpaEMybk5Dcjl1RDJlS3hR?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Tue, 26 Sep 2017 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDFaamZaMmJQd1dnM01WNjJIZnQxNlFHSHhwZkFVR0lOdkVDbmoxNjJobXpoNGdLZVZveTZSOV84cm5LRXB6V1VOWkc5MjI3bXhXM1ZLei1RUWdUQ1dmdU9KLW1VbWhQSGJKdWdNd0FoT2dvNDFRa2t4Y0VOR2U2MVVGYnprN3hTbEJpaEMybk5Dcjl1RDJlS3hR?oc=5\" target=\"_blank\">More beer — 2 new microbreweries approved in Costa Mesa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
+    },
+    {
       "id": "d0e98ccd1869349f",
       "title": "LA City Council turns three departments into a single entity - Los Angeles Daily News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEh2X0ZiWjdFX1ZsNVBiay1JWGdwY1h1N1VudTByS3d1UVEwajlvWTlrQ0s2VVpCbW1Tb1o5YnJxeld2MW1MeGhFNm5VZHpjT21DbDdBVjhjaGJyR0xxOTRCRFN5MS04aV9aeW9wSkdIZW9TdkVmODRUeDhTLVVlOFozM05zQ21WSThQcllVLU90NFZNanc1ZTVtSTRvczA?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYW5uUm9tVG90UUxOcUhRYjJ1Q19JZmFTSEpGM0JjODJFSlkxMkxkMnVoQXl6Szc2RWt6STZmYldlOE1WUlVLeTB5TldZaE0zTkdKdkcyWGlmM1FicUVGY2lxLV9UazRNWXBQQ2RuZy1pbjF2QWtHYThITF84NjRYdWk5SmVNZS1JTE5XcmpaMFJLaFRJeHdjNUZ5Q0YwcUJvZUVqTjd3bjdVM3B2ZHc?oc=5\" target=\"_blank\">City Planning Commission green lights medical office tower at Wilshire & San Vicente</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "6ecaf0a9f637bdb4",
-      "title": "California's ballot compromise leaves Measure ULA standing - for now - Daily Journal",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnNuQXFwblFPSUg2Nl9WdzdaN0s3SXJXYWNCOEtRU2FYNUlUY0VQYWtzbFl2M0hvWGJZSkpKaXF4WmtXR21RVElYWHRBZEZ6TmJCZ3lPbVRjMXFpOUFaM3Z4M29kTzdCNzlNc09sbjZuaXdyXzZnZ29hLThTd3J1aGNYRERTWlotb1JvRndVY2ZJNW9SOENscldTV1AtRzNqR2E3Wjdab1FOekxwd1JR?oc=5",
-      "source": "Daily Journal",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnNuQXFwblFPSUg2Nl9WdzdaN0s3SXJXYWNCOEtRU2FYNUlUY0VQYWtzbFl2M0hvWGJZSkpKaXF4WmtXR21RVElYWHRBZEZ6TmJCZ3lPbVRjMXFpOUFaM3Z4M29kTzdCNzlNc09sbjZuaXdyXzZnZ29hLThTd3J1aGNYRERTWlotb1JvRndVY2ZJNW9SOENscldTV1AtRzNqR2E3Wjdab1FOekxwd1JR?oc=5\" target=\"_blank\">California's ballot compromise leaves Measure ULA standing - for now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Journal</font>",
-      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
-      "category": "tax"
     }
   ]
 }
