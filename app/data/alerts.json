@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:58:35.318502+00:00",
+  "generated_at": "2026-11-10T07:59:27.274557+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1541,6 +1541,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVg3eXRWTUctcEd1WmR3TEg5WWdyTTZvMUxqbW5NUG1PallxTWFSMDdGeWtVMnNyTE5rbV9RRTNVN0tfZUpXaFhVX2F4NzZSQ1FidmxyVjlNM3I0SWFVZ01JWC0tMnlPMG04TXJTS1Z0ZmRIWUhMS3c1MHNBbHVheDhkbHozQQ?oc=5\" target=\"_blank\">Cedars expansion heads to planning commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
+    },
+    {
+      "id": "135af09b196d3e38",
+      "title": "What’s happening with the eviction moratorium? - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWxvbmh6SnhvUnotbDBMcEVFSGJzeDEzTlJxclh5QlF4a2lHVFpNRm5DYnF6SFVTLVB4cjlvQTM0M0FQajdFVnJsbWNXY182OHRBMlQ2bDdKT050eVBBMGIwX0w2UmYwb0hSVmVYTG5DZEk3ZXRhanh3LTVQdjE1NmxyTVFmYjVGWDQ3UlRNbmNvMTZ1U1JiSjhpMng4MUpvWVpXNlNzY2p6bmdoU1JaWUZieV9VcjdsaVZZSEwwU2tMVWpadlJYR0syc284dlc3Z3Uw?oc=5",
+      "source": "Los Angeles Times",
+      "published": "Wed, 11 Aug 2021 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWxvbmh6SnhvUnotbDBMcEVFSGJzeDEzTlJxclh5QlF4a2lHVFpNRm5DYnF6SFVTLVB4cjlvQTM0M0FQajdFVnJsbWNXY182OHRBMlQ2bDdKT050eVBBMGIwX0w2UmYwb0hSVmVYTG5DZEk3ZXRhanh3LTVQdjE1NmxyTVFmYjVGWDQ3UlRNbmNvMTZ1U1JiSjhpMng4MUpvWVpXNlNzY2p6bmdoU1JaWUZieV9VcjdsaVZZSEwwU2tMVWpadlJYR0syc284dlc3Z3Uw?oc=5\" target=\"_blank\">What’s happening with the eviction moratorium?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
     },
     {
       "id": "e040e43408808708",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 23 Sep 2021 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTB5dzN3dWg4VUgxdDJ4bHV5MHRVYlMxc0dYN1BYQ2FNQU81WWg2Q085REdNa0pDVk9XTG9pcmhUaVd1dnBzdlVuRGJiZEhfdHNJTndUcm5oWTk0MTNiRGRpb0lTZXI5TzNRSG9CRkNDV296dkJLTHNuakFKWDdpck5tRThlTUQ5Tk1WT0VRNDV5NnE0RjFfWEduWQ?oc=5\" target=\"_blank\">Fight isn’t over for many opponents of SB 9 and 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Annenberg Media</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "7d9e8aceeda8b14b",
-      "title": "City Planning Commission green lights medical office tower at Wilshire & San Vicente - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYW5uUm9tVG90UUxOcUhRYjJ1Q19JZmFTSEpGM0JjODJFSlkxMkxkMnVoQXl6Szc2RWt6STZmYldlOE1WUlVLeTB5TldZaE0zTkdKdkcyWGlmM1FicUVGY2lxLV9UazRNWXBQQ2RuZy1pbjF2QWtHYThITF84NjRYdWk5SmVNZS1JTE5XcmpaMFJLaFRJeHdjNUZ5Q0YwcUJvZUVqTjd3bjdVM3B2ZHc?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 23 Jun 2022 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYW5uUm9tVG90UUxOcUhRYjJ1Q19JZmFTSEpGM0JjODJFSlkxMkxkMnVoQXl6Szc2RWt6STZmYldlOE1WUlVLeTB5TldZaE0zTkdKdkcyWGlmM1FicUVGY2lxLV9UazRNWXBQQ2RuZy1pbjF2QWtHYThITF84NjRYdWk5SmVNZS1JTE5XcmpaMFJLaFRJeHdjNUZ5Q0YwcUJvZUVqTjd3bjdVM3B2ZHc?oc=5\" target=\"_blank\">City Planning Commission green lights medical office tower at Wilshire & San Vicente</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
     }
   ]
