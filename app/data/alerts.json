@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:59:27.274557+00:00",
+  "generated_at": "2026-11-11T09:57:49.626120+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1223,6 +1223,16 @@
       "category": "policy"
     },
     {
+      "id": "a55b29b14aea3ddb",
+      "title": "Renderings Revealed for Modular Live/Work Development in Chinatown - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1RlZWFydXhDMzhWb0Vfd3ExMW5CckZYU3BQenFkODRPYzctSHNENGxzdnozWHliXzQxTm03V0ppbzhrdjBpVGQ4MHE1MC1zV1R4d2xKWElWTzdUWWhnd3RPYnNMTTVlWXBfZUgyMzU2NDR5WlhsRXN5Qk5Scm9SelpXVXBNVUZKS24zQ2QzLUhwQQ?oc=5",
+      "source": "Urbanize LA",
+      "published": "Wed, 13 May 2020 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1RlZWFydXhDMzhWb0Vfd3ExMW5CckZYU3BQenFkODRPYzctSHNENGxzdnozWHliXzQxTm03V0ppbzhrdjBpVGQ4MHE1MC1zV1R4d2xKWElWTzdUWWhnd3RPYnNMTTVlWXBfZUgyMzU2NDR5WlhsRXN5Qk5Scm9SelpXVXBNVUZKS24zQ2QzLUhwQQ?oc=5\" target=\"_blank\">Renderings Revealed for Modular Live/Work Development in Chinatown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
+    },
+    {
       "id": "8c7abd76bfb86b8c",
       "title": "Can Santa Monica — or anyplace else — enforce a ban on short-term rentals? - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX3F2RmRHZGNoVGdYS3RxbU9KZnBubWp1NnhCdGJTOXlKX1Nyak9CUG5PQXBja1RzMFRKcl9KYUNuYU85a2FraEtucjM4WnZxVUtpRVNKcW5NSkRJdGdnMXNNVEx4YnNWckVaZnVPZll3OFJodGpmVUREcHNkMmdBSzRLRkxMZm4yTXh3?oc=5",
@@ -1431,6 +1441,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjSnBlcnRGVjcwZ1pWanNCVXNzZjNiRWNhaW9aQ2ZrUHlzVGdXdFlfQTh4NjZCRWM2U0F4TXJ1bFpKbmpQQThIZllZQTh1dnM?oc=5\" target=\"_blank\">SB 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cayimby.org</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "4c56b52cd7cff255",
+      "title": "LA Council moves to ease ADU construction - Los Angeles Daily News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZnVQa050VFdWRkpIVXBTVXlyX1JudlE3UEZQYkxRSmNtMDdkbWNuQ1oxOU9ydWRPbjdVc3ZWT0dpbXh1bHdJeXdQT2pVVzduOGhOSEpXdGFkbWxvTllwbWM1TDB1Z00wZTJkN2FxNjBzYjNIVDUxVFRvZWlKeWw0MUNvSWlQQQ?oc=5",
+      "source": "Los Angeles Daily News",
+      "published": "Wed, 11 Nov 2026 00:32:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZnVQa050VFdWRkpIVXBTVXlyX1JudlE3UEZQYkxRSmNtMDdkbWNuQ1oxOU9ydWRPbjdVc3ZWT0dpbXh1bHdJeXdQT2pVVzduOGhOSEpXdGFkbWxvTllwbWM1TDB1Z00wZTJkN2FxNjBzYjNIVDUxVFRvZWlKeWw0MUNvSWlQQQ?oc=5\" target=\"_blank\">LA Council moves to ease ADU construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
     },
     {
       "id": "5fb67eaddb7a0842",
@@ -4981,26 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVJ1cmRRSnR6Z2RBVUJGOVdYTk5YV1I2RG15U01IbmVwZnlBeUp3MlZYY3ZVSzJfOFhCQVAwdHlFQmd4Yzh2SGtsRWtUS2VMcGlVeXRxdF9aN2NBbDdEcFRfUzJXVmptX1liSkp0Qmd1RkZRUmwyX3pkNGlGMFBWNlFsaDZmWkpncVpFM29BUk95QUtMY2lRSzE1RDRQMGNUck94VGZOMGVGT0IzY0E?oc=5\" target=\"_blank\">LA City Council Approves Largest-Ever Funding Pool for Affordable Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Connect CRE</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "fcc1b334939e362b",
-      "title": "LA Planning Commission approves Harvard-Westlake’s plan to redevelop golf course in Studio City - Los Angeles Daily News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzZYMVNzV0YzNGpvNGJTNjFTVE9EVURmaXFlVGl3ZHZ6c2Q2UWFRSUFERzhoU3p3VTBEXzFGTFRSZTRUekJFNUc0WDlTUzR2LUJIcnVQRG9aeXBIU1lUdHdELWlSQ1kwbi1Ydm9ZcUZuVV9FTWcxZjZ3azlXdy1VaThMbUw5eHUzaFhSbTQwUkNJN0FDelAtb05KSmZNMzlwZWJwYUdZazhYVk9acnc?oc=5",
-      "source": "Los Angeles Daily News",
-      "published": "Thu, 24 Aug 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzZYMVNzV0YzNGpvNGJTNjFTVE9EVURmaXFlVGl3ZHZ6c2Q2UWFRSUFERzhoU3p3VTBEXzFGTFRSZTRUekJFNUc0WDlTUzR2LUJIcnVQRG9aeXBIU1lUdHdELWlSQ1kwbi1Ydm9ZcUZuVV9FTWcxZjZ3azlXdy1VaThMbUw5eHUzaFhSbTQwUkNJN0FDelAtb05KSmZNMzlwZWJwYUdZazhYVk9acnc?oc=5\" target=\"_blank\">LA Planning Commission approves Harvard-Westlake’s plan to redevelop golf course in Studio City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
-    },
-    {
-      "id": "67540937c4cc29cd",
-      "title": "Fight isn’t over for many opponents of SB 9 and 10 - Annenberg Media",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTB5dzN3dWg4VUgxdDJ4bHV5MHRVYlMxc0dYN1BYQ2FNQU81WWg2Q085REdNa0pDVk9XTG9pcmhUaVd1dnBzdlVuRGJiZEhfdHNJTndUcm5oWTk0MTNiRGRpb0lTZXI5TzNRSG9CRkNDV296dkJLTHNuakFKWDdpck5tRThlTUQ5Tk1WT0VRNDV5NnE0RjFfWEduWQ?oc=5",
-      "source": "Annenberg Media",
-      "published": "Thu, 23 Sep 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTB5dzN3dWg4VUgxdDJ4bHV5MHRVYlMxc0dYN1BYQ2FNQU81WWg2Q085REdNa0pDVk9XTG9pcmhUaVd1dnBzdlVuRGJiZEhfdHNJTndUcm5oWTk0MTNiRGRpb0lTZXI5TzNRSG9CRkNDV296dkJLTHNuakFKWDdpck5tRThlTUQ5Tk1WT0VRNDV5NnE0RjFfWEduWQ?oc=5\" target=\"_blank\">Fight isn’t over for many opponents of SB 9 and 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Annenberg Media</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
     }
   ]
 }
