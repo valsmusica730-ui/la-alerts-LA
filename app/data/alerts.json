@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:48:05.138669+00:00",
+  "generated_at": "2026-11-12T13:25:13.031263+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4073,6 +4073,16 @@
       "category": "zoning"
     },
     {
+      "id": "4fd99c993cd39751",
+      "title": "What Community-Based Zoning Enforcement Looks Like in South Central Los Angeles - Planetizen",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXdraEo5ZHhYLS1XUm9INVZjX2dWbGI1REZNbHUyWWttRzQxY05BSGFqQjU5aVptLU1nZlkzOUFCY2VXak5WRVl2M0N2cHdpTHFXYi0zdnkzb3h0eUg1ZjdDay01bzE0WDhtS25oV2ZfNkx5aXVkSnhBMnFpaV9MTjM0aC03UFdLZDdGMXpVS0pDdTdVU2ktaWJYaXBCYkhfUkI4X1VBTkJEZzYzTkt1NVFaeExtRUZo?oc=5",
+      "source": "Planetizen",
+      "published": "Tue, 06 Feb 2018 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXdraEo5ZHhYLS1XUm9INVZjX2dWbGI1REZNbHUyWWttRzQxY05BSGFqQjU5aVptLU1nZlkzOUFCY2VXak5WRVl2M0N2cHdpTHFXYi0zdnkzb3h0eUg1ZjdDay01bzE0WDhtS25oV2ZfNkx5aXVkSnhBMnFpaV9MTjM0aC03UFdLZDdGMXpVS0pDdTdVU2ktaWJYaXBCYkhfUkI4X1VBTkJEZzYzTkt1NVFaeExtRUZo?oc=5\" target=\"_blank\">What Community-Based Zoning Enforcement Looks Like in South Central Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planetizen</font>",
+      "query": "\"Los Angeles\" (zoning OR \"rent control\" OR \"rent stabilization\" OR RSO)",
+      "category": "zoning"
+    },
+    {
       "id": "8240ccf5209bb711",
       "title": "LA City Councilwoman seeks amnesty program for unpermitted ADUs - spectrumlocalnews.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlZOS3gyeklyY2Q5X18yZjlaN255VFcySkljOHpjMXdHQ2t1c0FsVmlzbnhjRXMxUGo0c2o2LWNHSHJfRUNUVm1pdHJoUkRyd25EUUFVeXBYcHYtT0c0ZTk4ektSOWNnWmdHa1BMWktuSVdpNjhiQ3RoSGFMZE1DU2JVYmFtZE14S0t2S05uVUVPSFphNTBsRTE5Y1hDUkhkRzFPYmprblBVVXd3ZDlVODI4YS02a2t3Y2gwRjdvc2FibEZmQ0E?oc=5",
@@ -4989,16 +4999,6 @@
       "source": "Secret Los Angeles",
       "published": "Thu, 24 Sep 2026 17:30:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9NVmpCZzNhaVYwUHd3MjBoNG1BMmF2ekppSTZSMS15M0FmT1ZMRVNNM3psT2ZtQzBoZkhCXzlGY0p6d2h2NzBPUW11T2Z4ZWo0b1dveFdfRV8wTWk3aF9EcEFLeG4tWGdrb05YWW54SHNHaTNOVWljTGlqU3c?oc=5\" target=\"_blank\">The L.A. City Council just approved nearly $467 million in affordable housing — and applications open soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Secret Los Angeles</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "ccf31abe96098d2c",
-      "title": "LA City Council Approves Largest-Ever Funding Pool for Affordable Housing - Connect CRE",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVJ1cmRRSnR6Z2RBVUJGOVdYTk5YV1I2RG15U01IbmVwZnlBeUp3MlZYY3ZVSzJfOFhCQVAwdHlFQmd4Yzh2SGtsRWtUS2VMcGlVeXRxdF9aN2NBbDdEcFRfUzJXVmptX1liSkp0Qmd1RkZRUmwyX3pkNGlGMFBWNlFsaDZmWkpncVpFM29BUk95QUtMY2lRSzE1RDRQMGNUck94VGZOMGVGT0IzY0E?oc=5",
-      "source": "Connect CRE",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVJ1cmRRSnR6Z2RBVUJGOVdYTk5YV1I2RG15U01IbmVwZnlBeUp3MlZYY3ZVSzJfOFhCQVAwdHlFQmd4Yzh2SGtsRWtUS2VMcGlVeXRxdF9aN2NBbDdEcFRfUzJXVmptX1liSkp0Qmd1RkZRUmwyX3pkNGlGMFBWNlFsaDZmWkpncVpFM29BUk95QUtMY2lRSzE1RDRQMGNUck94VGZOMGVGT0IzY0E?oc=5\" target=\"_blank\">LA City Council Approves Largest-Ever Funding Pool for Affordable Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Connect CRE</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     }
