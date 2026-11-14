@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:24:10.442457+00:00",
+  "generated_at": "2026-11-14T12:39:32.605524+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1363,6 +1363,16 @@
       "category": "rent"
     },
     {
+      "id": "e9767d110cf55497",
+      "title": "City Planning Commission signs off eldercare apartments at 13916 Polk Street in Sylmar - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVA1Zl9OSVphbE9makY1b1ByYXhwV05oQlFodm5ESlNVaElWZHJpV1hDOVI3MENBWWh5UVk1a1Qya0lxTUJJNnRFOXRjR0VoTXhsb1RUNXN5RjBMN2RMbF9FLXF0aEgxbzhmTjd4M05IVmZXOWJZZlZLRzVsUFFLWm5mVzIwY1hUb0N5TFFnczhTVEp0enVHa0FxandGREx3dnlzbUxpTkRpdw?oc=5",
+      "source": "Urbanize LA",
+      "published": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVA1Zl9OSVphbE9makY1b1ByYXhwV05oQlFodm5ESlNVaElWZHJpV1hDOVI3MENBWWh5UVk1a1Qya0lxTUJJNnRFOXRjR0VoTXhsb1RUNXN5RjBMN2RMbF9FLXF0aEgxbzhmTjd4M05IVmZXOWJZZlZLRzVsUFFLWm5mVzIwY1hUb0N5TFFnczhTVEp0enVHa0FxandGREx3dnlzbUxpTkRpdw?oc=5\" target=\"_blank\">City Planning Commission signs off eldercare apartments at 13916 Polk Street in Sylmar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "0b1dd1ef56d46183",
       "title": "'Right to Counsel' ordinance: LA County Board of Supervisors move to ensure legal services for tenants facing eviction - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUUpjVklvNDRKY2hWN2RyN1VURlJIQllCSjBUbUhyRmpidnJIS1MtQVFNcW1tSU5CWWdMSkpwbWVPQV92Z184Yk5YbjAzX194bFh1dzBpWHFrWkV1a1hqT2dDcEU2RTBMS3VVYmd1d19CRXdVRGxPSEFtUzV3SEdFc3lmQVdYRWN3ZkdGbHB3Z9IBlAFBVV95cUxQeVBRZDhhUVJWOWl3SzhXVUZEVE5Ia0FMb1YtWGtsS0FyYW1aRzRhR3dkbm1NRUdLUkVXd05KX1JYTVhfaHVXOHFKbldhOXNwSnlzSWVibnJxMXJzTTEzU1BUSGdKb2ZYdi16QjNNdFIyNzJVNDh5Y2Ezc19ueE9UMFRqMDlkQi02aGFiSWZlSEV2RU9F?oc=5",
@@ -2463,6 +2473,16 @@
       "category": "construction"
     },
     {
+      "id": "18cf2e9d256c795c",
+      "title": "City Planning Commission upholds approval of small lot houses at 1940 Preuss Road...again - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdW1VOTM2bS10dC03akdZeFRPaXZWZnotT0tFNXo2bUZPaDl1RlJrVWJtSjIwVzBfMmJzYzBvT2hSNkZsTVE4VFY3NGY0ZE8xM205RXpRVFBjUENjWDZNbU1KLU1tako5VExHT09YUkJCWTlBNE4zT0VVaW9DeHA0NDJjQXFBd19OMFp3NUpSemFSME5Lakk2cXROMElWQjZKN3h6UmdiNlU4c2JUQVMw?oc=5",
+      "source": "Urbanize LA",
+      "published": "Tue, 29 Apr 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOdW1VOTM2bS10dC03akdZeFRPaXZWZnotT0tFNXo2bUZPaDl1RlJrVWJtSjIwVzBfMmJzYzBvT2hSNkZsTVE4VFY3NGY0ZE8xM205RXpRVFBjUENjWDZNbU1KLU1tako5VExHT09YUkJCWTlBNE4zT0VVaW9DeHA0NDJjQXFBd19OMFp3NUpSemFSME5Lakk2cXROMElWQjZKN3h6UmdiNlU4c2JUQVMw?oc=5\" target=\"_blank\">City Planning Commission upholds approval of small lot houses at 1940 Preuss Road...again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
+    },
+    {
       "id": "563e092ca8d29bf6",
       "title": "California’s Eviction Moratorium Has Ended. Here’s How To Stay Housed Moving Forward - LAist",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjNuRUR1MVFJc3dUT05PRGdJWXd3cjl3Y3hGSGJVMUFxZVVRd21VRUdjNWNqMF9hWVRjSXlydGJFdXR0NW1kVVExMjFieWk5WWp0eDBRYWZlUURJaDBEWFQyUUNlUnYtUTExMkVoRmRoSkJub25FVHo0TU1sVmFsREhrX3BSaThOQVdiaVZwNk5uVzliVXpDV1dlN19DTHNteXptdGNKTTlxRFo1RDV4ZkQxc3BOM2dNcjNDcVk1Z0JJQW5yMkMwWm9ISWNBcHl3ZGRJ?oc=5",
@@ -3471,6 +3491,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3k0eVV1dFJDVDNfeTFKb2tDMDhHZkk2NlNhNmdVM01tMFU1VTlrbE1EUVkyWXYyeGwteFBEekpnbHR5aVp2aVBzalVPbUNnNXZmcjZlSXQ2LS16R2gxUDExWWRYT251OWE5SGFDT0dXNGpiZV9xSDk1bUVka3g3eTVmbFBzNDFRSTRpWVFSYll1SHZOcktRQjlpdHFWNk0?oc=5\" target=\"_blank\">LA Council Commissions Reports on Mansion Tax Impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
       "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
       "category": "tax"
+    },
+    {
+      "id": "33b0ead405f0a6d0",
+      "title": "Planning commission approves Chick‑fil‑A at San Fernando entrance with safety and design conditions - citizenportal.ai",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPa1JyVlZESDR3cmluZWdIRHl5TEd3cWZHRXotVElkeWl2QjdsRmhrYmZSUFY5ZEZSOEtPTTVHQS1BWUFXbmpCNC1EMFlTX1BGdURpbVV3WlR5ZER3TUpqeUlWTjJVU3pBSFh5ZTIyQ0NtckJyZFZ0TFFrSl9JZExnREM2eVlOY1ZMNnIwZS1rVFZFempXbmZGZThOdGVPWVl4NXJsa1p5Y3VySDBRLWI1RUt6X0k2bkJLakJWc1NpYVNVc2VwS1JhZTJXcUk0bzRqVnNMUzFaa2ZNUHJwVkRReGo5ZFZDYUpMTDVNZUNpYk9iQXl1bnNfd2pEM3BXblVFZ29EbU5TWUxjVU11a3Bz?oc=5",
+      "source": "citizenportal.ai",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPa1JyVlZESDR3cmluZWdIRHl5TEd3cWZHRXotVElkeWl2QjdsRmhrYmZSUFY5ZEZSOEtPTTVHQS1BWUFXbmpCNC1EMFlTX1BGdURpbVV3WlR5ZER3TUpqeUlWTjJVU3pBSFh5ZTIyQ0NtckJyZFZ0TFFrSl9JZExnREM2eVlOY1ZMNnIwZS1rVFZFempXbmZGZThOdGVPWVl4NXJsa1p5Y3VySDBRLWI1RUt6X0k2bkJLakJWc1NpYVNVc2VwS1JhZTJXcUk0bzRqVnNMUzFaa2ZNUHJwVkRReGo5ZFZDYUpMTDVNZUNpYk9iQXl1bnNfd2pEM3BXblVFZ29EbU5TWUxjVU11a3Bz?oc=5\" target=\"_blank\">Planning commission approves Chick‑fil‑A at San Fernando entrance with safety and design conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizenportal.ai</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "zoning"
     },
     {
       "id": "ffee9c629eff3c42",
@@ -4971,36 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEJtTUNJVmp6VjMzYUdTR2VLRGVRRlJoZ1lrQWhsVGlQRkQwdFRsV0R5ZTlCRkU1TnNucnlJTC1na0NPeTFVODZyellXRy1ka1o3TkRidmNRdDkySTlBLTB4dl9uTDRMUGF0dFVveW5CQW1iNC1BLXdwWkdxZUZUOWNLd3ltck45enNBS2JJVllaazBXb25MSzM4MnFWX2l3Z1c1U1hNcTl1dlc5eW5saw?oc=5\" target=\"_blank\">Los Angeles Approves of Low-Rise Apartment Housing In Place of Enforcing Senate Bill 79</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "other"
-    },
-    {
-      "id": "4be446d3dac1a4ef",
-      "title": "Palm Springs advances short-term rental permit display requirement; audit gaps discussed - The Palm Springs Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHFQNnMwdUVNOWtlZVN1SThYY2FMbEZhRXJpMEk4LVZtQzJ5aUFZV2RzOEpZcmxPR3Uyd212dDBIR1lEWEdJQVJUTzE0c0ZLYV9xZzZCV0tMUHlvTWU0S21BSko5WmQ2V3pVNDN4SVJqUVFSN1JJai1PZEJWLWlvM1lGR1NTSDllLVFQaWFQXzZldVQ3LUc1YmlENlZvT21YbGpqWmxHZzZrTkJIR215OU5hckxWaGJqODBjT3FFQm1yWkNi?oc=5",
-      "source": "The Palm Springs Post",
-      "published": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHFQNnMwdUVNOWtlZVN1SThYY2FMbEZhRXJpMEk4LVZtQzJ5aUFZV2RzOEpZcmxPR3Uyd212dDBIR1lEWEdJQVJUTzE0c0ZLYV9xZzZCV0tMUHlvTWU0S21BSko5WmQ2V3pVNDN4SVJqUVFSN1JJai1PZEJWLWlvM1lGR1NTSDllLVFQaWFQXzZldVQ3LUc1YmlENlZvT21YbGpqWmxHZzZrTkJIR215OU5hckxWaGJqODBjT3FFQm1yWkNi?oc=5\" target=\"_blank\">Palm Springs advances short-term rental permit display requirement; audit gaps discussed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Palm Springs Post</font>",
-      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
-      "category": "policy"
-    },
-    {
-      "id": "7c93e2616f283b86",
-      "title": "California Law Letting Property Owners Split Lots to Build New Homes Is 'Unconstitutional,' Judge Rules - KQED",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc0MxTUdfVVJPZTJhbXd2dnhLaV8zMFl4NHZmUG5jNERLRFNpT1hZU1o1MjJkRzdJYUNUWmNaS3ZuYnJVSFpOZzhSQUVLUExCakRPMExqMUxSM3VFQWtOWEIxdklIb24xT1duaFF5dHUxSzItTHo4bFVTdk1yQmJ3OGVacF9iNXFHZmExcVd0QTJvTzlWVjJWSkpkdEk?oc=5",
-      "source": "KQED",
-      "published": "Thu, 25 Apr 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOc0MxTUdfVVJPZTJhbXd2dnhLaV8zMFl4NHZmUG5jNERLRFNpT1hZU1o1MjJkRzdJYUNUWmNaS3ZuYnJVSFpOZzhSQUVLUExCakRPMExqMUxSM3VFQWtOWEIxdklIb24xT1duaFF5dHUxSzItTHo4bFVTdk1yQmJ3OGVacF9iNXFHZmExcVd0QTJvTzlWVjJWSkpkdEk?oc=5\" target=\"_blank\">California Law Letting Property Owners Split Lots to Build New Homes Is 'Unconstitutional,' Judge Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "legal"
-    },
-    {
-      "id": "502fea68e703ed3c",
-      "title": "Court strikes down controversial California law abolishing single-family zoning - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEl1akp1Smw2a0lWdTBVQ3RBcUZmMGxRTm8xU1pQU3JJQ3B0QXJDdndvU1JENlh2d0Z2UEotMVVNZDRlQmd3MkJWOHN2OTRQTUVpdXJ4T0R5cGdFdThSUTBCaERFLUEwaGZMZHlYVjNKSUZHLXotUnJrLWhDVGluNXNVTXBGN3g4b1diZXlDMGlZSVp1RUdGYjNvenVzRTQ2eHViQ0dCTzk0bkY3cWFBdVQxUU85T0lFcEZ0UkRYONIBxAFBVV95cUxPSTU5NUV5SkdmWVhrOG80cGF0dWJFZXR3bTJPM2FkNHpkbEh4MTM2Q29yaE9aNW5xemxpMzRDTENBMGV6ZDJLTVM3bFR0dlRWcDNSZUZnRjhubTJRejRPUncyNDJkVGV6YTA3dkw4VXVpWDREaTdwcFoxOGswdWttUFpXbFJIRmRtS2M1NVNxWTVQNXNFWjV5MTRpU2lHNVB6WndEa29JQ3ZFbjlubUM3ZVpJNVBOclNyX1ItdWZaSTVOQjdi?oc=5",
-      "source": "The Mercury News",
-      "published": "Thu, 25 Apr 2024 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEl1akp1Smw2a0lWdTBVQ3RBcUZmMGxRTm8xU1pQU3JJQ3B0QXJDdndvU1JENlh2d0Z2UEotMVVNZDRlQmd3MkJWOHN2OTRQTUVpdXJ4T0R5cGdFdThSUTBCaERFLUEwaGZMZHlYVjNKSUZHLXotUnJrLWhDVGluNXNVTXBGN3g4b1diZXlDMGlZSVp1RUdGYjNvenVzRTQ2eHViQ0dCTzk0bkY3cWFBdVQxUU85T0lFcEZ0UkRYONIBxAFBVV95cUxPSTU5NUV5SkdmWVhrOG80cGF0dWJFZXR3bTJPM2FkNHpkbEh4MTM2Q29yaE9aNW5xemxpMzRDTENBMGV6ZDJLTVM3bFR0dlRWcDNSZUZnRjhubTJRejRPUncyNDJkVGV6YTA3dkw4VXVpWDREaTdwcFoxOGswdWttUFpXbFJIRmRtS2M1NVNxWTVQNXNFWjV5MTRpU2lHNVB6WndEa29JQ3ZFbjlubUM3ZVpJNVBOclNyX1ItdWZaSTVOQjdi?oc=5\" target=\"_blank\">Court strikes down controversial California law abolishing single-family zoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "legal"
     }
   ]
 }
