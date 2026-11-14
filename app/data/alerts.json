@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:14:47.230351+00:00",
+  "generated_at": "2026-11-14T05:24:10.442457+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4823,6 +4823,16 @@
       "category": "other"
     },
     {
+      "id": "2f055618deda1944",
+      "title": "Screaming matches at LA City planning hearing - FOX 11 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VNEJlVGthVmFQRlJtOFZ2MUFEMDNvMjlHRHhZNTI4aV9lQUxLZVAwZG9UN2x4c1RrX0dWb0pnNzZJbkVPYlAxa1N2V2s5VUhsQWRBdjJxeng4T24t?oc=5",
+      "source": "FOX 11 Los Angeles",
+      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VNEJlVGthVmFQRlJtOFZ2MUFEMDNvMjlHRHhZNTI4aV9lQUxLZVAwZG9UN2x4c1RrX0dWb0pnNzZJbkVPYlAxa1N2V2s5VUhsQWRBdjJxeng4T24t?oc=5\" target=\"_blank\">Screaming matches at LA City planning hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
+      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
+      "category": "other"
+    },
+    {
       "id": "df7848245de0b316",
       "title": "State leaders to unveil eviction moratorium on Friday - Orange County Register",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSE9HZFNUV1I2OVJFRXVsXzlFYXZiMG0tT2NaYml4bFFlVkZ4aEJyeDQyY1NyT0lkd0laREhwRGdqRFU4MURhSzBNdHhhM1NkTUplQUREemk2UW5UdWNkWVRhdU5QRy1LRk5kTUNKSlNPejIxV3BIdFBodHNROGgxQ0QxVnBsZDFMZThNS3VfU2lNUmc5anU0?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEl1akp1Smw2a0lWdTBVQ3RBcUZmMGxRTm8xU1pQU3JJQ3B0QXJDdndvU1JENlh2d0Z2UEotMVVNZDRlQmd3MkJWOHN2OTRQTUVpdXJ4T0R5cGdFdThSUTBCaERFLUEwaGZMZHlYVjNKSUZHLXotUnJrLWhDVGluNXNVTXBGN3g4b1diZXlDMGlZSVp1RUdGYjNvenVzRTQ2eHViQ0dCTzk0bkY3cWFBdVQxUU85T0lFcEZ0UkRYONIBxAFBVV95cUxPSTU5NUV5SkdmWVhrOG80cGF0dWJFZXR3bTJPM2FkNHpkbEh4MTM2Q29yaE9aNW5xemxpMzRDTENBMGV6ZDJLTVM3bFR0dlRWcDNSZUZnRjhubTJRejRPUncyNDJkVGV6YTA3dkw4VXVpWDREaTdwcFoxOGswdWttUFpXbFJIRmRtS2M1NVNxWTVQNXNFWjV5MTRpU2lHNVB6WndEa29JQ3ZFbjlubUM3ZVpJNVBOclNyX1ItdWZaSTVOQjdi?oc=5\" target=\"_blank\">Court strikes down controversial California law abolishing single-family zoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "legal"
-    },
-    {
-      "id": "cb813cc33b4c4799",
-      "title": "The L.A. City Council just approved nearly $467 million in affordable housing — and applications open soon - Secret Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NVmpCZzNhaVYwUHd3MjBoNG1BMmF2ekppSTZSMS15M0FmT1ZMRVNNM3psT2ZtQzBoZkhCXzlGY0p6d2h2NzBPUW11T2Z4ZWo0b1dveFdfRV8wTWk3aF9EcEFLeG4tWGdrb05YWW54SHNHaTNOVWljTGlqU3c?oc=5",
-      "source": "Secret Los Angeles",
-      "published": "Thu, 24 Sep 2026 17:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9NVmpCZzNhaVYwUHd3MjBoNG1BMmF2ekppSTZSMS15M0FmT1ZMRVNNM3psT2ZtQzBoZkhCXzlGY0p6d2h2NzBPUW11T2Z4ZWo0b1dveFdfRV8wTWk3aF9EcEFLeG4tWGdrb05YWW54SHNHaTNOVWljTGlqU3c?oc=5\" target=\"_blank\">The L.A. City Council just approved nearly $467 million in affordable housing — and applications open soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Secret Los Angeles</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
     }
   ]
 }
