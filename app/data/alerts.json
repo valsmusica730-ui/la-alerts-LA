@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:14:23.280962+00:00",
+  "generated_at": "2026-11-17T03:17:22.171441+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3203,6 +3203,16 @@
       "category": "other"
     },
     {
+      "id": "4e59c2f1e1400cbb",
+      "title": "New Federal Housing Rule Sparks Fears of Family Displacement - westsidecurrent.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTGRuRUoyOHpGNEJqVGRTdXQxMElqNkpTb0NoLTBwLXhLckd6NHBoRXVnOHhqbms1dTJJbmNWNmJTek5RQTNQcHZCMFRYaWhqeXVabk02bXdCd0VzRlZZVE5RM1Y3N1VtTG9NdGp5MFJaX3NKZzRVX0ZxUFRTdWRIWldYTTJlRi1xYTVWQ3IyRHBfR2p5Yll5cUF3ZTlMMnR0MzlGbTM1WlJnOXNReUpfTnFFd3RQMzhRaEtial94NDg1cUxoM1dyNzhZVjFwQW5YOVk3WG1sRDNXTHdOSkh1eHdYTU5qQ0loN2RUMlgybw?oc=5",
+      "source": "westsidecurrent.com",
+      "published": "Tue, 17 Nov 2026 01:49:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTGRuRUoyOHpGNEJqVGRTdXQxMElqNkpTb0NoLTBwLXhLckd6NHBoRXVnOHhqbms1dTJJbmNWNmJTek5RQTNQcHZCMFRYaWhqeXVabk02bXdCd0VzRlZZVE5RM1Y3N1VtTG9NdGp5MFJaX3NKZzRVX0ZxUFRTdWRIWldYTTJlRi1xYTVWQ3IyRHBfR2p5Yll5cUF3ZTlMMnR0MzlGbTM1WlJnOXNReUpfTnFFd3RQMzhRaEtial94NDg1cUxoM1dyNzhZVjFwQW5YOVk3WG1sRDNXTHdOSkh1eHdYTU5qQ0loN2RUMlgybw?oc=5\" target=\"_blank\">New Federal Housing Rule Sparks Fears of Family Displacement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">westsidecurrent.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "other"
+    },
+    {
       "id": "2a86db450747fcbf",
       "title": "Judge Tosses Area Planning Commission Decision on Controversial South L.A. Project - planetizen.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlRRY0ZKWmNoMEtaRUVrYzRHeHAyOFlLZGNoeHNVd0h3WnhkaGFVdUhhaWNuVi03ZUdjMHpZbk1KcWZsd0p3Sk1LdkJ6TnphNVM0eUp3UGFESzZZeHlmNnhhaFgyR2NxUmwxellXWFFRcW1Wb2N4MkdZcVdhWkhsdmNaVGtUZ0VZSWNrTUZoSDF2bHpKZTVEWEVCVHBJaFU5OVJzOTdka2pyRnJVekNDMGtJVmxYalNPSUtTX1F2eldlUQ?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUyOENnYUloVzREV1IxQ2NudVJKVEp0b2FxZkJEUmp1MmpONVNaLXE5a2xaelhBaVhLZktkRHAwRU9NRVN0Y3cwdDhyR1dZeDhJaVdCOTYwODEzelJlRzNzTEJwX21DYlJGTnNoSkZyc25YdUNXZVF1aHlNZzVNazFKNDlpR2dqU0NsUXk1WTgzSThfV2RjTm8yR3lSdw?oc=5\" target=\"_blank\">A Lawsuit That’s Forcing L.A. To Enforce Its Housing Voucher Discrimination Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Next City</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "legal"
-    },
-    {
-      "id": "d25206c60546b521",
-      "title": "Los Angeles Approves of Low-Rise Apartment Housing In Place of Enforcing Senate Bill 79 - LAmag",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEJtTUNJVmp6VjMzYUdTR2VLRGVRRlJoZ1lrQWhsVGlQRkQwdFRsV0R5ZTlCRkU1TnNucnlJTC1na0NPeTFVODZyellXRy1ka1o3TkRidmNRdDkySTlBLTB4dl9uTDRMUGF0dFVveW5CQW1iNC1BLXdwWkdxZUZUOWNLd3ltck45enNBS2JJVllaazBXb25MSzM4MnFWX2l3Z1c1U1hNcTl1dlc5eW5saw?oc=5",
-      "source": "LAmag",
-      "published": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEJtTUNJVmp6VjMzYUdTR2VLRGVRRlJoZ1lrQWhsVGlQRkQwdFRsV0R5ZTlCRkU1TnNucnlJTC1na0NPeTFVODZyellXRy1ka1o3TkRidmNRdDkySTlBLTB4dl9uTDRMUGF0dFVveW5CQW1iNC1BLXdwWkdxZUZUOWNLd3ltck45enNBS2JJVllaazBXb25MSzM4MnFWX2l3Z1c1U1hNcTl1dlc5eW5saw?oc=5\" target=\"_blank\">Los Angeles Approves of Low-Rise Apartment Housing In Place of Enforcing Senate Bill 79</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "other"
     }
   ]
 }
