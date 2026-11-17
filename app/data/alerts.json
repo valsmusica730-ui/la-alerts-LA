@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:17:22.171441+00:00",
+  "generated_at": "2026-11-17T12:36:18.421322+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3143,6 +3143,16 @@
       "category": "zoning"
     },
     {
+      "id": "ce64a6efdb72075d",
+      "title": "Los Angeles Landlords Fail To Overturn Eviction Moratorium - KQED",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXlCa1U4N1I2RVRtcVlWM2JtRDdxYkRPcmIwQUcyamxGaW9kQ0ctNXBuV3NfajFsUUJpZXRPUldESzdob3NoWEVoVW00dXJZYWloX0xKczBEUWsyR0pnSGVybTIyNzBHMlZ6Q2d5UDdJV3ZUNGM1bHhpVmVZall2Wl9VTEkyTDZUdnd3Zkg2Qk5aLTFZdVduaw?oc=5",
+      "source": "KQED",
+      "published": "Tue, 19 Apr 2022 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXlCa1U4N1I2RVRtcVlWM2JtRDdxYkRPcmIwQUcyamxGaW9kQ0ctNXBuV3NfajFsUUJpZXRPUldESzdob3NoWEVoVW00dXJZYWloX0xKczBEUWsyR0pnSGVybTIyNzBHMlZ6Q2d5UDdJV3ZUNGM1bHhpVmVZall2Wl9VTEkyTDZUdnd3Zkg2Qk5aLTFZdVduaw?oc=5\" target=\"_blank\">Los Angeles Landlords Fail To Overturn Eviction Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>",
+      "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
+      "category": "rent"
+    },
+    {
       "id": "1885a4468b83fbcc",
       "title": "Santa Clarita Building Owners Eyeing New L.A. Seismic Retrofit Law - hometownstation.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeERMOC1fQmk2cmNZT1FKbVVhNG9pWEkzMzRTRDZUSDJJU19tRDAtZXRSR1hoZ2hQT3pEWFZxRWxiUW04X3JJSjg0aWQ5eS0wcmt5SHUzcHI0Z0xfTlUzSjBDT0NtbFItLVlpU1g1T0NfVktNWVNlei1OenRfX1FjaEJDZGhXeGlPY2gxdURZYWdsRG82VndKZ0ZTeHZieGpGM3pmc2t5OGh4eHB2dWtQYVVvMXRDbnBVQk9KdDQ5ems?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEczdnpSX2dZYWpYMm5MdVdtNS1xc2R4VmNzNldESUEyMUFkaUpLaVVJdThkcjFNRmt2WW1EOTRfLWJWaE5ma1VDQnJrYVpWWTVieGJEVnEtWlA0LUdEbS00c3dvZ214YTRwYXpyQ04wTGFMWlYtLW9RZC1WckVTZkJrYVR0NG5WQ0ZzbGdwV29IdlctOHV4ekxZOU4zczR0dmhfdXFobXFNb01vdm56M243V1JTUVZMczdBMWtDSWJDMHJYUDdXU3NHNEU?oc=5\" target=\"_blank\">Chicago City Council allows coach houses with key exceptions for single-family districts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
       "category": "policy"
-    },
-    {
-      "id": "a6a1af7890c0a9c3",
-      "title": "A Lawsuit That’s Forcing L.A. To Enforce Its Housing Voucher Discrimination Ban - Next City",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUyOENnYUloVzREV1IxQ2NudVJKVEp0b2FxZkJEUmp1MmpONVNaLXE5a2xaelhBaVhLZktkRHAwRU9NRVN0Y3cwdDhyR1dZeDhJaVdCOTYwODEzelJlRzNzTEJwX21DYlJGTnNoSkZyc25YdUNXZVF1aHlNZzVNazFKNDlpR2dqU0NsUXk1WTgzSThfV2RjTm8yR3lSdw?oc=5",
-      "source": "Next City",
-      "published": "Thu, 25 May 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUyOENnYUloVzREV1IxQ2NudVJKVEp0b2FxZkJEUmp1MmpONVNaLXE5a2xaelhBaVhLZktkRHAwRU9NRVN0Y3cwdDhyR1dZeDhJaVdCOTYwODEzelJlRzNzTEJwX21DYlJGTnNoSkZyc25YdUNXZVF1aHlNZzVNazFKNDlpR2dqU0NsUXk1WTgzSThfV2RjTm8yR3lSdw?oc=5\" target=\"_blank\">A Lawsuit That’s Forcing L.A. To Enforce Its Housing Voucher Discrimination Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Next City</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "legal"
     }
   ]
 }
