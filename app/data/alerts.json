@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:36:18.421322+00:00",
+  "generated_at": "2026-11-18T12:25:12.005260+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2733,6 +2733,16 @@
       "category": "legal"
     },
     {
+      "id": "3c9d8b4f8057e022",
+      "title": "LA City Council Advances 100% Affordable Housing Development - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1RDRWppVDJoUE9zOGxnWTRTcW5jcThUbWJWM0JIVlNzYlBTazhDRjJMd1ByV3hSWk8ycnNsSjduOThFT0FmMXNjWGlLVTNVTXd6NlRaMVE2ZkktXzE2b2l3QkZQRHZjc2ZrYklIV0l4cDlkTEc3UmJEcGpMWE8yeWJlMEE3LXJuVzRfb012bGNOR01jMzVHRmNXZ3lvREJQdHRPV1k4NTTSAbABQVVfeXFMTTBLM3Z0clZIMmxyTWlGYnVaUDJDUHlXMEpURTBFcWFKczN6bTdaOUlwRFd0eGo5X0xCaktUTVdiTzR1M205QmRQLVNka3RWNzFxRExKUjdfV0hRQV9jWGg5S3M1MVJ1cXIySTNEOVBrbnM4LUI1ZmRqUXQxb2F2bTNCT2JmOEFTSmM5TjFlTk9oN3Rwb0ZKM1VBLWFkbFFSTXpjREtfT0RxUEwtZlpLREc?oc=5",
+      "source": "NBC Los Angeles",
+      "published": "Tue, 25 Jan 2022 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1RDRWppVDJoUE9zOGxnWTRTcW5jcThUbWJWM0JIVlNzYlBTazhDRjJMd1ByV3hSWk8ycnNsSjduOThFT0FmMXNjWGlLVTNVTXd6NlRaMVE2ZkktXzE2b2l3QkZQRHZjc2ZrYklIV0l4cDlkTEc3UmJEcGpMWE8yeWJlMEE3LXJuVzRfb012bGNOR01jMzVHRmNXZ3lvREJQdHRPV1k4NTTSAbABQVVfeXFMTTBLM3Z0clZIMmxyTWlGYnVaUDJDUHlXMEpURTBFcWFKczN6bTdaOUlwRFd0eGo5X0xCaktUTVdiTzR1M205QmRQLVNka3RWNzFxRExKUjdfV0hRQV9jWGg5S3M1MVJ1cXIySTNEOVBrbnM4LUI1ZmRqUXQxb2F2bTNCT2JmOEFTSmM5TjFlTk9oN3Rwb0ZKM1VBLWFkbFFSTXpjREtfT0RxUEwtZlpLREc?oc=5\" target=\"_blank\">LA City Council Advances 100% Affordable Housing Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "2d3cf4baac43aa82",
       "title": "Senator Wiener Introduces Bill to Strengthen California’s Housing Streamlining Laws - Davis Vanguard",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcmxrSWdnTjlaWDc4MGh6MUEzUHFpMnE0TXM2b3ptZWZzOWhMcjlqYy04Ti1kRDBlVF85elZvcTN4ZU9MLW5DeUVMdUpFM2ctQjhaVUFZazNrakttaThfMjFhX0RBWTJRRkxkTkRSM1lSc0RlX2VUU0xLRExScVpaa0U0Z0NKUV9qOGhhQkc1UmQyX040RW9Wamw4Zy0wNHVxZG5VNjMya0txdU1RVEV5b3VRYjEzRmF4?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQekNtelZoTWtfcFl2dFJfR1lRd2xqcGQ2cXBURjhKcVRKWVQ5UHZMOTZxQU54VTQwcjFCRzRRTzZyUjEtanFXUlFfUVM1Tm5ZTTd1ZHdkUm11R1NYVldPb0JLc0pUc3Q2aHJ2M25ncDVoQWNHaVpwV2xhUDJDR1ptR0lxRkpXVkZhLTN6NEVIaFpjUmJfOGNFVS1rQTd2eW04MFhnX1lFdV9kc3l0MnpWYkNLdnM1S1RKTjBGSTM2aTZ1bUljU0wtS3huQnhZeG9EZTdNN09sdnVuMkE?oc=5\" target=\"_blank\">SB 9 and SB 10: In SacBee Ad, ‘Housing Is A Human Right’ Urges Newsom to Oppose Both Bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
-    },
-    {
-      "id": "76d3994a4e0b9c97",
-      "title": "Chicago City Council allows coach houses with key exceptions for single-family districts - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEczdnpSX2dZYWpYMm5MdVdtNS1xc2R4VmNzNldESUEyMUFkaUpLaVVJdThkcjFNRmt2WW1EOTRfLWJWaE5ma1VDQnJrYVpWWTVieGJEVnEtWlA0LUdEbS00c3dvZ214YTRwYXpyQ04wTGFMWlYtLW9RZC1WckVTZkJrYVR0NG5WQ0ZzbGdwV29IdlctOHV4ekxZOU4zczR0dmhfdXFobXFNb01vdm56M243V1JTUVZMczdBMWtDSWJDMHJYUDdXU3NHNEU?oc=5",
-      "source": "The Real Deal",
-      "published": "Thu, 25 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEczdnpSX2dZYWpYMm5MdVdtNS1xc2R4VmNzNldESUEyMUFkaUpLaVVJdThkcjFNRmt2WW1EOTRfLWJWaE5ma1VDQnJrYVpWWTVieGJEVnEtWlA0LUdEbS00c3dvZ214YTRwYXpyQ04wTGFMWlYtLW9RZC1WckVTZkJrYVR0NG5WQ0ZzbGdwV29IdlctOHV4ekxZOU4zczR0dmhfdXFobXFNb01vdm56M243V1JTUVZMczdBMWtDSWJDMHJYUDdXU3NHNEU?oc=5\" target=\"_blank\">Chicago City Council allows coach houses with key exceptions for single-family districts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
-      "category": "policy"
     }
   ]
 }
