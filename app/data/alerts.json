@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:51:49.626976+00:00",
+  "generated_at": "2026-11-19T19:14:17.523484+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4063,6 +4063,16 @@
       "category": "policy"
     },
     {
+      "id": "05424c88e0b88abe",
+      "title": "Senator Wiener Reintroduces Key Housing Legislation – SB 10 – to Provide Cities with a Powerful New Tool to Build More Housing in Non-Sprawl Areas - Senator Scott Wiener (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2JCUG9mMjJ6UEtqbTZrMFhDNnQ1WkFWUU45V2E5VmRIWGR4Y2l3NDZPM0RSeENzRFJDWU1RaFVuLWoyOE9veFZxdnNfdWJCN0tfaS1nOHdDeXpWYy1nalRKLUF4Q0FTa0h4enUzS0Z3WHFZVlA5eVZRcmFIakZ2c2U4UWJoNkZoX21vNm9NOXFyQ3ZFcE9JRU9abVNROW9ybEliMG5kbWY4Ui1MWWM1TzZfVzR4ZlRkLTFOUlpDSQ?oc=5",
+      "source": "Senator Scott Wiener (.gov)",
+      "published": "Tue, 08 Dec 2020 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2JCUG9mMjJ6UEtqbTZrMFhDNnQ1WkFWUU45V2E5VmRIWGR4Y2l3NDZPM0RSeENzRFJDWU1RaFVuLWoyOE9veFZxdnNfdWJCN0tfaS1nOHdDeXpWYy1nalRKLUF4Q0FTa0h4enUzS0Z3WHFZVlA5eVZRcmFIakZ2c2U4UWJoNkZoX21vNm9NOXFyQ3ZFcE9JRU9abVNROW9ybEliMG5kbWY4Ui1MWWM1TzZfVzR4ZlRkLTFOUlpDSQ?oc=5\" target=\"_blank\">Senator Wiener Reintroduces Key Housing Legislation – SB 10 – to Provide Cities with a Powerful New Tool to Build More Housing in Non-Sprawl Areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Senator Scott Wiener (.gov)</font>",
+      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
+      "category": "zoning"
+    },
+    {
       "id": "38043df9d4733ed8",
       "title": "L.A.'s Eternal Eviction Moratorium - Reason Magazine",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56VlpOR0ZIMFZwV3U3cldVendjM1BCdzRwTjF0ank0RlM0VTNBVHpvc1BFSEZUc0NCNEo4NVVWc2FJTkFoQ28ta0gxMnNManBBOUdzdXNhSkVVX1RfajJWb25jc2x4T0R5WGQ2X1JRUkF6Zw?oc=5",
@@ -4990,16 +5000,6 @@
       "published": "Thu, 26 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXBRMTQ4V0lTZDh2SWh5OFd0ODE5a0RIWWVkcFRBUTd0SVdmVHpNOVRLT2NxODFXZEFQRkF3UGhOdkYzTW50OW5DSElJOW03MHY0VlRiaTZZUnpOTGhBa0hGVERJWXhmbmNYdHV4T1JVTkwzRC1laXFGQkhpRzMwOUM0dlh0blp1eEFheDRwSURqVXBoVXk1NmlMc2E?oc=5\" target=\"_blank\">City of LA looks to stall SB 79 with upzoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "zoning"
-    },
-    {
-      "id": "d38d631b4633747c",
-      "title": "Review of AB 2011 Reveals Challenges in Housing Construction - State Affairs",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmgwNTF6Qk1aNzRsa0NReWdVZS1Qem9sOG1sMUhoNnpUc191Qk1YTUpXUnJmQm05c0k0QlZGZkNLQ3dSQzhRc1lybWRObGgtUWR2S0dXVjk5d3gzSW1VLTYzYmczd25wLV9GT2tPZEIzaDVZVlozYVpLUVNtUUp1dUN3?oc=5",
-      "source": "State Affairs",
-      "published": "Thu, 26 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmgwNTF6Qk1aNzRsa0NReWdVZS1Qem9sOG1sMUhoNnpUc191Qk1YTUpXUnJmQm05c0k0QlZGZkNLQ3dSQzhRc1lybWRObGgtUWR2S0dXVjk5d3gzSW1VLTYzYmczd25wLV9GT2tPZEIzaDVZVlozYVpLUVNtUUp1dUN3?oc=5\" target=\"_blank\">Review of AB 2011 Reveals Challenges in Housing Construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">State Affairs</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
     }
   ]
