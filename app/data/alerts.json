@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T02:13:51.520972+00:00",
+  "generated_at": "2026-11-19T10:51:49.626976+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3233,6 +3233,16 @@
       "category": "other"
     },
     {
+      "id": "cd030ea2d257c2e4",
+      "title": "LA Faces Lawsuit, Potential Fines for Blocking Housing in Woodland Hills - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0ZabnFkRjVjRnFSbzRNWEJUSXVlbU5QSGVvUUlNcG9NYTg4d0RfV0EyRFdYQ2VnTVdpRkxsM2tJa2tHRmZkMXNhUEtsUVRiYXZLdk9WcVhnQVZxckFkaERmR2liQ3NyQTI1eHNUamkzN2IxTko0TTR0VXByRjJfRWJ2UkpvQVZ4RUJhdlYtTEpkU0RJVzBWcUZFR3B6aHFKQ09PZm9nMndVVk93cnAyTHQ4ZkI5OXNqLVRSag?oc=5",
+      "source": "MyNewsLA.com",
+      "published": "Tue, 17 Nov 2026 01:42:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0ZabnFkRjVjRnFSbzRNWEJUSXVlbU5QSGVvUUlNcG9NYTg4d0RfV0EyRFdYQ2VnTVdpRkxsM2tJa2tHRmZkMXNhUEtsUVRiYXZLdk9WcVhnQVZxckFkaERmR2liQ3NyQTI1eHNUamkzN2IxTko0TTR0VXByRjJfRWJ2UkpvQVZ4RUJhdlYtTEpkU0RJVzBWcUZFR3B6aHFKQ09PZm9nMndVVk93cnAyTHQ4ZkI5OXNqLVRSag?oc=5\" target=\"_blank\">LA Faces Lawsuit, Potential Fines for Blocking Housing in Woodland Hills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
+      "category": "legal"
+    },
+    {
       "id": "2a86db450747fcbf",
       "title": "Judge Tosses Area Planning Commission Decision on Controversial South L.A. Project - planetizen.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlRRY0ZKWmNoMEtaRUVrYzRHeHAyOFlLZGNoeHNVd0h3WnhkaGFVdUhhaWNuVi03ZUdjMHpZbk1KcWZsd0p3Sk1LdkJ6TnphNVM0eUp3UGFESzZZeHlmNnhhaFgyR2NxUmwxellXWFFRcW1Wb2N4MkdZcVdhWkhsdmNaVGtUZ0VZSWNrTUZoSDF2bHpKZTVEWEVCVHBJaFU5OVJzOTdka2pyRnJVekNDMGtJVmxYalNPSUtTX1F2eldlUQ?oc=5",
@@ -4989,16 +4999,6 @@
       "source": "State Affairs",
       "published": "Thu, 26 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmgwNTF6Qk1aNzRsa0NReWdVZS1Qem9sOG1sMUhoNnpUc191Qk1YTUpXUnJmQm05c0k0QlZGZkNLQ3dSQzhRc1lybWRObGgtUWR2S0dXVjk5d3gzSW1VLTYzYmczd25wLV9GT2tPZEIzaDVZVlozYVpLUVNtUUp1dUN3?oc=5\" target=\"_blank\">Review of AB 2011 Reveals Challenges in Housing Construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">State Affairs</font>",
-      "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
-      "category": "zoning"
-    },
-    {
-      "id": "48962b6d92163b6d",
-      "title": "SB 9 and SB 10: In SacBee Ad, ‘Housing Is A Human Right’ Urges Newsom to Oppose Both Bills - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQekNtelZoTWtfcFl2dFJfR1lRd2xqcGQ2cXBURjhKcVRKWVQ5UHZMOTZxQU54VTQwcjFCRzRRTzZyUjEtanFXUlFfUVM1Tm5ZTTd1ZHdkUm11R1NYVldPb0JLc0pUc3Q2aHJ2M25ncDVoQWNHaVpwV2xhUDJDR1ptR0lxRkpXVkZhLTN6NEVIaFpjUmJfOGNFVS1rQTd2eW04MFhnX1lFdV9kc3l0MnpWYkNLdnM1S1RKTjBGSTM2aTZ1bUljU0wtS3huQnhZeG9EZTdNN09sdnVuMkE?oc=5",
-      "source": "Business Wire",
-      "published": "Thu, 26 Aug 2021 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQekNtelZoTWtfcFl2dFJfR1lRd2xqcGQ2cXBURjhKcVRKWVQ5UHZMOTZxQU54VTQwcjFCRzRRTzZyUjEtanFXUlFfUVM1Tm5ZTTd1ZHdkUm11R1NYVldPb0JLc0pUc3Q2aHJ2M25ncDVoQWNHaVpwV2xhUDJDR1ptR0lxRkpXVkZhLTN6NEVIaFpjUmJfOGNFVS1rQTd2eW04MFhnX1lFdV9kc3l0MnpWYkNLdnM1S1RKTjBGSTM2aTZ1bUljU0wtS3huQnhZeG9EZTdNN09sdnVuMkE?oc=5\" target=\"_blank\">SB 9 and SB 10: In SacBee Ad, ‘Housing Is A Human Right’ Urges Newsom to Oppose Both Bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
     }
