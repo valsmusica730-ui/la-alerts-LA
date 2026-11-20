@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T19:14:17.523484+00:00",
+  "generated_at": "2026-11-20T01:29:13.890916+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1951,6 +1951,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTU1YY1NiZ2hNQnlsc1FaRmEtWlFhTzVnSmMzcXJscjZTQURYZkdxUjhLUWF6S3pfVUlHeVlqb1lvQUlTOV8tRE9XcWxrcHM2c1picjY1alZRN2c4S2JxQV9UcEhfQy1WTHZjR3FJNmo1ZHlRUUFrVFh4NVh1LTBVM3hkbE43aDBzdVBrcUtYb0R6NUt0WFRMYkE0T2VuOWNxWHF0RkM3SGE3elB4SGNhY1ZQa19EVTTSAbwBQVVfeXFMUHpqQ1NWWHB1SFpqZkJCY09wTkZTMGF6YWt5Z1RlQVZTN0kxTEk1dGVkdEpLUHk2SkhRMC1rZzVMMWhjbnk0WDl1blZQVDd0NGlOdWg2LWxjZUxVdjJGRGhJYWdyZDhkRUY1cTJOY01ldzMwcnNJMzYtSGpaMjhkeGdYN3BYRlkwZ3BKY0Q1ZExDUDJrR2hpZFRBS0wzbHNubkFMaWdEdWlNNXVQM3QtWlZBTXpvUlpieUVDM24?oc=5\" target=\"_blank\">Los Angeles City Council approves temporary eviction moratorium for extra occupants due to wildfires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
       "query": "\"Los Angeles\" (\"eviction moratorium\" OR \"tenant protections\" OR \"just cause\")",
       "category": "rent"
+    },
+    {
+      "id": "28a5dfbafc32a42e",
+      "title": "COUNCIL ADOPTS MOTION TO DEVELOP SELF-CERTIFICATION PROGRAM FOR THE CITY OF LOS ANGELES - City of Los Angeles (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEVSNEFSYTJwdzI0R3ZLUW5XZHZpOWtHNWRNYm56NlNQdk9NamJWLVA0VmJLaTFMWnpiQTVvZ01MblZhVDhJLWZQME42UmxReUdPY1VBMUNtcVdEU1hBaFJHbmdkTjRvWmo4TWw3bnpZd0ZLRWRwZTVMWXFxSkthYW41SlM4MFNSUzc3MmQtME11cXhZLWM0NlprbDNQM0ZwZW5jb1pSb3g1aTdTeFVtTXZxQQ?oc=5",
+      "source": "City of Los Angeles (.gov)",
+      "published": "Wed, 05 Feb 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEVSNEFSYTJwdzI0R3ZLUW5XZHZpOWtHNWRNYm56NlNQdk9NamJWLVA0VmJLaTFMWnpiQTVvZ01MblZhVDhJLWZQME42UmxReUdPY1VBMUNtcVdEU1hBaFJHbmdkTjRvWmo4TWw3bnpZd0ZLRWRwZTVMWXFxSkthYW41SlM4MFNSUzc3MmQtME11cXhZLWM0NlprbDNQM0ZwZW5jb1pSb3g1aTdTeFVtTXZxQQ?oc=5\" target=\"_blank\">COUNCIL ADOPTS MOTION TO DEVELOP SELF-CERTIFICATION PROGRAM FOR THE CITY OF LOS ANGELES</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
+      "query": "\"Los Angeles\" (LADBS OR \"building code\" OR \"seismic retrofit\")",
+      "category": "other"
     },
     {
       "id": "4c8c551abd334cc3",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPakpfQ0M5X2htNDQ1S0hjN2lBS3Bnc2FPa1JOZ21iTUM3ZEFOc0lFVHlPc2JVdFY2SUNSMDhkTllIbkNaeHloekhPMWgyU2RUNTE5VEU3SkN6WmtrbHF3RE1obTltd3hpbmQtUk04NC1rZ2ZuLWV4T1pRdXNaMmVFR29UOXZRdWtub3BwaGloUEJrWjcxbjQzU25iWTg0UUU?oc=5\" target=\"_blank\">Los Angeles City Council approves long-delayed Arts District development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
-    },
-    {
-      "id": "a5f1b4f20d4d0722",
-      "title": "City of LA looks to stall SB 79 with upzoning - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXBRMTQ4V0lTZDh2SWh5OFd0ODE5a0RIWWVkcFRBUTd0SVdmVHpNOVRLT2NxODFXZEFQRkF3UGhOdkYzTW50OW5DSElJOW03MHY0VlRiaTZZUnpOTGhBa0hGVERJWXhmbmNYdHV4T1JVTkwzRC1laXFGQkhpRzMwOUM0dlh0blp1eEFheDRwSURqVXBoVXk1NmlMc2E?oc=5",
-      "source": "The Real Deal",
-      "published": "Thu, 26 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXBRMTQ4V0lTZDh2SWh5OFd0ODE5a0RIWWVkcFRBUTd0SVdmVHpNOVRLT2NxODFXZEFQRkF3UGhOdkYzTW50OW5DSElJOW03MHY0VlRiaTZZUnpOTGhBa0hGVERJWXhmbmNYdHV4T1JVTkwzRC1laXFGQkhpRzMwOUM0dlh0blp1eEFheDRwSURqVXBoVXk1NmlMc2E?oc=5\" target=\"_blank\">City of LA looks to stall SB 79 with upzoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "zoning"
     }
   ]
 }
