@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T00:26:24.498676+00:00",
+  "generated_at": "2026-11-22T01:45:20.169969+00:00",
   "total": 500,
   "alerts": [
     {
@@ -1451,6 +1451,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjSnBlcnRGVjcwZ1pWanNCVXNzZjNiRWNhaW9aQ2ZrUHlzVGdXdFlfQTh4NjZCRWM2U0F4TXJ1bFpKbmpQQThIZllZQTh1dnM?oc=5\" target=\"_blank\">SB 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cayimby.org</font>",
       "query": "California (\"SB 9\" OR \"SB 10\" OR \"AB 2011\" OR \"AB 1033\") housing",
       "category": "zoning"
+    },
+    {
+      "id": "4c8aeaa7bb2e49ef",
+      "title": "LA City Council Eases ADU Stormwater Permit Rules - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1VrREx1dkVxLWZrc2FlWVpmR3lVdGhnUXctWnd3Z25BWkdFN1l3ektEY290ZXowZnJFNmstLWdOSHkyMFU1YUJfc1RwQmkzSWJZRDFjdDVpQTRIanEzX09meGZ6X3dMMml1QWtEUE5vVEJELUI3RE9FRmZjZFZTcHBNZWFnNXRoc3NVdm8wb3NGZWhUcHBKWG5yRkplWFR1WTBzLThn?oc=5",
+      "source": "Hoodline",
+      "published": "Wed, 11 Nov 2026 20:10:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1VrREx1dkVxLWZrc2FlWVpmR3lVdGhnUXctWnd3Z25BWkdFN1l3ektEY290ZXowZnJFNmstLWdOSHkyMFU1YUJfc1RwQmkzSWJZRDFjdDVpQTRIanEzX09meGZ6X3dMMml1QWtEUE5vVEJELUI3RE9FRmZjZFZTcHBNZWFnNXRoc3NVdm8wb3NGZWhUcHBKWG5yRkplWFR1WTBzLThn?oc=5\" target=\"_blank\">LA City Council Eases ADU Stormwater Permit Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
     },
     {
       "id": "4c56b52cd7cff255",
@@ -4989,16 +4999,6 @@
       "source": "Urbanize LA",
       "published": "Thu, 26 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1FYRGU2anNvcUxjbGJYQU9PR0pLcHBjYW15VXlEYzUxV3hEM19zbE51NUhnVDhoM2hfcFV1ZWhHM0Nla2YyMW4xYjNlbEFQMHBLcDhUcnBsZVZPT0xydUpPU1NubjVoczY0ckhPcnFmWldCdnNLajlBeXRnRmNoT3IzQmcwRG5TLWxxZ0VQMlZZWFdCUWZaUVFhUE8wZjJjczBLemRFODF2MEE?oc=5\" target=\"_blank\">Beverly Hills City Council approves Builder's Remedy high-rise at 8844 Burton Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "7867d21c0bf55bf0",
-      "title": "Los Angeles City Council approves long-delayed Arts District development - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakpfQ0M5X2htNDQ1S0hjN2lBS3Bnc2FPa1JOZ21iTUM3ZEFOc0lFVHlPc2JVdFY2SUNSMDhkTllIbkNaeHloekhPMWgyU2RUNTE5VEU3SkN6WmtrbHF3RE1obTltd3hpbmQtUk04NC1rZ2ZuLWV4T1pRdXNaMmVFR29UOXZRdWtub3BwaGloUEJrWjcxbjQzU25iWTg0UUU?oc=5",
-      "source": "The Real Deal",
-      "published": "Thu, 26 Jun 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPakpfQ0M5X2htNDQ1S0hjN2lBS3Bnc2FPa1JOZ21iTUM3ZEFOc0lFVHlPc2JVdFY2SUNSMDhkTllIbkNaeHloekhPMWgyU2RUNTE5VEU3SkN6WmtrbHF3RE1obTltd3hpbmQtUk04NC1rZ2ZuLWV4T1pRdXNaMmVFR29UOXZRdWtub3BwaGloUEJrWjcxbjQzU25iWTg0UUU?oc=5\" target=\"_blank\">Los Angeles City Council approves long-delayed Arts District development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     }
