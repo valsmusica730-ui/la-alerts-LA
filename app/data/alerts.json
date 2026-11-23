@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:45:20.169969+00:00",
+  "generated_at": "2026-11-23T03:19:47.738106+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4773,6 +4773,16 @@
       "category": "tax"
     },
     {
+      "id": "66422639f5685873",
+      "title": "LOS ANGELES 2028: L.A. Mayor Bass proposing rule change to allow more Airbnb rentals in 2028; motions on LA28 purchases, reimbursements headed to Council - The Sports Examiner",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVjZhQzVqWlhadW5EM0tJb2RQWExtRHV6cXlFaDFaaENvRHlBWkoxVTdXRmJJQXFqYlVOaWxGb0l1Zm1UOF9zZ0JVbi1FMXpqdWNrcTY3YTB3RnM1bHNYY1ZnUTR1bEZ1Z29EdVJ6WThOd0JQYmVUb2Ryd1NTeUJUbUdhN2VkSkZILWFUQTd0bG5ZTTkzT2Y2M3pvajdTN0dCZ0N5LXlVeklad3NhUXEzeW83bHpOWGcwTmtMTkJNOXdUUkhKM3ltX3htTTJ6dktjRlhWNVBqSXJxaF81QlpvUzJMUTRDbkZvMHh0b29rSGk2dmV1ZTNJdGVIVkFqaWtjUENqWjU5Vk9FUjRZcnVSRm1n?oc=5",
+      "source": "The Sports Examiner",
+      "published": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOVjZhQzVqWlhadW5EM0tJb2RQWExtRHV6cXlFaDFaaENvRHlBWkoxVTdXRmJJQXFqYlVOaWxGb0l1Zm1UOF9zZ0JVbi1FMXpqdWNrcTY3YTB3RnM1bHNYY1ZnUTR1bEZ1Z29EdVJ6WThOd0JQYmVUb2Ryd1NTeUJUbUdhN2VkSkZILWFUQTd0bG5ZTTkzT2Y2M3pvajdTN0dCZ0N5LXlVeklad3NhUXEzeW83bHpOWGcwTmtMTkJNOXdUUkhKM3ltX3htTTJ6dktjRlhWNVBqSXJxaF81QlpvUzJMUTRDbkZvMHh0b29rSGk2dmV1ZTNJdGVIVkFqaWtjUENqWjU5Vk9FUjRZcnVSRm1n?oc=5\" target=\"_blank\">LOS ANGELES 2028: L.A. Mayor Bass proposing rule change to allow more Airbnb rentals in 2028; motions on LA28 purchases, reimbursements headed to Council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sports Examiner</font>",
+      "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
+      "category": "policy"
+    },
+    {
       "id": "9bc23a1997f71cba",
       "title": "A Year Into New Law to Protect L.A. Renters, City Has Taken Zero Landlords to Court - L.A. Taco",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zeHNZYnQ1Y1M2czZCMkpIM3ljYTRWTTB0bmJpc0NBYkc1RjJZeWJ1dzNmemhMWU1ELTBhSGQyZG1oUk9ObmpGUzRiVVdqVHp1Y1pvUFZYSm9KbUdvR2Jnd211bVNfMWxobnduWlNpYw?oc=5",
@@ -4989,16 +4999,6 @@
       "source": "Urbanize LA",
       "published": "Thu, 26 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnVad1pxbUV1QTRVU2FIMS1LZ2pwOTBMZ2dudm9sYXFQTEVyVUNqSVYtYWt5RUNwMmRGNGZELW5NTjZRM0FrWlNrb0ZISkdkZjZvdzN4Z3FVaXZ0V2ozSEFkRTlSTm9laTlodDlpQ3BId3RIdkhqVHpHdkhNa0t1Zy1BOGlwWXQtVFQ4N00zRzMzV19nSHR4UHYzSEJLUG83?oc=5\" target=\"_blank\">L.A. City Council to allow apartments in some single-family zones to delay SB 79</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
-    },
-    {
-      "id": "b731bb0cf24026f1",
-      "title": "Beverly Hills City Council approves Builder's Remedy high-rise at 8844 Burton Way - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1FYRGU2anNvcUxjbGJYQU9PR0pLcHBjYW15VXlEYzUxV3hEM19zbE51NUhnVDhoM2hfcFV1ZWhHM0Nla2YyMW4xYjNlbEFQMHBLcDhUcnBsZVZPT0xydUpPU1NubjVoczY0ckhPcnFmWldCdnNLajlBeXRnRmNoT3IzQmcwRG5TLWxxZ0VQMlZZWFdCUWZaUVFhUE8wZjJjczBLemRFODF2MEE?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1FYRGU2anNvcUxjbGJYQU9PR0pLcHBjYW15VXlEYzUxV3hEM19zbE51NUhnVDhoM2hfcFV1ZWhHM0Nla2YyMW4xYjNlbEFQMHBLcDhUcnBsZVZPT0xydUpPU1NubjVoczY0ckhPcnFmWldCdnNLajlBeXRnRmNoT3IzQmcwRG5TLWxxZ0VQMlZZWFdCUWZaUVFhUE8wZjJjczBLemRFODF2MEE?oc=5\" target=\"_blank\">Beverly Hills City Council approves Builder's Remedy high-rise at 8844 Burton Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
       "category": "policy"
     }
