@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:06:07.950873+00:00",
+  "generated_at": "2026-11-25T23:51:32.813254+00:00",
   "total": 500,
   "alerts": [
     {
@@ -3103,6 +3103,16 @@
       "category": "other"
     },
     {
+      "id": "8542ef8550d693be",
+      "title": "City of LA Measure TE to suspend ‘mansion tax’ for five years for fire victims - CaloNews.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOakE1X2RfQjNJcEo4RHN5cWlXckM0SEhUdXA4d3lNMnVhNGhmRmM2QkY5TDZkWVRwZHhlR1F3WXNQQWpWZ2tDMTJld2VkZmI0c1IxZ25OY2tOTFhYRnhVXzhzcjZIVlZpRmF3Y2Rfdnc3Z0hBT2Z2M1VWTmZXQWhhWW12cExJcjhqOTBIZ01NdVF3Q2VKTHdIbzV1ZkRVU1RHNTl0WHppdHJrbzU3bXBTUEljc3VHN1Y4Z3ZNRDcwX0VOUUNnZjh5Z2NtdU5GSURyRjc5TEp6cHlLM2xJM0dEWFdSd0xqZFBmWEY1MUd6YjdqVlk?oc=5",
+      "source": "CaloNews.com",
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOakE1X2RfQjNJcEo4RHN5cWlXckM0SEhUdXA4d3lNMnVhNGhmRmM2QkY5TDZkWVRwZHhlR1F3WXNQQWpWZ2tDMTJld2VkZmI0c1IxZ25OY2tOTFhYRnhVXzhzcjZIVlZpRmF3Y2Rfdnc3Z0hBT2Z2M1VWTmZXQWhhWW12cExJcjhqOTBIZ01NdVF3Q2VKTHdIbzV1ZkRVU1RHNTl0WHppdHJrbzU3bXBTUEljc3VHN1Y4Z3ZNRDcwX0VOUUNnZjh5Z2NtdU5GSURyRjc5TEp6cHlLM2xJM0dEWFdSd0xqZFBmWEY1MUd6YjdqVlk?oc=5\" target=\"_blank\">City of LA Measure TE to suspend ‘mansion tax’ for five years for fire victims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CaloNews.com</font>",
+      "query": "\"Los Angeles\" (\"Measure ULA\" OR \"mansion tax\" OR \"transfer tax\")",
+      "category": "tax"
+    },
+    {
       "id": "8d1e8f8e53bd0642",
       "title": "A Major Property Rights Case Idles on Supreme Court Docket - Reason Magazine",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXpEcGk2bmVyb0RkTkZsTC1FT0dCWmZOVXM3TnF6SHZiUVhZUGdRcVZzLXowanQ1UDJfZml3VUllRWhnQ051Nlk2ODBJVGVpbjlqOFFScjZWWGxrQVFQZU1XSVk4bnB4bGN4ZWxSRFVNekpna1JkTm5XMXVQS05qUXlZMkhfSnRXR2V0dXY5eWhNMEU?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8xdzhiNDRHUk5Ndk1XbmlmVUFWb3BVUVN4S1pmRlRhb0VJdDZfVEVMZU0tbUgxaVNLenZYLWtIUHJ1c3ptdmpaZ0dSYzdjcG16cHZqMzhHV3BJY2kwbWxEUFpHeGpmUVFuMktqd2l6UXBoa2hoa25sSWJR?oc=5\" target=\"_blank\">The High Cost of Homeless Housing: Review of Proposition HHH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
       "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
       "category": "other"
-    },
-    {
-      "id": "ad8ab06ef28bc0f8",
-      "title": "City Planning Commission upholds approval of mixed-use project at 7115 Van Nuys Boulevard - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnMyOUNuQlR3RkZldWhPbG9qOF9aZGlvQWszUmZUMEJhZFNDb3J1eXQ5cWdCV3Zra3V0NWxVYnFCU1RoWXV6MmQ5Y1lNWnJfM0pPYnNsUHptWEhfX19DRGNiZVB3cnRXREQ3d0pPM2E4eG4wWk9ZVTJvUHZIVkYwanhyX3JrOVpKeHcybUYxejg3TjhSMXdOYXkxdXJkSElZVnhiX2FjRUktUFVMaVVqbDlFSQ?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 26 Oct 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnMyOUNuQlR3RkZldWhPbG9qOF9aZGlvQWszUmZUMEJhZFNDb3J1eXQ5cWdCV3Zra3V0NWxVYnFCU1RoWXV6MmQ5Y1lNWnJfM0pPYnNsUHptWEhfX19DRGNiZVB3cnRXREQ3d0pPM2E4eG4wWk9ZVTJvUHZIVkYwanhyX3JrOVpKeHcybUYxejg3TjhSMXdOYXkxdXJkSElZVnhiX2FjRUktUFVMaVVqbDlFSQ?oc=5\" target=\"_blank\">City Planning Commission upholds approval of mixed-use project at 7115 Van Nuys Boulevard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
-      "category": "zoning"
     }
   ]
 }
