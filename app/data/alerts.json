@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:45:15.245572+00:00",
+  "generated_at": "2026-11-25T15:06:07.950873+00:00",
   "total": 500,
   "alerts": [
     {
@@ -4113,6 +4113,16 @@
       "category": "other"
     },
     {
+      "id": "2023ececf97ccbe4",
+      "title": "San Diego City Council greenlights controversial housing project in Emerald Hills - cbs8.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd1RkTjBVVW9Oc1F5bjMtcE50dWtCRnR6V2xtZU5zV214V1VPZWJWWlRqUjlNWXpPdWZsU2RCVGt4ZWxvSEt0NmplN0c3aGsxRV96LWZEaVJ6YmFnUFg2aWdGWUhObkVNN1ZmX21OaHNKUjQ2U21RNUNaUl9qWVRpZ08tUmU0RGM4OWtOdm10anMzbWlXOW1UNkZTcnhtX1BPQmdXUENKS0hDUjNCdTJmODNJUldRbU4zRllxRkhBeEpObklPNTh6VnFyZDlGNHE4eVZPb2FHNzRJbzRHY013ZUR2QVAtZnZTS0hJdTJtQVZ2aXc?oc=5",
+      "source": "cbs8.com",
+      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd1RkTjBVVW9Oc1F5bjMtcE50dWtCRnR6V2xtZU5zV214V1VPZWJWWlRqUjlNWXpPdWZsU2RCVGt4ZWxvSEt0NmplN0c3aGsxRV96LWZEaVJ6YmFnUFg2aWdGWUhObkVNN1ZmX21OaHNKUjQ2U21RNUNaUl9qWVRpZ08tUmU0RGM4OWtOdm10anMzbWlXOW1UNkZTcnhtX1BPQmdXUENKS0hDUjNCdTJmODNJUldRbU4zRllxRkhBeEpObklPNTh6VnFyZDlGNHE4eVZPb2FHNzRJbzRHY013ZUR2QVAtZnZTS0hJdTJtQVZ2aXc?oc=5\" target=\"_blank\">San Diego City Council greenlights controversial housing project in Emerald Hills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs8.com</font>",
+      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
+      "category": "policy"
+    },
+    {
       "id": "ed3bfbd85152ce2d",
       "title": "LA Approves $31 Fee to Cover Enforcement of Tenant Protections - MyNewsLA.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVNXWUFnb1B4VVZrQ3pVME81Q191cnV5T0RFLVhCdkIzbEJtMTQxOUg4d3c2enFGVjFyS3hCN0JyUUtsSUQxS0ttTWpRdkdUVU1RSTljSTdZODRvZDRwZFd6eVNxQUFFTUwzWW1USGJyUERjMVZxbHc0eWxZMlpVUWVrcDJPVURoV0k0cUNPTGItUC1KbEVCYmRtX2hEX3hBUzhET1lKbzMtODdj?oc=5",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnMyOUNuQlR3RkZldWhPbG9qOF9aZGlvQWszUmZUMEJhZFNDb3J1eXQ5cWdCV3Zra3V0NWxVYnFCU1RoWXV6MmQ5Y1lNWnJfM0pPYnNsUHptWEhfX19DRGNiZVB3cnRXREQ3d0pPM2E4eG4wWk9ZVTJvUHZIVkYwanhyX3JrOVpKeHcybUYxejg3TjhSMXdOYXkxdXJkSElZVnhiX2FjRUktUFVMaVVqbDlFSQ?oc=5\" target=\"_blank\">City Planning Commission upholds approval of mixed-use project at 7115 Van Nuys Boulevard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "01c96f400c153ca1",
-      "title": "L.A. City Council to allow apartments in some single-family zones to delay SB 79 - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnVad1pxbUV1QTRVU2FIMS1LZ2pwOTBMZ2dudm9sYXFQTEVyVUNqSVYtYWt5RUNwMmRGNGZELW5NTjZRM0FrWlNrb0ZISkdkZjZvdzN4Z3FVaXZ0V2ozSEFkRTlSTm9laTlodDlpQ3BId3RIdkhqVHpHdkhNa0t1Zy1BOGlwWXQtVFQ4N00zRzMzV19nSHR4UHYzSEJLUG83?oc=5",
-      "source": "Urbanize LA",
-      "published": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnVad1pxbUV1QTRVU2FIMS1LZ2pwOTBMZ2dudm9sYXFQTEVyVUNqSVYtYWt5RUNwMmRGNGZELW5NTjZRM0FrWlNrb0ZISkdkZjZvdzN4Z3FVaXZ0V2ozSEFkRTlSTm9laTlodDlpQ3BId3RIdkhqVHpHdkhNa0t1Zy1BOGlwWXQtVFQ4N00zRzMzV19nSHR4UHYzSEJLUG83?oc=5\" target=\"_blank\">L.A. City Council to allow apartments in some single-family zones to delay SB 79</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urbanize LA</font>",
-      "query": "\"Los Angeles\" \"City Council\" (housing OR real estate OR development)",
-      "category": "policy"
     }
   ]
 }
