@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:51:32.813254+00:00",
+  "generated_at": "2026-11-26T05:48:26.029646+00:00",
   "total": 500,
   "alerts": [
     {
@@ -2131,6 +2131,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPVklYTDBpdVZSVi1Xc25FZ2hHN0Z1WkkwXzVvUGRDSDVrWWRYUGxFRmZJUlFGV2U1NXVZRjdRdzJlRHREUFcxY0g5WUg3ekFrWktaWERSVUF3MldNYjdKMlgzazYya2RWZGJKRXBqQjcwcXBQRzlSOHhJMlRDYlJlQTlyWi1vNWdUaEE?oc=5\" target=\"_blank\">Beverly Hills will likely ban short-term rentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beverly Press & Park Labrea News</font>",
       "query": "\"Los Angeles\" (\"short-term rental\" OR STR OR Airbnb) (regulation OR ban OR permit)",
       "category": "policy"
+    },
+    {
+      "id": "00f739d22c6ba868",
+      "title": "Effort underway to create ordinance to allow accessory dwelling units in Hampton - WTKR",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT1hqLWVpYTZrMk5MTXJscHhYSzFNSmpHTG9IOVVfWGNpcnpaaEM1VGtvTEh4dkhmdlpJM0NZYV80MlJmMXdLakJvaDg4V0ZrT0dTR0kwNFdnb1ZlZU8tS01oWjZ0VGpucXJ2VG0tQkJPUF82cVV2NWhzcS1xWXdtSHMwMXVUT1M0Q0N1aDhmM2J1REJ4TGJNbE9QdW9Jbm15b2x6R2R6YjZmT0hjdFkwY1R5UXBWNXU3cXFHZzBjWlJuOEd5LUV2TUliQQ?oc=5",
+      "source": "WTKR",
+      "published": "Wed, 02 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNT1hqLWVpYTZrMk5MTXJscHhYSzFNSmpHTG9IOVVfWGNpcnpaaEM1VGtvTEh4dkhmdlpJM0NZYV80MlJmMXdLakJvaDg4V0ZrT0dTR0kwNFdnb1ZlZU8tS01oWjZ0VGpucXJ2VG0tQkJPUF82cVV2NWhzcS1xWXdtSHMwMXVUT1M0Q0N1aDhmM2J1REJ4TGJNbE9QdW9Jbm15b2x6R2R6YjZmT0hjdFkwY1R5UXBWNXU3cXFHZzBjWlJuOEd5LUV2TUliQQ?oc=5\" target=\"_blank\">Effort underway to create ordinance to allow accessory dwelling units in Hampton</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTKR</font>",
+      "query": "\"Los Angeles\" (\"ADU\" OR \"accessory dwelling\") (ordinance OR rule OR permit)",
+      "category": "adu"
     },
     {
       "id": "7e4fb4e33f5c7b6a",
@@ -4991,16 +5001,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHQxWUFaRWxvZDdzVTF1UjEwaXQ5S0ZPNVhxS1VpamNOTG5yTVdLeE1qUDVzSnlTSEhNRkd2QWxkYVQ2dlRqdGk2cVdUVWNDQUJjVHlmUWoxc2VvdV9kaWlUeENrcW0wOG42aE1SM096U2ZrTDRGOXhNSk1EQkpIcTlJV243NWlxb25LeW11RzNKZw?oc=5\" target=\"_blank\">Planning Commission approves TVC 2050, with modifications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larchmont Chronicle</font>",
       "query": "\"Los Angeles\" \"Planning Commission\" (approved OR rejected OR hearing)",
       "category": "zoning"
-    },
-    {
-      "id": "163990fcc22d49a7",
-      "title": "The High Cost of Homeless Housing: Review of Proposition HHH - City of Los Angeles (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xdzhiNDRHUk5Ndk1XbmlmVUFWb3BVUVN4S1pmRlRhb0VJdDZfVEVMZU0tbUgxaVNLenZYLWtIUHJ1c3ptdmpaZ0dSYzdjcG16cHZqMzhHV3BJY2kwbWxEUFpHeGpmUVFuMktqd2l6UXBoa2hoa25sSWJR?oc=5",
-      "source": "City of Los Angeles (.gov)",
-      "published": "Thu, 26 Sep 2019 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8xdzhiNDRHUk5Ndk1XbmlmVUFWb3BVUVN4S1pmRlRhb0VJdDZfVEVMZU0tbUgxaVNLenZYLWtIUHJ1c3ptdmpaZ0dSYzdjcG16cHZqMzhHV3BJY2kwbWxEUFpHeGpmUVFuMktqd2l6UXBoa2hoa25sSWJR?oc=5\" target=\"_blank\">The High Cost of Homeless Housing: Review of Proposition HHH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Los Angeles (.gov)</font>",
-      "query": "\"Los Angeles County\" (housing OR \"real estate\") (ordinance OR regulation)",
-      "category": "other"
     }
   ]
 }
